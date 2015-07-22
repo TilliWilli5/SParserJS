@@ -13,11 +13,11 @@
 
 	<script>
 		CFileLoader.RegisterHandler(
-		function(pResource)
-		{
-			var theParser = new CParserPartyPoker.Create();
-			window.ans = theParser.Parse(pResource);
-		}
+			function(pResource)
+			{
+				var theParser = new CParserPartyPoker.Create();
+				window.ans = theParser.Parse(pResource);
+			}
 		);
 		CFileLoader.Load();
 	</script>

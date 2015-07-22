@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+	<meta charset="UTF-8">
+	<title>SParserJS</title>
+	<script src="fileLoader.js"></script>
+	<script src="base.js"></script>
+	<script src="stats2.js"></script>
+	<script src="parserCollections.js"></script>
+	<script src="parserManager.js"></script>
+</head>
+<body>
+
+	<script>
+		CFileLoader.RegisterHandler(
+		function(pResource)
+		{
+			var theParser = new CParserPartyPoker.Create();
+			window.ans = theParser.Parse(pResource);
+		}
+		);
+		CFileLoader.Load();
+	</script>
+</body>
+</html>

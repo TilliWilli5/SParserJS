@@ -1,0 +1,2990 @@
+Game #14592424699 starts.
+
+#Game No : 14592424699 
+***** Hand History for Game 14592424699 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:01:27 EDT 2015
+Table Grytviken (Real Money)
+Seat 9 is the button
+Total number of players : 9/9 
+Seat 5: Eventus4 ( $4.12 USD )
+Seat 6: Kaban29 ( $3.76 USD )
+Seat 3: MrAiR888 ( $0.54 USD )
+Seat 8: SergeiKovil ( $4.01 USD )
+Seat 2: TilliWilli ( $4 USD )
+Seat 7: Zoranil ( $4.39 USD )
+Seat 4: calliebouman ( $4.06 USD )
+Seat 1: skorkin ( $4.06 USD )
+Seat 9: teufelsumos ( $8.05 USD )
+skorkin posts small blind [$0.02 USD].
+TilliWilli posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qs As ]
+MrAiR888 folds
+calliebouman folds
+Eventus4 folds
+Kaban29 calls [$0.04 USD]
+Zoranil folds
+teufelsumos folds
+skorkin folds
+TilliWilli checks
+** Dealing Flop ** [ 9h, 5s, 2d ]
+TilliWilli bets [$0.04 USD]
+Kaban29 calls [$0.04 USD]
+** Dealing Turn ** [ 8c ]
+TilliWilli bets [$0.04 USD]
+Kaban29 raises [$0.08 USD]
+TilliWilli calls [$0.04 USD]
+** Dealing River ** [ Js ]
+TilliWilli checks
+Kaban29 bets [$0.16 USD]
+TilliWilli folds
+Kaban29 does not show cards.
+Kaban29 wins $0.49 USD
+Game #14592427862 starts.
+
+#Game No : 14592427862 
+***** Hand History for Game 14592427862 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:02:34 EDT 2015
+Table Grytviken (Real Money)
+Seat 1 is the button
+Total number of players : 9/9 
+Seat 5: Eventus4 ( $4.12 USD )
+Seat 6: Kaban29 ( $3.93 USD )
+Seat 3: MrAiR888 ( $0.54 USD )
+Seat 8: SergeiKovil ( $4.01 USD )
+Seat 2: TilliWilli ( $3.84 USD )
+Seat 7: Zoranil ( $4.39 USD )
+Seat 4: calliebouman ( $4.06 USD )
+Seat 1: skorkin ( $4.04 USD )
+Seat 9: teufelsumos ( $8.05 USD )
+TilliWilli posts small blind [$0.02 USD].
+MrAiR888 posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ks 6h ]
+calliebouman calls [$0.04 USD]
+Eventus4 folds
+Kaban29 folds
+Zoranil raises [$0.08 USD]
+teufelsumos folds
+skorkin raises [$0.24 USD]
+TilliWilli folds
+MrAiR888 calls [$0.20 USD]
+calliebouman folds
+Zoranil calls [$0.16 USD]
+** Dealing Flop ** [ 7c, 4s, 7d ]
+MrAiR888 is all-In  [$0.30 USD]
+Zoranil folds
+skorkin calls [$0.30 USD]
+** Dealing Turn ** [ 6d ]
+** Dealing River ** [ Kh ]
+MrAiR888 shows [ 9c, 9s ]two pairs, Nines and Sevens.
+skorkin shows [ Qc, Jc ]a pair of Sevens.
+MrAiR888 wins $1.32 USD from the main pot with two pairs, Nines and Sevens.
+Game #14592429604 starts.
+
+#Game No : 14592429604 
+***** Hand History for Game 14592429604 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:03:22 EDT 2015
+Table Grytviken (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 5: Eventus4 ( $4.12 USD )
+Seat 6: Kaban29 ( $3.93 USD )
+Seat 3: MrAiR888 ( $1.32 USD )
+Seat 8: SergeiKovil ( $4.01 USD )
+Seat 2: TilliWilli ( $3.82 USD )
+Seat 7: Zoranil ( $4.15 USD )
+Seat 4: calliebouman ( $4.02 USD )
+Seat 1: skorkin ( $4 USD )
+Seat 9: teufelsumos ( $8.05 USD )
+MrAiR888 posts small blind [$0.02 USD].
+calliebouman posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2d Ah ]
+Eventus4 folds
+Kaban29 folds
+Zoranil folds
+teufelsumos calls [$0.04 USD]
+skorkin folds
+TilliWilli folds
+MrAiR888 folds
+calliebouman checks
+** Dealing Flop ** [ 6s, Jh, Qc ]
+calliebouman checks
+teufelsumos bets [$0.07 USD]
+calliebouman folds
+teufelsumos does not show cards.
+teufelsumos wins $0.17 USD
+Game #14592431734 starts.
+
+#Game No : 14592431734 
+***** Hand History for Game 14592431734 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:04:05 EDT 2015
+Table Grytviken (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 5: Eventus4 ( $4.12 USD )
+Seat 6: Kaban29 ( $3.93 USD )
+Seat 3: MrAiR888 ( $1.30 USD )
+Seat 8: SergeiKovil ( $4.01 USD )
+Seat 2: TilliWilli ( $3.82 USD )
+Seat 7: Zoranil ( $4.15 USD )
+Seat 4: calliebouman ( $3.98 USD )
+Seat 1: skorkin ( $4 USD )
+Seat 9: teufelsumos ( $8.11 USD )
+calliebouman posts small blind [$0.02 USD].
+Eventus4 posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3d 9h ]
+Kaban29 folds
+Zoranil folds
+teufelsumos folds
+skorkin folds
+TilliWilli folds
+MrAiR888 folds
+calliebouman folds
+Eventus4 does not show cards.
+Eventus4 wins $0.06 USD
+Game #14592432377 starts.
+
+#Game No : 14592432377 
+***** Hand History for Game 14592432377 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:04:22 EDT 2015
+Table Grytviken (Real Money)
+Seat 4 is the button
+Total number of players : 9/9 
+Seat 5: Eventus4 ( $4.14 USD )
+Seat 6: Kaban29 ( $3.93 USD )
+Seat 3: MrAiR888 ( $1.30 USD )
+Seat 8: SergeiKovil ( $4.01 USD )
+Seat 2: TilliWilli ( $3.82 USD )
+Seat 7: Zoranil ( $4.15 USD )
+Seat 4: calliebouman ( $3.96 USD )
+Seat 1: skorkin ( $4 USD )
+Seat 9: teufelsumos ( $8.11 USD )
+Eventus4 posts small blind [$0.02 USD].
+Kaban29 posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ah Kd ]
+Zoranil folds
+teufelsumos calls [$0.04 USD]
+skorkin raises [$0.16 USD]
+TilliWilli calls [$0.16 USD]
+MrAiR888 folds
+calliebouman folds
+Eventus4 folds
+Kaban29 folds
+teufelsumos calls [$0.12 USD]
+** Dealing Flop ** [ Ts, Ks, 5h ]
+teufelsumos checks
+skorkin bets [$0.28 USD]
+TilliWilli raises [$0.56 USD]
+teufelsumos folds
+skorkin is all-In  [$3.56 USD]
+TilliWilli is all-In  [$3.10 USD]
+** Dealing Turn ** [ 4c ]
+** Dealing River ** [ 8s ]
+TilliWilli shows [ Ah, Kd ]a pair of Kings.
+skorkin shows [ Js, As ]a flush, Ace high.
+skorkin wins $0.18 USD from the side pot 1 with a flush, Ace high.
+skorkin wins $7.47 USD from the main pot with a flush, Ace high.
+Game #14592437007 starts.
+
+#Game No : 14592437007 
+***** Hand History for Game 14592437007 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:06:10 EDT 2015
+Table Grytviken (Real Money)
+Seat 6 is the button
+Total number of players : 9/9 
+Seat 5: Eventus4 ( $4.12 USD )
+Seat 6: Kaban29 ( $3.87 USD )
+Seat 3: MrAiR888 ( $1.30 USD )
+Seat 8: SergeiKovil ( $4.01 USD )
+Seat 2: TilliWilli ( $4 USD )
+Seat 7: Zoranil ( $4.11 USD )
+Seat 4: calliebouman ( $3.96 USD )
+Seat 1: skorkin ( $7.71 USD )
+Seat 9: teufelsumos ( $7.95 USD )
+Zoranil posts small blind [$0.02 USD].
+teufelsumos posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9c 3s ]
+skorkin folds
+TilliWilli folds
+MrAiR888 raises [$0.08 USD]
+calliebouman folds
+Eventus4 calls [$0.08 USD]
+Kaban29 calls [$0.08 USD]
+Zoranil folds
+teufelsumos folds
+** Dealing Flop ** [ Jc, 5h, Ah ]
+MrAiR888 bets [$0.14 USD]
+Eventus4 folds
+Kaban29 calls [$0.14 USD]
+** Dealing Turn ** [ 2s ]
+MrAiR888 checks
+Kaban29 checks
+** Dealing River ** [ 6d ]
+MrAiR888 checks
+Kaban29 checks
+MrAiR888 shows [ Jh, Qs ]a pair of Jacks.
+Kaban29 doesn't show [ 9h, Qh ]high card Ace.
+MrAiR888 wins $0.56 USD from the main pot with a pair of Jacks.
+Game #14592439355 starts.
+
+#Game No : 14592439355 
+***** Hand History for Game 14592439355 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:06:59 EDT 2015
+Table Grytviken (Real Money)
+Seat 7 is the button
+Total number of players : 9/9 
+Seat 5: Eventus4 ( $4.04 USD )
+Seat 6: Kaban29 ( $3.65 USD )
+Seat 3: MrAiR888 ( $1.64 USD )
+Seat 8: SergeiKovil ( $4.01 USD )
+Seat 2: TilliWilli ( $4 USD )
+Seat 7: Zoranil ( $4.09 USD )
+Seat 4: calliebouman ( $3.96 USD )
+Seat 1: skorkin ( $7.71 USD )
+Seat 9: teufelsumos ( $7.91 USD )
+teufelsumos posts small blind [$0.02 USD].
+skorkin posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2c 3c ]
+TilliWilli calls [$0.04 USD]
+MrAiR888 folds
+calliebouman calls [$0.04 USD]
+Eventus4 folds
+Kaban29 folds
+Zoranil folds
+teufelsumos folds
+skorkin checks
+** Dealing Flop ** [ 8d, 2h, 8c ]
+skorkin checks
+TilliWilli checks
+calliebouman checks
+** Dealing Turn ** [ 6d ]
+skorkin checks
+TilliWilli bets [$0.04 USD]
+calliebouman folds
+skorkin calls [$0.04 USD]
+** Dealing River ** [ Th ]
+skorkin bets [$0.14 USD]
+TilliWilli folds
+skorkin does not show cards.
+skorkin wins $0.35 USD
+Game #14592441132 starts.
+
+#Game No : 14592441132 
+***** Hand History for Game 14592441132 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:07:45 EDT 2015
+Table Grytviken (Real Money)
+Seat 9 is the button
+Total number of players : 9/9 
+Seat 5: Eventus4 ( $4.04 USD )
+Seat 6: Kaban29 ( $3.65 USD )
+Seat 3: MrAiR888 ( $1.64 USD )
+Seat 8: SergeiKovil ( $4.01 USD )
+Seat 2: TilliWilli ( $3.92 USD )
+Seat 7: Zoranil ( $4.09 USD )
+Seat 4: calliebouman ( $3.92 USD )
+Seat 1: skorkin ( $7.84 USD )
+Seat 9: teufelsumos ( $7.89 USD )
+skorkin posts small blind [$0.02 USD].
+TilliWilli posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  6s Qc ]
+MrAiR888 folds
+calliebouman folds
+Eventus4 raises [$0.12 USD]
+Kaban29 folds
+Zoranil folds
+teufelsumos folds
+skorkin folds
+TilliWilli folds
+Eventus4 does not show cards.
+Eventus4 wins $0.18 USD
+Game #14592441778 starts.
+
+#Game No : 14592441778 
+***** Hand History for Game 14592441778 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:08:02 EDT 2015
+Table Grytviken (Real Money)
+Seat 1 is the button
+Total number of players : 9/9 
+Seat 5: Eventus4 ( $4.10 USD )
+Seat 6: Kaban29 ( $3.65 USD )
+Seat 3: MrAiR888 ( $1.64 USD )
+Seat 8: SergeiKovil ( $4.01 USD )
+Seat 2: TilliWilli ( $3.88 USD )
+Seat 7: Zoranil ( $4.09 USD )
+Seat 4: calliebouman ( $3.92 USD )
+Seat 1: skorkin ( $7.82 USD )
+Seat 9: teufelsumos ( $7.89 USD )
+TilliWilli posts small blind [$0.02 USD].
+MrAiR888 posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4h Qd ]
+calliebouman calls [$0.04 USD]
+Eventus4 folds
+Kaban29 folds
+Zoranil raises [$0.12 USD]
+teufelsumos folds
+skorkin folds
+TilliWilli folds
+MrAiR888 folds
+calliebouman calls [$0.08 USD]
+** Dealing Flop ** [ 7s, 3c, Kh ]
+calliebouman checks
+Zoranil bets [$0.19 USD]
+calliebouman folds
+Zoranil does not show cards.
+Zoranil wins $0.48 USD
+Game #14592443355 starts.
+
+#Game No : 14592443355 
+***** Hand History for Game 14592443355 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:08:44 EDT 2015
+Table Grytviken (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 5: Eventus4 ( $4.10 USD )
+Seat 6: Kaban29 ( $3.65 USD )
+Seat 3: MrAiR888 ( $1.60 USD )
+Seat 8: SergeiKovil ( $4.01 USD )
+Seat 2: TilliWilli ( $3.86 USD )
+Seat 7: Zoranil ( $4.26 USD )
+Seat 4: calliebouman ( $3.80 USD )
+Seat 1: skorkin ( $7.82 USD )
+Seat 9: teufelsumos ( $7.89 USD )
+MrAiR888 posts small blind [$0.02 USD].
+calliebouman posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3c Td ]
+Kaban29 folds
+Zoranil folds
+teufelsumos folds
+skorkin folds
+TilliWilli folds
+MrAiR888 raises [$0.10 USD]
+calliebouman folds
+MrAiR888 does not show cards.
+MrAiR888 wins $0.16 USD
+Game #14592443922 starts.
+
+#Game No : 14592443922 
+***** Hand History for Game 14592443922 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:08:59 EDT 2015
+Table Grytviken (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 5: Eventus4 ( $4.10 USD )
+Seat 6: Kaban29 ( $3.65 USD )
+Seat 3: MrAiR888 ( $1.64 USD )
+Seat 8: SergeiKovil ( $4.01 USD )
+Seat 2: TilliWilli ( $3.86 USD )
+Seat 7: Zoranil ( $4.26 USD )
+Seat 4: calliebouman ( $3.76 USD )
+Seat 1: skorkin ( $7.82 USD )
+Seat 9: teufelsumos ( $7.89 USD )
+calliebouman posts small blind [$0.02 USD].
+Kaban29 posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2d 6d ]
+Zoranil folds
+teufelsumos folds
+skorkin folds
+TilliWilli folds
+MrAiR888 raises [$0.12 USD]
+calliebouman calls [$0.10 USD]
+Kaban29 folds
+** Dealing Flop ** [ Ac, 4d, 7h ]
+calliebouman checks
+Eventus4 has left the table.
+MrAiR888 checks
+** Dealing Turn ** [ 3c ]
+calliebouman bets [$0.27 USD]
+Stig113 has joined the table.
+MrAiR888 folds
+calliebouman does not show cards.
+calliebouman wins $0.54 USD
+Game #14592446053 starts.
+
+#Game No : 14592446053 
+***** Hand History for Game 14592446053 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:09:44 EDT 2015
+Table Grytviken (Real Money)
+Seat 4 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $3.61 USD )
+Seat 3: MrAiR888 ( $1.52 USD )
+Seat 8: SergeiKovil ( $4.01 USD )
+Seat 5: Stig113 ( $4 USD )
+Seat 2: TilliWilli ( $3.86 USD )
+Seat 7: Zoranil ( $4.26 USD )
+Seat 4: calliebouman ( $3.91 USD )
+Seat 1: skorkin ( $7.82 USD )
+Seat 9: teufelsumos ( $7.89 USD )
+Kaban29 posts small blind [$0.02 USD].
+Zoranil posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8h 5d ]
+teufelsumos calls [$0.04 USD]
+skorkin folds
+TilliWilli folds
+MrAiR888 folds
+calliebouman folds
+Kaban29 calls [$0.02 USD]
+Zoranil checks
+** Dealing Flop ** [ Jd, 9c, As ]
+Kaban29 checks
+Zoranil checks
+teufelsumos bets [$0.09 USD]
+Kaban29 folds
+Zoranil folds
+teufelsumos does not show cards.
+teufelsumos wins $0.21 USD
+Game #14592448387 starts.
+
+#Game No : 14592448387 
+***** Hand History for Game 14592448387 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:10:19 EDT 2015
+Table Grytviken (Real Money)
+Seat 6 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $3.57 USD )
+Seat 3: MrAiR888 ( $1.52 USD )
+Seat 8: SergeiKovil ( $4.01 USD )
+Seat 5: Stig113 ( $4 USD )
+Seat 2: TilliWilli ( $3.86 USD )
+Seat 7: Zoranil ( $4.22 USD )
+Seat 4: calliebouman ( $3.91 USD )
+Seat 1: skorkin ( $7.82 USD )
+Seat 9: teufelsumos ( $7.97 USD )
+Zoranil posts small blind [$0.02 USD].
+SergeiKovil posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qd Th ]
+teufelsumos folds
+skorkin folds
+TilliWilli calls [$0.04 USD]
+MrAiR888 folds
+calliebouman folds
+Kaban29 calls [$0.04 USD]
+Zoranil folds
+SergeiKovil checks
+** Dealing Flop ** [ Jd, As, Qs ]
+SergeiKovil checks
+TilliWilli checks
+Kaban29 checks
+** Dealing Turn ** [ 5s ]
+SergeiKovil checks
+TilliWilli bets [$0.04 USD]
+Kaban29 folds
+SergeiKovil folds
+TilliWilli does not show cards.
+TilliWilli wins $0.18 USD
+Game #14592450082 starts.
+
+#Game No : 14592450082 
+***** Hand History for Game 14592450082 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:11:05 EDT 2015
+Table Grytviken (Real Money)
+Seat 7 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $3.53 USD )
+Seat 3: MrAiR888 ( $1.52 USD )
+Seat 8: SergeiKovil ( $3.97 USD )
+Seat 5: Stig113 ( $4 USD )
+Seat 2: TilliWilli ( $3.96 USD )
+Seat 7: Zoranil ( $4.20 USD )
+Seat 4: calliebouman ( $3.91 USD )
+Seat 1: skorkin ( $7.82 USD )
+Seat 9: teufelsumos ( $7.97 USD )
+SergeiKovil posts small blind [$0.02 USD].
+teufelsumos posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3h Qd ]
+skorkin folds
+TilliWilli folds
+MrAiR888 folds
+calliebouman folds
+Kaban29 folds
+Zoranil folds
+SergeiKovil raises [$0.06 USD]
+teufelsumos calls [$0.04 USD]
+** Dealing Flop ** [ Kd, Js, 8d ]
+SergeiKovil checks
+teufelsumos bets [$0.12 USD]
+SergeiKovil folds
+teufelsumos does not show cards.
+teufelsumos wins $0.28 USD
+Game #14592451097 starts.
+
+#Game No : 14592451097 
+***** Hand History for Game 14592451097 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:11:32 EDT 2015
+Table Grytviken (Real Money)
+Seat 8 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $3.53 USD )
+Seat 3: MrAiR888 ( $1.52 USD )
+Seat 8: SergeiKovil ( $3.89 USD )
+Seat 5: Stig113 ( $4 USD )
+Seat 2: TilliWilli ( $3.96 USD )
+Seat 7: Zoranil ( $4.20 USD )
+Seat 4: calliebouman ( $3.91 USD )
+Seat 1: skorkin ( $7.82 USD )
+Seat 9: teufelsumos ( $8.05 USD )
+teufelsumos posts small blind [$0.02 USD].
+TilliWilli posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9h 3s ]
+MrAiR888 folds
+skorkin has left the table.
+calliebouman folds
+Kaban29 calls [$0.04 USD]
+Zoranil folds
+SergeiKovil folds
+teufelsumos folds
+TilliWilli checks
+** Dealing Flop ** [ Ah, Qh, Qd ]
+portvein_373 has joined the table.
+TilliWilli checks
+Kaban29 bets [$0.04 USD]
+TilliWilli folds
+Kaban29 does not show cards.
+Kaban29 wins $0.14 USD
+Game #14592452124 starts.
+
+#Game No : 14592452124 
+***** Hand History for Game 14592452124 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:11:59 EDT 2015
+Table Grytviken (Real Money)
+Seat 9 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $3.59 USD )
+Seat 3: MrAiR888 ( $1.52 USD )
+Seat 8: SergeiKovil ( $3.89 USD )
+Seat 5: Stig113 ( $4 USD )
+Seat 2: TilliWilli ( $3.92 USD )
+Seat 7: Zoranil ( $4.20 USD )
+Seat 4: calliebouman ( $3.91 USD )
+Seat 1: portvein_373 ( $4 USD )
+Seat 9: teufelsumos ( $8.03 USD )
+TilliWilli posts small blind [$0.02 USD].
+MrAiR888 posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3c 8d ]
+calliebouman folds
+Kaban29 folds
+Zoranil folds
+SergeiKovil folds
+teufelsumos folds
+TilliWilli folds
+MrAiR888 does not show cards.
+MrAiR888 wins $0.06 USD
+Game #14592452531 starts.
+
+#Game No : 14592452531 
+***** Hand History for Game 14592452531 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:12:09 EDT 2015
+Table Grytviken (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $3.59 USD )
+Seat 3: MrAiR888 ( $1.54 USD )
+Seat 8: SergeiKovil ( $3.89 USD )
+Seat 5: Stig113 ( $4 USD )
+Seat 2: TilliWilli ( $3.90 USD )
+Seat 7: Zoranil ( $4.20 USD )
+Seat 4: calliebouman ( $3.91 USD )
+Seat 1: portvein_373 ( $4 USD )
+Seat 9: teufelsumos ( $8.03 USD )
+MrAiR888 posts small blind [$0.02 USD].
+calliebouman posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ad 9c ]
+Kaban29 folds
+Zoranil folds
+SergeiKovil folds
+teufelsumos calls [$0.04 USD]
+TilliWilli calls [$0.04 USD]
+MrAiR888 calls [$0.02 USD]
+calliebouman checks
+** Dealing Flop ** [ Ah, 2d, 2h ]
+MrAiR888 checks
+calliebouman checks
+teufelsumos checks
+TilliWilli checks
+** Dealing Turn ** [ 3s ]
+MrAiR888 checks
+calliebouman checks
+teufelsumos checks
+TilliWilli bets [$0.08 USD]
+MrAiR888 folds
+calliebouman folds
+teufelsumos folds
+TilliWilli does not show cards.
+TilliWilli wins $0.24 USD
+Game #14592455116 starts.
+
+#Game No : 14592455116 
+***** Hand History for Game 14592455116 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:13:04 EDT 2015
+Table Grytviken (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $3.59 USD )
+Seat 3: MrAiR888 ( $1.50 USD )
+Seat 8: SergeiKovil ( $3.89 USD )
+Seat 5: Stig113 ( $4 USD )
+Seat 2: TilliWilli ( $4.02 USD )
+Seat 7: Zoranil ( $4.20 USD )
+Seat 4: calliebouman ( $3.87 USD )
+Seat 1: portvein_373 ( $4 USD )
+Seat 9: teufelsumos ( $7.99 USD )
+calliebouman posts small blind [$0.02 USD].
+Stig113 posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ad Tc ]
+Kaban29 folds
+Zoranil raises [$0.12 USD]
+SergeiKovil folds
+teufelsumos folds
+TilliWilli folds
+MrAiR888 folds
+calliebouman folds
+Stig113 folds
+Zoranil does not show cards.
+Zoranil wins $0.18 USD
+Game #14592456023 starts.
+
+#Game No : 14592456023 
+***** Hand History for Game 14592456023 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:13:27 EDT 2015
+Table Grytviken (Real Money)
+Seat 4 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $3.59 USD )
+Seat 3: MrAiR888 ( $1.50 USD )
+Seat 8: SergeiKovil ( $3.89 USD )
+Seat 5: Stig113 ( $4 USD )
+Seat 2: TilliWilli ( $4.02 USD )
+Seat 7: Zoranil ( $4.26 USD )
+Seat 4: calliebouman ( $3.85 USD )
+Seat 1: portvein_373 ( $4 USD )
+Seat 9: teufelsumos ( $7.99 USD )
+Stig113 posts small blind [$0.02 USD].
+Kaban29 posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4s Jh ]
+Zoranil folds
+SergeiKovil folds
+teufelsumos folds
+TilliWilli folds
+MrAiR888 folds
+calliebouman folds
+Stig113 will be using their time bank for this hand.
+Stig113 folds
+Kaban29 does not show cards.
+Kaban29 wins $0.06 USD
+Game #14592457381 starts.
+
+#Game No : 14592457381 
+***** Hand History for Game 14592457381 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:14:03 EDT 2015
+Table Grytviken (Real Money)
+Seat 5 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $3.61 USD )
+Seat 3: MrAiR888 ( $1.50 USD )
+Seat 8: SergeiKovil ( $3.89 USD )
+Seat 5: Stig113 ( $4 USD )
+Seat 2: TilliWilli ( $4.02 USD )
+Seat 7: Zoranil ( $4.26 USD )
+Seat 4: calliebouman ( $3.85 USD )
+Seat 1: portvein_373 ( $4 USD )
+Seat 9: teufelsumos ( $7.99 USD )
+Kaban29 posts small blind [$0.02 USD].
+Zoranil posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ah Qd ]
+SergeiKovil folds
+teufelsumos folds
+TilliWilli raises [$0.08 USD]
+MrAiR888 calls [$0.08 USD]
+calliebouman folds
+Stig113 folds
+Kaban29 folds
+Zoranil folds
+** Dealing Flop ** [ 3s, 3h, Tc ]
+TilliWilli bets [$0.04 USD]
+MrAiR888 calls [$0.04 USD]
+** Dealing Turn ** [ 8c ]
+TilliWilli checks
+MrAiR888 checks
+** Dealing River ** [ 5s ]
+TilliWilli bets [$0.04 USD]
+MrAiR888 calls [$0.04 USD]
+TilliWilli shows [ Ah, Qd ]a pair of Threes with Queen kicker.
+MrAiR888 doesn't show [ Ac, 9h ]a pair of Threes.
+TilliWilli wins $0.37 USD from the main pot with a pair of Threes with Queen kicker.
+Game #14592459523 starts.
+
+#Game No : 14592459523 
+***** Hand History for Game 14592459523 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:14:46 EDT 2015
+Table Grytviken (Real Money)
+Seat 6 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $3.59 USD )
+Seat 3: MrAiR888 ( $1.34 USD )
+Seat 8: SergeiKovil ( $3.89 USD )
+Seat 5: Stig113 ( $4 USD )
+Seat 2: TilliWilli ( $4.23 USD )
+Seat 7: Zoranil ( $4.22 USD )
+Seat 4: calliebouman ( $3.85 USD )
+Seat 1: portvein_373 ( $4 USD )
+Seat 9: teufelsumos ( $7.99 USD )
+Zoranil posts small blind [$0.02 USD].
+SergeiKovil posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3s 8s ]
+teufelsumos folds
+TilliWilli folds
+MrAiR888 folds
+calliebouman folds
+Stig113 will be using their time bank for this hand.
+Stig113 folds
+Kaban29 folds
+Zoranil raises [$0.10 USD]
+SergeiKovil calls [$0.08 USD]
+** Dealing Flop ** [ 6h, 7d, 8c ]
+Zoranil checks
+SergeiKovil bets [$0.12 USD]
+Zoranil folds
+SergeiKovil does not show cards.
+SergeiKovil wins $0.35 USD
+Game #14592460951 starts.
+
+#Game No : 14592460951 
+***** Hand History for Game 14592460951 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:15:22 EDT 2015
+Table Grytviken (Real Money)
+Seat 7 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $3.59 USD )
+Seat 3: MrAiR888 ( $1.34 USD )
+Seat 8: SergeiKovil ( $4 USD )
+Seat 5: Stig113 ( $4 USD )
+Seat 2: TilliWilli ( $4.23 USD )
+Seat 7: Zoranil ( $4.10 USD )
+Seat 4: calliebouman ( $3.85 USD )
+Seat 1: portvein_373 ( $4 USD )
+Seat 9: teufelsumos ( $7.99 USD )
+SergeiKovil posts small blind [$0.02 USD].
+teufelsumos posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2s 4s ]
+TilliWilli calls [$0.04 USD]
+MrAiR888 raises [$0.12 USD]
+calliebouman folds
+Stig113 will be using their time bank for this hand.
+Stig113 folds
+Kaban29 folds
+Zoranil folds
+SergeiKovil folds
+teufelsumos folds
+TilliWilli folds
+MrAiR888 does not show cards.
+MrAiR888 wins $0.22 USD
+Game #14592461754 starts.
+
+#Game No : 14592461754 
+***** Hand History for Game 14592461754 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:15:43 EDT 2015
+Table Grytviken (Real Money)
+Seat 8 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $3.59 USD )
+Seat 3: MrAiR888 ( $1.44 USD )
+Seat 8: SergeiKovil ( $3.98 USD )
+Seat 5: Stig113 ( $4 USD )
+Seat 2: TilliWilli ( $4.19 USD )
+Seat 7: Zoranil ( $4.10 USD )
+Seat 4: calliebouman ( $3.85 USD )
+Seat 1: portvein_373 ( $4 USD )
+Seat 9: teufelsumos ( $7.95 USD )
+teufelsumos posts small blind [$0.02 USD].
+portvein_373 posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8d 7h ]
+TilliWilli folds
+MrAiR888 raises [$0.12 USD]
+calliebouman folds
+Stig113 will be using their time bank for this hand.
+Stig113 folds
+Kaban29 folds
+Zoranil raises [$0.20 USD]
+SergeiKovil folds
+teufelsumos folds
+portvein_373 folds
+MrAiR888 calls [$0.08 USD]
+** Dealing Flop ** [ 4h, Qh, Jc ]
+MrAiR888 bets [$0.22 USD]
+Zoranil calls [$0.22 USD]
+** Dealing Turn ** [ 9d ]
+MrAiR888 bets [$0.43 USD]
+Zoranil folds
+MrAiR888 does not show cards.
+MrAiR888 wins $1.29 USD
+Game #14592463605 starts.
+
+#Game No : 14592463605 
+***** Hand History for Game 14592463605 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:16:17 EDT 2015
+Table Grytviken (Real Money)
+Seat 9 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $3.59 USD )
+Seat 3: MrAiR888 ( $1.88 USD )
+Seat 8: SergeiKovil ( $3.98 USD )
+Seat 5: Stig113 ( $4 USD )
+Seat 2: TilliWilli ( $4.19 USD )
+Seat 7: Zoranil ( $3.68 USD )
+Seat 4: calliebouman ( $3.85 USD )
+Seat 1: portvein_373 ( $4 USD )
+Seat 9: teufelsumos ( $7.93 USD )
+portvein_373 posts small blind [$0.02 USD].
+TilliWilli posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qc 7d ]
+MrAiR888 folds
+calliebouman calls [$0.04 USD]
+Stig113 will be using their time bank for this hand.
+Stig113 raises [$0.12 USD]
+Kaban29 folds
+Zoranil folds
+SergeiKovil folds
+teufelsumos folds
+portvein_373 folds
+TilliWilli folds
+calliebouman will be using their time bank for this hand.
+calliebouman folds
+Stig113 does not show cards.
+Stig113 wins $0.22 USD
+Game #14592465540 starts.
+
+#Game No : 14592465540 
+***** Hand History for Game 14592465540 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:17:09 EDT 2015
+Table Grytviken (Real Money)
+Seat 1 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $3.59 USD )
+Seat 3: MrAiR888 ( $1.88 USD )
+Seat 8: SergeiKovil ( $3.98 USD )
+Seat 5: Stig113 ( $4.10 USD )
+Seat 2: TilliWilli ( $4.15 USD )
+Seat 7: Zoranil ( $3.68 USD )
+Seat 4: calliebouman ( $3.81 USD )
+Seat 1: portvein_373 ( $4 USD )
+Seat 9: teufelsumos ( $7.93 USD )
+TilliWilli posts small blind [$0.02 USD].
+MrAiR888 posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Js 4d ]
+calliebouman did not respond in time
+calliebouman folds
+Stig113 will be using their time bank for this hand.
+Stig113 folds
+Kaban29 calls [$0.04 USD]
+Zoranil folds
+SergeiKovil folds
+teufelsumos folds
+portvein_373 folds
+TilliWilli folds
+MrAiR888 checks
+** Dealing Flop ** [ Qh, 5s, Ad ]
+MrAiR888 bets [$0.07 USD]
+Kaban29 calls [$0.07 USD]
+** Dealing Turn ** [ 3c ]
+MrAiR888 bets [$0.11 USD]
+Kaban29 calls [$0.11 USD]
+** Dealing River ** [ 9d ]
+MrAiR888 bets [$0.22 USD]
+Kaban29 calls [$0.22 USD]
+MrAiR888 shows [ Ac, 8s ]a pair of Aces with Eight kicker.
+Kaban29 doesn't show [ 2s, As ]a pair of Aces.
+MrAiR888 wins $0.86 USD from the main pot with a pair of Aces with Eight kicker.
+Game #14592468797 starts.
+
+#Game No : 14592468797 
+***** Hand History for Game 14592468797 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:18:20 EDT 2015
+Table Grytviken (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $3.15 USD )
+Seat 3: MrAiR888 ( $2.30 USD )
+Seat 8: SergeiKovil ( $3.98 USD )
+Seat 5: Stig113 ( $4.10 USD )
+Seat 2: TilliWilli ( $4.13 USD )
+Seat 7: Zoranil ( $3.68 USD )
+Seat 4: calliebouman ( $3.81 USD )
+Seat 1: portvein_373 ( $4 USD )
+Seat 9: teufelsumos ( $7.93 USD )
+MrAiR888 posts small blind [$0.02 USD].
+calliebouman posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9c 8d ]
+Stig113 will be using their time bank for this hand.
+Stig113 folds
+Kaban29 folds
+Zoranil folds
+SergeiKovil folds
+teufelsumos folds
+portvein_373 folds
+TilliWilli calls [$0.04 USD]
+MrAiR888 calls [$0.02 USD]
+calliebouman checks
+** Dealing Flop ** [ Ks, Kc, 9d ]
+MrAiR888 checks
+calliebouman checks
+TilliWilli bets [$0.08 USD]
+MrAiR888 folds
+calliebouman folds
+TilliWilli does not show cards.
+TilliWilli wins $0.20 USD
+Game #14592470726 starts.
+
+#Game No : 14592470726 
+***** Hand History for Game 14592470726 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:18:59 EDT 2015
+Table Grytviken (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $3.15 USD )
+Seat 3: MrAiR888 ( $2.26 USD )
+Seat 8: SergeiKovil ( $3.98 USD )
+Seat 5: Stig113 ( $4.10 USD )
+Seat 2: TilliWilli ( $4.21 USD )
+Seat 7: Zoranil ( $3.68 USD )
+Seat 4: calliebouman ( $3.77 USD )
+Seat 1: portvein_373 ( $4 USD )
+Seat 9: teufelsumos ( $7.93 USD )
+calliebouman posts small blind [$0.02 USD].
+Stig113 posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ks 2s ]
+Kaban29 folds
+Zoranil folds
+SergeiKovil folds
+teufelsumos folds
+portvein_373 folds
+TilliWilli folds
+MrAiR888 folds
+calliebouman calls [$0.02 USD]
+Stig113 will be using their time bank for this hand.
+Stig113 checks
+** Dealing Flop ** [ 7h, 8h, 5s ]
+calliebouman checks
+Stig113 will be using their time bank for this hand.
+Stig113 checks
+** Dealing Turn ** [ Qd ]
+calliebouman checks
+Stig113 will be using their time bank for this hand.
+Stig113 checks
+** Dealing River ** [ Kh ]
+calliebouman bets [$0.08 USD]
+Stig113 will be using their time bank for this hand.
+Stig113 folds
+calliebouman does not show cards.
+calliebouman wins $0.16 USD
+Game #14592473212 starts.
+
+#Game No : 14592473212 
+***** Hand History for Game 14592473212 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:19:50 EDT 2015
+Table Grytviken (Real Money)
+Seat 4 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $3.15 USD )
+Seat 3: MrAiR888 ( $2.26 USD )
+Seat 8: SergeiKovil ( $3.98 USD )
+Seat 5: Stig113 ( $4.06 USD )
+Seat 2: TilliWilli ( $4.21 USD )
+Seat 7: Zoranil ( $3.68 USD )
+Seat 4: calliebouman ( $3.81 USD )
+Seat 1: portvein_373 ( $4 USD )
+Seat 9: teufelsumos ( $7.93 USD )
+Stig113 posts small blind [$0.02 USD].
+Kaban29 posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ah Jd ]
+Zoranil raises [$0.12 USD]
+SergeiKovil folds
+teufelsumos did not respond in time
+teufelsumos folds
+portvein_373 folds
+TilliWilli calls [$0.12 USD]
+MrAiR888 folds
+calliebouman calls [$0.12 USD]
+Stig113 will be using their time bank for this hand.
+Stig113 calls [$0.10 USD]
+Kaban29 folds
+** Dealing Flop ** [ 8s, 3c, 7s ]
+Stig113 will be using their time bank for this hand.
+Stig113 checks
+Zoranil checks
+TilliWilli checks
+calliebouman checks
+** Dealing Turn ** [ 7c ]
+Stig113 will be using their time bank for this hand.
+Stig113 bets [$0.26 USD]
+Zoranil calls [$0.26 USD]
+TilliWilli calls [$0.26 USD]
+calliebouman folds
+** Dealing River ** [ 2s ]
+Stig113 will be using their time bank for this hand.
+Stig113 checks
+Zoranil checks
+TilliWilli bets [$0.60 USD]
+Stig113 will be using their time bank for this hand.
+Stig113 folds
+Zoranil folds
+TilliWilli does not show cards.
+TilliWilli wins $1.84 USD
+Game #14592477070 starts.
+
+#Game No : 14592477070 
+***** Hand History for Game 14592477070 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:21:29 EDT 2015
+Table Grytviken (Real Money)
+Seat 5 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $3.11 USD )
+Seat 3: MrAiR888 ( $2.26 USD )
+Seat 8: SergeiKovil ( $3.98 USD )
+Seat 5: Stig113 ( $4 USD )
+Seat 2: TilliWilli ( $5.07 USD )
+Seat 7: Zoranil ( $3.30 USD )
+Seat 4: calliebouman ( $3.69 USD )
+Seat 1: portvein_373 ( $4 USD )
+Seat 9: teufelsumos ( $7.93 USD )
+Kaban29 posts small blind [$0.02 USD].
+Zoranil posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8s 8d ]
+SergeiKovil raises [$0.08 USD]
+teufelsumos folds
+portvein_373 folds
+TilliWilli calls [$0.08 USD]
+MrAiR888 folds
+calliebouman folds
+Stig113 folds
+Kaban29 calls [$0.06 USD]
+Zoranil calls [$0.04 USD]
+** Dealing Flop ** [ Td, Kh, Js ]
+Kaban29 checks
+Zoranil checks
+SergeiKovil bets [$0.16 USD]
+TilliWilli folds
+Kaban29 folds
+Zoranil folds
+SergeiKovil does not show cards.
+SergeiKovil wins $0.47 USD
+Game #14592479044 starts.
+
+#Game No : 14592479044 
+***** Hand History for Game 14592479044 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:22:07 EDT 2015
+Table Grytviken (Real Money)
+Seat 6 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $3.03 USD )
+Seat 3: MrAiR888 ( $2.26 USD )
+Seat 8: SergeiKovil ( $4.21 USD )
+Seat 5: Stig113 ( $4 USD )
+Seat 2: TilliWilli ( $4.99 USD )
+Seat 7: Zoranil ( $3.22 USD )
+Seat 4: calliebouman ( $3.69 USD )
+Seat 1: portvein_373 ( $4 USD )
+Seat 9: teufelsumos ( $7.93 USD )
+Zoranil posts small blind [$0.02 USD].
+SergeiKovil posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8s Ks ]
+teufelsumos folds
+portvein_373 folds
+TilliWilli folds
+MrAiR888 folds
+calliebouman folds
+Stig113 will be using their time bank for this hand.
+Stig113 raises [$0.12 USD]
+Kaban29 folds
+Zoranil folds
+SergeiKovil folds
+Stig113 does not show cards.
+Stig113 wins $0.18 USD
+Game #14592480151 starts.
+
+#Game No : 14592480151 
+***** Hand History for Game 14592480151 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:22:36 EDT 2015
+Table Grytviken (Real Money)
+Seat 7 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $3.03 USD )
+Seat 3: MrAiR888 ( $2.26 USD )
+Seat 8: SergeiKovil ( $4.17 USD )
+Seat 5: Stig113 ( $4.06 USD )
+Seat 2: TilliWilli ( $4.99 USD )
+Seat 7: Zoranil ( $3.20 USD )
+Seat 4: calliebouman ( $3.69 USD )
+Seat 1: portvein_373 ( $4 USD )
+Seat 9: teufelsumos ( $7.93 USD )
+SergeiKovil posts small blind [$0.02 USD].
+teufelsumos posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Kc 5s ]
+portvein_373 folds
+TilliWilli folds
+MrAiR888 folds
+calliebouman folds
+Stig113 will be using their time bank for this hand.
+Stig113 folds
+Kaban29 calls [$0.04 USD]
+Zoranil folds
+SergeiKovil folds
+teufelsumos checks
+** Dealing Flop ** [ 3d, 8d, 2d ]
+teufelsumos checks
+Kaban29 checks
+** Dealing Turn ** [ 4d ]
+teufelsumos checks
+Kaban29 checks
+** Dealing River ** [ As ]
+teufelsumos checks
+Kaban29 checks
+teufelsumos shows [ 6s, 3c ]a pair of Threes.
+Kaban29 shows [ 4s, 4c ]three of a kind, Fours.
+Kaban29 wins $0.10 USD from the main pot with three of a kind, Fours.
+Game #14592482519 starts.
+
+#Game No : 14592482519 
+***** Hand History for Game 14592482519 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:23:24 EDT 2015
+Table Grytviken (Real Money)
+Seat 8 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $3.09 USD )
+Seat 3: MrAiR888 ( $2.26 USD )
+Seat 8: SergeiKovil ( $4.15 USD )
+Seat 5: Stig113 ( $4.06 USD )
+Seat 2: TilliWilli ( $4.99 USD )
+Seat 7: Zoranil ( $3.20 USD )
+Seat 4: calliebouman ( $3.69 USD )
+Seat 1: portvein_373 ( $4 USD )
+Seat 9: teufelsumos ( $7.89 USD )
+teufelsumos posts small blind [$0.02 USD].
+portvein_373 posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3h Js ]
+TilliWilli folds
+MrAiR888 folds
+calliebouman folds
+Stig113 will be using their time bank for this hand.
+Stig113 folds
+Kaban29 folds
+Zoranil raises [$0.16 USD]
+SergeiKovil folds
+teufelsumos raises [$0.54 USD]
+portvein_373 folds
+Zoranil raises [$0.88 USD]
+teufelsumos folds
+Zoranil does not show cards.
+Zoranil wins $1.64 USD
+Game #14592483797 starts.
+
+#Game No : 14592483797 
+***** Hand History for Game 14592483797 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:23:56 EDT 2015
+Table Grytviken (Real Money)
+Seat 9 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $3.09 USD )
+Seat 3: MrAiR888 ( $2.26 USD )
+Seat 8: SergeiKovil ( $4.15 USD )
+Seat 5: Stig113 ( $4.06 USD )
+Seat 2: TilliWilli ( $4.99 USD )
+Seat 7: Zoranil ( $3.80 USD )
+Seat 4: calliebouman ( $3.69 USD )
+Seat 1: portvein_373 ( $4 USD )
+Seat 9: teufelsumos ( $7.33 USD )
+portvein_373 posts small blind [$0.02 USD].
+TilliWilli posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5c 9h ]
+MrAiR888 folds
+calliebouman folds
+Stig113 will be using their time bank for this hand.
+Stig113 folds
+Kaban29 folds
+Zoranil raises [$0.12 USD]
+SergeiKovil folds
+teufelsumos folds
+portvein_373 folds
+TilliWilli folds
+Zoranil does not show cards.
+Zoranil wins $0.18 USD
+Game #14592485688 starts.
+
+#Game No : 14592485688 
+***** Hand History for Game 14592485688 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:24:45 EDT 2015
+Table Grytviken (Real Money)
+Seat 1 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $3.09 USD )
+Seat 3: MrAiR888 ( $2.26 USD )
+Seat 8: SergeiKovil ( $4.15 USD )
+Seat 5: Stig113 ( $4.06 USD )
+Seat 2: TilliWilli ( $4.95 USD )
+Seat 7: Zoranil ( $3.86 USD )
+Seat 4: calliebouman ( $3.69 USD )
+Seat 1: portvein_373 ( $4 USD )
+Seat 9: teufelsumos ( $7.33 USD )
+TilliWilli posts small blind [$0.02 USD].
+MrAiR888 posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qh 2h ]
+calliebouman raises [$0.12 USD]
+Stig113 folds
+Kaban29 folds
+Zoranil folds
+SergeiKovil folds
+teufelsumos folds
+portvein_373 folds
+TilliWilli folds
+MrAiR888 folds
+calliebouman does not show cards.
+calliebouman wins $0.18 USD
+Game #14592487602 starts.
+
+#Game No : 14592487602 
+***** Hand History for Game 14592487602 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:25:21 EDT 2015
+Table Grytviken (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $3.09 USD )
+Seat 3: MrAiR888 ( $2.22 USD )
+Seat 8: SergeiKovil ( $4.15 USD )
+Seat 5: Stig113 ( $4.06 USD )
+Seat 2: TilliWilli ( $4.93 USD )
+Seat 7: Zoranil ( $3.86 USD )
+Seat 4: calliebouman ( $3.75 USD )
+Seat 1: portvein_373 ( $4 USD )
+Seat 9: teufelsumos ( $7.33 USD )
+MrAiR888 posts small blind [$0.02 USD].
+calliebouman posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Tc 6d ]
+Stig113 folds
+Kaban29 calls [$0.04 USD]
+Zoranil folds
+SergeiKovil folds
+teufelsumos folds
+portvein_373 folds
+TilliWilli folds
+MrAiR888 raises [$0.06 USD]
+calliebouman folds
+Kaban29 calls [$0.04 USD]
+** Dealing Flop ** [ 5s, Th, 7s ]
+MrAiR888 bets [$0.09 USD]
+Kaban29 calls [$0.09 USD]
+** Dealing Turn ** [ Qh ]
+MrAiR888 bets [$0.18 USD]
+Kaban29 calls [$0.18 USD]
+** Dealing River ** [ 9c ]
+MrAiR888 checks
+Kaban29 checks
+MrAiR888 shows [ Ac, 8d ]high card Ace.
+Kaban29 shows [ Ad, 7h ]a pair of Sevens.
+Kaban29 wins $0.71 USD from the main pot with a pair of Sevens.
+Game #14592489619 starts.
+
+#Game No : 14592489619 
+***** Hand History for Game 14592489619 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:26:13 EDT 2015
+Table Grytviken (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $3.45 USD )
+Seat 3: MrAiR888 ( $1.87 USD )
+Seat 8: SergeiKovil ( $4.15 USD )
+Seat 5: Stig113 ( $4.06 USD )
+Seat 2: TilliWilli ( $4.93 USD )
+Seat 7: Zoranil ( $3.86 USD )
+Seat 4: calliebouman ( $3.71 USD )
+Seat 1: portvein_373 ( $4 USD )
+Seat 9: teufelsumos ( $7.33 USD )
+calliebouman posts small blind [$0.02 USD].
+Stig113 posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2c Jc ]
+Kaban29 folds
+Zoranil raises [$0.08 USD]
+SergeiKovil folds
+teufelsumos folds
+portvein_373 folds
+TilliWilli folds
+MrAiR888 raises [$0.12 USD]
+calliebouman folds
+Stig113 folds
+Zoranil calls [$0.04 USD]
+** Dealing Flop ** [ 8h, 2h, 4s ]
+Zoranil checks
+MrAiR888 checks
+** Dealing Turn ** [ 4h ]
+Zoranil bets [$0.19 USD]
+MrAiR888 folds
+Zoranil does not show cards.
+Zoranil wins $0.48 USD
+Game #14592492746 starts.
+
+#Game No : 14592492746 
+***** Hand History for Game 14592492746 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:27:08 EDT 2015
+Table Grytviken (Real Money)
+Seat 4 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $3.45 USD )
+Seat 3: MrAiR888 ( $1.75 USD )
+Seat 8: SergeiKovil ( $4.15 USD )
+Seat 5: Stig113 ( $4.02 USD )
+Seat 2: TilliWilli ( $4.93 USD )
+Seat 7: Zoranil ( $4.03 USD )
+Seat 4: calliebouman ( $3.69 USD )
+Seat 1: portvein_373 ( $4 USD )
+Seat 9: teufelsumos ( $7.33 USD )
+Stig113 posts small blind [$0.02 USD].
+Kaban29 posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8c 3c ]
+Zoranil folds
+SergeiKovil folds
+teufelsumos folds
+portvein_373 folds
+TilliWilli folds
+MrAiR888 raises [$0.12 USD]
+calliebouman folds
+Stig113 folds
+Kaban29 folds
+MrAiR888 does not show cards.
+MrAiR888 wins $0.18 USD
+Game #14592493711 starts.
+
+#Game No : 14592493711 
+***** Hand History for Game 14592493711 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:27:35 EDT 2015
+Table Grytviken (Real Money)
+Seat 5 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $3.41 USD )
+Seat 3: MrAiR888 ( $1.81 USD )
+Seat 8: SergeiKovil ( $4.15 USD )
+Seat 5: Stig113 ( $4 USD )
+Seat 2: TilliWilli ( $4.93 USD )
+Seat 7: Zoranil ( $4.03 USD )
+Seat 4: calliebouman ( $3.69 USD )
+Seat 1: portvein_373 ( $4 USD )
+Seat 9: teufelsumos ( $7.33 USD )
+Kaban29 posts small blind [$0.02 USD].
+Zoranil posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9h Js ]
+SergeiKovil folds
+teufelsumos folds
+portvein_373 folds
+TilliWilli folds
+MrAiR888 folds
+calliebouman folds
+Stig113 folds
+Kaban29 calls [$0.02 USD]
+Zoranil checks
+** Dealing Flop ** [ Qs, 7s, 3s ]
+Kaban29 checks
+Zoranil checks
+** Dealing Turn ** [ 9d ]
+Kaban29 checks
+Zoranil checks
+** Dealing River ** [ Kh ]
+Kaban29 checks
+Zoranil checks
+Kaban29 shows [ 8c, Ad ]high card Ace.
+Zoranil doesn't show [ 6d, 5c ]high card King.
+Kaban29 wins $0.08 USD from the main pot with high card, Ace.
+Game #14592495085 starts.
+
+#Game No : 14592495085 
+***** Hand History for Game 14592495085 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:28:11 EDT 2015
+Table Grytviken (Real Money)
+Seat 6 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $3.45 USD )
+Seat 3: MrAiR888 ( $1.81 USD )
+Seat 8: SergeiKovil ( $4.15 USD )
+Seat 5: Stig113 ( $4 USD )
+Seat 2: TilliWilli ( $4.93 USD )
+Seat 7: Zoranil ( $3.99 USD )
+Seat 4: calliebouman ( $3.69 USD )
+Seat 1: portvein_373 ( $4 USD )
+Seat 9: teufelsumos ( $7.33 USD )
+Zoranil posts small blind [$0.02 USD].
+SergeiKovil posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Kc 3d ]
+teufelsumos folds
+portvein_373 folds
+TilliWilli folds
+MrAiR888 folds
+calliebouman folds
+Stig113 raises [$0.12 USD]
+Kaban29 folds
+Zoranil raises [$0.22 USD]
+SergeiKovil folds
+Stig113 folds
+Zoranil does not show cards.
+Zoranil wins $0.40 USD
+Game #14592497180 starts.
+
+#Game No : 14592497180 
+***** Hand History for Game 14592497180 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:28:52 EDT 2015
+Table Grytviken (Real Money)
+Seat 7 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $3.45 USD )
+Seat 3: MrAiR888 ( $1.81 USD )
+Seat 8: SergeiKovil ( $4.11 USD )
+Seat 5: Stig113 ( $4 USD )
+Seat 2: TilliWilli ( $4.93 USD )
+Seat 7: Zoranil ( $4.15 USD )
+Seat 4: calliebouman ( $3.69 USD )
+Seat 1: portvein_373 ( $4 USD )
+Seat 9: teufelsumos ( $7.33 USD )
+SergeiKovil posts small blind [$0.02 USD].
+teufelsumos posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4h 4c ]
+portvein_373 raises [$0.12 USD]
+TilliWilli folds
+MrAiR888 folds
+calliebouman folds
+Stig113 folds
+Kaban29 folds
+Zoranil folds
+SergeiKovil folds
+teufelsumos folds
+portvein_373 does not show cards.
+portvein_373 wins $0.18 USD
+Game #14592498069 starts.
+
+#Game No : 14592498069 
+***** Hand History for Game 14592498069 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:29:15 EDT 2015
+Table Grytviken (Real Money)
+Seat 8 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $3.45 USD )
+Seat 3: MrAiR888 ( $1.81 USD )
+Seat 8: SergeiKovil ( $4.09 USD )
+Seat 5: Stig113 ( $4 USD )
+Seat 2: TilliWilli ( $4.93 USD )
+Seat 7: Zoranil ( $4.15 USD )
+Seat 4: calliebouman ( $3.69 USD )
+Seat 1: portvein_373 ( $4.06 USD )
+Seat 9: teufelsumos ( $7.29 USD )
+teufelsumos posts small blind [$0.02 USD].
+portvein_373 posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5d Ts ]
+TilliWilli folds
+MrAiR888 folds
+calliebouman folds
+Stig113 folds
+Kaban29 folds
+Zoranil folds
+SergeiKovil folds
+teufelsumos folds
+portvein_373 does not show cards.
+portvein_373 wins $0.06 USD
+Game #14592498483 starts.
+
+#Game No : 14592498483 
+***** Hand History for Game 14592498483 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:29:25 EDT 2015
+Table Grytviken (Real Money)
+Seat 9 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $3.45 USD )
+Seat 3: MrAiR888 ( $1.81 USD )
+Seat 8: SergeiKovil ( $4.09 USD )
+Seat 5: Stig113 ( $4 USD )
+Seat 2: TilliWilli ( $4.93 USD )
+Seat 7: Zoranil ( $4.15 USD )
+Seat 4: calliebouman ( $3.69 USD )
+Seat 1: portvein_373 ( $4.08 USD )
+Seat 9: teufelsumos ( $7.27 USD )
+portvein_373 posts small blind [$0.02 USD].
+TilliWilli posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ks Jc ]
+MrAiR888 folds
+calliebouman folds
+Stig113 folds
+Kaban29 calls [$0.04 USD]
+Zoranil folds
+SergeiKovil folds
+teufelsumos folds
+portvein_373 folds
+TilliWilli raises [$0.04 USD]
+Kaban29 calls [$0.04 USD]
+** Dealing Flop ** [ 6h, Js, 8h ]
+TilliWilli bets [$0.04 USD]
+Kaban29 calls [$0.04 USD]
+** Dealing Turn ** [ 5h ]
+TilliWilli bets [$0.04 USD]
+Kaban29 calls [$0.04 USD]
+** Dealing River ** [ 5d ]
+TilliWilli bets [$0.16 USD]
+Kaban29 calls [$0.16 USD]
+TilliWilli shows [ Ks, Jc ]two pairs, Jacks and Fives with King kicker.
+Kaban29 doesn't show [ Qs, Jh ]two pairs, Jacks and Fives.
+TilliWilli wins $0.63 USD from the main pot with two pairs, Jacks and Fives with King kicker.
+Game #14592500710 starts.
+
+#Game No : 14592500710 
+***** Hand History for Game 14592500710 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:30:23 EDT 2015
+Table Grytviken (Real Money)
+Seat 1 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $3.13 USD )
+Seat 3: MrAiR888 ( $1.81 USD )
+Seat 8: SergeiKovil ( $4.09 USD )
+Seat 5: Stig113 ( $4 USD )
+Seat 2: TilliWilli ( $5.24 USD )
+Seat 7: Zoranil ( $4.15 USD )
+Seat 4: calliebouman ( $3.69 USD )
+Seat 1: portvein_373 ( $4.06 USD )
+Seat 9: teufelsumos ( $7.27 USD )
+TilliWilli posts small blind [$0.02 USD].
+MrAiR888 posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Td 8h ]
+calliebouman folds
+Stig113 folds
+Kaban29 folds
+Zoranil raises [$0.12 USD]
+SergeiKovil folds
+teufelsumos folds
+portvein_373 calls [$0.12 USD]
+TilliWilli folds
+MrAiR888 folds
+** Dealing Flop ** [ Kd, Ac, 5s ]
+Zoranil checks
+portvein_373 bets [$0.16 USD]
+Zoranil folds
+portvein_373 does not show cards.
+portvein_373 wins $0.45 USD
+Game #14592502078 starts.
+
+#Game No : 14592502078 
+***** Hand History for Game 14592502078 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:31:00 EDT 2015
+Table Grytviken (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $3.13 USD )
+Seat 3: MrAiR888 ( $1.77 USD )
+Seat 8: SergeiKovil ( $4.09 USD )
+Seat 5: Stig113 ( $4 USD )
+Seat 2: TilliWilli ( $5.22 USD )
+Seat 7: Zoranil ( $4.03 USD )
+Seat 4: calliebouman ( $3.69 USD )
+Seat 1: portvein_373 ( $4.23 USD )
+Seat 9: teufelsumos ( $7.27 USD )
+MrAiR888 posts small blind [$0.02 USD].
+calliebouman posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5h Jc ]
+Stig113 folds
+Kaban29 folds
+Zoranil folds
+SergeiKovil folds
+teufelsumos folds
+portvein_373 folds
+TilliWilli folds
+MrAiR888 raises [$0.06 USD]
+calliebouman folds
+MrAiR888 does not show cards.
+MrAiR888 wins $0.12 USD
+Game #14592503655 starts.
+
+#Game No : 14592503655 
+***** Hand History for Game 14592503655 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:31:27 EDT 2015
+Table Grytviken (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $3.13 USD )
+Seat 3: MrAiR888 ( $1.81 USD )
+Seat 8: SergeiKovil ( $4.09 USD )
+Seat 5: Stig113 ( $4 USD )
+Seat 2: TilliWilli ( $5.22 USD )
+Seat 7: Zoranil ( $4.03 USD )
+Seat 4: calliebouman ( $3.65 USD )
+Seat 1: portvein_373 ( $4.23 USD )
+Seat 9: teufelsumos ( $7.27 USD )
+calliebouman posts small blind [$0.02 USD].
+Stig113 posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ah 2c ]
+Kaban29 folds
+Zoranil folds
+SergeiKovil folds
+teufelsumos folds
+portvein_373 folds
+TilliWilli folds
+MrAiR888 raises [$0.12 USD]
+calliebouman folds
+Stig113 folds
+MrAiR888 does not show cards.
+MrAiR888 wins $0.18 USD
+Game #14592505136 starts.
+
+#Game No : 14592505136 
+***** Hand History for Game 14592505136 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:31:53 EDT 2015
+Table Grytviken (Real Money)
+Seat 4 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $3.13 USD )
+Seat 3: MrAiR888 ( $1.87 USD )
+Seat 8: SergeiKovil ( $4.09 USD )
+Seat 5: Stig113 ( $4 USD )
+Seat 2: TilliWilli ( $5.22 USD )
+Seat 7: Zoranil ( $4.03 USD )
+Seat 4: calliebouman ( $3.63 USD )
+Seat 1: portvein_373 ( $4.23 USD )
+Seat 9: teufelsumos ( $7.27 USD )
+Stig113 posts small blind [$0.02 USD].
+Kaban29 posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ad Jd ]
+Zoranil folds
+SergeiKovil folds
+teufelsumos folds
+portvein_373 folds
+TilliWilli raises [$0.08 USD]
+MrAiR888 folds
+calliebouman calls [$0.08 USD]
+Stig113 raises [$0.26 USD]
+Kaban29 folds
+TilliWilli calls [$0.20 USD]
+calliebouman calls [$0.20 USD]
+** Dealing Flop ** [ 2h, 4h, 8d ]
+Stig113 checks
+TilliWilli bets [$0.50 USD]
+calliebouman folds
+Stig113 calls [$0.50 USD]
+** Dealing Turn ** [ Tc ]
+Stig113 checks
+TilliWilli bets [$1.50 USD]
+Stig113 is all-In  [$3.22 USD]
+Your time bank will be activated in 6 secs. If you do not want it to be used, please act now.
+TilliWilli will be using their time bank for this hand.
+TilliWilli folds
+Stig113 does not show cards.
+Stig113 wins $6.36 USD
+Game #14592510440 starts.
+
+#Game No : 14592510440 
+***** Hand History for Game 14592510440 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:34:06 EDT 2015
+Table Grytviken (Real Money)
+Seat 5 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $3.09 USD )
+Seat 3: MrAiR888 ( $1.87 USD )
+Seat 8: SergeiKovil ( $4.09 USD )
+Seat 5: Stig113 ( $6.36 USD )
+Seat 2: TilliWilli ( $2.94 USD )
+Seat 7: Zoranil ( $4.03 USD )
+Seat 4: calliebouman ( $3.35 USD )
+Seat 1: portvein_373 ( $4.23 USD )
+Seat 9: teufelsumos ( $7.27 USD )
+Kaban29 posts small blind [$0.02 USD].
+Zoranil posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9h 8s ]
+SergeiKovil folds
+teufelsumos folds
+portvein_373 folds
+TilliWilli calls [$0.04 USD]
+MrAiR888 raises [$0.12 USD]
+calliebouman folds
+Stig113 folds
+Kaban29 calls [$0.10 USD]
+Zoranil folds
+TilliWilli calls [$0.08 USD]
+** Dealing Flop ** [ 8c, 6c, 6d ]
+Kaban29 checks
+TilliWilli checks
+MrAiR888 checks
+** Dealing Turn ** [ 3d ]
+Kaban29 checks
+TilliWilli bets [$0.04 USD]
+MrAiR888 calls [$0.04 USD]
+Kaban29 folds
+** Dealing River ** [ 7c ]
+TilliWilli checks
+MrAiR888 checks
+TilliWilli shows [ 9h, 8s ]two pairs, Eights and Sixes.
+MrAiR888 doesn't show [ Jc, Ah ]a pair of Sixes.
+TilliWilli wins $0.46 USD from the main pot with two pairs, Eights and Sixes.
+Game #14592513205 starts.
+
+#Game No : 14592513205 
+***** Hand History for Game 14592513205 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:35:03 EDT 2015
+Table Grytviken (Real Money)
+Seat 6 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $2.97 USD )
+Seat 3: MrAiR888 ( $1.71 USD )
+Seat 8: SergeiKovil ( $4.09 USD )
+Seat 5: Stig113 ( $6.36 USD )
+Seat 2: TilliWilli ( $3.24 USD )
+Seat 7: Zoranil ( $3.99 USD )
+Seat 4: calliebouman ( $3.35 USD )
+Seat 1: portvein_373 ( $4.23 USD )
+Seat 9: teufelsumos ( $7.27 USD )
+Zoranil posts small blind [$0.02 USD].
+SergeiKovil posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5c 5s ]
+teufelsumos folds
+portvein_373 folds
+TilliWilli raises [$0.08 USD]
+MrAiR888 folds
+calliebouman folds
+Stig113 did not respond in time
+Stig113 folds
+Kaban29 folds
+Zoranil folds
+SergeiKovil folds
+TilliWilli does not show cards.
+TilliWilli wins $0.14 USD
+Game #14592514888 starts.
+
+#Game No : 14592514888 
+***** Hand History for Game 14592514888 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:35:33 EDT 2015
+Table Grytviken (Real Money)
+Seat 7 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $2.97 USD )
+Seat 3: MrAiR888 ( $1.71 USD )
+Seat 8: SergeiKovil ( $4.05 USD )
+Seat 5: Stig113 ( $6.36 USD )
+Seat 2: TilliWilli ( $3.30 USD )
+Seat 7: Zoranil ( $3.97 USD )
+Seat 4: calliebouman ( $3.35 USD )
+Seat 1: portvein_373 ( $4.23 USD )
+Seat 9: teufelsumos ( $7.27 USD )
+SergeiKovil posts small blind [$0.02 USD].
+teufelsumos posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qd 3s ]
+portvein_373 folds
+TilliWilli folds
+MrAiR888 folds
+calliebouman folds
+Stig113 folds
+Kaban29 calls [$0.04 USD]
+Zoranil folds
+SergeiKovil calls [$0.02 USD]
+teufelsumos checks
+** Dealing Flop ** [ 3h, 9s, Ac ]
+SergeiKovil checks
+teufelsumos checks
+Kaban29 checks
+** Dealing Turn ** [ 9c ]
+SergeiKovil bets [$0.06 USD]
+teufelsumos folds
+Kaban29 folds
+SergeiKovil does not show cards.
+SergeiKovil wins $0.18 USD
+Game #14592516322 starts.
+
+#Game No : 14592516322 
+***** Hand History for Game 14592516322 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:36:10 EDT 2015
+Table Grytviken (Real Money)
+Seat 8 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $2.93 USD )
+Seat 3: MrAiR888 ( $1.71 USD )
+Seat 8: SergeiKovil ( $4.13 USD )
+Seat 5: Stig113 ( $6.36 USD )
+Seat 2: TilliWilli ( $3.30 USD )
+Seat 7: Zoranil ( $3.97 USD )
+Seat 4: calliebouman ( $3.35 USD )
+Seat 1: portvein_373 ( $4.23 USD )
+Seat 9: teufelsumos ( $7.23 USD )
+teufelsumos posts small blind [$0.02 USD].
+portvein_373 posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4h Td ]
+TilliWilli folds
+MrAiR888 folds
+calliebouman folds
+Stig113 folds
+Kaban29 raises [$0.08 USD]
+Zoranil folds
+SergeiKovil folds
+teufelsumos folds
+portvein_373 folds
+Kaban29 does not show cards.
+Kaban29 wins $0.14 USD
+Game #14592517180 starts.
+
+#Game No : 14592517180 
+***** Hand History for Game 14592517180 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:36:32 EDT 2015
+Table Grytviken (Real Money)
+Seat 9 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $2.99 USD )
+Seat 3: MrAiR888 ( $1.71 USD )
+Seat 8: SergeiKovil ( $4.13 USD )
+Seat 5: Stig113 ( $6.36 USD )
+Seat 2: TilliWilli ( $3.30 USD )
+Seat 7: Zoranil ( $3.97 USD )
+Seat 4: calliebouman ( $3.35 USD )
+Seat 1: portvein_373 ( $4.19 USD )
+Seat 9: teufelsumos ( $7.21 USD )
+portvein_373 posts small blind [$0.02 USD].
+TilliWilli posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9c Tc ]
+MrAiR888 raises [$0.08 USD]
+calliebouman folds
+Stig113 did not respond in time
+Stig113 folds
+Kaban29 folds
+Zoranil raises [$0.12 USD]
+SergeiKovil folds
+teufelsumos folds
+portvein_373 folds
+TilliWilli calls [$0.08 USD]
+MrAiR888 calls [$0.04 USD]
+** Dealing Flop ** [ Js, 3s, 6d ]
+TilliWilli checks
+MrAiR888 checks
+Zoranil checks
+** Dealing Turn ** [ 5s ]
+TilliWilli checks
+MrAiR888 checks
+Zoranil bets [$0.24 USD]
+TilliWilli folds
+MrAiR888 folds
+Zoranil does not show cards.
+Zoranil wins $0.61 USD
+Game #14592520795 starts.
+
+#Game No : 14592520795 
+***** Hand History for Game 14592520795 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:37:40 EDT 2015
+Table Grytviken (Real Money)
+Seat 1 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $2.99 USD )
+Seat 3: MrAiR888 ( $1.59 USD )
+Seat 8: SergeiKovil ( $4.13 USD )
+Seat 5: Stig113 ( $6.36 USD )
+Seat 2: TilliWilli ( $3.18 USD )
+Seat 7: Zoranil ( $4.22 USD )
+Seat 4: calliebouman ( $3.35 USD )
+Seat 1: portvein_373 ( $4.17 USD )
+Seat 9: teufelsumos ( $7.21 USD )
+TilliWilli posts small blind [$0.02 USD].
+MrAiR888 posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  7c 5s ]
+calliebouman calls [$0.04 USD]
+Stig113 folds
+Kaban29 folds
+Zoranil folds
+SergeiKovil folds
+teufelsumos folds
+portvein_373 folds
+TilliWilli folds
+MrAiR888 checks
+** Dealing Flop ** [ Jh, Td, 6c ]
+MrAiR888 checks
+calliebouman bets [$0.10 USD]
+MrAiR888 folds
+calliebouman does not show cards.
+calliebouman wins $0.20 USD
+Game #14592522055 starts.
+
+#Game No : 14592522055 
+***** Hand History for Game 14592522055 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:38:11 EDT 2015
+Table Grytviken (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $2.99 USD )
+Seat 3: MrAiR888 ( $1.55 USD )
+Seat 8: SergeiKovil ( $4.13 USD )
+Seat 5: Stig113 ( $6.36 USD )
+Seat 2: TilliWilli ( $3.16 USD )
+Seat 7: Zoranil ( $4.22 USD )
+Seat 4: calliebouman ( $3.41 USD )
+Seat 1: portvein_373 ( $4.17 USD )
+Seat 9: teufelsumos ( $7.21 USD )
+MrAiR888 posts small blind [$0.02 USD].
+calliebouman posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Kh 9s ]
+Stig113 folds
+Kaban29 folds
+Zoranil folds
+SergeiKovil folds
+teufelsumos folds
+portvein_373 raises [$0.12 USD]
+TilliWilli calls [$0.12 USD]
+MrAiR888 folds
+calliebouman calls [$0.08 USD]
+** Dealing Flop ** [ 4s, 7d, Td ]
+calliebouman checks
+portvein_373 checks
+TilliWilli bets [$0.04 USD]
+calliebouman raises [$0.24 USD]
+portvein_373 folds
+TilliWilli folds
+calliebouman does not show cards.
+calliebouman wins $0.64 USD
+Game #14592524322 starts.
+
+#Game No : 14592524322 
+***** Hand History for Game 14592524322 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:39:10 EDT 2015
+Table Grytviken (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 6: Kaban29 ( $2.99 USD )
+Seat 3: MrAiR888 ( $1.53 USD )
+Seat 8: SergeiKovil ( $4.13 USD )
+Seat 5: Stig113 ( $6.36 USD )
+Seat 2: TilliWilli ( $3 USD )
+Seat 7: Zoranil ( $4.22 USD )
+Seat 4: calliebouman ( $3.69 USD )
+Seat 1: portvein_373 ( $4.05 USD )
+Seat 9: teufelsumos ( $7.21 USD )
+calliebouman posts small blind [$0.02 USD].
+Stig113 posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9c 3c ]
+Kaban29 folds
+Zoranil folds
+SergeiKovil folds
+teufelsumos folds
+portvein_373 folds
+TilliWilli folds
+MrAiR888 folds
+calliebouman folds
+Stig113 does not show cards.
+Stig113 wins $0.06 USD
+Kaban29 has left the table.
+Game #14592524870 starts.
+
+#Game No : 14592524870 
+***** Hand History for Game 14592524870 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:39:25 EDT 2015
+Table Grytviken (Real Money)
+Seat 4 is the button
+Total number of players : 8/9 
+Seat 3: MrAiR888 ( $1.53 USD )
+Seat 8: SergeiKovil ( $4.13 USD )
+Seat 5: Stig113 ( $6.38 USD )
+Seat 2: TilliWilli ( $3 USD )
+Seat 7: Zoranil ( $4.22 USD )
+Seat 4: calliebouman ( $3.67 USD )
+Seat 1: portvein_373 ( $4.05 USD )
+Seat 9: teufelsumos ( $7.21 USD )
+Stig113 posts small blind [$0.02 USD].
+Zoranil posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qh As ]
+SergeiKovil folds
+Eventus4 has joined the table.
+teufelsumos folds
+portvein_373 folds
+TilliWilli raises [$0.08 USD]
+MrAiR888 folds
+calliebouman calls [$0.08 USD]
+Stig113 folds
+Zoranil calls [$0.04 USD]
+** Dealing Flop ** [ Kc, Kh, 5h ]
+Zoranil checks
+TilliWilli bets [$0.10 USD]
+calliebouman folds
+Zoranil folds
+TilliWilli does not show cards.
+TilliWilli wins $0.35 USD
+Game #14592527506 starts.
+
+#Game No : 14592527506 
+***** Hand History for Game 14592527506 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:40:08 EDT 2015
+Table Grytviken (Real Money)
+Seat 5 is the button
+Total number of players : 9/9 
+Seat 6: Eventus4 ( $4.10 USD )
+Seat 3: MrAiR888 ( $1.53 USD )
+Seat 8: SergeiKovil ( $4.13 USD )
+Seat 5: Stig113 ( $6.36 USD )
+Seat 2: TilliWilli ( $3.17 USD )
+Seat 7: Zoranil ( $4.14 USD )
+Seat 4: calliebouman ( $3.59 USD )
+Seat 1: portvein_373 ( $4.05 USD )
+Seat 9: teufelsumos ( $7.21 USD )
+Zoranil posts small blind [$0.02 USD].
+SergeiKovil posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9c 4s ]
+teufelsumos raises [$0.12 USD]
+portvein_373 calls [$0.12 USD]
+TilliWilli folds
+MrAiR888 folds
+calliebouman folds
+Stig113 folds
+Zoranil folds
+SergeiKovil folds
+** Dealing Flop ** [ Td, 5c, Ac ]
+teufelsumos bets [$0.21 USD]
+portvein_373 folds
+teufelsumos does not show cards.
+teufelsumos wins $0.50 USD
+Game #14592529044 starts.
+
+#Game No : 14592529044 
+***** Hand History for Game 14592529044 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:40:49 EDT 2015
+Table Grytviken (Real Money)
+Seat 7 is the button
+Total number of players : 9/9 
+Seat 6: Eventus4 ( $4.10 USD )
+Seat 3: MrAiR888 ( $1.53 USD )
+Seat 8: SergeiKovil ( $4.09 USD )
+Seat 5: Stig113 ( $6.36 USD )
+Seat 2: TilliWilli ( $3.17 USD )
+Seat 7: Zoranil ( $4.12 USD )
+Seat 4: calliebouman ( $3.59 USD )
+Seat 1: portvein_373 ( $4 USD )
+Seat 9: teufelsumos ( $7.38 USD )
+SergeiKovil posts small blind [$0.02 USD].
+teufelsumos posts big blind [$0.04 USD].
+Eventus4 posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  6d 8c ]
+portvein_373 folds
+TilliWilli folds
+MrAiR888 raises [$0.12 USD]
+calliebouman calls [$0.12 USD]
+Stig113 folds
+Eventus4 folds
+Zoranil folds
+SergeiKovil folds
+teufelsumos folds
+** Dealing Flop ** [ Js, 7s, 5h ]
+MrAiR888 bets [$0.16 USD]
+calliebouman calls [$0.16 USD]
+** Dealing Turn ** [ 5s ]
+MrAiR888 checks
+calliebouman bets [$0.63 USD]
+MrAiR888 folds
+calliebouman does not show cards.
+calliebouman wins $1.26 USD
+Game #14592530655 starts.
+
+#Game No : 14592530655 
+***** Hand History for Game 14592530655 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:41:32 EDT 2015
+Table Grytviken (Real Money)
+Seat 8 is the button
+Total number of players : 9/9 
+Seat 6: Eventus4 ( $4.06 USD )
+Seat 3: MrAiR888 ( $1.25 USD )
+Seat 8: SergeiKovil ( $4.07 USD )
+Seat 5: Stig113 ( $6.36 USD )
+Seat 2: TilliWilli ( $3.17 USD )
+Seat 7: Zoranil ( $4.12 USD )
+Seat 4: calliebouman ( $3.94 USD )
+Seat 1: portvein_373 ( $4 USD )
+Seat 9: teufelsumos ( $7.34 USD )
+teufelsumos posts small blind [$0.02 USD].
+portvein_373 posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  As Ac ]
+TilliWilli calls [$0.04 USD]
+MrAiR888 raises [$0.12 USD]
+calliebouman folds
+Stig113 folds
+Eventus4 folds
+Zoranil folds
+SergeiKovil folds
+teufelsumos folds
+portvein_373 folds
+TilliWilli raises [$0.16 USD]
+MrAiR888 calls [$0.08 USD]
+** Dealing Flop ** [ 2h, 4c, 6h ]
+TilliWilli checks
+MrAiR888 bets [$0.22 USD]
+TilliWilli calls [$0.22 USD]
+** Dealing Turn ** [ Kd ]
+TilliWilli checks
+MrAiR888 bets [$0.24 USD]
+TilliWilli raises [$0.48 USD]
+MrAiR888 calls [$0.24 USD]
+** Dealing River ** [ 2d ]
+TilliWilli checks
+MrAiR888 checks
+TilliWilli shows [ As, Ac ]two pairs, Aces and Twos.
+MrAiR888 doesn't show [ 8d, 8h ]two pairs, Eights and Twos.
+TilliWilli wins $1.77 USD from the main pot with two pairs, Aces and Twos.
+Game #14592534610 starts.
+
+#Game No : 14592534610 
+***** Hand History for Game 14592534610 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:43:03 EDT 2015
+Table Grytviken (Real Money)
+Seat 9 is the button
+Total number of players : 9/9 
+Seat 6: Eventus4 ( $4.06 USD )
+Seat 3: MrAiR888 ( $0.35 USD )
+Seat 8: SergeiKovil ( $4.07 USD )
+Seat 5: Stig113 ( $6.36 USD )
+Seat 2: TilliWilli ( $4.04 USD )
+Seat 7: Zoranil ( $4.12 USD )
+Seat 4: calliebouman ( $3.94 USD )
+Seat 1: portvein_373 ( $4 USD )
+Seat 9: teufelsumos ( $7.32 USD )
+portvein_373 posts small blind [$0.02 USD].
+TilliWilli posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qc 4s ]
+MrAiR888 folds
+calliebouman folds
+Stig113 folds
+Eventus4 folds
+Zoranil folds
+SergeiKovil raises [$0.08 USD]
+teufelsumos folds
+portvein_373 raises [$0.22 USD]
+TilliWilli folds
+SergeiKovil folds
+portvein_373 does not show cards.
+portvein_373 wins $0.36 USD
+Game #14592536285 starts.
+
+#Game No : 14592536285 
+***** Hand History for Game 14592536285 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:43:46 EDT 2015
+Table Grytviken (Real Money)
+Seat 1 is the button
+Total number of players : 9/9 
+Seat 6: Eventus4 ( $4.06 USD )
+Seat 3: MrAiR888 ( $0.35 USD )
+Seat 8: SergeiKovil ( $3.99 USD )
+Seat 5: Stig113 ( $6.36 USD )
+Seat 2: TilliWilli ( $4 USD )
+Seat 7: Zoranil ( $4.12 USD )
+Seat 4: calliebouman ( $3.94 USD )
+Seat 1: portvein_373 ( $4.12 USD )
+Seat 9: teufelsumos ( $7.32 USD )
+TilliWilli posts small blind [$0.02 USD].
+MrAiR888 posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4c 2s ]
+calliebouman folds
+Stig113 folds
+Eventus4 folds
+Zoranil folds
+SergeiKovil folds
+teufelsumos folds
+portvein_373 folds
+TilliWilli calls [$0.02 USD]
+MrAiR888 checks
+** Dealing Flop ** [ 3c, Kc, Jh ]
+TilliWilli checks
+MrAiR888 checks
+** Dealing Turn ** [ Ah ]
+TilliWilli bets [$0.04 USD]
+MrAiR888 folds
+TilliWilli does not show cards.
+TilliWilli wins $0.12 USD
+Game #14592538368 starts.
+
+#Game No : 14592538368 
+***** Hand History for Game 14592538368 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:44:26 EDT 2015
+Table Grytviken (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 6: Eventus4 ( $4.06 USD )
+Seat 3: MrAiR888 ( $0.31 USD )
+Seat 8: SergeiKovil ( $3.99 USD )
+Seat 5: Stig113 ( $6.36 USD )
+Seat 2: TilliWilli ( $4.04 USD )
+Seat 7: Zoranil ( $4.12 USD )
+Seat 4: calliebouman ( $3.94 USD )
+Seat 1: portvein_373 ( $4.12 USD )
+Seat 9: teufelsumos ( $7.32 USD )
+MrAiR888 posts small blind [$0.02 USD].
+calliebouman posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qd 9c ]
+Stig113 folds
+Eventus4 folds
+Zoranil folds
+SergeiKovil raises [$0.08 USD]
+teufelsumos folds
+portvein_373 folds
+TilliWilli folds
+MrAiR888 calls [$0.06 USD]
+calliebouman calls [$0.04 USD]
+** Dealing Flop ** [ 4h, 8h, 9s ]
+MrAiR888 bets [$0.17 USD]
+calliebouman folds
+SergeiKovil raises [$0.34 USD]
+MrAiR888 is all-In  [$0.06 USD]
+** Dealing Turn ** [ Jd ]
+** Dealing River ** [ Tc ]
+SergeiKovil shows [ Ah, Js ]a pair of Jacks.
+MrAiR888 shows [ 8d, 7h ]a straight, Seven to Jack.
+SergeiKovil wins $0.11 USD from the side pot 1 with a pair of Jacks.
+MrAiR888 wins $0.67 USD from the main pot with a straight, Seven to Jack.
+Game #14592540556 starts.
+
+#Game No : 14592540556 
+***** Hand History for Game 14592540556 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:45:21 EDT 2015
+Table Grytviken (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 6: Eventus4 ( $4.06 USD )
+Seat 3: MrAiR888 ( $0.67 USD )
+Seat 8: SergeiKovil ( $3.68 USD )
+Seat 5: Stig113 ( $6.36 USD )
+Seat 2: TilliWilli ( $4.04 USD )
+Seat 7: Zoranil ( $4.12 USD )
+Seat 4: calliebouman ( $3.86 USD )
+Seat 1: portvein_373 ( $4.12 USD )
+Seat 9: teufelsumos ( $7.32 USD )
+calliebouman posts small blind [$0.02 USD].
+Stig113 posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4d 9c ]
+Eventus4 folds
+Zoranil folds
+SergeiKovil folds
+teufelsumos folds
+portvein_373 folds
+TilliWilli folds
+MrAiR888 raises [$0.08 USD]
+calliebouman calls [$0.06 USD]
+Stig113 did not respond in time
+Stig113 folds
+** Dealing Flop ** [ 2c, Jc, Kc ]
+calliebouman checks
+MrAiR888 bets [$0.14 USD]
+calliebouman raises [$0.28 USD]
+MrAiR888 is all-In  [$0.45 USD]
+calliebouman calls [$0.31 USD]
+** Dealing Turn ** [ 3c ]
+** Dealing River ** [ 8h ]
+calliebouman shows [ Kh, Js ]two pairs, Kings and Jacks.
+MrAiR888 doesn't show [ Ad, As ]a pair of Aces.
+calliebouman wins $1.32 USD from the main pot with two pairs, Kings and Jacks.
+Game #14592544221 starts.
+
+#Game No : 14592544221 
+***** Hand History for Game 14592544221 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:46:29 EDT 2015
+Table Grytviken (Real Money)
+Seat 4 is the button
+Total number of players : 9/9 
+Seat 6: Eventus4 ( $4.06 USD )
+Seat 3: MrAiR888 ( $0 USD )
+Seat 8: SergeiKovil ( $3.68 USD )
+Seat 5: Stig113 ( $6.32 USD )
+Seat 2: TilliWilli ( $4.04 USD )
+Seat 7: Zoranil ( $4.12 USD )
+Seat 4: calliebouman ( $4.51 USD )
+Seat 1: portvein_373 ( $4.12 USD )
+Seat 9: teufelsumos ( $7.32 USD )
+Eventus4 posts small blind [$0.02 USD].
+Zoranil posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9c Tc ]
+SergeiKovil folds
+teufelsumos folds
+portvein_373 raises [$0.12 USD]
+TilliWilli folds
+calliebouman folds
+Eventus4 folds
+Zoranil folds
+portvein_373 does not show cards.
+portvein_373 wins $0.18 USD
+Game #14592545118 starts.
+
+#Game No : 14592545118 
+***** Hand History for Game 14592545118 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:46:52 EDT 2015
+Table Grytviken (Real Money)
+Seat 6 is the button
+Total number of players : 9/9 
+Seat 6: Eventus4 ( $4.04 USD )
+Seat 3: MrAiR888 ( $2 USD )
+Seat 8: SergeiKovil ( $3.68 USD )
+Seat 5: Stig113 ( $6.32 USD )
+Seat 2: TilliWilli ( $4.04 USD )
+Seat 7: Zoranil ( $4.08 USD )
+Seat 4: calliebouman ( $4.51 USD )
+Seat 1: portvein_373 ( $4.18 USD )
+Seat 9: teufelsumos ( $7.32 USD )
+Zoranil posts small blind [$0.02 USD].
+SergeiKovil posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3c 3h ]
+teufelsumos folds
+portvein_373 folds
+TilliWilli calls [$0.04 USD]
+MrAiR888 raises [$0.08 USD]
+calliebouman folds
+Eventus4 folds
+Zoranil folds
+SergeiKovil folds
+TilliWilli calls [$0.04 USD]
+** Dealing Flop ** [ 8c, 6h, Qh ]
+TilliWilli checks
+MrAiR888 bets [$0.10 USD]
+TilliWilli folds
+MrAiR888 does not show cards.
+MrAiR888 wins $0.31 USD
+Game #14592546599 starts.
+
+#Game No : 14592546599 
+***** Hand History for Game 14592546599 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:47:30 EDT 2015
+Table Grytviken (Real Money)
+Seat 7 is the button
+Total number of players : 9/9 
+Seat 6: Eventus4 ( $4.04 USD )
+Seat 3: MrAiR888 ( $2.13 USD )
+Seat 8: SergeiKovil ( $3.64 USD )
+Seat 5: Stig113 ( $6.32 USD )
+Seat 2: TilliWilli ( $3.96 USD )
+Seat 7: Zoranil ( $4.06 USD )
+Seat 4: calliebouman ( $4.51 USD )
+Seat 1: portvein_373 ( $4.18 USD )
+Seat 9: teufelsumos ( $7.32 USD )
+SergeiKovil posts small blind [$0.02 USD].
+teufelsumos posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  6h 2c ]
+portvein_373 folds
+TilliWilli folds
+MrAiR888 folds
+calliebouman calls [$0.04 USD]
+Eventus4 folds
+Zoranil folds
+SergeiKovil folds
+teufelsumos checks
+** Dealing Flop ** [ 4s, 8s, Tc ]
+teufelsumos checks
+calliebouman checks
+** Dealing Turn ** [ As ]
+teufelsumos checks
+calliebouman bets [$0.10 USD]
+teufelsumos folds
+calliebouman does not show cards.
+calliebouman wins $0.20 USD
+Game #14592548285 starts.
+
+#Game No : 14592548285 
+***** Hand History for Game 14592548285 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:48:15 EDT 2015
+Table Grytviken (Real Money)
+Seat 8 is the button
+Total number of players : 9/9 
+Seat 6: Eventus4 ( $4.04 USD )
+Seat 3: MrAiR888 ( $2.13 USD )
+Seat 8: SergeiKovil ( $3.62 USD )
+Seat 5: Stig113 ( $6.32 USD )
+Seat 2: TilliWilli ( $3.96 USD )
+Seat 7: Zoranil ( $4.06 USD )
+Seat 4: calliebouman ( $4.57 USD )
+Seat 1: portvein_373 ( $4.18 USD )
+Seat 9: teufelsumos ( $7.28 USD )
+teufelsumos posts small blind [$0.02 USD].
+portvein_373 posts big blind [$0.04 USD].
+Stig113 posts small blind [$0.02 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ks Js ]
+TilliWilli raises [$0.08 USD]
+MrAiR888 folds
+calliebouman folds
+Stig113 calls [$0.06 USD]
+Eventus4 folds
+Zoranil folds
+SergeiKovil folds
+teufelsumos calls [$0.06 USD]
+portvein_373 folds
+** Dealing Flop ** [ Qd, 4c, 5c ]
+teufelsumos checks
+TilliWilli bets [$0.08 USD]
+Stig113 folds
+teufelsumos folds
+TilliWilli does not show cards.
+TilliWilli wins $0.35 USD
+Game #14592550905 starts.
+
+#Game No : 14592550905 
+***** Hand History for Game 14592550905 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:49:10 EDT 2015
+Table Grytviken (Real Money)
+Seat 9 is the button
+Total number of players : 9/9 
+Seat 6: Eventus4 ( $4.04 USD )
+Seat 3: MrAiR888 ( $2.13 USD )
+Seat 8: SergeiKovil ( $3.62 USD )
+Seat 5: Stig113 ( $6.24 USD )
+Seat 2: TilliWilli ( $4.15 USD )
+Seat 7: Zoranil ( $4.06 USD )
+Seat 4: calliebouman ( $4.57 USD )
+Seat 1: portvein_373 ( $4.14 USD )
+Seat 9: teufelsumos ( $7.20 USD )
+portvein_373 posts small blind [$0.02 USD].
+TilliWilli posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3h 8d ]
+MrAiR888 raises [$0.12 USD]
+calliebouman folds
+Stig113 folds
+Eventus4 folds
+Zoranil folds
+SergeiKovil calls [$0.12 USD]
+teufelsumos folds
+portvein_373 folds
+TilliWilli folds
+** Dealing Flop ** [ Ah, 9s, 3s ]
+MrAiR888 bets [$0.14 USD]
+SergeiKovil calls [$0.14 USD]
+** Dealing Turn ** [ 4s ]
+MrAiR888 bets [$0.28 USD]
+SergeiKovil raises [$0.68 USD]
+MrAiR888 folds
+SergeiKovil does not show cards.
+SergeiKovil wins $1.49 USD
+Game #14592554067 starts.
+
+#Game No : 14592554067 
+***** Hand History for Game 14592554067 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:50:18 EDT 2015
+Table Grytviken (Real Money)
+Seat 1 is the button
+Total number of players : 9/9 
+Seat 6: Eventus4 ( $4.04 USD )
+Seat 3: MrAiR888 ( $1.59 USD )
+Seat 8: SergeiKovil ( $4.17 USD )
+Seat 5: Stig113 ( $6.24 USD )
+Seat 2: TilliWilli ( $4.11 USD )
+Seat 7: Zoranil ( $4.06 USD )
+Seat 4: calliebouman ( $4.57 USD )
+Seat 1: portvein_373 ( $4.12 USD )
+Seat 9: teufelsumos ( $7.20 USD )
+TilliWilli posts small blind [$0.02 USD].
+MrAiR888 posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8s 5s ]
+calliebouman folds
+Stig113 did not respond in time
+Stig113 folds
+Eventus4 calls [$0.04 USD]
+Zoranil folds
+SergeiKovil folds
+teufelsumos calls [$0.04 USD]
+portvein_373 folds
+TilliWilli calls [$0.02 USD]
+MrAiR888 checks
+** Dealing Flop ** [ Qh, 2h, Tc ]
+TilliWilli checks
+MrAiR888 bets [$0.08 USD]
+Eventus4 calls [$0.08 USD]
+teufelsumos folds
+TilliWilli folds
+** Dealing Turn ** [ Kd ]
+MrAiR888 checks
+Eventus4 bets [$0.31 USD]
+MrAiR888 folds
+Eventus4 does not show cards.
+Eventus4 wins $0.62 USD
+Game #14592557764 starts.
+
+#Game No : 14592557764 
+***** Hand History for Game 14592557764 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:51:40 EDT 2015
+Table Grytviken (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 6: Eventus4 ( $4.23 USD )
+Seat 3: MrAiR888 ( $1.47 USD )
+Seat 8: SergeiKovil ( $4.17 USD )
+Seat 5: Stig113 ( $6.24 USD )
+Seat 2: TilliWilli ( $4.07 USD )
+Seat 7: Zoranil ( $4.06 USD )
+Seat 4: calliebouman ( $4.57 USD )
+Seat 1: portvein_373 ( $4.12 USD )
+Seat 9: teufelsumos ( $7.16 USD )
+MrAiR888 posts small blind [$0.02 USD].
+calliebouman posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3s 8d ]
+Stig113 folds
+Eventus4 folds
+Zoranil folds
+SergeiKovil folds
+teufelsumos folds
+portvein_373 folds
+TilliWilli calls [$0.04 USD]
+MrAiR888 raises [$0.06 USD]
+calliebouman folds
+TilliWilli calls [$0.04 USD]
+** Dealing Flop ** [ Qd, 9c, Jc ]
+MrAiR888 bets [$0.14 USD]
+TilliWilli calls [$0.14 USD]
+** Dealing Turn ** [ 5d ]
+MrAiR888 bets [$0.34 USD]
+TilliWilli folds
+MrAiR888 does not show cards.
+MrAiR888 wins $0.80 USD
+Game #14592559466 starts.
+
+#Game No : 14592559466 
+***** Hand History for Game 14592559466 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:52:23 EDT 2015
+Table Grytviken (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 6: Eventus4 ( $4.23 USD )
+Seat 3: MrAiR888 ( $1.71 USD )
+Seat 8: SergeiKovil ( $4.17 USD )
+Seat 5: Stig113 ( $6.24 USD )
+Seat 2: TilliWilli ( $3.85 USD )
+Seat 7: Zoranil ( $4.06 USD )
+Seat 4: calliebouman ( $4.53 USD )
+Seat 1: portvein_373 ( $4.12 USD )
+Seat 9: teufelsumos ( $7.16 USD )
+calliebouman posts small blind [$0.02 USD].
+Stig113 posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4d 8h ]
+Eventus4 raises [$0.12 USD]
+Zoranil folds
+SergeiKovil folds
+teufelsumos calls [$0.12 USD]
+portvein_373 folds
+TilliWilli folds
+MrAiR888 folds
+calliebouman folds
+Stig113 folds
+** Dealing Flop ** [ 6s, 7s, Ks ]
+Eventus4 checks
+teufelsumos bets [$0.21 USD]
+Eventus4 calls [$0.21 USD]
+** Dealing Turn ** [ 9c ]
+Eventus4 checks
+teufelsumos checks
+** Dealing River ** [ Kh ]
+Eventus4 checks
+teufelsumos checks
+Eventus4 shows [ Qh, Qs ]two pairs, Kings and Queens.
+teufelsumos doesn't show [ Ts, Th ]two pairs, Kings and Tens.
+Eventus4 wins $0.69 USD from the main pot with two pairs, Kings and Queens.
+Game #14592561322 starts.
+
+#Game No : 14592561322 
+***** Hand History for Game 14592561322 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:53:10 EDT 2015
+Table Grytviken (Real Money)
+Seat 4 is the button
+Total number of players : 9/9 
+Seat 6: Eventus4 ( $4.59 USD )
+Seat 3: MrAiR888 ( $1.71 USD )
+Seat 8: SergeiKovil ( $4.17 USD )
+Seat 5: Stig113 ( $6.20 USD )
+Seat 2: TilliWilli ( $3.85 USD )
+Seat 7: Zoranil ( $4.06 USD )
+Seat 4: calliebouman ( $4.51 USD )
+Seat 1: portvein_373 ( $4.12 USD )
+Seat 9: teufelsumos ( $6.83 USD )
+Stig113 posts small blind [$0.02 USD].
+Eventus4 posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5c 5s ]
+Zoranil folds
+SergeiKovil raises [$0.08 USD]
+teufelsumos folds
+portvein_373 calls [$0.08 USD]
+TilliWilli calls [$0.08 USD]
+MrAiR888 folds
+calliebouman calls [$0.08 USD]
+Stig113 folds
+Eventus4 calls [$0.04 USD]
+** Dealing Flop ** [ 8c, Kc, 5h ]
+Eventus4 checks
+SergeiKovil checks
+portvein_373 checks
+TilliWilli checks
+calliebouman checks
+** Dealing Turn ** [ Qc ]
+Eventus4 checks
+SergeiKovil checks
+portvein_373 checks
+TilliWilli bets [$0.15 USD]
+calliebouman folds
+Eventus4 folds
+SergeiKovil folds
+portvein_373 folds
+TilliWilli does not show cards.
+TilliWilli wins $0.55 USD
+Game #14592565033 starts.
+
+#Game No : 14592565033 
+***** Hand History for Game 14592565033 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:54:19 EDT 2015
+Table Grytviken (Real Money)
+Seat 5 is the button
+Total number of players : 9/9 
+Seat 6: Eventus4 ( $4.51 USD )
+Seat 3: MrAiR888 ( $1.71 USD )
+Seat 8: SergeiKovil ( $4.09 USD )
+Seat 5: Stig113 ( $6.18 USD )
+Seat 2: TilliWilli ( $4.17 USD )
+Seat 7: Zoranil ( $4.06 USD )
+Seat 4: calliebouman ( $4.43 USD )
+Seat 1: portvein_373 ( $4.04 USD )
+Seat 9: teufelsumos ( $6.83 USD )
+Eventus4 posts small blind [$0.02 USD].
+Zoranil posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ks 3h ]
+SergeiKovil folds
+teufelsumos folds
+portvein_373 folds
+TilliWilli folds
+MrAiR888 raises [$0.08 USD]
+calliebouman folds
+Stig113 did not respond in time
+Stig113 folds
+Eventus4 folds
+Zoranil folds
+MrAiR888 does not show cards.
+MrAiR888 wins $0.14 USD
+Game #14592567080 starts.
+
+#Game No : 14592567080 
+***** Hand History for Game 14592567080 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:54:59 EDT 2015
+Table Grytviken (Real Money)
+Seat 6 is the button
+Total number of players : 9/9 
+Seat 6: Eventus4 ( $4.49 USD )
+Seat 3: MrAiR888 ( $1.77 USD )
+Seat 8: SergeiKovil ( $4.09 USD )
+Seat 5: Stig113 ( $6.18 USD )
+Seat 2: TilliWilli ( $4.17 USD )
+Seat 7: Zoranil ( $4.02 USD )
+Seat 4: calliebouman ( $4.43 USD )
+Seat 1: portvein_373 ( $4.04 USD )
+Seat 9: teufelsumos ( $6.83 USD )
+Zoranil posts small blind [$0.02 USD].
+SergeiKovil posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5h Kh ]
+teufelsumos folds
+portvein_373 folds
+TilliWilli folds
+MrAiR888 folds
+calliebouman folds
+Stig113 folds
+Eventus4 calls [$0.04 USD]
+Zoranil calls [$0.02 USD]
+SergeiKovil checks
+** Dealing Flop ** [ Qh, Kd, Js ]
+Zoranil checks
+SergeiKovil checks
+Eventus4 checks
+** Dealing Turn ** [ Qs ]
+Zoranil checks
+SergeiKovil checks
+Eventus4 checks
+** Dealing River ** [ Jh ]
+Zoranil checks
+SergeiKovil checks
+Eventus4 bets [$0.04 USD]
+Zoranil folds
+SergeiKovil folds
+Eventus4 does not show cards.
+Eventus4 wins $0.16 USD
+Game #14592569031 starts.
+
+#Game No : 14592569031 
+***** Hand History for Game 14592569031 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:55:50 EDT 2015
+Table Grytviken (Real Money)
+Seat 7 is the button
+Total number of players : 9/9 
+Seat 6: Eventus4 ( $4.57 USD )
+Seat 3: MrAiR888 ( $1.77 USD )
+Seat 8: SergeiKovil ( $4.05 USD )
+Seat 5: Stig113 ( $6.18 USD )
+Seat 2: TilliWilli ( $4.17 USD )
+Seat 7: Zoranil ( $3.98 USD )
+Seat 4: calliebouman ( $4.43 USD )
+Seat 1: portvein_373 ( $4.04 USD )
+Seat 9: teufelsumos ( $6.83 USD )
+teufelsumos posts small blind [$0.02 USD].
+portvein_373 posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9c 4c ]
+TilliWilli folds
+MrAiR888 folds
+calliebouman calls [$0.04 USD]
+SergeiKovil has left the table.
+Stig113 folds
+Eventus4 folds
+Zoranil folds
+teufelsumos folds
+portvein_373 checks
+** Dealing Flop ** [ 7c, 2c, Qc ]
+portvein_373 checks
+calliebouman checks
+** Dealing Turn ** [ 6d ]
+portvein_373 checks
+calliebouman checks
+** Dealing River ** [ As ]
+portvein_373 checks
+calliebouman bets [$0.10 USD]
+portvein_373 folds
+calliebouman does not show cards.
+calliebouman wins $0.20 USD
+Zoranil has left the table.
+Game #14592570841 starts.
+
+#Game No : 14592570841 
+***** Hand History for Game 14592570841 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:56:49 EDT 2015
+Table Grytviken (Real Money)
+Seat 9 is the button
+Total number of players : 7/9 
+Seat 6: Eventus4 ( $4.57 USD )
+Seat 3: MrAiR888 ( $1.77 USD )
+Seat 5: Stig113 ( $6.18 USD )
+Seat 2: TilliWilli ( $4.17 USD )
+Seat 4: calliebouman ( $4.49 USD )
+Seat 1: portvein_373 ( $4 USD )
+Seat 9: teufelsumos ( $6.81 USD )
+portvein_373 posts small blind [$0.02 USD].
+TilliWilli posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  7c 2s ]
+MrAiR888 raises [$0.08 USD]
+calliebouman folds
+Stig113 folds
+Eventus4 folds
+teufelsumos folds
+portvein_373 folds
+TilliWilli folds
+MrAiR888 does not show cards.
+MrAiR888 wins $0.14 USD
+Game #14592571323 starts.
+
+#Game No : 14592571323 
+***** Hand History for Game 14592571323 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:57:06 EDT 2015
+Table Grytviken (Real Money)
+Seat 1 is the button
+Total number of players : 7/9 
+Seat 6: Eventus4 ( $4.57 USD )
+Seat 3: MrAiR888 ( $1.83 USD )
+Seat 5: Stig113 ( $6.18 USD )
+Seat 2: TilliWilli ( $4.13 USD )
+Seat 4: calliebouman ( $4.49 USD )
+Seat 1: portvein_373 ( $4 USD )
+Seat 9: teufelsumos ( $6.81 USD )
+TilliWilli posts small blind [$0.02 USD].
+MrAiR888 posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qd 6d ]
+calliebouman calls [$0.04 USD]
+Stig113 folds
+Eventus4 folds
+teufelsumos calls [$0.04 USD]
+portvein_373 folds
+TilliWilli calls [$0.02 USD]
+MrAiR888 checks
+** Dealing Flop ** [ 2s, 6h, 4h ]
+TilliWilli bets [$0.08 USD]
+MrAiR888 raises [$0.20 USD]
+calliebouman folds
+teufelsumos folds
+TilliWilli raises [$0.52 USD]
+MrAiR888 calls [$0.40 USD]
+** Dealing Turn ** [ 8h ]
+TilliWilli checks
+MrAiR888 bets [$0.40 USD]
+TilliWilli folds
+MrAiR888 does not show cards.
+MrAiR888 wins $1.70 USD
+calliebouman has left the table.
+Game #14592573637 starts.
+
+#Game No : 14592573637 
+***** Hand History for Game 14592573637 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:58:10 EDT 2015
+Table Grytviken (Real Money)
+Seat 2 is the button
+Total number of players : 6/9 
+Seat 6: Eventus4 ( $4.57 USD )
+Seat 3: MrAiR888 ( $2.49 USD )
+Seat 5: Stig113 ( $6.18 USD )
+Seat 2: TilliWilli ( $3.49 USD )
+Seat 1: portvein_373 ( $4 USD )
+Seat 9: teufelsumos ( $6.77 USD )
+MrAiR888 posts small blind [$0.02 USD].
+Eventus4 posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2h Kd ]
+teufelsumos folds
+portvein_373 has left the table.
+TilliWilli folds
+MrAiR888 raises [$0.06 USD]
+Eventus4 calls [$0.04 USD]
+** Dealing Flop ** [ 2s, 6s, Ks ]
+MrAiR888 bets [$0.12 USD]
+Eventus4 folds
+MrAiR888 does not show cards.
+MrAiR888 wins $0.28 USD
+Game #14592574479 starts.
+
+#Game No : 14592574479 
+***** Hand History for Game 14592574479 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:58:40 EDT 2015
+Table Grytviken (Real Money)
+Seat 3 is the button
+Total number of players : 5/9 
+Seat 6: Eventus4 ( $4.49 USD )
+Seat 3: MrAiR888 ( $2.57 USD )
+Seat 5: Stig113 ( $6.18 USD )
+Seat 2: TilliWilli ( $3.49 USD )
+Seat 9: teufelsumos ( $6.77 USD )
+Eventus4 posts small blind [$0.02 USD].
+teufelsumos posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qh Ks ]
+TilliWilli raises [$0.08 USD]
+MrAiR888 folds
+Eventus4 calls [$0.06 USD]
+teufelsumos calls [$0.04 USD]
+** Dealing Flop ** [ 7c, 5h, 4s ]
+Eventus4 checks
+teufelsumos checks
+TilliWilli bets [$0.23 USD]
+Eventus4 folds
+teufelsumos calls [$0.23 USD]
+** Dealing Turn ** [ 7h ]
+teufelsumos checks
+TilliWilli bets [$0.50 USD]
+teufelsumos is all-In  [$6.46 USD]
+Your time bank will be activated in 6 secs. If you do not want it to be used, please act now.
+TilliWilli will be using their time bank for this hand.
+Currently you do not have any time left in your Time Bank and your hand has been checked.
+TilliWilli did not respond in time
+TilliWilli folds
+teufelsumos does not show cards.
+teufelsumos wins $7.58 USD
+MrAiR888 has left the table.
+Game #14592577005 starts.
+
+#Game No : 14592577005 
+***** Hand History for Game 14592577005 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 15:59:52 EDT 2015
+Table Grytviken (Real Money)
+Seat 6 is the button
+Total number of players : 4/9 
+Seat 6: Eventus4 ( $4.41 USD )
+Seat 5: Stig113 ( $6.18 USD )
+Seat 2: TilliWilli ( $2.68 USD )
+Seat 9: teufelsumos ( $7.58 USD )
+teufelsumos posts small blind [$0.02 USD].
+TilliWilli posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qs 4h ]
+Eventus4 folds
+teufelsumos folds
+TilliWilli does not show cards.
+TilliWilli wins $0.06 USD
+Game #14592577312 starts.
+
+#Game No : 14592577312 
+***** Hand History for Game 14592577312 *****
+$0.02/$0.04 USD NL Texas Hold'em - Wednesday, May 27, 16:00:03 EDT 2015
+Table Grytviken (Real Money)
+Seat 9 is the button
+Total number of players : 4/9 
+Seat 6: Eventus4 ( $4.41 USD )
+Seat 5: Stig113 ( $6.18 USD )
+Seat 2: TilliWilli ( $2.70 USD )
+Seat 9: teufelsumos ( $7.56 USD )
+TilliWilli posts small blind [$0.02 USD].
+Eventus4 posts big blind [$0.04 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4h Ks ]
+teufelsumos folds
+TilliWilli calls [$0.02 USD]
+Eventus4 raises [$0.08 USD]
+TilliWilli calls [$0.08 USD]
+** Dealing Flop ** [ 6h, 4s, 9s ]
+TilliWilli checks
+Eventus4 bets [$0.17 USD]
+TilliWilli calls [$0.17 USD]
+** Dealing Turn ** [ Qc ]
+TilliWilli bets [$0.16 USD]
+Eventus4 raises [$0.78 USD]
+TilliWilli is all-In  [$2.25 USD]
+Eventus4 calls [$1.63 USD]
+** Dealing River ** [ Ad ]
+Eventus4 shows [ Qh, Jh ]a pair of Queens.
+TilliWilli doesn't show [ 4h, Ks ]a pair of Fours.
+Eventus4 wins $5.13 USD from the main pot with a pair of Queens.

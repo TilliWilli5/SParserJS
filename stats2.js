@@ -50,19 +50,19 @@ CPPPGame.default = {
 	myPosition:0,
 	depositStart:0,
 	//
-	preFlopActions:[],	//["check", "call 0.04", "raise 0.16", "fold", "all-in 3.75"]
-	flopActions:[],
-	turnActions:[],
-	riverActions:[],
+	actionsPreFlop:[],	//["check", "call 0.04", "raise 0.16", "fold", "all-in 3.75"]
+	actionsFlop:[],
+	actionsTurn:[],
+	actionsRiver:[],
 	//
 	myCard1:null,		//"Ac"
 	myCard2:null,		//"Td"
-	flopCards:null,		//"5s Jh 7d"
-	turnCards:null, 	//"2s"
-	riverCards:null,	//"9s"
+	cardsFlop:null,		//"5s Jh 7d"
+	cardsTurn:null, 	//"2s"
+	cardsRiver:null,	//"9s"
 	//
-	showdown:null,	//true, false
-	win:null		//true, false
+	showdowns:[], // MrAiR888 shows [ 9c, 9s ]two pairs, Nines and Sevens.
+	winners:[]		//who win : MrAiR888 wins $1.32 USD from the main pot with two pairs, Nines and Sevens.
 };
 CPPPGame.ECardsRank = {
 	0:"2",

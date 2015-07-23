@@ -49,7 +49,7 @@ var CParserPartyPoker = CParser.Extend
 			var gameStatements = games[iX].split("\n");
 			var game = new CPPPGame.Create();
 			game.Initialize();
-			game.id = parseInt(gameStatements[0] - 1);
+			game.id = parseInt(gameStatements[0]);
 
 			{
 				//Blinds
@@ -82,7 +82,8 @@ var CParserPartyPoker = CParser.Extend
 				var flopLineAnchor = 0;
 				var turnLineAnchor = 0;
 				var riverLineAnchor = 0;
-				for(var iZ=6; iZ<gameStatements.length; ++iZ)
+				var lastLineAnchor = gameStatements.length;
+				for(var iZ=6; iZ<lastLineAnchor; ++iZ)
 				{
 					if(gameStatements[iZ].slice(0, 10) === "** Dealing")
 					{
@@ -102,23 +103,22 @@ var CParserPartyPoker = CParser.Extend
 				game.actionsRiver = [];
 				
 				if(preFlopLineAnchor !== 0)
-					for(var iZ=preFlopLineAnchor; iZ<flopLineAnchor; ++iZ)
+					for(var iZ=preFlopLineAnchor + 1; iZ<(flopLineAnchor || lastLineAnchor); ++iZ)
 					{
-						
 						game.actionsPreFlop.push(gameStatements[iZ]);
 					}
 				if(flopLineAnchor !== 0)
-					for(var iZ=flopLineAnchor; iZ<turnLineAnchor; ++iZ)
+					for(var iZ=flopLineAnchor + 1; iZ<(turnLineAnchor || lastLineAnchor); ++iZ)
 					{
 						game.actionsFlop.push(gameStatements[iZ]);
 					}
 				if(turnLineAnchor !== 0)
-					for(var iZ=turnLineAnchor; iZ<riverLineAnchor; ++iZ)
+					for(var iZ=turnLineAnchor + 1; iZ<(riverLineAnchor || lastLineAnchor); ++iZ)
 					{
 						game.actionsTurn.push(gameStatements[iZ]);
 					}
 				if(riverLineAnchor !== 0)
-					for(var iZ=riverLineAnchor; iZ<(gameStatements.length-3); ++iZ)
+					for(var iZ=riverLineAnchor + 1; iZ<(lastLineAnchor - 3); ++iZ)
 					{
 						game.actionsRiver.push(gameStatements[iZ]);
 					}
@@ -155,7 +155,7 @@ var CParserPartyPoker = CParser.Extend
 							}
 							else
 							{
-								for(var iZ=preFlopLineAnchor; iZ<flopLineAnchor; ++iZ)
+								for(var iZ=preFlopLineAnchor; iZ<(flopLineAnchor || lastLineAnchor); ++iZ)
 								{
 									if(gameStatements[iZ].indexOf("shows") !== -1)
 										game.showdowns.push(gameStatements[iZ]);
@@ -166,7 +166,7 @@ var CParserPartyPoker = CParser.Extend
 						}
 						else
 						{
-							for(var iZ=flopLineAnchor; iZ<turnLineAnchor; ++iZ)
+							for(var iZ=flopLineAnchor; iZ<(turnLineAnchor || lastLineAnchor); ++iZ)
 							{
 								if(gameStatements[iZ].indexOf("shows") !== -1)
 									game.showdowns.push(gameStatements[iZ]);
@@ -177,7 +177,7 @@ var CParserPartyPoker = CParser.Extend
 					}
 					else
 					{
-						for(var iZ=turnLineAnchor; iZ<riverLineAnchor; ++iZ)
+						for(var iZ=turnLineAnchor; iZ<(riverLineAnchor || lastLineAnchor); ++iZ)
 						{
 							if(gameStatements[iZ].indexOf("shows") !== -1)
 								game.showdowns.push(gameStatements[iZ]);
@@ -188,7 +188,7 @@ var CParserPartyPoker = CParser.Extend
 				}
 				else
 				{
-					for(var iZ=riverLineAnchor; iZ<(gameStatements.length-3); ++iZ)
+					for(var iZ=riverLineAnchor; iZ<(lastLineAnchor - 3); ++iZ)
 					{
 						if(gameStatements[iZ].indexOf("shows") !== -1)
 							game.showdowns.push(gameStatements[iZ]);

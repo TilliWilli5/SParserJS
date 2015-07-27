@@ -1,0 +1,15 @@
+.CValueTable
+{
+border:1px solid slategray;
+background-color:skyblue;
+text-shadow: 0px 0px 1px black;
+cell-spacing:0;
+//border:0;
+}
+.CValueTable td
+{
+border:1px solid slategray;
+text-shadow: 0px 0px 1px black;
+cell-spacing:0;
+//border:0;
+}

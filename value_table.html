@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+	<meta charset="UTF-8">
+	<title>SParserJS</title>
+	
+	<link rel="stylesheet" type="text/css" href="value_table.css">
+	
+	<script src="fileLoader.js"></script>
+	<script src="base.js"></script>
+	<script src="stats2.js"></script>
+	<script src="parserCollections.js"></script>
+	<script src="parserManager.js"></script>
+</head>
+<body>
+	<script>
+		var theImage = document.createElement("table");
+		theImage.className = "CValueTable";
+		theImage.cellSpacing = 0;
+			for(var iX=0; CPPPGame.ECardsRank[iX]; ++iX)
+			{
+				var row = document.createElement("tr");
+				for(var iY=0; CPPPGame.ECardsRank[iY]; ++iY)
+				{
+					var cell = document.createElement("td")
+					cell.innerHTML = CPPPGame.ECardsRank[iX] + " " + CPPPGame.ECardsRank[iY];
+					row.appendChild(cell);
+				}
+				theImage.appendChild(row);
+			}
+		document.body.appendChild(theImage);
+	</script>
+</body>
+</html>

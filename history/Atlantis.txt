@@ -1,0 +1,2968 @@
+Game #14698850957 starts.
+
+#Game No : 14698850957 
+***** Hand History for Game 14698850957 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:26:56 EDT 2015
+Table Atlantis (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 3: ApostFurtivo ( $25 USD )
+Seat 1: Belongil ( $49.64 USD )
+Seat 2: LifeInDaTrash ( $31.36 USD )
+Seat 5: TilliWilli ( $25 USD )
+Seat 4: valuebluff99 ( $22.08 USD )
+Seat 6: zulk75 ( $5.85 USD )
+valuebluff99 posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  6h 8h ]
+zulk75 folds
+Belongil raises [$0.75 USD]
+LifeInDaTrash folds
+ApostFurtivo folds
+valuebluff99 calls [$0.65 USD]
+TilliWilli folds
+** Dealing Flop ** [ Jc, 3c, Jd ]
+valuebluff99 checks
+Belongil bets [$1.25 USD]
+valuebluff99 folds
+Belongil does not show cards.
+Belongil wins $2.92 USD
+Game #14698851583 starts.
+
+#Game No : 14698851583 
+***** Hand History for Game 14698851583 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:27:33 EDT 2015
+Table Atlantis (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 3: ApostFurtivo ( $25 USD )
+Seat 1: Belongil ( $50.56 USD )
+Seat 2: LifeInDaTrash ( $31.36 USD )
+Seat 5: TilliWilli ( $24.75 USD )
+Seat 4: valuebluff99 ( $21.33 USD )
+Seat 6: zulk75 ( $5.85 USD )
+TilliWilli posts small blind [$0.10 USD].
+zulk75 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5h 6d ]
+Belongil folds
+LifeInDaTrash folds
+ApostFurtivo raises [$0.75 USD]
+valuebluff99 folds
+TilliWilli folds
+zulk75 folds
+ApostFurtivo does not show cards.
+ApostFurtivo wins $1.10 USD
+Game #14698852072 starts.
+
+#Game No : 14698852072 
+***** Hand History for Game 14698852072 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:28:02 EDT 2015
+Table Atlantis (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 3: ApostFurtivo ( $25.35 USD )
+Seat 1: Belongil ( $50.56 USD )
+Seat 2: LifeInDaTrash ( $31.36 USD )
+Seat 5: TilliWilli ( $24.65 USD )
+Seat 4: valuebluff99 ( $21.33 USD )
+Seat 6: zulk75 ( $5.60 USD )
+zulk75 posts small blind [$0.10 USD].
+Belongil posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5h 9s ]
+LifeInDaTrash folds
+ApostFurtivo folds
+valuebluff99 folds
+TilliWilli folds
+zulk75 raises [$0.65 USD]
+Belongil folds
+zulk75 does not show cards.
+zulk75 wins $1 USD
+Game #14698852963 starts.
+
+#Game No : 14698852963 
+***** Hand History for Game 14698852963 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:28:26 EDT 2015
+Table Atlantis (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 3: ApostFurtivo ( $25.35 USD )
+Seat 1: Belongil ( $50.31 USD )
+Seat 2: LifeInDaTrash ( $31.36 USD )
+Seat 5: TilliWilli ( $24.65 USD )
+Seat 4: valuebluff99 ( $21.33 USD )
+Seat 6: zulk75 ( $5.85 USD )
+Belongil posts small blind [$0.10 USD].
+LifeInDaTrash posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Js 4s ]
+ApostFurtivo folds
+valuebluff99 folds
+TilliWilli folds
+zulk75 folds
+Belongil raises [$0.65 USD]
+LifeInDaTrash folds
+Belongil does not show cards.
+Belongil wins $1 USD
+Game #14698853340 starts.
+
+#Game No : 14698853340 
+***** Hand History for Game 14698853340 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:28:48 EDT 2015
+Table Atlantis (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 3: ApostFurtivo ( $25.35 USD )
+Seat 1: Belongil ( $50.56 USD )
+Seat 2: LifeInDaTrash ( $31.11 USD )
+Seat 5: TilliWilli ( $24.65 USD )
+Seat 4: valuebluff99 ( $25 USD )
+Seat 6: zulk75 ( $5.85 USD )
+LifeInDaTrash posts small blind [$0.10 USD].
+ApostFurtivo posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4d 9c ]
+valuebluff99 folds
+TilliWilli folds
+zulk75 folds
+Belongil raises [$0.75 USD]
+LifeInDaTrash raises [$2.40 USD]
+ApostFurtivo folds
+Belongil folds
+LifeInDaTrash does not show cards.
+LifeInDaTrash wins $3.50 USD
+Game #14698853823 starts.
+
+#Game No : 14698853823 
+***** Hand History for Game 14698853823 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:29:16 EDT 2015
+Table Atlantis (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 3: ApostFurtivo ( $25.10 USD )
+Seat 1: Belongil ( $49.81 USD )
+Seat 2: LifeInDaTrash ( $32.11 USD )
+Seat 5: TilliWilli ( $24.65 USD )
+Seat 4: valuebluff99 ( $25 USD )
+Seat 6: zulk75 ( $5.85 USD )
+ApostFurtivo posts small blind [$0.10 USD].
+valuebluff99 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8d 9h ]
+TilliWilli raises [$0.50 USD]
+zulk75 folds
+Belongil calls [$0.50 USD]
+LifeInDaTrash raises [$2.25 USD]
+ApostFurtivo folds
+valuebluff99 folds
+TilliWilli folds
+Belongil calls [$1.75 USD]
+** Dealing Flop ** [ 6c, Ah, 5h ]
+Belongil checks
+LifeInDaTrash bets [$2.62 USD]
+Belongil folds
+LifeInDaTrash does not show cards.
+LifeInDaTrash wins $7.71 USD
+Game #14698854519 starts.
+
+#Game No : 14698854519 
+***** Hand History for Game 14698854519 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:29:58 EDT 2015
+Table Atlantis (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 3: ApostFurtivo ( $25 USD )
+Seat 1: Belongil ( $47.56 USD )
+Seat 2: LifeInDaTrash ( $34.95 USD )
+Seat 5: TilliWilli ( $24.15 USD )
+Seat 4: valuebluff99 ( $24.75 USD )
+Seat 6: zulk75 ( $5.85 USD )
+valuebluff99 posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5c 3d ]
+zulk75 folds
+Belongil raises [$0.75 USD]
+LifeInDaTrash folds
+ApostFurtivo folds
+valuebluff99 folds
+Your time bank will be activated in 6 secs. If you do not want it to be used, please act now.
+TilliWilli folds
+Belongil does not show cards.
+Belongil wins $1.10 USD
+Game #14698855287 starts.
+
+#Game No : 14698855287 
+***** Hand History for Game 14698855287 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:30:41 EDT 2015
+Table Atlantis (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 3: ApostFurtivo ( $25 USD )
+Seat 1: Belongil ( $47.91 USD )
+Seat 2: LifeInDaTrash ( $34.95 USD )
+Seat 5: TilliWilli ( $23.90 USD )
+Seat 4: valuebluff99 ( $24.65 USD )
+Seat 6: zulk75 ( $5.85 USD )
+TilliWilli posts small blind [$0.10 USD].
+zulk75 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3d Ah ]
+Belongil raises [$0.75 USD]
+LifeInDaTrash folds
+ApostFurtivo folds
+valuebluff99 folds
+TilliWilli calls [$0.65 USD]
+zulk75 folds
+** Dealing Flop ** [ Qs, Jc, 5h ]
+TilliWilli bets [$0.50 USD]
+Belongil calls [$0.50 USD]
+** Dealing Turn ** [ Ks ]
+TilliWilli bets [$0.25 USD]
+Belongil calls [$0.25 USD]
+** Dealing River ** [ 8h ]
+TilliWilli checks
+Belongil checks
+TilliWilli shows [ 3d, Ah ]high card Ace.
+Belongil shows [ Jh, Ac ]a pair of Jacks.
+Belongil wins $3.09 USD from the main pot with a pair of Jacks.
+Game #14698856697 starts.
+
+#Game No : 14698856697 
+***** Hand History for Game 14698856697 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:32:03 EDT 2015
+Table Atlantis (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 3: ApostFurtivo ( $25 USD )
+Seat 1: Belongil ( $49.50 USD )
+Seat 2: LifeInDaTrash ( $34.95 USD )
+Seat 5: TilliWilli ( $22.40 USD )
+Seat 4: valuebluff99 ( $24.65 USD )
+Seat 6: zulk75 ( $5.60 USD )
+zulk75 posts small blind [$0.10 USD].
+Belongil posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5d Qs ]
+LifeInDaTrash folds
+ApostFurtivo folds
+valuebluff99 folds
+TilliWilli folds
+zulk75 folds
+Belongil does not show cards.
+Belongil wins $0.35 USD
+Game #14698857490 starts.
+
+#Game No : 14698857490 
+***** Hand History for Game 14698857490 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:32:18 EDT 2015
+Table Atlantis (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 3: ApostFurtivo ( $25 USD )
+Seat 1: Belongil ( $49.60 USD )
+Seat 2: LifeInDaTrash ( $34.95 USD )
+Seat 5: TilliWilli ( $22.40 USD )
+Seat 4: valuebluff99 ( $24.65 USD )
+Seat 6: zulk75 ( $5.50 USD )
+Belongil posts small blind [$0.10 USD].
+LifeInDaTrash posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qc 9s ]
+ApostFurtivo folds
+valuebluff99 folds
+TilliWilli raises [$0.75 USD]
+zulk75 folds
+Belongil folds
+LifeInDaTrash folds
+TilliWilli does not show cards.
+TilliWilli wins $1.10 USD
+Game #14698857910 starts.
+
+#Game No : 14698857910 
+***** Hand History for Game 14698857910 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:32:43 EDT 2015
+Table Atlantis (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 3: ApostFurtivo ( $25 USD )
+Seat 1: Belongil ( $49.50 USD )
+Seat 2: LifeInDaTrash ( $34.70 USD )
+Seat 5: TilliWilli ( $22.75 USD )
+Seat 4: valuebluff99 ( $24.65 USD )
+Seat 6: zulk75 ( $5.50 USD )
+LifeInDaTrash posts small blind [$0.10 USD].
+ApostFurtivo posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4s Jh ]
+valuebluff99 folds
+TilliWilli folds
+zulk75 folds
+Belongil folds
+LifeInDaTrash raises [$0.65 USD]
+ApostFurtivo calls [$0.50 USD]
+** Dealing Flop ** [ 2d, Kc, Ks ]
+LifeInDaTrash bets [$1 USD]
+ApostFurtivo folds
+LifeInDaTrash does not show cards.
+LifeInDaTrash wins $2.43 USD
+Game #14698859167 starts.
+
+#Game No : 14698859167 
+***** Hand History for Game 14698859167 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:33:27 EDT 2015
+Table Atlantis (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 3: ApostFurtivo ( $25 USD )
+Seat 1: Belongil ( $49.50 USD )
+Seat 2: LifeInDaTrash ( $35.38 USD )
+Seat 5: TilliWilli ( $22.75 USD )
+Seat 4: valuebluff99 ( $24.65 USD )
+Seat 6: zulk75 ( $5.50 USD )
+ApostFurtivo posts small blind [$0.10 USD].
+valuebluff99 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Jc 5d ]
+TilliWilli folds
+zulk75 folds
+Belongil folds
+LifeInDaTrash raises [$0.62 USD]
+ApostFurtivo folds
+valuebluff99 calls [$0.37 USD]
+** Dealing Flop ** [ 2c, Ah, 6s ]
+valuebluff99 checks
+LifeInDaTrash bets [$1 USD]
+valuebluff99 calls [$1 USD]
+** Dealing Turn ** [ Js ]
+valuebluff99 checks
+LifeInDaTrash checks
+** Dealing River ** [ 9c ]
+valuebluff99 bets [$3 USD]
+LifeInDaTrash folds
+valuebluff99 does not show cards.
+valuebluff99 wins $6.18 USD
+Game #14698859832 starts.
+
+#Game No : 14698859832 
+***** Hand History for Game 14698859832 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:34:06 EDT 2015
+Table Atlantis (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 3: ApostFurtivo ( $25 USD )
+Seat 1: Belongil ( $49.50 USD )
+Seat 2: LifeInDaTrash ( $33.76 USD )
+Seat 5: TilliWilli ( $22.75 USD )
+Seat 4: valuebluff99 ( $26.21 USD )
+Seat 6: zulk75 ( $5.50 USD )
+valuebluff99 posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ks Qh ]
+zulk75 folds
+Belongil folds
+LifeInDaTrash folds
+ApostFurtivo raises [$0.75 USD]
+valuebluff99 folds
+TilliWilli calls [$0.50 USD]
+** Dealing Flop ** [ 9h, 8d, 7d ]
+TilliWilli checks
+ApostFurtivo bets [$1.14 USD]
+TilliWilli calls [$1.14 USD]
+** Dealing Turn ** [ Ah ]
+TilliWilli checks
+ApostFurtivo bets [$2.76 USD]
+TilliWilli folds
+ApostFurtivo does not show cards.
+ApostFurtivo wins $6.45 USD
+Game #14698860715 starts.
+
+#Game No : 14698860715 
+***** Hand History for Game 14698860715 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:34:58 EDT 2015
+Table Atlantis (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 3: ApostFurtivo ( $26.80 USD )
+Seat 1: Belongil ( $49.50 USD )
+Seat 2: LifeInDaTrash ( $33.76 USD )
+Seat 5: TilliWilli ( $20.86 USD )
+Seat 4: valuebluff99 ( $26.11 USD )
+Seat 6: zulk75 ( $5.50 USD )
+TilliWilli posts small blind [$0.10 USD].
+zulk75 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2s 6d ]
+Belongil folds
+LifeInDaTrash raises [$0.75 USD]
+ApostFurtivo folds
+valuebluff99 folds
+TilliWilli folds
+zulk75 is all-In  [$5.25 USD]
+LifeInDaTrash calls [$4.75 USD]
+** Dealing Flop ** [ Jd, Qs, 8s ]
+** Dealing Turn ** [ 5c ]
+** Dealing River ** [ 8c ]
+LifeInDaTrash shows [ 7s, 7h ]two pairs, Eights and Sevens.
+zulk75 doesn't show [ Kd, As ]a pair of Eights.
+LifeInDaTrash wins $10.55 USD from the main pot with two pairs, Eights and Sevens.
+Game #14698861094 starts.
+
+#Game No : 14698861094 
+***** Hand History for Game 14698861094 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:35:21 EDT 2015
+Table Atlantis (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 3: ApostFurtivo ( $26.80 USD )
+Seat 1: Belongil ( $49.50 USD )
+Seat 2: LifeInDaTrash ( $38.81 USD )
+Seat 5: TilliWilli ( $20.76 USD )
+Seat 4: valuebluff99 ( $26.11 USD )
+Seat 6: zulk75 ( $0 USD )
+Belongil posts small blind [$0.10 USD].
+LifeInDaTrash posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Th Jd ]
+zulk75 has left the table.
+ApostFurtivo folds
+valuebluff99 folds
+milindos has joined the table.
+TilliWilli raises [$0.50 USD]
+Belongil folds
+LifeInDaTrash folds
+TilliWilli does not show cards.
+TilliWilli wins $0.85 USD
+Game #14698861640 starts.
+
+#Game No : 14698861640 
+***** Hand History for Game 14698861640 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:35:52 EDT 2015
+Table Atlantis (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 3: ApostFurtivo ( $26.80 USD )
+Seat 1: Belongil ( $49.40 USD )
+Seat 2: LifeInDaTrash ( $38.56 USD )
+Seat 5: TilliWilli ( $21.11 USD )
+Seat 6: milindos ( $25 USD )
+Seat 4: valuebluff99 ( $26.11 USD )
+LifeInDaTrash posts small blind [$0.10 USD].
+ApostFurtivo posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qd As ]
+valuebluff99 raises [$0.50 USD]
+TilliWilli raises [$0.75 USD]
+Belongil folds
+LifeInDaTrash folds
+ApostFurtivo folds
+valuebluff99 calls [$0.25 USD]
+** Dealing Flop ** [ Jc, 3s, 2h ]
+valuebluff99 checks
+TilliWilli bets [$1 USD]
+valuebluff99 raises [$2.38 USD]
+TilliWilli calls [$1.38 USD]
+** Dealing Turn ** [ 2c ]
+valuebluff99 bets [$2.09 USD]
+TilliWilli raises [$6 USD]
+valuebluff99 folds
+TilliWilli does not show cards.
+TilliWilli wins $14.17 USD
+Game #14698862617 starts.
+
+#Game No : 14698862617 
+***** Hand History for Game 14698862617 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:36:48 EDT 2015
+Table Atlantis (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 3: ApostFurtivo ( $26.55 USD )
+Seat 1: Belongil ( $49.40 USD )
+Seat 2: LifeInDaTrash ( $38.46 USD )
+Seat 5: TilliWilli ( $26.15 USD )
+Seat 6: milindos ( $25 USD )
+Seat 4: valuebluff99 ( $20.89 USD )
+ApostFurtivo posts small blind [$0.10 USD].
+valuebluff99 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2h Kc ]
+TilliWilli folds
+Belongil folds
+LifeInDaTrash raises [$0.62 USD]
+ApostFurtivo folds
+valuebluff99 raises [$2.72 USD]
+LifeInDaTrash calls [$2.35 USD]
+** Dealing Flop ** [ Tc, 4s, Ac ]
+valuebluff99 bets [$1.91 USD]
+LifeInDaTrash raises [$5.75 USD]
+valuebluff99 folds
+LifeInDaTrash does not show cards.
+LifeInDaTrash wins $13.21 USD
+Game #14698863137 starts.
+
+#Game No : 14698863137 
+***** Hand History for Game 14698863137 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:37:20 EDT 2015
+Table Atlantis (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 3: ApostFurtivo ( $26.45 USD )
+Seat 1: Belongil ( $49.40 USD )
+Seat 2: LifeInDaTrash ( $42.95 USD )
+Seat 5: TilliWilli ( $26.15 USD )
+Seat 6: milindos ( $25 USD )
+Seat 4: valuebluff99 ( $16.01 USD )
+valuebluff99 posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3d Qc ]
+Belongil folds
+LifeInDaTrash raises [$0.62 USD]
+ApostFurtivo folds
+valuebluff99 raises [$2.87 USD]
+TilliWilli folds
+LifeInDaTrash folds
+valuebluff99 does not show cards.
+valuebluff99 wins $3.84 USD
+Game #14698863529 starts.
+
+#Game No : 14698863529 
+***** Hand History for Game 14698863529 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:37:41 EDT 2015
+Table Atlantis (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 3: ApostFurtivo ( $26.45 USD )
+Seat 1: Belongil ( $49.40 USD )
+Seat 2: LifeInDaTrash ( $42.33 USD )
+Seat 5: TilliWilli ( $25.90 USD )
+Seat 6: milindos ( $25 USD )
+Seat 4: valuebluff99 ( $19.54 USD )
+TilliWilli posts small blind [$0.10 USD].
+milindos posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2c 8c ]
+Belongil raises [$0.75 USD]
+LifeInDaTrash folds
+ApostFurtivo folds
+valuebluff99 calls [$0.75 USD]
+TilliWilli folds
+milindos folds
+** Dealing Flop ** [ 7h, Kd, 3h ]
+Belongil bets [$1.32 USD]
+valuebluff99 folds
+Belongil does not show cards.
+Belongil wins $3.08 USD
+Game #14698864714 starts.
+
+#Game No : 14698864714 
+***** Hand History for Game 14698864714 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:38:20 EDT 2015
+Table Atlantis (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 3: ApostFurtivo ( $26.45 USD )
+Seat 1: Belongil ( $50.41 USD )
+Seat 2: LifeInDaTrash ( $42.33 USD )
+Seat 5: TilliWilli ( $25.80 USD )
+Seat 6: milindos ( $25 USD )
+Seat 4: valuebluff99 ( $18.79 USD )
+milindos posts small blind [$0.10 USD].
+Belongil posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ah Ts ]
+LifeInDaTrash folds
+ApostFurtivo folds
+valuebluff99 raises [$0.70 USD]
+TilliWilli calls [$0.70 USD]
+milindos folds
+Belongil folds
+** Dealing Flop ** [ 4d, 9d, 8c ]
+valuebluff99 bets [$0.83 USD]
+Your time bank will be activated in 6 secs. If you do not want it to be used, please act now.
+TilliWilli folds
+valuebluff99 does not show cards.
+valuebluff99 wins $2.50 USD
+Game #14698866003 starts.
+
+#Game No : 14698866003 
+***** Hand History for Game 14698866003 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:39:04 EDT 2015
+Table Atlantis (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 3: ApostFurtivo ( $26.45 USD )
+Seat 1: Belongil ( $50.16 USD )
+Seat 2: LifeInDaTrash ( $42.33 USD )
+Seat 5: TilliWilli ( $25.10 USD )
+Seat 6: milindos ( $25 USD )
+Seat 4: valuebluff99 ( $19.76 USD )
+Belongil posts small blind [$0.10 USD].
+LifeInDaTrash posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2s 7h ]
+ApostFurtivo folds
+valuebluff99 raises [$0.70 USD]
+TilliWilli folds
+milindos folds
+Belongil folds
+LifeInDaTrash folds
+valuebluff99 does not show cards.
+valuebluff99 wins $1.05 USD
+Game #14698866230 starts.
+
+#Game No : 14698866230 
+***** Hand History for Game 14698866230 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:39:17 EDT 2015
+Table Atlantis (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 3: ApostFurtivo ( $26.45 USD )
+Seat 1: Belongil ( $50.06 USD )
+Seat 2: LifeInDaTrash ( $42.08 USD )
+Seat 5: TilliWilli ( $25.10 USD )
+Seat 6: milindos ( $25 USD )
+Seat 4: valuebluff99 ( $20.11 USD )
+LifeInDaTrash posts small blind [$0.10 USD].
+ApostFurtivo posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qd 8h ]
+valuebluff99 raises [$0.50 USD]
+TilliWilli folds
+milindos folds
+Belongil folds
+LifeInDaTrash calls [$0.40 USD]
+ApostFurtivo folds
+** Dealing Flop ** [ Jc, Ad, Td ]
+LifeInDaTrash checks
+valuebluff99 bets [$0.79 USD]
+LifeInDaTrash calls [$0.79 USD]
+** Dealing Turn ** [ Kd ]
+LifeInDaTrash checks
+valuebluff99 checks
+** Dealing River ** [ 4h ]
+LifeInDaTrash bets [$0.75 USD]
+valuebluff99 calls [$0.75 USD]
+LifeInDaTrash shows [ Ac, 8c ]a pair of Aces.
+valuebluff99 shows [ Tc, Th ]three of a kind, Tens.
+valuebluff99 wins $4.12 USD from the main pot with three of a kind, Tens.
+Game #14698866956 starts.
+
+#Game No : 14698866956 
+***** Hand History for Game 14698866956 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:40:00 EDT 2015
+Table Atlantis (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 3: ApostFurtivo ( $26.20 USD )
+Seat 1: Belongil ( $50.06 USD )
+Seat 2: LifeInDaTrash ( $40.04 USD )
+Seat 5: TilliWilli ( $25.10 USD )
+Seat 6: milindos ( $25 USD )
+Seat 4: valuebluff99 ( $22.19 USD )
+ApostFurtivo posts small blind [$0.10 USD].
+valuebluff99 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Kd 8d ]
+TilliWilli raises [$0.50 USD]
+milindos folds
+Belongil folds
+LifeInDaTrash folds
+ApostFurtivo folds
+valuebluff99 folds
+TilliWilli does not show cards.
+TilliWilli wins $0.85 USD
+Game #14698867272 starts.
+
+#Game No : 14698867272 
+***** Hand History for Game 14698867272 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:40:19 EDT 2015
+Table Atlantis (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 3: ApostFurtivo ( $26.10 USD )
+Seat 1: Belongil ( $50.06 USD )
+Seat 2: LifeInDaTrash ( $40.04 USD )
+Seat 5: TilliWilli ( $25.45 USD )
+Seat 6: milindos ( $25 USD )
+Seat 4: valuebluff99 ( $21.94 USD )
+valuebluff99 posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ac 8c ]
+milindos raises [$0.50 USD]
+Belongil folds
+LifeInDaTrash folds
+ApostFurtivo folds
+valuebluff99 folds
+TilliWilli calls [$0.25 USD]
+** Dealing Flop ** [ 6h, 4d, 8s ]
+TilliWilli bets [$1.50 USD]
+milindos calls [$1.50 USD]
+** Dealing Turn ** [ 7h ]
+TilliWilli bets [$0.80 USD]
+milindos calls [$0.80 USD]
+** Dealing River ** [ Js ]
+TilliWilli checks
+milindos bets [$4.06 USD]
+TilliWilli calls [$4.06 USD]
+milindos shows [ 6c, 9c ]a pair of Sixes.
+TilliWilli shows [ Ac, 8c ]a pair of Eights.
+TilliWilli wins $13.13 USD from the main pot with a pair of Eights.
+Game #14698868067 starts.
+
+#Game No : 14698868067 
+***** Hand History for Game 14698868067 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:41:07 EDT 2015
+Table Atlantis (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 3: ApostFurtivo ( $26.10 USD )
+Seat 1: Belongil ( $50.06 USD )
+Seat 2: LifeInDaTrash ( $40.04 USD )
+Seat 5: TilliWilli ( $31.72 USD )
+Seat 6: milindos ( $25 USD )
+Seat 4: valuebluff99 ( $21.84 USD )
+TilliWilli posts small blind [$0.10 USD].
+milindos posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  6h 4d ]
+Belongil folds
+LifeInDaTrash raises [$0.75 USD]
+ApostFurtivo folds
+valuebluff99 folds
+TilliWilli folds
+milindos folds
+LifeInDaTrash does not show cards.
+LifeInDaTrash wins $1.10 USD
+Game #14698868498 starts.
+
+#Game No : 14698868498 
+***** Hand History for Game 14698868498 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:41:33 EDT 2015
+Table Atlantis (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 3: ApostFurtivo ( $26.10 USD )
+Seat 1: Belongil ( $50.06 USD )
+Seat 2: LifeInDaTrash ( $40.39 USD )
+Seat 5: TilliWilli ( $31.62 USD )
+Seat 6: milindos ( $25 USD )
+Seat 4: valuebluff99 ( $21.84 USD )
+milindos posts small blind [$0.10 USD].
+Belongil posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2d Qs ]
+LifeInDaTrash raises [$0.75 USD]
+ApostFurtivo folds
+valuebluff99 folds
+TilliWilli folds
+milindos raises [$2.40 USD]
+Belongil folds
+LifeInDaTrash folds
+milindos does not show cards.
+milindos wins $3.50 USD
+Game #14698868881 starts.
+
+#Game No : 14698868881 
+***** Hand History for Game 14698868881 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:41:55 EDT 2015
+Table Atlantis (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 3: ApostFurtivo ( $26.10 USD )
+Seat 1: Belongil ( $49.81 USD )
+Seat 2: LifeInDaTrash ( $39.64 USD )
+Seat 5: TilliWilli ( $31.62 USD )
+Seat 6: milindos ( $26 USD )
+Seat 4: valuebluff99 ( $21.84 USD )
+Belongil posts small blind [$0.10 USD].
+LifeInDaTrash posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  7c Ad ]
+ApostFurtivo raises [$0.75 USD]
+valuebluff99 calls [$0.75 USD]
+TilliWilli folds
+milindos folds
+Belongil folds
+LifeInDaTrash folds
+** Dealing Flop ** [ Qd, Kd, 9c ]
+ApostFurtivo checks
+valuebluff99 bets [$1.17 USD]
+ApostFurtivo raises [$3.95 USD]
+valuebluff99 calls [$2.78 USD]
+** Dealing Turn ** [ 9h ]
+ApostFurtivo checks
+valuebluff99 bets [$3.09 USD]
+ApostFurtivo is all-In  [$21.40 USD]
+valuebluff99 is all-In  [$14.05 USD]
+** Dealing River ** [ 4d ]
+valuebluff99 shows [ Qs, 9s ]a full house, Nines full of Queens.
+ApostFurtivo shows [ 9d, Td ]a flush, King high.
+ApostFurtivo wins $4.26 USD from the side pot 1 with a flush, King high.
+valuebluff99 wins $41.83 USD from the main pot with a full house, Nines full of Queens.
+Game #14698869581 starts.
+
+#Game No : 14698869581 
+***** Hand History for Game 14698869581 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:42:36 EDT 2015
+Table Atlantis (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 3: ApostFurtivo ( $19.20 USD )
+Seat 1: Belongil ( $49.71 USD )
+Seat 2: LifeInDaTrash ( $39.39 USD )
+Seat 5: TilliWilli ( $31.62 USD )
+Seat 6: milindos ( $26 USD )
+Seat 4: valuebluff99 ( $41.83 USD )
+LifeInDaTrash posts small blind [$0.10 USD].
+ApostFurtivo posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  7h 7c ]
+valuebluff99 folds
+TilliWilli raises [$0.75 USD]
+milindos folds
+Belongil folds
+LifeInDaTrash folds
+ApostFurtivo folds
+TilliWilli does not show cards.
+TilliWilli wins $1.10 USD
+Game #14698869874 starts.
+
+#Game No : 14698869874 
+***** Hand History for Game 14698869874 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:42:54 EDT 2015
+Table Atlantis (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 3: ApostFurtivo ( $18.95 USD )
+Seat 1: Belongil ( $49.71 USD )
+Seat 2: LifeInDaTrash ( $39.29 USD )
+Seat 5: TilliWilli ( $31.97 USD )
+Seat 6: milindos ( $26 USD )
+Seat 4: valuebluff99 ( $41.83 USD )
+ApostFurtivo posts small blind [$0.10 USD].
+valuebluff99 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Th 7s ]
+TilliWilli folds
+milindos folds
+Belongil folds
+LifeInDaTrash folds
+ApostFurtivo raises [$0.65 USD]
+valuebluff99 calls [$0.50 USD]
+** Dealing Flop ** [ 7c, As, Kh ]
+ApostFurtivo checks
+valuebluff99 checks
+** Dealing Turn ** [ Kc ]
+ApostFurtivo checks
+valuebluff99 checks
+** Dealing River ** [ 3h ]
+ApostFurtivo checks
+valuebluff99 checks
+ApostFurtivo shows [ 4c, 5s ]a pair of Kings.
+valuebluff99 shows [ 7d, 8h ]two pairs, Kings and Sevens.
+valuebluff99 wins $1.43 USD from the main pot with two pairs, Kings and Sevens.
+Game #14698870846 starts.
+
+#Game No : 14698870846 
+***** Hand History for Game 14698870846 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:43:21 EDT 2015
+Table Atlantis (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 3: ApostFurtivo ( $18.20 USD )
+Seat 1: Belongil ( $49.71 USD )
+Seat 2: LifeInDaTrash ( $39.29 USD )
+Seat 5: TilliWilli ( $31.97 USD )
+Seat 6: milindos ( $26 USD )
+Seat 4: valuebluff99 ( $42.51 USD )
+TilliWilli posts small blind [$0.10 USD].
+milindos posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4s 5c ]
+Belongil folds
+LifeInDaTrash folds
+valuebluff99 raises [$0.70 USD]
+TilliWilli folds
+milindos folds
+valuebluff99 does not show cards.
+valuebluff99 wins $1.05 USD
+Game #14698871187 starts.
+
+#Game No : 14698871187 
+***** Hand History for Game 14698871187 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:43:42 EDT 2015
+Table Atlantis (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 3: ApostFurtivo ( $18.20 USD )
+Seat 1: Belongil ( $49.71 USD )
+Seat 2: LifeInDaTrash ( $39.29 USD )
+Seat 5: TilliWilli ( $31.87 USD )
+Seat 6: milindos ( $25.75 USD )
+Seat 4: valuebluff99 ( $42.86 USD )
+milindos posts small blind [$0.10 USD].
+Belongil posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5h 6d ]
+LifeInDaTrash folds
+ApostFurtivo folds
+valuebluff99 raises [$0.70 USD]
+TilliWilli folds
+milindos folds
+Belongil folds
+valuebluff99 does not show cards.
+valuebluff99 wins $1.05 USD
+Game #14698872045 starts.
+
+#Game No : 14698872045 
+***** Hand History for Game 14698872045 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:44:03 EDT 2015
+Table Atlantis (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 3: ApostFurtivo ( $18.20 USD )
+Seat 1: Belongil ( $49.46 USD )
+Seat 2: LifeInDaTrash ( $39.29 USD )
+Seat 5: TilliWilli ( $31.87 USD )
+Seat 6: milindos ( $25.65 USD )
+Seat 4: valuebluff99 ( $43.21 USD )
+Belongil posts small blind [$0.10 USD].
+LifeInDaTrash posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ac 5h ]
+ApostFurtivo folds
+valuebluff99 raises [$0.70 USD]
+TilliWilli folds
+milindos calls [$0.70 USD]
+Belongil calls [$0.60 USD]
+LifeInDaTrash folds
+** Dealing Flop ** [ 7s, 7c, Jh ]
+Belongil checks
+valuebluff99 bets [$0.74 USD]
+milindos folds
+Belongil calls [$0.74 USD]
+** Dealing Turn ** [ 3h ]
+Belongil checks
+valuebluff99 bets [$1.82 USD]
+Belongil calls [$1.82 USD]
+** Dealing River ** [ 4h ]
+Belongil checks
+valuebluff99 bets [$5.55 USD]
+Belongil folds
+valuebluff99 does not show cards.
+valuebluff99 wins $12.65 USD
+ApostFurtivo has left the table.
+Game #14698874366 starts.
+
+#Game No : 14698874366 
+***** Hand History for Game 14698874366 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:45:51 EDT 2015
+Table Atlantis (Real Money)
+Seat 1 is the button
+Total number of players : 5/6 
+Seat 1: Belongil ( $46.20 USD )
+Seat 2: LifeInDaTrash ( $39.04 USD )
+Seat 5: TilliWilli ( $31.87 USD )
+Seat 6: milindos ( $25 USD )
+Seat 4: valuebluff99 ( $47.05 USD )
+LifeInDaTrash posts small blind [$0.10 USD].
+valuebluff99 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8s 7c ]
+TilliWilli raises [$0.50 USD]
+milindos folds
+Belongil folds
+LifeInDaTrash folds
+valuebluff99 calls [$0.25 USD]
+** Dealing Flop ** [ 8c, 4d, 2c ]
+valuebluff99 checks
+TilliWilli bets [$1 USD]
+valuebluff99 folds
+TilliWilli does not show cards.
+TilliWilli wins $2.05 USD
+Game #14698874898 starts.
+
+#Game No : 14698874898 
+***** Hand History for Game 14698874898 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:46:22 EDT 2015
+Table Atlantis (Real Money)
+Seat 2 is the button
+Total number of players : 5/6 
+Seat 1: Belongil ( $46.20 USD )
+Seat 2: LifeInDaTrash ( $38.94 USD )
+Seat 5: TilliWilli ( $32.42 USD )
+Seat 6: milindos ( $25 USD )
+Seat 4: valuebluff99 ( $46.55 USD )
+valuebluff99 posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Kh Jd ]
+milindos raises [$1 USD]
+Belongil folds
+LifeInDaTrash folds
+valuebluff99 folds
+TilliWilli folds
+milindos does not show cards.
+milindos wins $1.35 USD
+Game #14698875277 starts.
+
+#Game No : 14698875277 
+***** Hand History for Game 14698875277 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:46:44 EDT 2015
+Table Atlantis (Real Money)
+Seat 4 is the button
+Total number of players : 5/6 
+Seat 1: Belongil ( $46.20 USD )
+Seat 2: LifeInDaTrash ( $38.94 USD )
+Seat 5: TilliWilli ( $32.17 USD )
+Seat 6: milindos ( $25.35 USD )
+Seat 4: valuebluff99 ( $46.45 USD )
+TilliWilli posts small blind [$0.10 USD].
+milindos posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  6h Jc ]
+Belongil folds
+LifeInDaTrash folds
+valuebluff99 raises [$0.70 USD]
+TilliWilli folds
+milindos folds
+valuebluff99 does not show cards.
+valuebluff99 wins $1.05 USD
+Game #14698875696 starts.
+
+#Game No : 14698875696 
+***** Hand History for Game 14698875696 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:47:09 EDT 2015
+Table Atlantis (Real Money)
+Seat 5 is the button
+Total number of players : 5/6 
+Seat 1: Belongil ( $46.20 USD )
+Seat 2: LifeInDaTrash ( $38.94 USD )
+Seat 5: TilliWilli ( $32.07 USD )
+Seat 6: milindos ( $25.10 USD )
+Seat 4: valuebluff99 ( $46.80 USD )
+milindos posts small blind [$0.10 USD].
+Belongil posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ac 5c ]
+LifeInDaTrash raises [$0.75 USD]
+valuebluff99 folds
+TilliWilli folds
+milindos folds
+Belongil folds
+LifeInDaTrash does not show cards.
+LifeInDaTrash wins $1.10 USD
+Game #14698876008 starts.
+
+#Game No : 14698876008 
+***** Hand History for Game 14698876008 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:47:29 EDT 2015
+Table Atlantis (Real Money)
+Seat 6 is the button
+Total number of players : 5/6 
+Seat 1: Belongil ( $45.95 USD )
+Seat 2: LifeInDaTrash ( $39.29 USD )
+Seat 5: TilliWilli ( $32.07 USD )
+Seat 6: milindos ( $25 USD )
+Seat 4: valuebluff99 ( $46.80 USD )
+Belongil posts small blind [$0.10 USD].
+LifeInDaTrash posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  6s Ac ]
+valuebluff99 raises [$0.50 USD]
+TilliWilli folds
+milindos calls [$0.50 USD]
+Belongil folds
+LifeInDaTrash calls [$0.25 USD]
+** Dealing Flop ** [ Kd, 2h, Jh ]
+LifeInDaTrash checks
+valuebluff99 bets [$0.76 USD]
+milindos folds
+LifeInDaTrash folds
+valuebluff99 does not show cards.
+valuebluff99 wins $2.28 USD
+Game #14698876493 starts.
+
+#Game No : 14698876493 
+***** Hand History for Game 14698876493 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:47:59 EDT 2015
+Table Atlantis (Real Money)
+Seat 1 is the button
+Total number of players : 5/6 
+Seat 1: Belongil ( $45.85 USD )
+Seat 2: LifeInDaTrash ( $38.79 USD )
+Seat 5: TilliWilli ( $32.07 USD )
+Seat 6: milindos ( $25 USD )
+Seat 4: valuebluff99 ( $47.82 USD )
+LifeInDaTrash posts small blind [$0.10 USD].
+valuebluff99 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5s 6c ]
+TilliWilli calls [$0.25 USD]
+milindos raises [$2.50 USD]
+abubunopa has joined the table.
+Belongil folds
+LifeInDaTrash folds
+valuebluff99 folds
+TilliWilli folds
+milindos does not show cards.
+milindos wins $3.10 USD
+Game #14698876839 starts.
+
+#Game No : 14698876839 
+***** Hand History for Game 14698876839 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:48:18 EDT 2015
+Table Atlantis (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $45.85 USD )
+Seat 2: LifeInDaTrash ( $38.69 USD )
+Seat 5: TilliWilli ( $31.82 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $25.60 USD )
+Seat 4: valuebluff99 ( $47.57 USD )
+valuebluff99 posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qc Qs ]
+milindos folds
+Belongil folds
+LifeInDaTrash folds
+valuebluff99 folds
+TilliWilli does not show cards.
+TilliWilli wins $0.35 USD
+Game #14698877245 starts.
+
+#Game No : 14698877245 
+***** Hand History for Game 14698877245 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:48:42 EDT 2015
+Table Atlantis (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $45.85 USD )
+Seat 2: LifeInDaTrash ( $38.69 USD )
+Seat 5: TilliWilli ( $31.92 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $25.60 USD )
+Seat 4: valuebluff99 ( $47.47 USD )
+TilliWilli posts small blind [$0.10 USD].
+milindos posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qs Jd ]
+Belongil folds
+LifeInDaTrash raises [$0.62 USD]
+valuebluff99 folds
+TilliWilli calls [$0.52 USD]
+milindos folds
+** Dealing Flop ** [ 6h, 3c, 9h ]
+TilliWilli checks
+LifeInDaTrash bets [$1 USD]
+TilliWilli folds
+LifeInDaTrash does not show cards.
+LifeInDaTrash wins $2.42 USD
+Game #14698878214 starts.
+
+#Game No : 14698878214 
+***** Hand History for Game 14698878214 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:49:11 EDT 2015
+Table Atlantis (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $45.85 USD )
+Seat 2: LifeInDaTrash ( $39.49 USD )
+Seat 5: TilliWilli ( $31.30 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $25.35 USD )
+Seat 4: valuebluff99 ( $47.47 USD )
+milindos posts small blind [$0.10 USD].
+Belongil posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9s Qd ]
+LifeInDaTrash folds
+valuebluff99 folds
+TilliWilli raises [$0.60 USD]
+milindos folds
+Belongil folds
+TilliWilli does not show cards.
+TilliWilli wins $0.95 USD
+Game #14698878600 starts.
+
+#Game No : 14698878600 
+***** Hand History for Game 14698878600 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:49:33 EDT 2015
+Table Atlantis (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $45.60 USD )
+Seat 2: LifeInDaTrash ( $39.49 USD )
+Seat 5: TilliWilli ( $31.65 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $25.25 USD )
+Seat 4: valuebluff99 ( $47.47 USD )
+Belongil posts small blind [$0.10 USD].
+LifeInDaTrash posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2h Ah ]
+valuebluff99 raises [$0.50 USD]
+TilliWilli calls [$0.50 USD]
+milindos folds
+Belongil calls [$0.40 USD]
+LifeInDaTrash folds
+** Dealing Flop ** [ 4d, 5h, Qs ]
+Belongil checks
+valuebluff99 bets [$0.83 USD]
+TilliWilli calls [$0.83 USD]
+Belongil folds
+** Dealing Turn ** [ 7s ]
+valuebluff99 checks
+TilliWilli checks
+** Dealing River ** [ 5s ]
+valuebluff99 checks
+TilliWilli bets [$1.50 USD]
+valuebluff99 calls [$1.50 USD]
+TilliWilli shows [ 2h, Ah ]a pair of Fives.
+valuebluff99 shows [ Jc, Jh ]two pairs, Jacks and Fives.
+valuebluff99 wins $6.09 USD from the main pot with two pairs, Jacks and Fives.
+Game #14698880244 starts.
+
+#Game No : 14698880244 
+***** Hand History for Game 14698880244 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:50:39 EDT 2015
+Table Atlantis (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $45.10 USD )
+Seat 2: LifeInDaTrash ( $39.24 USD )
+Seat 5: TilliWilli ( $28.82 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $25.25 USD )
+Seat 4: valuebluff99 ( $50.73 USD )
+LifeInDaTrash posts small blind [$0.10 USD].
+abubunopa posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2h 8h ]
+valuebluff99 raises [$0.50 USD]
+TilliWilli folds
+milindos folds
+Belongil folds
+LifeInDaTrash folds
+abubunopa folds
+valuebluff99 does not show cards.
+valuebluff99 wins $0.85 USD
+Game #14698880597 starts.
+
+#Game No : 14698880597 
+***** Hand History for Game 14698880597 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:50:59 EDT 2015
+Table Atlantis (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $45.10 USD )
+Seat 2: LifeInDaTrash ( $39.14 USD )
+Seat 5: TilliWilli ( $28.82 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $25.25 USD )
+Seat 4: valuebluff99 ( $51.08 USD )
+abubunopa posts small blind [$0.10 USD].
+valuebluff99 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  6c 7h ]
+TilliWilli folds
+milindos folds
+Belongil folds
+LifeInDaTrash folds
+abubunopa folds
+valuebluff99 does not show cards.
+valuebluff99 wins $0.35 USD
+Game #14698880934 starts.
+
+#Game No : 14698880934 
+***** Hand History for Game 14698880934 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:51:17 EDT 2015
+Table Atlantis (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $45.10 USD )
+Seat 2: LifeInDaTrash ( $39.14 USD )
+Seat 5: TilliWilli ( $28.82 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $25.25 USD )
+Seat 4: valuebluff99 ( $51.18 USD )
+valuebluff99 posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Kd 5s ]
+milindos raises [$1 USD]
+Belongil folds
+LifeInDaTrash folds
+abubunopa folds
+valuebluff99 folds
+TilliWilli folds
+milindos does not show cards.
+milindos wins $1.35 USD
+Game #14698881270 starts.
+
+#Game No : 14698881270 
+***** Hand History for Game 14698881270 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:51:37 EDT 2015
+Table Atlantis (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $45.10 USD )
+Seat 2: LifeInDaTrash ( $39.14 USD )
+Seat 5: TilliWilli ( $28.57 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $25.60 USD )
+Seat 4: valuebluff99 ( $51.08 USD )
+TilliWilli posts small blind [$0.10 USD].
+milindos posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4d 9s ]
+Belongil raises [$0.75 USD]
+LifeInDaTrash folds
+abubunopa folds
+valuebluff99 calls [$0.75 USD]
+TilliWilli folds
+milindos folds
+** Dealing Flop ** [ 3c, 7d, 8h ]
+Belongil bets [$1.32 USD]
+valuebluff99 calls [$1.32 USD]
+** Dealing Turn ** [ Ac ]
+Belongil checks
+valuebluff99 bets [$2.13 USD]
+Belongil raises [$7.99 USD]
+valuebluff99 folds
+Belongil does not show cards.
+Belongil wins $14.18 USD
+Game #14698882226 starts.
+
+#Game No : 14698882226 
+***** Hand History for Game 14698882226 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:52:31 EDT 2015
+Table Atlantis (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $49.22 USD )
+Seat 2: LifeInDaTrash ( $39.14 USD )
+Seat 5: TilliWilli ( $28.47 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $25.35 USD )
+Seat 4: valuebluff99 ( $46.88 USD )
+milindos posts small blind [$0.10 USD].
+Belongil posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8d 3c ]
+LifeInDaTrash folds
+abubunopa folds
+valuebluff99 folds
+TilliWilli calls [$0.25 USD]
+milindos calls [$0.15 USD]
+Belongil checks
+** Dealing Flop ** [ Kh, 2d, 5h ]
+milindos checks
+Belongil checks
+TilliWilli bets [$0.25 USD]
+milindos raises [$1.10 USD]
+Belongil folds
+TilliWilli folds
+milindos does not show cards.
+milindos wins $2.04 USD
+Game #14698882923 starts.
+
+#Game No : 14698882923 
+***** Hand History for Game 14698882923 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:53:09 EDT 2015
+Table Atlantis (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $48.97 USD )
+Seat 2: LifeInDaTrash ( $39.14 USD )
+Seat 5: TilliWilli ( $27.97 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $26.04 USD )
+Seat 4: valuebluff99 ( $46.88 USD )
+Belongil posts small blind [$0.10 USD].
+LifeInDaTrash posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8s 2s ]
+abubunopa folds
+valuebluff99 folds
+TilliWilli folds
+milindos raises [$0.50 USD]
+Belongil folds
+LifeInDaTrash raises [$1.75 USD]
+milindos calls [$1.50 USD]
+** Dealing Flop ** [ Ac, 5d, Ah ]
+LifeInDaTrash checks
+milindos checks
+** Dealing Turn ** [ Th ]
+LifeInDaTrash bets [$2.25 USD]
+milindos folds
+LifeInDaTrash does not show cards.
+LifeInDaTrash wins $6.15 USD
+Game #14698883797 starts.
+
+#Game No : 14698883797 
+***** Hand History for Game 14698883797 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:53:57 EDT 2015
+Table Atlantis (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $48.87 USD )
+Seat 2: LifeInDaTrash ( $41.04 USD )
+Seat 5: TilliWilli ( $27.97 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $25 USD )
+Seat 4: valuebluff99 ( $46.88 USD )
+LifeInDaTrash posts small blind [$0.10 USD].
+abubunopa posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qh Kd ]
+valuebluff99 raises [$0.70 USD]
+TilliWilli calls [$0.70 USD]
+milindos folds
+Belongil folds
+LifeInDaTrash folds
+abubunopa folds
+** Dealing Flop ** [ 6s, 4s, Jd ]
+valuebluff99 bets [$0.83 USD]
+TilliWilli raises [$1.66 USD]
+valuebluff99 calls [$0.83 USD]
+** Dealing Turn ** [ Ah ]
+valuebluff99 checks
+TilliWilli bets [$0.50 USD]
+valuebluff99 calls [$0.50 USD]
+** Dealing River ** [ 2h ]
+valuebluff99 checks
+TilliWilli checks
+valuebluff99 shows [ Tc, Js ]a pair of Jacks.
+TilliWilli doesn't show [ Qh, Kd ]high card Ace.
+valuebluff99 wins $5.77 USD from the main pot with a pair of Jacks.
+Game #14698885143 starts.
+
+#Game No : 14698885143 
+***** Hand History for Game 14698885143 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:54:43 EDT 2015
+Table Atlantis (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $48.87 USD )
+Seat 2: LifeInDaTrash ( $40.94 USD )
+Seat 5: TilliWilli ( $25.11 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $25 USD )
+Seat 4: valuebluff99 ( $49.79 USD )
+abubunopa posts small blind [$0.10 USD].
+valuebluff99 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4c Jc ]
+TilliWilli folds
+milindos folds
+Belongil raises [$0.75 USD]
+LifeInDaTrash folds
+abubunopa folds
+valuebluff99 calls [$0.50 USD]
+** Dealing Flop ** [ Tc, Jd, 6d ]
+valuebluff99 checks
+Belongil bets [$1.14 USD]
+valuebluff99 folds
+Belongil does not show cards.
+Belongil wins $2.66 USD
+Game #14698885947 starts.
+
+#Game No : 14698885947 
+***** Hand History for Game 14698885947 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:55:29 EDT 2015
+Table Atlantis (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $49.64 USD )
+Seat 2: LifeInDaTrash ( $40.94 USD )
+Seat 5: TilliWilli ( $25.11 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $25 USD )
+Seat 4: valuebluff99 ( $49.04 USD )
+valuebluff99 posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3d 9c ]
+milindos folds
+Belongil raises [$0.75 USD]
+LifeInDaTrash folds
+abubunopa folds
+valuebluff99 folds
+TilliWilli folds
+Belongil does not show cards.
+Belongil wins $1.10 USD
+Game #14698886739 starts.
+
+#Game No : 14698886739 
+***** Hand History for Game 14698886739 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:55:48 EDT 2015
+Table Atlantis (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $49.99 USD )
+Seat 2: LifeInDaTrash ( $40.94 USD )
+Seat 5: TilliWilli ( $24.86 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $25 USD )
+Seat 4: valuebluff99 ( $48.94 USD )
+TilliWilli posts small blind [$0.10 USD].
+milindos posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8s As ]
+Belongil folds
+LifeInDaTrash raises [$0.75 USD]
+abubunopa folds
+valuebluff99 folds
+TilliWilli calls [$0.65 USD]
+milindos folds
+** Dealing Flop ** [ 6c, 3s, Jd ]
+TilliWilli checks
+LifeInDaTrash bets [$1.25 USD]
+TilliWilli folds
+LifeInDaTrash does not show cards.
+LifeInDaTrash wins $2.92 USD
+Game #14698887253 starts.
+
+#Game No : 14698887253 
+***** Hand History for Game 14698887253 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:56:21 EDT 2015
+Table Atlantis (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $49.99 USD )
+Seat 2: LifeInDaTrash ( $41.86 USD )
+Seat 5: TilliWilli ( $24.11 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $25 USD )
+Seat 4: valuebluff99 ( $48.94 USD )
+milindos posts small blind [$0.10 USD].
+Belongil posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8s Jc ]
+LifeInDaTrash folds
+abubunopa raises [$0.76 USD]
+valuebluff99 calls [$0.76 USD]
+TilliWilli folds
+milindos folds
+Belongil folds
+** Dealing Flop ** [ 4h, Js, Th ]
+abubunopa checks
+valuebluff99 bets [$1.18 USD]
+abubunopa folds
+valuebluff99 does not show cards.
+valuebluff99 wins $2.96 USD
+Game #14698887867 starts.
+
+#Game No : 14698887867 
+***** Hand History for Game 14698887867 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:57:00 EDT 2015
+Table Atlantis (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $49.74 USD )
+Seat 2: LifeInDaTrash ( $41.86 USD )
+Seat 5: TilliWilli ( $24.11 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $25 USD )
+Seat 4: valuebluff99 ( $49.96 USD )
+Belongil posts small blind [$0.10 USD].
+LifeInDaTrash posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Th 2s ]
+abubunopa folds
+valuebluff99 folds
+TilliWilli folds
+milindos raises [$1 USD]
+Belongil folds
+LifeInDaTrash raises [$3 USD]
+milindos calls [$2.25 USD]
+** Dealing Flop ** [ 7h, 8h, As ]
+LifeInDaTrash bets [$3.50 USD]
+milindos raises [$8.38 USD]
+LifeInDaTrash folds
+milindos does not show cards.
+milindos wins $17.80 USD
+Game #14698888428 starts.
+
+#Game No : 14698888428 
+***** Hand History for Game 14698888428 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:57:38 EDT 2015
+Table Atlantis (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $49.64 USD )
+Seat 2: LifeInDaTrash ( $35.11 USD )
+Seat 5: TilliWilli ( $24.11 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $31.17 USD )
+Seat 4: valuebluff99 ( $49.96 USD )
+LifeInDaTrash posts small blind [$0.10 USD].
+abubunopa posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  7s 5h ]
+valuebluff99 folds
+TilliWilli folds
+milindos folds
+Belongil raises [$0.75 USD]
+LifeInDaTrash folds
+abubunopa folds
+Belongil does not show cards.
+Belongil wins $1.10 USD
+Game #14698888796 starts.
+
+#Game No : 14698888796 
+***** Hand History for Game 14698888796 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:58:01 EDT 2015
+Table Atlantis (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $49.99 USD )
+Seat 2: LifeInDaTrash ( $35.01 USD )
+Seat 5: TilliWilli ( $24.11 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $31.17 USD )
+Seat 4: valuebluff99 ( $49.96 USD )
+abubunopa posts small blind [$0.10 USD].
+valuebluff99 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8h Ah ]
+TilliWilli raises [$0.50 USD]
+milindos folds
+Belongil folds
+LifeInDaTrash folds
+abubunopa folds
+valuebluff99 folds
+TilliWilli does not show cards.
+TilliWilli wins $0.85 USD
+Game #14698889120 starts.
+
+#Game No : 14698889120 
+***** Hand History for Game 14698889120 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:58:24 EDT 2015
+Table Atlantis (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $49.99 USD )
+Seat 2: LifeInDaTrash ( $35.01 USD )
+Seat 5: TilliWilli ( $24.46 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $31.17 USD )
+Seat 4: valuebluff99 ( $49.71 USD )
+valuebluff99 posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8h Kd ]
+milindos folds
+Belongil folds
+LifeInDaTrash folds
+abubunopa folds
+valuebluff99 folds
+TilliWilli does not show cards.
+TilliWilli wins $0.35 USD
+Game #14698889372 starts.
+
+#Game No : 14698889372 
+***** Hand History for Game 14698889372 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:58:40 EDT 2015
+Table Atlantis (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $49.99 USD )
+Seat 2: LifeInDaTrash ( $35.01 USD )
+Seat 5: TilliWilli ( $24.56 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $31.17 USD )
+Seat 4: valuebluff99 ( $49.61 USD )
+TilliWilli posts small blind [$0.10 USD].
+milindos posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Kd Qh ]
+Belongil folds
+LifeInDaTrash folds
+abubunopa raises [$0.63 USD]
+valuebluff99 calls [$0.63 USD]
+TilliWilli raises [$0.91 USD]
+milindos folds
+abubunopa calls [$0.38 USD]
+valuebluff99 raises [$2.15 USD]
+TilliWilli raises [$3.99 USD]
+abubunopa folds
+valuebluff99 calls [$2.22 USD]
+** Dealing Flop ** [ Qd, 6d, 4h ]
+TilliWilli bets [$9 USD]
+valuebluff99 folds
+TilliWilli does not show cards.
+TilliWilli wins $19.70 USD
+Game #14698890788 starts.
+
+#Game No : 14698890788 
+***** Hand History for Game 14698890788 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 08:59:43 EDT 2015
+Table Atlantis (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $49.99 USD )
+Seat 2: LifeInDaTrash ( $35.01 USD )
+Seat 5: TilliWilli ( $30.26 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $30.92 USD )
+Seat 4: valuebluff99 ( $44.61 USD )
+milindos posts small blind [$0.10 USD].
+Belongil posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4h Kc ]
+LifeInDaTrash raises [$0.75 USD]
+abubunopa raises [$2.13 USD]
+valuebluff99 folds
+TilliWilli folds
+milindos raises [$6.92 USD]
+Belongil folds
+LifeInDaTrash folds
+abubunopa folds
+milindos does not show cards.
+milindos wins $10.15 USD
+Game #14698891190 starts.
+
+#Game No : 14698891190 
+***** Hand History for Game 14698891190 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 09:00:08 EDT 2015
+Table Atlantis (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $49.74 USD )
+Seat 2: LifeInDaTrash ( $34.26 USD )
+Seat 5: TilliWilli ( $30.26 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $34.05 USD )
+Seat 4: valuebluff99 ( $44.61 USD )
+Belongil posts small blind [$0.10 USD].
+LifeInDaTrash posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5c Kh ]
+abubunopa folds
+valuebluff99 folds
+TilliWilli raises [$0.50 USD]
+milindos calls [$0.50 USD]
+Belongil folds
+LifeInDaTrash folds
+** Dealing Flop ** [ 2s, Th, 6s ]
+TilliWilli checks
+milindos checks
+** Dealing Turn ** [ 7c ]
+TilliWilli checks
+milindos checks
+** Dealing River ** [ Kc ]
+TilliWilli bets [$0.25 USD]
+milindos raises [$2.04 USD]
+Your time bank will be activated in 6 secs. If you do not want it to be used, please act now.
+TilliWilli will be using their time bank for this hand.
+TilliWilli folds
+milindos does not show cards.
+milindos wins $3.55 USD
+Game #14698892684 starts.
+
+#Game No : 14698892684 
+***** Hand History for Game 14698892684 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 09:01:11 EDT 2015
+Table Atlantis (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $49.64 USD )
+Seat 2: LifeInDaTrash ( $34.01 USD )
+Seat 5: TilliWilli ( $29.51 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $35.06 USD )
+Seat 4: valuebluff99 ( $44.61 USD )
+LifeInDaTrash posts small blind [$0.10 USD].
+abubunopa posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ad 7s ]
+valuebluff99 folds
+TilliWilli calls [$0.25 USD]
+milindos folds
+Belongil raises [$1 USD]
+LifeInDaTrash folds
+abubunopa folds
+TilliWilli calls [$0.75 USD]
+** Dealing Flop ** [ 2h, Td, 8s ]
+TilliWilli bets [$0.25 USD]
+Belongil calls [$0.25 USD]
+** Dealing Turn ** [ 9c ]
+TilliWilli bets [$0.50 USD]
+Belongil raises [$3.36 USD]
+TilliWilli calls [$2.86 USD]
+** Dealing River ** [ Ac ]
+TilliWilli bets [$3 USD]
+Belongil raises [$14.48 USD]
+TilliWilli calls [$11.48 USD]
+Belongil shows [ Qd, Js ]a straight, Eight to Queen.
+TilliWilli doesn't show [ Ad, 7s ]a pair of Aces.
+Belongil wins $36.61 USD from the main pot with a straight, Eight to Queen.
+Game #14698894429 starts.
+
+#Game No : 14698894429 
+***** Hand History for Game 14698894429 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 09:02:51 EDT 2015
+Table Atlantis (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $67.16 USD )
+Seat 2: LifeInDaTrash ( $33.91 USD )
+Seat 5: TilliWilli ( $10.42 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $35.06 USD )
+Seat 4: valuebluff99 ( $44.61 USD )
+abubunopa posts small blind [$0.10 USD].
+valuebluff99 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  6c 5h ]
+TilliWilli calls [$0.25 USD]
+milindos raises [$2 USD]
+Belongil folds
+LifeInDaTrash folds
+abubunopa folds
+valuebluff99 folds
+TilliWilli folds
+milindos does not show cards.
+milindos wins $2.60 USD
+Game #14698894737 starts.
+
+#Game No : 14698894737 
+***** Hand History for Game 14698894737 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 09:03:08 EDT 2015
+Table Atlantis (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $67.16 USD )
+Seat 2: LifeInDaTrash ( $33.91 USD )
+Seat 5: TilliWilli ( $10.17 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $35.66 USD )
+Seat 4: valuebluff99 ( $44.36 USD )
+valuebluff99 posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ts Qh ]
+milindos raises [$1 USD]
+Belongil folds
+LifeInDaTrash folds
+abubunopa calls [$1 USD]
+valuebluff99 folds
+TilliWilli calls [$0.75 USD]
+** Dealing Flop ** [ 7h, 7d, 3c ]
+TilliWilli checks
+milindos checks
+abubunopa checks
+** Dealing Turn ** [ 7s ]
+TilliWilli checks
+milindos checks
+abubunopa checks
+** Dealing River ** [ 5c ]
+TilliWilli checks
+milindos checks
+abubunopa checks
+TilliWilli shows [ Ts, Qh ]three of a kind, Sevens.
+milindos shows [ As, 8h ]three of a kind, Sevens with Ace kicker.
+abubunopa shows [ 2h, 2s ]a full house, Sevens full of Twos.
+abubunopa wins $2.95 USD from the main pot with a full house, Sevens full of Twos.
+Game #14698895568 starts.
+
+#Game No : 14698895568 
+***** Hand History for Game 14698895568 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 09:03:53 EDT 2015
+Table Atlantis (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $67.16 USD )
+Seat 2: LifeInDaTrash ( $33.91 USD )
+Seat 5: TilliWilli ( $9.17 USD )
+Seat 3: abubunopa ( $26.95 USD )
+Seat 6: milindos ( $34.66 USD )
+Seat 4: valuebluff99 ( $44.26 USD )
+TilliWilli posts small blind [$0.10 USD].
+milindos posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Js Ac ]
+Belongil folds
+LifeInDaTrash folds
+abubunopa raises [$0.63 USD]
+valuebluff99 calls [$0.63 USD]
+TilliWilli raises [$0.91 USD]
+milindos folds
+abubunopa calls [$0.38 USD]
+valuebluff99 calls [$0.38 USD]
+** Dealing Flop ** [ 4h, 3h, 2s ]
+TilliWilli bets [$1 USD]
+abubunopa folds
+valuebluff99 is all-In  [$43.25 USD]
+Your time bank will be activated in 6 secs. If you do not want it to be used, please act now.
+TilliWilli folds
+valuebluff99 shows [ 8h, 8s ]a pair of Eights.
+valuebluff99 wins $47.27 USD from the main pot with a pair of Eights.
+Game #14698897524 starts.
+
+#Game No : 14698897524 
+***** Hand History for Game 14698897524 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 09:04:44 EDT 2015
+Table Atlantis (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $67.16 USD )
+Seat 2: LifeInDaTrash ( $33.91 USD )
+Seat 5: TilliWilli ( $7.16 USD )
+Seat 3: abubunopa ( $25.94 USD )
+Seat 6: milindos ( $34.41 USD )
+Seat 4: valuebluff99 ( $47.27 USD )
+milindos posts small blind [$0.10 USD].
+Belongil posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4s 9c ]
+LifeInDaTrash folds
+abubunopa folds
+valuebluff99 raises [$0.70 USD]
+TilliWilli folds
+milindos folds
+Belongil folds
+valuebluff99 does not show cards.
+valuebluff99 wins $1.05 USD
+Game #14698897971 starts.
+
+#Game No : 14698897971 
+***** Hand History for Game 14698897971 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 09:05:07 EDT 2015
+Table Atlantis (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $66.91 USD )
+Seat 2: LifeInDaTrash ( $33.91 USD )
+Seat 5: TilliWilli ( $7.16 USD )
+Seat 3: abubunopa ( $25.94 USD )
+Seat 6: milindos ( $34.31 USD )
+Seat 4: valuebluff99 ( $47.62 USD )
+Belongil posts small blind [$0.10 USD].
+LifeInDaTrash posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8c 3s ]
+abubunopa folds
+valuebluff99 raises [$0.50 USD]
+TilliWilli folds
+milindos folds
+Belongil folds
+LifeInDaTrash folds
+valuebluff99 does not show cards.
+valuebluff99 wins $0.85 USD
+Game #14698898324 starts.
+
+#Game No : 14698898324 
+***** Hand History for Game 14698898324 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 09:05:25 EDT 2015
+Table Atlantis (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $66.81 USD )
+Seat 2: LifeInDaTrash ( $33.66 USD )
+Seat 5: TilliWilli ( $7.16 USD )
+Seat 3: abubunopa ( $25.94 USD )
+Seat 6: milindos ( $34.31 USD )
+Seat 4: valuebluff99 ( $47.97 USD )
+LifeInDaTrash posts small blind [$0.10 USD].
+abubunopa posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5c Ad ]
+valuebluff99 folds
+TilliWilli raises [$0.50 USD]
+milindos folds
+Belongil folds
+LifeInDaTrash raises [$1.90 USD]
+abubunopa folds
+Your time bank will be activated in 6 secs. If you do not want it to be used, please act now.
+TilliWilli folds
+LifeInDaTrash does not show cards.
+LifeInDaTrash wins $2.75 USD
+Game #14698899382 starts.
+
+#Game No : 14698899382 
+***** Hand History for Game 14698899382 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 09:05:56 EDT 2015
+Table Atlantis (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $66.81 USD )
+Seat 2: LifeInDaTrash ( $34.41 USD )
+Seat 5: TilliWilli ( $6.66 USD )
+Seat 3: abubunopa ( $25.69 USD )
+Seat 6: milindos ( $34.31 USD )
+Seat 4: valuebluff99 ( $47.97 USD )
+abubunopa posts small blind [$0.10 USD].
+valuebluff99 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5d As ]
+TilliWilli raises [$0.50 USD]
+milindos raises [$1.50 USD]
+Belongil folds
+LifeInDaTrash folds
+abubunopa folds
+valuebluff99 folds
+TilliWilli folds
+milindos does not show cards.
+milindos wins $2.35 USD
+Game #14698899717 starts.
+
+#Game No : 14698899717 
+***** Hand History for Game 14698899717 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 09:06:14 EDT 2015
+Table Atlantis (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $66.81 USD )
+Seat 2: LifeInDaTrash ( $34.41 USD )
+Seat 5: TilliWilli ( $6.16 USD )
+Seat 3: abubunopa ( $25.59 USD )
+Seat 6: milindos ( $35.16 USD )
+Seat 4: valuebluff99 ( $47.72 USD )
+valuebluff99 posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9c Th ]
+milindos raises [$1 USD]
+Belongil folds
+LifeInDaTrash folds
+abubunopa calls [$1 USD]
+valuebluff99 calls [$0.90 USD]
+TilliWilli calls [$0.75 USD]
+** Dealing Flop ** [ 3d, 7d, Ts ]
+valuebluff99 checks
+TilliWilli checks
+milindos checks
+abubunopa checks
+** Dealing Turn ** [ Td ]
+valuebluff99 checks
+TilliWilli checks
+milindos checks
+abubunopa checks
+** Dealing River ** [ Kh ]
+valuebluff99 checks
+TilliWilli bets [$3 USD]
+milindos folds
+abubunopa folds
+valuebluff99 folds
+TilliWilli does not show cards.
+TilliWilli wins $6.80 USD
+Game #14698900486 starts.
+
+#Game No : 14698900486 
+***** Hand History for Game 14698900486 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 09:06:55 EDT 2015
+Table Atlantis (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $66.81 USD )
+Seat 2: LifeInDaTrash ( $34.41 USD )
+Seat 5: TilliWilli ( $8.96 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $34.16 USD )
+Seat 4: valuebluff99 ( $46.72 USD )
+TilliWilli posts small blind [$0.10 USD].
+milindos posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  As 9d ]
+Belongil folds
+LifeInDaTrash folds
+abubunopa raises [$0.63 USD]
+valuebluff99 folds
+TilliWilli raises [$0.91 USD]
+milindos folds
+abubunopa calls [$0.38 USD]
+** Dealing Flop ** [ 3d, 7c, 8d ]
+TilliWilli checks
+abubunopa checks
+** Dealing Turn ** [ 8h ]
+TilliWilli bets [$2 USD]
+abubunopa folds
+TilliWilli does not show cards.
+TilliWilli wins $4.16 USD
+Game #14698901191 starts.
+
+#Game No : 14698901191 
+***** Hand History for Game 14698901191 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 09:07:33 EDT 2015
+Table Atlantis (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $66.81 USD )
+Seat 2: LifeInDaTrash ( $34.41 USD )
+Seat 5: TilliWilli ( $10.11 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $33.91 USD )
+Seat 4: valuebluff99 ( $46.72 USD )
+milindos posts small blind [$0.10 USD].
+Belongil posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Tc Ad ]
+LifeInDaTrash folds
+abubunopa folds
+valuebluff99 raises [$0.70 USD]
+TilliWilli calls [$0.70 USD]
+milindos raises [$3.65 USD]
+Belongil folds
+valuebluff99 calls [$3.05 USD]
+TilliWilli folds
+** Dealing Flop ** [ 5s, 7h, 4d ]
+milindos bets [$6.02 USD]
+valuebluff99 raises [$12.04 USD]
+milindos is all-In  [$24.14 USD]
+valuebluff99 calls [$18.12 USD]
+** Dealing Turn ** [ 3s ]
+** Dealing River ** [ Js ]
+valuebluff99 shows [ 8s, 6s ]a flush, Jack high.
+milindos doesn't show [ Ks, Kd ]a pair of Kings.
+valuebluff99 wins $65.77 USD from the main pot with a flush, Jack high.
+Game #14698901949 starts.
+
+#Game No : 14698901949 
+***** Hand History for Game 14698901949 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 09:08:13 EDT 2015
+Table Atlantis (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $66.56 USD )
+Seat 2: LifeInDaTrash ( $34.41 USD )
+Seat 5: TilliWilli ( $9.41 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $25 USD )
+Seat 4: valuebluff99 ( $78.58 USD )
+Belongil posts small blind [$0.10 USD].
+LifeInDaTrash posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3d 5s ]
+abubunopa folds
+valuebluff99 folds
+TilliWilli folds
+milindos: great played,you f monkey
+milindos folds
+Belongil folds
+LifeInDaTrash does not show cards.
+LifeInDaTrash wins $0.35 USD
+Game #14698902270 starts.
+
+#Game No : 14698902270 
+***** Hand History for Game 14698902270 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 09:08:31 EDT 2015
+Table Atlantis (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $66.46 USD )
+Seat 2: LifeInDaTrash ( $34.51 USD )
+Seat 5: TilliWilli ( $9.41 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $25 USD )
+Seat 4: valuebluff99 ( $78.58 USD )
+LifeInDaTrash posts small blind [$0.10 USD].
+abubunopa posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4c 5h ]
+valuebluff99: ty
+valuebluff99 raises [$0.70 USD]
+milindos: you f idio't
+TilliWilli folds
+valuebluff99: ty
+milindos folds
+Belongil folds
+LifeInDaTrash folds
+abubunopa calls [$0.45 USD]
+** Dealing Flop ** [ Td, 8s, 5c ]
+valuebluff99: im just a fish
+valuebluff99: you'll get it back
+abubunopa checks
+milindos: for what?you f idio't?for what?
+valuebluff99 checks
+** Dealing Turn ** [ 3s ]
+abubunopa bets [$1 USD]
+milindos: no,you f idio't
+valuebluff99 folds
+abubunopa does not show cards.
+abubunopa wins $2.43 USD
+Game #14698903659 starts.
+
+#Game No : 14698903659 
+***** Hand History for Game 14698903659 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 09:09:20 EDT 2015
+Table Atlantis (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $66.46 USD )
+Seat 2: LifeInDaTrash ( $34.41 USD )
+Seat 5: TilliWilli ( $9.41 USD )
+Seat 3: abubunopa ( $25.73 USD )
+Seat 6: milindos ( $25 USD )
+Seat 4: valuebluff99 ( $77.88 USD )
+abubunopa posts small blind [$0.10 USD].
+valuebluff99 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qh 2d ]
+valuebluff99: what?
+TilliWilli folds
+milindos: just foff
+milindos raises [$0.50 USD]
+Belongil folds
+LifeInDaTrash folds
+valuebluff99: :D
+abubunopa raises [$1.42 USD]
+valuebluff99 folds
+milindos calls [$1.02 USD]
+** Dealing Flop ** [ Ts, 8c, 9d ]
+abubunopa bets [$1.65 USD]
+milindos raises [$4 USD]
+abubunopa calls [$2.35 USD]
+** Dealing Turn ** [ 4d ]
+abubunopa checks
+milindos bets [$7 USD]
+abubunopa folds
+milindos does not show cards.
+milindos wins $17.73 USD
+Game #14698904950 starts.
+
+#Game No : 14698904950 
+***** Hand History for Game 14698904950 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 09:10:27 EDT 2015
+Table Atlantis (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $66.46 USD )
+Seat 2: LifeInDaTrash ( $34.41 USD )
+Seat 5: TilliWilli ( $9.41 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $30.21 USD )
+Seat 4: valuebluff99 ( $77.63 USD )
+valuebluff99 posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ad As ]
+milindos folds
+valuebluff99: there u go
+Belongil folds
+LifeInDaTrash folds
+abubunopa raises [$0.50 USD]
+valuebluff99 folds
+TilliWilli raises [$0.50 USD]
+abubunopa raises [$2.50 USD]
+TilliWilli raises [$4.50 USD]
+abubunopa raises [$9 USD]
+TilliWilli is all-In  [$4.16 USD]
+** Dealing Flop ** [ 8d, 5d, Kd ]
+** Dealing Turn ** [ Kc ]
+** Dealing River ** [ Ah ]
+abubunopa shows [ Qs, Ac ]two pairs, Aces and Kings.
+TilliWilli shows [ Ad, As ]a full house, Aces full of Kings.
+abubunopa wins $2.59 USD from the side pot 1 with two pairs, Aces and Kings.
+TilliWilli wins $17.98 USD from the main pot with a full house, Aces full of Kings.
+Game #14698906130 starts.
+
+#Game No : 14698906130 
+***** Hand History for Game 14698906130 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 09:11:04 EDT 2015
+Table Atlantis (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $66.46 USD )
+Seat 2: LifeInDaTrash ( $34.41 USD )
+Seat 5: TilliWilli ( $17.98 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $30.21 USD )
+Seat 4: valuebluff99 ( $77.53 USD )
+TilliWilli posts small blind [$0.10 USD].
+milindos posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Kd 2s ]
+Belongil raises [$0.75 USD]
+LifeInDaTrash folds
+abubunopa folds
+milindos: f off,ok monkey?
+valuebluff99 calls [$0.75 USD]
+TilliWilli folds
+milindos folds
+** Dealing Flop ** [ 3h, 8h, 7s ]
+valuebluff99: off this table?
+Belongil checks
+valuebluff99 bets [$1.17 USD]
+Belongil folds
+valuebluff99 does not show cards.
+valuebluff99 wins $2.93 USD
+Game #14698906742 starts.
+
+#Game No : 14698906742 
+***** Hand History for Game 14698906742 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 09:11:37 EDT 2015
+Table Atlantis (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $65.71 USD )
+Seat 2: LifeInDaTrash ( $34.41 USD )
+Seat 5: TilliWilli ( $17.88 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $29.96 USD )
+Seat 4: valuebluff99 ( $78.54 USD )
+milindos posts small blind [$0.10 USD].
+Belongil posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3d 6s ]
+LifeInDaTrash folds
+abubunopa folds
+valuebluff99 folds
+TilliWilli folds
+milindos folds
+Belongil does not show cards.
+Belongil wins $0.35 USD
+Game #14698906958 starts.
+
+#Game No : 14698906958 
+***** Hand History for Game 14698906958 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 09:11:49 EDT 2015
+Table Atlantis (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $65.81 USD )
+Seat 2: LifeInDaTrash ( $34.41 USD )
+Seat 5: TilliWilli ( $17.88 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $29.86 USD )
+Seat 4: valuebluff99 ( $78.54 USD )
+Belongil posts small blind [$0.10 USD].
+LifeInDaTrash posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qh Td ]
+abubunopa folds
+valuebluff99 raises [$0.70 USD]
+TilliWilli calls [$0.70 USD]
+milindos folds
+Belongil folds
+LifeInDaTrash folds
+** Dealing Flop ** [ Kc, 6d, 5s ]
+valuebluff99 bets [$0.83 USD]
+TilliWilli folds
+valuebluff99 does not show cards.
+valuebluff99 wins $2.50 USD
+Game #14698907500 starts.
+
+#Game No : 14698907500 
+***** Hand History for Game 14698907500 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 09:12:19 EDT 2015
+Table Atlantis (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $65.71 USD )
+Seat 2: LifeInDaTrash ( $34.16 USD )
+Seat 5: TilliWilli ( $17.18 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $29.86 USD )
+Seat 4: valuebluff99 ( $79.51 USD )
+LifeInDaTrash posts small blind [$0.10 USD].
+abubunopa posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Jd 3c ]
+valuebluff99 folds
+TilliWilli folds
+milindos folds
+Belongil raises [$0.75 USD]
+LifeInDaTrash folds
+abubunopa folds
+Belongil does not show cards.
+Belongil wins $1.10 USD
+Game #14698907953 starts.
+
+#Game No : 14698907953 
+***** Hand History for Game 14698907953 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 09:12:44 EDT 2015
+Table Atlantis (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $66.06 USD )
+Seat 2: LifeInDaTrash ( $34.06 USD )
+Seat 5: TilliWilli ( $17.18 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $29.86 USD )
+Seat 4: valuebluff99 ( $79.51 USD )
+abubunopa posts small blind [$0.10 USD].
+valuebluff99 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8h 2d ]
+TilliWilli folds
+milindos folds
+Belongil raises [$0.75 USD]
+LifeInDaTrash folds
+abubunopa folds
+valuebluff99 folds
+Belongil does not show cards.
+Belongil wins $1.10 USD
+Game #14698908206 starts.
+
+#Game No : 14698908206 
+***** Hand History for Game 14698908206 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 09:12:58 EDT 2015
+Table Atlantis (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $66.41 USD )
+Seat 2: LifeInDaTrash ( $34.06 USD )
+Seat 5: TilliWilli ( $17.18 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $29.86 USD )
+Seat 4: valuebluff99 ( $79.26 USD )
+valuebluff99 posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9d Qd ]
+milindos folds
+Belongil folds
+LifeInDaTrash raises [$0.62 USD]
+abubunopa folds
+valuebluff99 folds
+TilliWilli raises [$0.74 USD]
+LifeInDaTrash calls [$0.37 USD]
+** Dealing Flop ** [ Qc, 2s, As ]
+TilliWilli checks
+LifeInDaTrash checks
+** Dealing Turn ** [ 9h ]
+TilliWilli checks
+LifeInDaTrash bets [$1 USD]
+TilliWilli raises [$2 USD]
+LifeInDaTrash folds
+TilliWilli does not show cards.
+TilliWilli wins $4.88 USD
+Game #14698909252 starts.
+
+#Game No : 14698909252 
+***** Hand History for Game 14698909252 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 09:13:53 EDT 2015
+Table Atlantis (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $66.41 USD )
+Seat 2: LifeInDaTrash ( $32.07 USD )
+Seat 5: TilliWilli ( $19.07 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $29.86 USD )
+Seat 4: valuebluff99 ( $79.16 USD )
+TilliWilli posts small blind [$0.10 USD].
+milindos posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3d 5h ]
+Belongil raises [$0.75 USD]
+LifeInDaTrash folds
+abubunopa folds
+valuebluff99 calls [$0.75 USD]
+TilliWilli folds
+milindos folds
+** Dealing Flop ** [ Kh, 5s, 3h ]
+Belongil bets [$1.32 USD]
+valuebluff99 raises [$3.81 USD]
+Belongil folds
+valuebluff99 does not show cards.
+valuebluff99 wins $6.76 USD
+Game #14698910050 starts.
+
+#Game No : 14698910050 
+***** Hand History for Game 14698910050 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 09:14:35 EDT 2015
+Table Atlantis (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $64.34 USD )
+Seat 2: LifeInDaTrash ( $32.07 USD )
+Seat 5: TilliWilli ( $18.97 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $29.61 USD )
+Seat 4: valuebluff99 ( $81.36 USD )
+milindos posts small blind [$0.10 USD].
+Belongil posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ts 2h ]
+LifeInDaTrash folds
+abubunopa folds
+valuebluff99 raises [$0.70 USD]
+TilliWilli folds
+milindos folds
+Belongil calls [$0.45 USD]
+** Dealing Flop ** [ 9c, 8h, Kh ]
+Belongil checks
+valuebluff99 bets [$0.71 USD]
+Belongil folds
+valuebluff99 does not show cards.
+valuebluff99 wins $2.14 USD
+Game #14698911490 starts.
+
+#Game No : 14698911490 
+***** Hand History for Game 14698911490 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 09:15:24 EDT 2015
+Table Atlantis (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $63.64 USD )
+Seat 2: LifeInDaTrash ( $32.07 USD )
+Seat 5: TilliWilli ( $18.97 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $29.51 USD )
+Seat 4: valuebluff99 ( $82.09 USD )
+Belongil posts small blind [$0.10 USD].
+LifeInDaTrash posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5d 8d ]
+abubunopa folds
+valuebluff99 folds
+TilliWilli folds
+milindos folds
+Belongil folds
+LifeInDaTrash does not show cards.
+LifeInDaTrash wins $0.35 USD
+Game #14698911843 starts.
+
+#Game No : 14698911843 
+***** Hand History for Game 14698911843 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 09:15:44 EDT 2015
+Table Atlantis (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $63.54 USD )
+Seat 2: LifeInDaTrash ( $32.17 USD )
+Seat 5: TilliWilli ( $18.97 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $29.51 USD )
+Seat 4: valuebluff99 ( $82.09 USD )
+LifeInDaTrash posts small blind [$0.10 USD].
+abubunopa posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  6s 7h ]
+valuebluff99 folds
+TilliWilli folds
+milindos raises [$1 USD]
+Belongil folds
+LifeInDaTrash folds
+abubunopa folds
+milindos does not show cards.
+milindos wins $1.35 USD
+Game #14698912097 starts.
+
+#Game No : 14698912097 
+***** Hand History for Game 14698912097 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 09:15:57 EDT 2015
+Table Atlantis (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $63.54 USD )
+Seat 2: LifeInDaTrash ( $32.07 USD )
+Seat 5: TilliWilli ( $18.97 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $29.86 USD )
+Seat 4: valuebluff99 ( $82.09 USD )
+abubunopa posts small blind [$0.10 USD].
+valuebluff99 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4d 9h ]
+TilliWilli folds
+milindos raises [$0.50 USD]
+Belongil calls [$0.50 USD]
+LifeInDaTrash folds
+abubunopa folds
+valuebluff99 will be using their time bank for this hand.
+valuebluff99 calls [$0.25 USD]
+** Dealing Flop ** [ As, 6h, 7h ]
+valuebluff99 checks
+milindos checks
+Belongil bets [$1.14 USD]
+valuebluff99 folds
+milindos folds
+Belongil does not show cards.
+Belongil wins $2.66 USD
+Game #14698913645 starts.
+
+#Game No : 14698913645 
+***** Hand History for Game 14698913645 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 09:16:52 EDT 2015
+Table Atlantis (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $64.56 USD )
+Seat 2: LifeInDaTrash ( $32.07 USD )
+Seat 5: TilliWilli ( $18.97 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $29.36 USD )
+Seat 4: valuebluff99 ( $81.59 USD )
+valuebluff99 posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4h Tc ]
+milindos raises [$0.50 USD]
+Belongil folds
+LifeInDaTrash folds
+abubunopa folds
+valuebluff99 folds
+TilliWilli folds
+milindos does not show cards.
+milindos wins $0.85 USD
+Game #14698913920 starts.
+
+#Game No : 14698913920 
+***** Hand History for Game 14698913920 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 09:17:07 EDT 2015
+Table Atlantis (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $64.56 USD )
+Seat 2: LifeInDaTrash ( $32.07 USD )
+Seat 5: TilliWilli ( $18.72 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $29.71 USD )
+Seat 4: valuebluff99 ( $81.49 USD )
+TilliWilli posts small blind [$0.10 USD].
+milindos posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2s Kd ]
+Belongil raises [$0.75 USD]
+LifeInDaTrash calls [$0.75 USD]
+abubunopa folds
+valuebluff99 calls [$0.75 USD]
+TilliWilli folds
+milindos calls [$0.50 USD]
+** Dealing Flop ** [ 7d, 2h, 7s ]
+milindos checks
+Belongil checks
+LifeInDaTrash checks
+valuebluff99 bets [$1.47 USD]
+milindos calls [$1.47 USD]
+Belongil folds
+LifeInDaTrash folds
+** Dealing Turn ** [ 7h ]
+milindos checks
+valuebluff99 checks
+** Dealing River ** [ 5h ]
+milindos bets [$2.87 USD]
+valuebluff99 calls [$2.87 USD]
+milindos shows [ 4h, 4d ]a full house, Sevens full of Fours.
+valuebluff99 doesn't show [ 8h, 9h ]a flush, Nine high.
+milindos wins $11.20 USD from the main pot with a full house, Sevens full of Fours.
+Game #14698915130 starts.
+
+#Game No : 14698915130 
+***** Hand History for Game 14698915130 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 09:18:10 EDT 2015
+Table Atlantis (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $63.81 USD )
+Seat 2: LifeInDaTrash ( $31.32 USD )
+Seat 5: TilliWilli ( $18.62 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $35.82 USD )
+Seat 4: valuebluff99 ( $76.40 USD )
+milindos posts small blind [$0.10 USD].
+Belongil posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  7d 8h ]
+LifeInDaTrash folds
+abubunopa folds
+valuebluff99: there u go
+valuebluff99 raises [$0.70 USD]
+TilliWilli folds
+milindos folds
+Belongil folds
+valuebluff99 does not show cards.
+valuebluff99 wins $1.05 USD
+Game #14698915681 starts.
+
+#Game No : 14698915681 
+***** Hand History for Game 14698915681 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 09:18:40 EDT 2015
+Table Atlantis (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $63.56 USD )
+Seat 2: LifeInDaTrash ( $31.32 USD )
+Seat 5: TilliWilli ( $18.62 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $35.72 USD )
+Seat 4: valuebluff99 ( $76.75 USD )
+Belongil posts small blind [$0.10 USD].
+LifeInDaTrash posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Jd 8c ]
+abubunopa folds
+valuebluff99 folds
+TilliWilli raises [$0.50 USD]
+milindos folds
+Belongil raises [$2.15 USD]
+LifeInDaTrash folds
+Your time bank will be activated in 6 secs. If you do not want it to be used, please act now.
+TilliWilli folds
+Belongil does not show cards.
+Belongil wins $3 USD
+Game #14698916237 starts.
+
+#Game No : 14698916237 
+***** Hand History for Game 14698916237 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 09:19:10 EDT 2015
+Table Atlantis (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $64.31 USD )
+Seat 2: LifeInDaTrash ( $31.07 USD )
+Seat 5: TilliWilli ( $18.12 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $35.72 USD )
+Seat 4: valuebluff99 ( $76.75 USD )
+LifeInDaTrash posts small blind [$0.10 USD].
+abubunopa posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4h Kd ]
+valuebluff99 folds
+TilliWilli folds
+milindos folds
+Belongil raises [$0.75 USD]
+LifeInDaTrash folds
+abubunopa folds
+Belongil does not show cards.
+Belongil wins $1.10 USD
+Game #14698916473 starts.
+
+#Game No : 14698916473 
+***** Hand History for Game 14698916473 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 09:19:23 EDT 2015
+Table Atlantis (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $64.66 USD )
+Seat 2: LifeInDaTrash ( $30.97 USD )
+Seat 5: TilliWilli ( $18.12 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $35.72 USD )
+Seat 4: valuebluff99 ( $76.75 USD )
+abubunopa posts small blind [$0.10 USD].
+valuebluff99 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9h 6c ]
+TilliWilli folds
+milindos raises [$0.50 USD]
+Belongil calls [$0.50 USD]
+LifeInDaTrash folds
+abubunopa folds
+valuebluff99 folds
+** Dealing Flop ** [ Ac, Jc, 3s ]
+milindos checks
+Belongil bets [$0.96 USD]
+milindos calls [$0.96 USD]
+** Dealing Turn ** [ 8c ]
+milindos checks
+Belongil bets [$2.33 USD]
+milindos calls [$2.33 USD]
+** Dealing River ** [ Kc ]
+milindos checks
+Belongil bets [$5.65 USD]
+milindos folds
+Belongil does not show cards.
+Belongil wins $13.19 USD
+Game #14698918051 starts.
+
+#Game No : 14698918051 
+***** Hand History for Game 14698918051 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 09:20:21 EDT 2015
+Table Atlantis (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $68.41 USD )
+Seat 2: LifeInDaTrash ( $30.97 USD )
+Seat 5: TilliWilli ( $18.12 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $31.93 USD )
+Seat 4: valuebluff99 ( $76.50 USD )
+valuebluff99 posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2h 6d ]
+milindos folds
+Belongil raises [$0.75 USD]
+LifeInDaTrash folds
+abubunopa folds
+valuebluff99 folds
+TilliWilli folds
+Belongil does not show cards.
+Belongil wins $1.10 USD
+Game #14698918446 starts.
+
+#Game No : 14698918446 
+***** Hand History for Game 14698918446 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 09:20:41 EDT 2015
+Table Atlantis (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $68.76 USD )
+Seat 2: LifeInDaTrash ( $30.97 USD )
+Seat 5: TilliWilli ( $17.87 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $31.93 USD )
+Seat 4: valuebluff99 ( $76.40 USD )
+TilliWilli posts small blind [$0.10 USD].
+milindos posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9s 8d ]
+Belongil folds
+LifeInDaTrash folds
+abubunopa raises [$0.63 USD]
+valuebluff99 folds
+TilliWilli calls [$0.53 USD]
+milindos calls [$0.38 USD]
+** Dealing Flop ** [ 2c, 4s, 2h ]
+TilliWilli checks
+milindos checks
+abubunopa checks
+** Dealing Turn ** [ Th ]
+TilliWilli checks
+milindos checks
+abubunopa checks
+** Dealing River ** [ 8h ]
+TilliWilli bets [$0.25 USD]
+milindos folds
+abubunopa folds
+TilliWilli does not show cards.
+TilliWilli wins $2.05 USD
+Game #14698919985 starts.
+
+#Game No : 14698919985 
+***** Hand History for Game 14698919985 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 09:21:34 EDT 2015
+Table Atlantis (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $68.76 USD )
+Seat 2: LifeInDaTrash ( $30.97 USD )
+Seat 5: TilliWilli ( $19.04 USD )
+Seat 3: abubunopa ( $25 USD )
+Seat 6: milindos ( $31.30 USD )
+Seat 4: valuebluff99 ( $76.40 USD )
+milindos posts small blind [$0.10 USD].
+Belongil posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5d 8h ]
+LifeInDaTrash raises [$0.75 USD]
+abubunopa calls [$0.75 USD]
+valuebluff99 calls [$0.75 USD]
+TilliWilli folds
+milindos folds
+Belongil folds
+** Dealing Flop ** [ 3c, 7h, Qh ]
+LifeInDaTrash bets [$1.50 USD]
+abubunopa calls [$1.50 USD]
+valuebluff99 folds
+** Dealing Turn ** [ 6h ]
+LifeInDaTrash checks
+abubunopa bets [$3 USD]
+LifeInDaTrash folds
+abubunopa does not show cards.
+abubunopa wins $8.32 USD
+Game #14698920856 starts.
+
+#Game No : 14698920856 
+***** Hand History for Game 14698920856 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 09:22:22 EDT 2015
+Table Atlantis (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $68.51 USD )
+Seat 2: LifeInDaTrash ( $28.72 USD )
+Seat 5: TilliWilli ( $19.04 USD )
+Seat 3: abubunopa ( $28.07 USD )
+Seat 6: milindos ( $31.20 USD )
+Seat 4: valuebluff99 ( $75.65 USD )
+Belongil posts small blind [$0.10 USD].
+LifeInDaTrash posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Jd 8d ]
+abubunopa folds
+valuebluff99 folds
+TilliWilli raises [$0.75 USD]
+milindos raises [$2.50 USD]
+Belongil folds
+LifeInDaTrash folds
+TilliWilli calls [$1.75 USD]
+** Dealing Flop ** [ 4s, 5h, 4d ]
+TilliWilli bets [$2.25 USD]
+milindos calls [$2.25 USD]
+** Dealing Turn ** [ 5s ]
+TilliWilli checks
+milindos bets [$4.68 USD]
+TilliWilli folds
+milindos does not show cards.
+milindos wins $14.04 USD
+Game #14698921948 starts.
+
+#Game No : 14698921948 
+***** Hand History for Game 14698921948 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 09:23:20 EDT 2015
+Table Atlantis (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $68.41 USD )
+Seat 2: LifeInDaTrash ( $28.47 USD )
+Seat 5: TilliWilli ( $14.29 USD )
+Seat 3: abubunopa ( $28.07 USD )
+Seat 6: milindos ( $35.81 USD )
+Seat 4: valuebluff99 ( $75.65 USD )
+LifeInDaTrash posts small blind [$0.10 USD].
+abubunopa posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  7c 7d ]
+valuebluff99 raises [$0.70 USD]
+TilliWilli raises [$1.15 USD]
+milindos folds
+Belongil folds
+LifeInDaTrash folds
+abubunopa folds
+valuebluff99 calls [$0.45 USD]
+** Dealing Flop ** [ 3c, 2d, Jc ]
+valuebluff99 checks
+TilliWilli bets [$3 USD]
+valuebluff99 folds
+TilliWilli does not show cards.
+TilliWilli wins $5.52 USD
+Game #14698922834 starts.
+
+#Game No : 14698922834 
+***** Hand History for Game 14698922834 *****
+$0.10/$0.25 USD NL Texas Hold'em - Thursday, July 30, 09:24:07 EDT 2015
+Table Atlantis (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 1: Belongil ( $68.41 USD )
+Seat 2: LifeInDaTrash ( $28.37 USD )
+Seat 5: TilliWilli ( $15.66 USD )
+Seat 3: abubunopa ( $27.82 USD )
+Seat 6: milindos ( $35.81 USD )
+Seat 4: valuebluff99 ( $74.50 USD )
+abubunopa posts small blind [$0.10 USD].
+valuebluff99 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ah Th ]
+TilliWilli raises [$0.50 USD]
+milindos folds
+Belongil calls [$0.50 USD]
+LifeInDaTrash folds
+abubunopa folds
+valuebluff99 raises [$2.75 USD]
+Your time bank will be activated in 6 secs. If you do not want it to be used, please act now.
+TilliWilli raises [$7.50 USD]
+Belongil folds
+valuebluff99 is all-In  [$71.50 USD]
+TilliWilli is all-In  [$7.66 USD]
+** Dealing Flop ** [ Td, 4s, 3s ]
+** Dealing Turn ** [ 8d ]
+** Dealing River ** [ Kh ]
+TilliWilli shows [ Ah, Th ]a pair of Tens.
+valuebluff99 shows [ Jd, Jh ]a pair of Jacks.
+valuebluff99 wins $58.84 USD from the side pot 1 with a pair of Jacks.
+valuebluff99 wins $30.33 USD from the main pot with a pair of Jacks.

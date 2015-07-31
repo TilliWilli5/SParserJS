@@ -1,0 +1,2920 @@
+Game #14684407494 starts.
+
+#Game No : 14684407494 
+***** Hand History for Game 14684407494 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 11:38:29 EDT 2015
+Table Namangan (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 9: Rak4100 ( $8.12 USD )
+Seat 4: TilliWilli ( $10 USD )
+Seat 2: cioly3 ( $2.67 USD )
+Seat 7: eszenyiadam ( $10.02 USD )
+Seat 5: kemper0k ( $10.15 USD )
+Seat 1: pollenW ( $10 USD )
+Seat 8: rivieraKRD ( $10 USD )
+Seat 6: skorkin ( $11.10 USD )
+Seat 3: teufelsumos ( $11.95 USD )
+teufelsumos posts small blind [$0.05 USD].
+TilliWilli posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  7s 2h ]
+kemper0k folds
+skorkin raises [$0.30 USD]
+eszenyiadam folds
+rivieraKRD folds
+Rak4100 folds
+cioly3 calls [$0.30 USD]
+teufelsumos folds
+TilliWilli folds
+** Dealing Flop ** [ 6c, 5d, Js ]
+skorkin bets [$0.36 USD]
+cioly3 calls [$0.36 USD]
+** Dealing Turn ** [ 7d ]
+skorkin bets [$0.70 USD]
+cioly3 raises [$1.40 USD]
+skorkin calls [$0.70 USD]
+** Dealing River ** [ Ad ]
+skorkin bets [$2.03 USD]
+cioly3 is all-In  [$0.61 USD]
+skorkin shows [ Qd, Jd ]a flush, Ace high.
+cioly3 doesn't show [ Jh, Jc ]three of a kind, Jacks.
+skorkin wins $1.42 USD from the side pot 1 with a flush, Ace high.
+skorkin wins $5.22 USD from the main pot with a flush, Ace high.
+Game #14684408608 starts.
+
+#Game No : 14684408608 
+***** Hand History for Game 14684408608 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 11:39:23 EDT 2015
+Table Namangan (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 9: Rak4100 ( $8.12 USD )
+Seat 4: TilliWilli ( $9.90 USD )
+Seat 2: cioly3 ( $0 USD )
+Seat 7: eszenyiadam ( $10.02 USD )
+Seat 5: kemper0k ( $10.15 USD )
+Seat 1: pollenW ( $10 USD )
+Seat 8: rivieraKRD ( $10 USD )
+Seat 6: skorkin ( $13.65 USD )
+Seat 3: teufelsumos ( $11.90 USD )
+TilliWilli posts small blind [$0.05 USD].
+kemper0k posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ks Kh ]
+cioly3 has left the table.
+skorkin folds
+eszenyiadam folds
+rivieraKRD folds
+bluebirdgaz has joined the table.
+Rak4100 folds
+teufelsumos folds
+TilliWilli calls [$0.05 USD]
+kemper0k checks
+** Dealing Flop ** [ 5s, 3d, 4s ]
+TilliWilli bets [$0.10 USD]
+kemper0k folds
+TilliWilli does not show cards.
+TilliWilli wins $0.29 USD
+Game #14684410164 starts.
+
+#Game No : 14684410164 
+***** Hand History for Game 14684410164 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 11:40:12 EDT 2015
+Table Namangan (Real Money)
+Seat 4 is the button
+Total number of players : 9/9 
+Seat 9: Rak4100 ( $8.12 USD )
+Seat 4: TilliWilli ( $9.99 USD )
+Seat 2: bluebirdgaz ( $10 USD )
+Seat 7: eszenyiadam ( $10.02 USD )
+Seat 5: kemper0k ( $10.05 USD )
+Seat 1: pollenW ( $10 USD )
+Seat 8: rivieraKRD ( $10 USD )
+Seat 6: skorkin ( $13.65 USD )
+Seat 3: teufelsumos ( $11.90 USD )
+kemper0k posts small blind [$0.05 USD].
+skorkin posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qd Ac ]
+eszenyiadam calls [$0.10 USD]
+rivieraKRD folds
+Rak4100 folds
+teufelsumos folds
+TilliWilli raises [$0.20 USD]
+kemper0k folds
+skorkin folds
+eszenyiadam calls [$0.10 USD]
+** Dealing Flop ** [ 7d, Ts, 5h ]
+eszenyiadam checks
+TilliWilli bets [$0.25 USD]
+eszenyiadam folds
+TilliWilli does not show cards.
+TilliWilli wins $0.78 USD
+Game #14684410865 starts.
+
+#Game No : 14684410865 
+***** Hand History for Game 14684410865 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 11:40:44 EDT 2015
+Table Namangan (Real Money)
+Seat 5 is the button
+Total number of players : 9/9 
+Seat 9: Rak4100 ( $8.12 USD )
+Seat 4: TilliWilli ( $10.32 USD )
+Seat 2: bluebirdgaz ( $10 USD )
+Seat 7: eszenyiadam ( $9.82 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 1: pollenW ( $10 USD )
+Seat 8: rivieraKRD ( $10 USD )
+Seat 6: skorkin ( $13.55 USD )
+Seat 3: teufelsumos ( $11.90 USD )
+skorkin posts small blind [$0.05 USD].
+eszenyiadam posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Kd 4h ]
+rivieraKRD folds
+Rak4100 folds
+teufelsumos folds
+TilliWilli folds
+kemper0k did not respond in time
+kemper0k folds
+skorkin folds
+eszenyiadam does not show cards.
+eszenyiadam wins $0.15 USD
+Game #14684411709 starts.
+
+#Game No : 14684411709 
+***** Hand History for Game 14684411709 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 11:41:23 EDT 2015
+Table Namangan (Real Money)
+Seat 6 is the button
+Total number of players : 9/9 
+Seat 9: Rak4100 ( $8.12 USD )
+Seat 4: TilliWilli ( $10.32 USD )
+Seat 2: bluebirdgaz ( $10 USD )
+Seat 7: eszenyiadam ( $9.87 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 1: pollenW ( $10 USD )
+Seat 8: rivieraKRD ( $10 USD )
+Seat 6: skorkin ( $13.50 USD )
+Seat 3: teufelsumos ( $11.90 USD )
+eszenyiadam posts small blind [$0.05 USD].
+rivieraKRD posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Tc 5d ]
+Rak4100 folds
+teufelsumos folds
+TilliWilli folds
+skorkin folds
+eszenyiadam calls [$0.05 USD]
+rivieraKRD checks
+** Dealing Flop ** [ Ac, Kh, Jd ]
+eszenyiadam checks
+rivieraKRD checks
+** Dealing Turn ** [ Ks ]
+eszenyiadam checks
+rivieraKRD checks
+** Dealing River ** [ Kc ]
+eszenyiadam checks
+rivieraKRD checks
+eszenyiadam shows [ Ts, 6d ]three of a kind, Kings.
+rivieraKRD shows [ 9d, Qc ]three of a kind, Kings with Queen kicker.
+rivieraKRD wins $0.19 USD from the main pot with three of a kind, Kings with Queen kicker.
+Game #14684412810 starts.
+
+#Game No : 14684412810 
+***** Hand History for Game 14684412810 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 11:42:14 EDT 2015
+Table Namangan (Real Money)
+Seat 7 is the button
+Total number of players : 9/9 
+Seat 9: Rak4100 ( $8.12 USD )
+Seat 4: TilliWilli ( $10.32 USD )
+Seat 2: bluebirdgaz ( $10 USD )
+Seat 7: eszenyiadam ( $9.77 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 1: pollenW ( $10 USD )
+Seat 8: rivieraKRD ( $10.09 USD )
+Seat 6: skorkin ( $13.50 USD )
+Seat 3: teufelsumos ( $11.90 USD )
+rivieraKRD posts small blind [$0.05 USD].
+Rak4100 posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9h 2d ]
+teufelsumos folds
+TilliWilli folds
+kemper0k folds
+skorkin folds
+eszenyiadam folds
+rivieraKRD folds
+Rak4100 does not show cards.
+Rak4100 wins $0.15 USD
+Game #14684413784 starts.
+
+#Game No : 14684413784 
+***** Hand History for Game 14684413784 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 11:42:35 EDT 2015
+Table Namangan (Real Money)
+Seat 8 is the button
+Total number of players : 9/9 
+Seat 9: Rak4100 ( $8.17 USD )
+Seat 4: TilliWilli ( $10.32 USD )
+Seat 2: bluebirdgaz ( $10 USD )
+Seat 7: eszenyiadam ( $9.77 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 1: pollenW ( $10 USD )
+Seat 8: rivieraKRD ( $10.04 USD )
+Seat 6: skorkin ( $13.50 USD )
+Seat 3: teufelsumos ( $11.90 USD )
+Rak4100 posts small blind [$0.05 USD].
+pollenW posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9c Qh ]
+teufelsumos folds
+TilliWilli folds
+kemper0k folds
+skorkin folds
+eszenyiadam raises [$0.20 USD]
+rivieraKRD folds
+Rak4100 folds
+pollenW folds
+eszenyiadam does not show cards.
+eszenyiadam wins $0.35 USD
+Game #14684414570 starts.
+
+#Game No : 14684414570 
+***** Hand History for Game 14684414570 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 11:43:13 EDT 2015
+Table Namangan (Real Money)
+Seat 9 is the button
+Total number of players : 9/9 
+Seat 9: Rak4100 ( $8.12 USD )
+Seat 4: TilliWilli ( $10.32 USD )
+Seat 2: bluebirdgaz ( $10 USD )
+Seat 7: eszenyiadam ( $9.92 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 1: pollenW ( $10 USD )
+Seat 8: rivieraKRD ( $10.04 USD )
+Seat 6: skorkin ( $13.50 USD )
+Seat 3: teufelsumos ( $11.90 USD )
+pollenW posts small blind [$0.05 USD].
+bluebirdgaz posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  6h Kh ]
+teufelsumos folds
+TilliWilli folds
+kemper0k folds
+skorkin folds
+eszenyiadam folds
+rivieraKRD folds
+Rak4100 folds
+pollenW calls [$0.05 USD]
+bluebirdgaz checks
+** Dealing Flop ** [ Ac, Th, 9d ]
+pollenW bets [$0.14 USD]
+bluebirdgaz calls [$0.14 USD]
+** Dealing Turn ** [ 5h ]
+pollenW bets [$0.23 USD]
+bluebirdgaz calls [$0.23 USD]
+** Dealing River ** [ 9s ]
+pollenW checks
+bluebirdgaz bets [$0.45 USD]
+pollenW folds
+bluebirdgaz does not show cards.
+bluebirdgaz wins $1.35 USD
+Game #14684416084 starts.
+
+#Game No : 14684416084 
+***** Hand History for Game 14684416084 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 11:44:03 EDT 2015
+Table Namangan (Real Money)
+Seat 1 is the button
+Total number of players : 9/9 
+Seat 9: Rak4100 ( $8.12 USD )
+Seat 4: TilliWilli ( $10.32 USD )
+Seat 2: bluebirdgaz ( $10.43 USD )
+Seat 7: eszenyiadam ( $9.92 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 1: pollenW ( $10 USD )
+Seat 8: rivieraKRD ( $10.04 USD )
+Seat 6: skorkin ( $13.50 USD )
+Seat 3: teufelsumos ( $11.90 USD )
+bluebirdgaz posts small blind [$0.05 USD].
+teufelsumos posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9d 6d ]
+TilliWilli folds
+kemper0k folds
+skorkin folds
+eszenyiadam raises [$0.20 USD]
+rivieraKRD folds
+Rak4100 did not respond in time
+Rak4100 folds
+pollenW folds
+bluebirdgaz folds
+teufelsumos folds
+eszenyiadam does not show cards.
+eszenyiadam wins $0.35 USD
+Game #14684417023 starts.
+
+#Game No : 14684417023 
+***** Hand History for Game 14684417023 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 11:44:46 EDT 2015
+Table Namangan (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 9: Rak4100 ( $8.12 USD )
+Seat 4: TilliWilli ( $10.32 USD )
+Seat 2: bluebirdgaz ( $10.38 USD )
+Seat 7: eszenyiadam ( $10.07 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 1: pollenW ( $10 USD )
+Seat 8: rivieraKRD ( $10.04 USD )
+Seat 6: skorkin ( $13.50 USD )
+Seat 3: teufelsumos ( $11.80 USD )
+teufelsumos posts small blind [$0.05 USD].
+TilliWilli posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  6h 6s ]
+kemper0k raises [$0.30 USD]
+skorkin folds
+eszenyiadam folds
+rivieraKRD folds
+pollenW folds
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli folds
+kemper0k does not show cards.
+kemper0k wins $0.45 USD
+Game #14684417438 starts.
+
+#Game No : 14684417438 
+***** Hand History for Game 14684417438 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 11:45:06 EDT 2015
+Table Namangan (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 9: Rak4100 ( $8.12 USD )
+Seat 4: TilliWilli ( $10.22 USD )
+Seat 2: bluebirdgaz ( $10.38 USD )
+Seat 7: eszenyiadam ( $10.07 USD )
+Seat 5: kemper0k ( $10.15 USD )
+Seat 1: pollenW ( $10 USD )
+Seat 8: rivieraKRD ( $10.04 USD )
+Seat 6: skorkin ( $13.50 USD )
+Seat 3: teufelsumos ( $11.75 USD )
+TilliWilli posts small blind [$0.05 USD].
+kemper0k posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  6d Jd ]
+skorkin folds
+eszenyiadam raises [$0.30 USD]
+rivieraKRD folds
+pollenW folds
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli folds
+kemper0k folds
+eszenyiadam does not show cards.
+eszenyiadam wins $0.45 USD
+Game #14684418685 starts.
+
+#Game No : 14684418685 
+***** Hand History for Game 14684418685 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 11:45:41 EDT 2015
+Table Namangan (Real Money)
+Seat 4 is the button
+Total number of players : 9/9 
+Seat 9: Rak4100 ( $8.12 USD )
+Seat 4: TilliWilli ( $10.17 USD )
+Seat 2: bluebirdgaz ( $10.38 USD )
+Seat 7: eszenyiadam ( $10.22 USD )
+Seat 5: kemper0k ( $10.05 USD )
+Seat 1: pollenW ( $10 USD )
+Seat 8: rivieraKRD ( $10.04 USD )
+Seat 6: skorkin ( $13.50 USD )
+Seat 3: teufelsumos ( $11.75 USD )
+kemper0k posts small blind [$0.05 USD].
+skorkin posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  6d 9d ]
+eszenyiadam calls [$0.10 USD]
+rivieraKRD raises [$0.40 USD]
+pollenW folds
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli folds
+kemper0k calls [$0.35 USD]
+skorkin folds
+eszenyiadam folds
+** Dealing Flop ** [ Th, 3s, Qc ]
+kemper0k checks
+rivieraKRD bets [$0.80 USD]
+kemper0k calls [$0.80 USD]
+** Dealing Turn ** [ 4h ]
+kemper0k checks
+rivieraKRD bets [$1.23 USD]
+kemper0k calls [$1.23 USD]
+** Dealing River ** [ 9c ]
+kemper0k will be using their time bank for this hand.
+kemper0k checks
+rivieraKRD checks
+kemper0k shows [ Ks, Qs ]a pair of Queens.
+rivieraKRD shows [ Qd, As ]a pair of Queens with Ace kicker.
+rivieraKRD wins $4.81 USD from the main pot with a pair of Queens with Ace kicker.
+Game #14684420248 starts.
+
+#Game No : 14684420248 
+***** Hand History for Game 14684420248 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 11:46:55 EDT 2015
+Table Namangan (Real Money)
+Seat 5 is the button
+Total number of players : 9/9 
+Seat 9: Rak4100 ( $8.12 USD )
+Seat 4: TilliWilli ( $10.17 USD )
+Seat 2: bluebirdgaz ( $10.38 USD )
+Seat 7: eszenyiadam ( $10.12 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 1: pollenW ( $10 USD )
+Seat 8: rivieraKRD ( $12.42 USD )
+Seat 6: skorkin ( $13.40 USD )
+Seat 3: teufelsumos ( $11.75 USD )
+skorkin posts small blind [$0.05 USD].
+eszenyiadam posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3c 5s ]
+rivieraKRD folds
+pollenW folds
+bluebirdgaz folds
+teufelsumos raises [$0.30 USD]
+TilliWilli folds
+kemper0k folds
+skorkin folds
+eszenyiadam folds
+teufelsumos does not show cards.
+teufelsumos wins $0.45 USD
+Game #14684420721 starts.
+
+#Game No : 14684420721 
+***** Hand History for Game 14684420721 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 11:47:17 EDT 2015
+Table Namangan (Real Money)
+Seat 6 is the button
+Total number of players : 9/9 
+Seat 9: Rak4100 ( $8.12 USD )
+Seat 4: TilliWilli ( $10.17 USD )
+Seat 2: bluebirdgaz ( $10.38 USD )
+Seat 7: eszenyiadam ( $10.02 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 1: pollenW ( $10 USD )
+Seat 8: rivieraKRD ( $12.42 USD )
+Seat 6: skorkin ( $13.35 USD )
+Seat 3: teufelsumos ( $11.90 USD )
+eszenyiadam posts small blind [$0.05 USD].
+rivieraKRD posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ac 7h ]
+pollenW folds
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli calls [$0.10 USD]
+kemper0k folds
+skorkin raises [$0.30 USD]
+eszenyiadam folds
+rivieraKRD folds
+TilliWilli folds
+skorkin does not show cards.
+skorkin wins $0.55 USD
+Game #14684421928 starts.
+
+#Game No : 14684421928 
+***** Hand History for Game 14684421928 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 11:47:51 EDT 2015
+Table Namangan (Real Money)
+Seat 7 is the button
+Total number of players : 9/9 
+Seat 9: Rak4100 ( $8.12 USD )
+Seat 4: TilliWilli ( $10.07 USD )
+Seat 2: bluebirdgaz ( $10.38 USD )
+Seat 7: eszenyiadam ( $9.97 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 1: pollenW ( $10 USD )
+Seat 8: rivieraKRD ( $12.32 USD )
+Seat 6: skorkin ( $13.60 USD )
+Seat 3: teufelsumos ( $11.90 USD )
+rivieraKRD posts small blind [$0.05 USD].
+pollenW posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Jd Ad ]
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli raises [$0.20 USD]
+kemper0k folds
+skorkin folds
+eszenyiadam calls [$0.20 USD]
+rivieraKRD folds
+pollenW folds
+** Dealing Flop ** [ 8h, Tc, Td ]
+TilliWilli bets [$0.10 USD]
+eszenyiadam calls [$0.10 USD]
+** Dealing Turn ** [ 2d ]
+TilliWilli bets [$0.20 USD]
+eszenyiadam calls [$0.20 USD]
+** Dealing River ** [ 5h ]
+TilliWilli checks
+eszenyiadam bets [$1 USD]
+TilliWilli folds
+eszenyiadam does not show cards.
+eszenyiadam wins $2.10 USD
+Game #14684423813 starts.
+
+#Game No : 14684423813 
+***** Hand History for Game 14684423813 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 11:48:57 EDT 2015
+Table Namangan (Real Money)
+Seat 8 is the button
+Total number of players : 9/9 
+Seat 9: Rak4100 ( $8.12 USD )
+Seat 4: TilliWilli ( $9.57 USD )
+Seat 2: bluebirdgaz ( $10.38 USD )
+Seat 7: eszenyiadam ( $10.57 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 1: pollenW ( $10 USD )
+Seat 8: rivieraKRD ( $12.27 USD )
+Seat 6: skorkin ( $13.60 USD )
+Seat 3: teufelsumos ( $11.90 USD )
+pollenW posts small blind [$0.05 USD].
+bluebirdgaz posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9d Qs ]
+teufelsumos folds
+TilliWilli calls [$0.10 USD]
+kemper0k folds
+skorkin folds
+eszenyiadam folds
+rivieraKRD folds
+pollenW folds
+bluebirdgaz checks
+** Dealing Flop ** [ 6c, 6d, Ts ]
+bluebirdgaz checks
+TilliWilli checks
+** Dealing Turn ** [ 4h ]
+bluebirdgaz checks
+TilliWilli bets [$0.10 USD]
+bluebirdgaz calls [$0.10 USD]
+** Dealing River ** [ 5s ]
+bluebirdgaz checks
+TilliWilli checks
+bluebirdgaz shows [ 3c, 4c ]two pairs, Sixes and Fours.
+TilliWilli doesn't show [ 9d, Qs ]a pair of Sixes.
+bluebirdgaz wins $0.43 USD from the main pot with two pairs, Sixes and Fours.
+Game #14684424452 starts.
+
+#Game No : 14684424452 
+***** Hand History for Game 14684424452 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 11:49:27 EDT 2015
+Table Namangan (Real Money)
+Seat 1 is the button
+Total number of players : 9/9 
+Seat 9: Rak4100 ( $8.12 USD )
+Seat 4: TilliWilli ( $9.37 USD )
+Seat 2: bluebirdgaz ( $10.61 USD )
+Seat 7: eszenyiadam ( $10.57 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 1: pollenW ( $10 USD )
+Seat 8: rivieraKRD ( $12.27 USD )
+Seat 6: skorkin ( $13.60 USD )
+Seat 3: teufelsumos ( $11.90 USD )
+bluebirdgaz posts small blind [$0.05 USD].
+teufelsumos posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Js 9c ]
+TilliWilli folds
+kemper0k folds
+skorkin folds
+eszenyiadam folds
+rivieraKRD folds
+pollenW calls [$0.10 USD]
+bluebirdgaz calls [$0.05 USD]
+teufelsumos checks
+** Dealing Flop ** [ 5s, Qh, Jh ]
+bluebirdgaz checks
+teufelsumos checks
+pollenW bets [$0.14 USD]
+bluebirdgaz folds
+teufelsumos folds
+pollenW does not show cards.
+pollenW wins $0.43 USD
+Game #14684425230 starts.
+
+#Game No : 14684425230 
+***** Hand History for Game 14684425230 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 11:50:06 EDT 2015
+Table Namangan (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 9: Rak4100 ( $8.12 USD )
+Seat 4: TilliWilli ( $9.37 USD )
+Seat 2: bluebirdgaz ( $10.51 USD )
+Seat 7: eszenyiadam ( $10.57 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 1: pollenW ( $10.19 USD )
+Seat 8: rivieraKRD ( $12.27 USD )
+Seat 6: skorkin ( $13.60 USD )
+Seat 3: teufelsumos ( $11.80 USD )
+teufelsumos posts small blind [$0.05 USD].
+TilliWilli posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5c Jd ]
+kemper0k folds
+skorkin raises [$0.30 USD]
+eszenyiadam folds
+rivieraKRD calls [$0.30 USD]
+pollenW folds
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli folds
+** Dealing Flop ** [ 3h, 2h, Ts ]
+skorkin bets [$0.36 USD]
+rivieraKRD folds
+skorkin does not show cards.
+skorkin wins $1.08 USD
+Game #14684427048 starts.
+
+#Game No : 14684427048 
+***** Hand History for Game 14684427048 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 11:50:44 EDT 2015
+Table Namangan (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 9: Rak4100 ( $8.12 USD )
+Seat 4: TilliWilli ( $9.27 USD )
+Seat 2: bluebirdgaz ( $10.51 USD )
+Seat 7: eszenyiadam ( $10.57 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 1: pollenW ( $10.19 USD )
+Seat 8: rivieraKRD ( $11.97 USD )
+Seat 6: skorkin ( $14.02 USD )
+Seat 3: teufelsumos ( $11.75 USD )
+TilliWilli posts small blind [$0.05 USD].
+kemper0k posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5c 8c ]
+skorkin raises [$0.30 USD]
+eszenyiadam folds
+rivieraKRD folds
+pollenW folds
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli folds
+kemper0k folds
+skorkin does not show cards.
+skorkin wins $0.45 USD
+Game #14684427349 starts.
+
+#Game No : 14684427349 
+***** Hand History for Game 14684427349 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 11:50:58 EDT 2015
+Table Namangan (Real Money)
+Seat 4 is the button
+Total number of players : 9/9 
+Seat 9: Rak4100 ( $8.12 USD )
+Seat 4: TilliWilli ( $9.22 USD )
+Seat 2: bluebirdgaz ( $10.51 USD )
+Seat 7: eszenyiadam ( $10.57 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 1: pollenW ( $10.19 USD )
+Seat 8: rivieraKRD ( $11.97 USD )
+Seat 6: skorkin ( $14.17 USD )
+Seat 3: teufelsumos ( $11.75 USD )
+kemper0k posts small blind [$0.05 USD].
+skorkin posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qh 7d ]
+eszenyiadam folds
+rivieraKRD folds
+pollenW folds
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli folds
+kemper0k folds
+skorkin does not show cards.
+skorkin wins $0.15 USD
+Game #14684427739 starts.
+
+#Game No : 14684427739 
+***** Hand History for Game 14684427739 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 11:51:15 EDT 2015
+Table Namangan (Real Money)
+Seat 5 is the button
+Total number of players : 9/9 
+Seat 9: Rak4100 ( $8.12 USD )
+Seat 4: TilliWilli ( $9.22 USD )
+Seat 2: bluebirdgaz ( $10.51 USD )
+Seat 7: eszenyiadam ( $10.57 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 1: pollenW ( $10.19 USD )
+Seat 8: rivieraKRD ( $11.97 USD )
+Seat 6: skorkin ( $14.22 USD )
+Seat 3: teufelsumos ( $11.75 USD )
+skorkin posts small blind [$0.05 USD].
+eszenyiadam posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2c 5d ]
+rivieraKRD folds
+pollenW folds
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli folds
+kemper0k folds
+skorkin raises [$0.25 USD]
+eszenyiadam folds
+skorkin does not show cards.
+skorkin wins $0.40 USD
+Game #14684428349 starts.
+
+#Game No : 14684428349 
+***** Hand History for Game 14684428349 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 11:51:44 EDT 2015
+Table Namangan (Real Money)
+Seat 6 is the button
+Total number of players : 9/9 
+Seat 9: Rak4100 ( $8.12 USD )
+Seat 4: TilliWilli ( $9.22 USD )
+Seat 2: bluebirdgaz ( $10.51 USD )
+Seat 7: eszenyiadam ( $10.47 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 1: pollenW ( $10.19 USD )
+Seat 8: rivieraKRD ( $11.97 USD )
+Seat 6: skorkin ( $14.32 USD )
+Seat 3: teufelsumos ( $11.75 USD )
+eszenyiadam posts small blind [$0.05 USD].
+rivieraKRD posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8s 8h ]
+pollenW folds
+bluebirdgaz raises [$0.30 USD]
+teufelsumos folds
+TilliWilli raises [$0.60 USD]
+kemper0k folds
+skorkin folds
+eszenyiadam folds
+rivieraKRD folds
+bluebirdgaz folds
+TilliWilli does not show cards.
+TilliWilli wins $1.05 USD
+Game #14684429071 starts.
+
+#Game No : 14684429071 
+***** Hand History for Game 14684429071 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 11:52:18 EDT 2015
+Table Namangan (Real Money)
+Seat 7 is the button
+Total number of players : 9/9 
+Seat 9: Rak4100 ( $8.12 USD )
+Seat 4: TilliWilli ( $9.67 USD )
+Seat 2: bluebirdgaz ( $10.21 USD )
+Seat 7: eszenyiadam ( $10.42 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 1: pollenW ( $10.19 USD )
+Seat 8: rivieraKRD ( $11.87 USD )
+Seat 6: skorkin ( $14.32 USD )
+Seat 3: teufelsumos ( $11.75 USD )
+rivieraKRD posts small blind [$0.05 USD].
+pollenW posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5c Td ]
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli folds
+kemper0k folds
+skorkin folds
+eszenyiadam folds
+rivieraKRD raises [$0.15 USD]
+pollenW folds
+rivieraKRD does not show cards.
+rivieraKRD wins $0.30 USD
+Game #14684429861 starts.
+
+#Game No : 14684429861 
+***** Hand History for Game 14684429861 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 11:52:56 EDT 2015
+Table Namangan (Real Money)
+Seat 8 is the button
+Total number of players : 9/9 
+Seat 9: Rak4100 ( $8.12 USD )
+Seat 4: TilliWilli ( $9.67 USD )
+Seat 2: bluebirdgaz ( $10.21 USD )
+Seat 7: eszenyiadam ( $10.42 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 1: pollenW ( $10.09 USD )
+Seat 8: rivieraKRD ( $11.97 USD )
+Seat 6: skorkin ( $14.32 USD )
+Seat 3: teufelsumos ( $11.75 USD )
+pollenW posts small blind [$0.05 USD].
+bluebirdgaz posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2s 6h ]
+teufelsumos folds
+TilliWilli folds
+kemper0k folds
+skorkin folds
+eszenyiadam folds
+rivieraKRD raises [$0.20 USD]
+pollenW folds
+bluebirdgaz folds
+rivieraKRD does not show cards.
+rivieraKRD wins $0.35 USD
+Game #14684430913 starts.
+
+#Game No : 14684430913 
+***** Hand History for Game 14684430913 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 11:53:22 EDT 2015
+Table Namangan (Real Money)
+Seat 1 is the button
+Total number of players : 9/9 
+Seat 9: Rak4100 ( $8.12 USD )
+Seat 4: TilliWilli ( $9.67 USD )
+Seat 2: bluebirdgaz ( $10.11 USD )
+Seat 7: eszenyiadam ( $10.42 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 1: pollenW ( $10.04 USD )
+Seat 8: rivieraKRD ( $12.12 USD )
+Seat 6: skorkin ( $14.32 USD )
+Seat 3: teufelsumos ( $11.75 USD )
+bluebirdgaz posts small blind [$0.05 USD].
+teufelsumos posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9h Jd ]
+TilliWilli folds
+kemper0k folds
+skorkin raises [$0.30 USD]
+eszenyiadam folds
+rivieraKRD folds
+pollenW folds
+bluebirdgaz folds
+teufelsumos folds
+skorkin does not show cards.
+skorkin wins $0.45 USD
+Game #14684431449 starts.
+
+#Game No : 14684431449 
+***** Hand History for Game 14684431449 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 11:53:47 EDT 2015
+Table Namangan (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 9: Rak4100 ( $8.12 USD )
+Seat 4: TilliWilli ( $9.67 USD )
+Seat 2: bluebirdgaz ( $10.06 USD )
+Seat 7: eszenyiadam ( $10.42 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 1: pollenW ( $10.04 USD )
+Seat 8: rivieraKRD ( $12.12 USD )
+Seat 6: skorkin ( $14.47 USD )
+Seat 3: teufelsumos ( $11.65 USD )
+teufelsumos posts small blind [$0.05 USD].
+TilliWilli posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8c 5c ]
+kemper0k folds
+skorkin folds
+eszenyiadam folds
+rivieraKRD folds
+pollenW folds
+bluebirdgaz raises [$0.30 USD]
+teufelsumos folds
+TilliWilli folds
+bluebirdgaz does not show cards.
+bluebirdgaz wins $0.45 USD
+Game #14684431957 starts.
+
+#Game No : 14684431957 
+***** Hand History for Game 14684431957 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 11:54:09 EDT 2015
+Table Namangan (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 9: Rak4100 ( $8.12 USD )
+Seat 4: TilliWilli ( $9.57 USD )
+Seat 2: bluebirdgaz ( $10.21 USD )
+Seat 7: eszenyiadam ( $10.42 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 1: pollenW ( $10.04 USD )
+Seat 8: rivieraKRD ( $12.12 USD )
+Seat 6: skorkin ( $14.47 USD )
+Seat 3: teufelsumos ( $11.60 USD )
+TilliWilli posts small blind [$0.05 USD].
+kemper0k posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  6d Js ]
+skorkin folds
+eszenyiadam folds
+rivieraKRD folds
+pollenW folds
+bluebirdgaz raises [$0.30 USD]
+teufelsumos folds
+TilliWilli folds
+kemper0k folds
+bluebirdgaz does not show cards.
+bluebirdgaz wins $0.45 USD
+Game #14684432490 starts.
+
+#Game No : 14684432490 
+***** Hand History for Game 14684432490 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 11:54:36 EDT 2015
+Table Namangan (Real Money)
+Seat 4 is the button
+Total number of players : 9/9 
+Seat 9: Rak4100 ( $8.12 USD )
+Seat 4: TilliWilli ( $9.52 USD )
+Seat 2: bluebirdgaz ( $10.36 USD )
+Seat 7: eszenyiadam ( $10.42 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 1: pollenW ( $10.04 USD )
+Seat 8: rivieraKRD ( $12.12 USD )
+Seat 6: skorkin ( $14.47 USD )
+Seat 3: teufelsumos ( $11.60 USD )
+kemper0k posts small blind [$0.05 USD].
+skorkin posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4d Js ]
+eszenyiadam folds
+rivieraKRD folds
+pollenW folds
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli folds
+kemper0k folds
+skorkin does not show cards.
+skorkin wins $0.15 USD
+Game #14684432809 starts.
+
+#Game No : 14684432809 
+***** Hand History for Game 14684432809 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 11:54:51 EDT 2015
+Table Namangan (Real Money)
+Seat 5 is the button
+Total number of players : 9/9 
+Seat 9: Rak4100 ( $8.12 USD )
+Seat 4: TilliWilli ( $9.52 USD )
+Seat 2: bluebirdgaz ( $10.36 USD )
+Seat 7: eszenyiadam ( $10.42 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 1: pollenW ( $10.04 USD )
+Seat 8: rivieraKRD ( $12.12 USD )
+Seat 6: skorkin ( $14.52 USD )
+Seat 3: teufelsumos ( $11.60 USD )
+skorkin posts small blind [$0.05 USD].
+eszenyiadam posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4h 3c ]
+rivieraKRD folds
+pollenW folds
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli folds
+kemper0k folds
+skorkin raises [$0.25 USD]
+eszenyiadam folds
+skorkin does not show cards.
+skorkin wins $0.40 USD
+Game #14684433307 starts.
+
+#Game No : 14684433307 
+***** Hand History for Game 14684433307 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 11:55:15 EDT 2015
+Table Namangan (Real Money)
+Seat 6 is the button
+Total number of players : 9/9 
+Seat 9: Rak4100 ( $8.12 USD )
+Seat 4: TilliWilli ( $9.52 USD )
+Seat 2: bluebirdgaz ( $10.36 USD )
+Seat 7: eszenyiadam ( $10.32 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 1: pollenW ( $10.04 USD )
+Seat 8: rivieraKRD ( $12.12 USD )
+Seat 6: skorkin ( $14.62 USD )
+Seat 3: teufelsumos ( $11.60 USD )
+eszenyiadam posts small blind [$0.05 USD].
+rivieraKRD posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9h 7s ]
+pollenW folds
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli folds
+kemper0k folds
+skorkin folds
+eszenyiadam folds
+rivieraKRD does not show cards.
+rivieraKRD wins $0.15 USD
+Game #14684433773 starts.
+
+#Game No : 14684433773 
+***** Hand History for Game 14684433773 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 11:55:37 EDT 2015
+Table Namangan (Real Money)
+Seat 7 is the button
+Total number of players : 9/9 
+Seat 9: Rak4100 ( $8.12 USD )
+Seat 4: TilliWilli ( $9.52 USD )
+Seat 2: bluebirdgaz ( $10.36 USD )
+Seat 7: eszenyiadam ( $10.27 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 1: pollenW ( $10.04 USD )
+Seat 8: rivieraKRD ( $12.17 USD )
+Seat 6: skorkin ( $14.62 USD )
+Seat 3: teufelsumos ( $11.60 USD )
+rivieraKRD posts small blind [$0.05 USD].
+bluebirdgaz posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Jd Ts ]
+teufelsumos folds
+TilliWilli raises [$0.20 USD]
+pollenW has left the table.
+kemper0k calls [$0.20 USD]
+skorkin folds
+eszenyiadam folds
+rivieraKRD folds
+tweetyteewt has joined the table.
+bluebirdgaz calls [$0.10 USD]
+** Dealing Flop ** [ 9d, 3h, 9c ]
+bluebirdgaz checks
+TilliWilli checks
+kemper0k checks
+** Dealing Turn ** [ 3c ]
+bluebirdgaz checks
+TilliWilli bets [$0.10 USD]
+kemper0k folds
+bluebirdgaz calls [$0.10 USD]
+** Dealing River ** [ 4s ]
+bluebirdgaz checks
+TilliWilli bets [$0.45 USD]
+bluebirdgaz folds
+TilliWilli does not show cards.
+TilliWilli wins $1.26 USD
+Game #14684436027 starts.
+
+#Game No : 14684436027 
+***** Hand History for Game 14684436027 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 11:56:48 EDT 2015
+Table Namangan (Real Money)
+Seat 8 is the button
+Total number of players : 9/9 
+Seat 9: Rak4100 ( $8.12 USD )
+Seat 4: TilliWilli ( $10.03 USD )
+Seat 2: bluebirdgaz ( $10.06 USD )
+Seat 7: eszenyiadam ( $10.27 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 8: rivieraKRD ( $12.12 USD )
+Seat 6: skorkin ( $14.62 USD )
+Seat 3: teufelsumos ( $11.60 USD )
+Seat 1: tweetyteewt ( $10 USD )
+bluebirdgaz posts small blind [$0.05 USD].
+teufelsumos posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ad 7h ]
+TilliWilli folds
+kemper0k raises [$0.30 USD]
+skorkin folds
+eszenyiadam folds
+rivieraKRD folds
+bluebirdgaz folds
+teufelsumos folds
+kemper0k does not show cards.
+kemper0k wins $0.45 USD
+Game #14684436412 starts.
+
+#Game No : 14684436412 
+***** Hand History for Game 14684436412 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 11:57:09 EDT 2015
+Table Namangan (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 9: Rak4100 ( $8.12 USD )
+Seat 4: TilliWilli ( $10.03 USD )
+Seat 2: bluebirdgaz ( $10.01 USD )
+Seat 7: eszenyiadam ( $10.27 USD )
+Seat 5: kemper0k ( $10.15 USD )
+Seat 8: rivieraKRD ( $12.12 USD )
+Seat 6: skorkin ( $14.62 USD )
+Seat 3: teufelsumos ( $11.50 USD )
+Seat 1: tweetyteewt ( $10 USD )
+teufelsumos posts small blind [$0.05 USD].
+TilliWilli posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5h 6h ]
+kemper0k folds
+skorkin raises [$0.30 USD]
+eszenyiadam folds
+rivieraKRD folds
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli folds
+skorkin does not show cards.
+skorkin wins $0.45 USD
+Game #14684436918 starts.
+
+#Game No : 14684436918 
+***** Hand History for Game 14684436918 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 11:57:37 EDT 2015
+Table Namangan (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 9: Rak4100 ( $8.12 USD )
+Seat 4: TilliWilli ( $9.93 USD )
+Seat 2: bluebirdgaz ( $10.01 USD )
+Seat 7: eszenyiadam ( $10.27 USD )
+Seat 5: kemper0k ( $10.15 USD )
+Seat 8: rivieraKRD ( $12.12 USD )
+Seat 6: skorkin ( $14.77 USD )
+Seat 3: teufelsumos ( $11.45 USD )
+Seat 1: tweetyteewt ( $10 USD )
+TilliWilli posts small blind [$0.05 USD].
+kemper0k posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  As 2s ]
+skorkin folds
+eszenyiadam raises [$0.30 USD]
+rivieraKRD folds
+bluebirdgaz folds
+teufelsumos calls [$0.30 USD]
+TilliWilli folds
+kemper0k folds
+** Dealing Flop ** [ Ac, 3c, Th ]
+eszenyiadam bets [$0.50 USD]
+teufelsumos folds
+eszenyiadam does not show cards.
+eszenyiadam wins $1.22 USD
+Rak4100 has left the table.
+Game #14684437501 starts.
+
+#Game No : 14684437501 
+***** Hand History for Game 14684437501 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 11:58:13 EDT 2015
+Table Namangan (Real Money)
+Seat 4 is the button
+Total number of players : 8/9 
+Seat 4: TilliWilli ( $9.88 USD )
+Seat 2: bluebirdgaz ( $10.01 USD )
+Seat 7: eszenyiadam ( $10.69 USD )
+Seat 5: kemper0k ( $10.05 USD )
+Seat 8: rivieraKRD ( $12.12 USD )
+Seat 6: skorkin ( $14.77 USD )
+Seat 3: teufelsumos ( $11.15 USD )
+Seat 1: tweetyteewt ( $10 USD )
+kemper0k posts small blind [$0.05 USD].
+skorkin posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4s Qh ]
+eszenyiadam folds
+rivieraKRD folds
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli folds
+kemper0k folds
+skorkin does not show cards.
+skorkin wins $0.15 USD
+Game #14684437734 starts.
+
+#Game No : 14684437734 
+***** Hand History for Game 14684437734 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 11:58:25 EDT 2015
+Table Namangan (Real Money)
+Seat 5 is the button
+Total number of players : 8/9 
+Seat 4: TilliWilli ( $9.88 USD )
+Seat 2: bluebirdgaz ( $10.01 USD )
+Seat 7: eszenyiadam ( $10.69 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 8: rivieraKRD ( $12.12 USD )
+Seat 6: skorkin ( $14.82 USD )
+Seat 3: teufelsumos ( $11.15 USD )
+Seat 1: tweetyteewt ( $10 USD )
+skorkin posts small blind [$0.05 USD].
+eszenyiadam posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  7d Kc ]
+rivieraKRD folds
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli raises [$0.30 USD]
+kemper0k folds
+skorkin folds
+eszenyiadam folds
+TilliWilli does not show cards.
+TilliWilli wins $0.45 USD
+milfin69 has joined the table.
+Game #14684438122 starts.
+
+#Game No : 14684438122 
+***** Hand History for Game 14684438122 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 11:58:47 EDT 2015
+Table Namangan (Real Money)
+Seat 6 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $10.03 USD )
+Seat 2: bluebirdgaz ( $10.01 USD )
+Seat 7: eszenyiadam ( $10.59 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $4 USD )
+Seat 8: rivieraKRD ( $12.12 USD )
+Seat 6: skorkin ( $14.77 USD )
+Seat 3: teufelsumos ( $11.15 USD )
+Seat 1: tweetyteewt ( $10 USD )
+eszenyiadam posts small blind [$0.05 USD].
+rivieraKRD posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Kd 5d ]
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli folds
+kemper0k folds
+skorkin folds
+eszenyiadam calls [$0.05 USD]
+rivieraKRD checks
+** Dealing Flop ** [ 4s, 7h, 3h ]
+eszenyiadam checks
+rivieraKRD bets [$0.20 USD]
+eszenyiadam calls [$0.20 USD]
+** Dealing Turn ** [ 8d ]
+eszenyiadam checks
+rivieraKRD checks
+** Dealing River ** [ Kh ]
+eszenyiadam checks
+rivieraKRD checks
+eszenyiadam shows [ 6s, 9h ]high card King.
+rivieraKRD shows [ Th, 7s ]a pair of Sevens.
+rivieraKRD wins $0.57 USD from the main pot with a pair of Sevens.
+Game #14684439608 starts.
+
+#Game No : 14684439608 
+***** Hand History for Game 14684439608 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 11:59:42 EDT 2015
+Table Namangan (Real Money)
+Seat 7 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $10.03 USD )
+Seat 2: bluebirdgaz ( $10.01 USD )
+Seat 7: eszenyiadam ( $10.29 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10 USD )
+Seat 8: rivieraKRD ( $12.39 USD )
+Seat 6: skorkin ( $14.77 USD )
+Seat 3: teufelsumos ( $11.15 USD )
+Seat 1: tweetyteewt ( $10 USD )
+rivieraKRD posts small blind [$0.05 USD].
+milfin69 posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8s 9h ]
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli raises [$0.20 USD]
+kemper0k folds
+skorkin folds
+eszenyiadam folds
+rivieraKRD folds
+milfin69 calls [$0.10 USD]
+** Dealing Flop ** [ 2d, Kc, Ks ]
+milfin69 checks
+TilliWilli checks
+** Dealing Turn ** [ Qc ]
+milfin69 bets [$0.32 USD]
+TilliWilli folds
+milfin69 does not show cards.
+milfin69 wins $0.75 USD
+Game #14684440351 starts.
+
+#Game No : 14684440351 
+***** Hand History for Game 14684440351 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:00:17 EDT 2015
+Table Namangan (Real Money)
+Seat 8 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $9.83 USD )
+Seat 2: bluebirdgaz ( $10.01 USD )
+Seat 7: eszenyiadam ( $10.29 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10.23 USD )
+Seat 8: rivieraKRD ( $12.34 USD )
+Seat 6: skorkin ( $14.77 USD )
+Seat 3: teufelsumos ( $11.15 USD )
+Seat 1: tweetyteewt ( $10 USD )
+milfin69 posts small blind [$0.05 USD].
+tweetyteewt posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8s Ts ]
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli folds
+kemper0k folds
+skorkin folds
+eszenyiadam folds
+rivieraKRD folds
+milfin69 raises [$0.15 USD]
+tweetyteewt folds
+milfin69 does not show cards.
+milfin69 wins $0.30 USD
+Game #14684440735 starts.
+
+#Game No : 14684440735 
+***** Hand History for Game 14684440735 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:00:39 EDT 2015
+Table Namangan (Real Money)
+Seat 9 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $9.83 USD )
+Seat 2: bluebirdgaz ( $10.01 USD )
+Seat 7: eszenyiadam ( $10.29 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10.33 USD )
+Seat 8: rivieraKRD ( $12.34 USD )
+Seat 6: skorkin ( $14.77 USD )
+Seat 3: teufelsumos ( $11.15 USD )
+Seat 1: tweetyteewt ( $10 USD )
+tweetyteewt posts small blind [$0.05 USD].
+bluebirdgaz posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qs As ]
+teufelsumos folds
+TilliWilli raises [$0.40 USD]
+kemper0k folds
+skorkin folds
+eszenyiadam folds
+rivieraKRD folds
+milfin69 calls [$0.40 USD]
+tweetyteewt folds
+bluebirdgaz folds
+** Dealing Flop ** [ 7h, 4h, 2s ]
+TilliWilli bets [$0.90 USD]
+milfin69 calls [$0.90 USD]
+** Dealing Turn ** [ 3c ]
+TilliWilli bets [$0.40 USD]
+milfin69 calls [$0.40 USD]
+** Dealing River ** [ 5s ]
+Your time bank will be activated in 6 secs. If you do not want it to be used, please act now.
+TilliWilli is all-In  [$8.13 USD]
+milfin69 calls [$8.13 USD]
+TilliWilli shows [ Qs, As ]a straight, Ace to Five.
+milfin69 shows [ Kh, Ah ]a straight, Ace to Five.
+TilliWilli wins $9.41 USD from the main pot with a straight, Ace to Five.
+milfin69 wins $9.41 USD from the main pot with a straight, Ace to Five.
+Game #14684442183 starts.
+
+#Game No : 14684442183 
+***** Hand History for Game 14684442183 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:01:48 EDT 2015
+Table Namangan (Real Money)
+Seat 1 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $9.41 USD )
+Seat 2: bluebirdgaz ( $10 USD )
+Seat 7: eszenyiadam ( $10.29 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10 USD )
+Seat 8: rivieraKRD ( $12.34 USD )
+Seat 6: skorkin ( $14.77 USD )
+Seat 3: teufelsumos ( $11.15 USD )
+Seat 1: tweetyteewt ( $10 USD )
+bluebirdgaz posts small blind [$0.05 USD].
+teufelsumos posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8d 6c ]
+TilliWilli folds
+kemper0k folds
+skorkin folds
+eszenyiadam folds
+rivieraKRD folds
+milfin69 folds
+tweetyteewt folds
+bluebirdgaz folds
+teufelsumos does not show cards.
+teufelsumos wins $0.15 USD
+Game #14684443076 starts.
+
+#Game No : 14684443076 
+***** Hand History for Game 14684443076 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:02:06 EDT 2015
+Table Namangan (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $9.41 USD )
+Seat 2: bluebirdgaz ( $10 USD )
+Seat 7: eszenyiadam ( $10.29 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10 USD )
+Seat 8: rivieraKRD ( $12.34 USD )
+Seat 6: skorkin ( $14.77 USD )
+Seat 3: teufelsumos ( $11.20 USD )
+Seat 1: tweetyteewt ( $10 USD )
+teufelsumos posts small blind [$0.05 USD].
+TilliWilli posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5c 9s ]
+kemper0k folds
+skorkin folds
+eszenyiadam folds
+rivieraKRD folds
+milfin69 folds
+tweetyteewt folds
+bluebirdgaz raises [$0.30 USD]
+teufelsumos folds
+TilliWilli folds
+bluebirdgaz does not show cards.
+bluebirdgaz wins $0.45 USD
+Game #14684444191 starts.
+
+#Game No : 14684444191 
+***** Hand History for Game 14684444191 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:02:32 EDT 2015
+Table Namangan (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $9.31 USD )
+Seat 2: bluebirdgaz ( $10.15 USD )
+Seat 7: eszenyiadam ( $10.29 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10 USD )
+Seat 8: rivieraKRD ( $12.34 USD )
+Seat 6: skorkin ( $14.77 USD )
+Seat 3: teufelsumos ( $11.15 USD )
+Seat 1: tweetyteewt ( $10 USD )
+TilliWilli posts small blind [$0.05 USD].
+kemper0k posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8d 4h ]
+skorkin folds
+eszenyiadam calls [$0.10 USD]
+rivieraKRD folds
+milfin69 folds
+tweetyteewt folds
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli calls [$0.05 USD]
+kemper0k checks
+** Dealing Flop ** [ 7c, 3c, 2h ]
+TilliWilli checks
+kemper0k checks
+eszenyiadam checks
+** Dealing Turn ** [ 9d ]
+TilliWilli checks
+kemper0k checks
+eszenyiadam checks
+** Dealing River ** [ Kd ]
+TilliWilli checks
+kemper0k checks
+eszenyiadam checks
+TilliWilli shows [ 8d, 4h ]high card King.
+kemper0k shows [ Qd, 6s ]high card King with Queen kicker.
+eszenyiadam shows [ Js, Qc ]high card King with Jack kicker.
+eszenyiadam wins $0.29 USD from the main pot with high card, King with Jack kicker.
+Game #14684445892 starts.
+
+#Game No : 14684445892 
+***** Hand History for Game 14684445892 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:03:22 EDT 2015
+Table Namangan (Real Money)
+Seat 4 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $9.21 USD )
+Seat 2: bluebirdgaz ( $10.15 USD )
+Seat 7: eszenyiadam ( $10.48 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10 USD )
+Seat 8: rivieraKRD ( $12.34 USD )
+Seat 6: skorkin ( $14.77 USD )
+Seat 3: teufelsumos ( $11.15 USD )
+Seat 1: tweetyteewt ( $10 USD )
+kemper0k posts small blind [$0.05 USD].
+skorkin posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4c 4d ]
+eszenyiadam raises [$0.20 USD]
+rivieraKRD folds
+milfin69 folds
+tweetyteewt folds
+bluebirdgaz raises [$0.40 USD]
+teufelsumos raises [$1.20 USD]
+TilliWilli folds
+kemper0k will be using their time bank for this hand.
+kemper0k folds
+skorkin folds
+eszenyiadam folds
+bluebirdgaz folds
+teufelsumos does not show cards.
+teufelsumos wins $1.95 USD
+Game #14684447113 starts.
+
+#Game No : 14684447113 
+***** Hand History for Game 14684447113 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:04:13 EDT 2015
+Table Namangan (Real Money)
+Seat 5 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $9.21 USD )
+Seat 2: bluebirdgaz ( $10 USD )
+Seat 7: eszenyiadam ( $10.28 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10 USD )
+Seat 8: rivieraKRD ( $12.34 USD )
+Seat 6: skorkin ( $14.67 USD )
+Seat 3: teufelsumos ( $11.90 USD )
+Seat 1: tweetyteewt ( $10 USD )
+skorkin posts small blind [$0.05 USD].
+eszenyiadam posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5c Th ]
+rivieraKRD folds
+milfin69 folds
+tweetyteewt folds
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli folds
+kemper0k folds
+skorkin raises [$0.25 USD]
+eszenyiadam raises [$0.40 USD]
+skorkin calls [$0.20 USD]
+** Dealing Flop ** [ 6c, 2h, 6h ]
+skorkin checks
+eszenyiadam bets [$1 USD]
+skorkin folds
+eszenyiadam does not show cards.
+eszenyiadam wins $1.95 USD
+Game #14684448129 starts.
+
+#Game No : 14684448129 
+***** Hand History for Game 14684448129 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:04:55 EDT 2015
+Table Namangan (Real Money)
+Seat 6 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $9.21 USD )
+Seat 2: bluebirdgaz ( $10 USD )
+Seat 7: eszenyiadam ( $10.73 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10 USD )
+Seat 8: rivieraKRD ( $12.34 USD )
+Seat 6: skorkin ( $14.17 USD )
+Seat 3: teufelsumos ( $11.90 USD )
+Seat 1: tweetyteewt ( $10 USD )
+eszenyiadam posts small blind [$0.05 USD].
+rivieraKRD posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ts 3d ]
+milfin69 folds
+tweetyteewt folds
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli folds
+kemper0k folds
+skorkin folds
+eszenyiadam calls [$0.05 USD]
+rivieraKRD checks
+** Dealing Flop ** [ 9d, 7c, As ]
+eszenyiadam checks
+rivieraKRD checks
+** Dealing Turn ** [ 7d ]
+eszenyiadam checks
+rivieraKRD bets [$0.20 USD]
+eszenyiadam folds
+rivieraKRD does not show cards.
+rivieraKRD wins $0.39 USD
+Game #14684449698 starts.
+
+#Game No : 14684449698 
+***** Hand History for Game 14684449698 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:05:39 EDT 2015
+Table Namangan (Real Money)
+Seat 7 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $9.21 USD )
+Seat 2: bluebirdgaz ( $10 USD )
+Seat 7: eszenyiadam ( $10.63 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10 USD )
+Seat 8: rivieraKRD ( $12.43 USD )
+Seat 6: skorkin ( $14.17 USD )
+Seat 3: teufelsumos ( $11.90 USD )
+Seat 1: tweetyteewt ( $10 USD )
+rivieraKRD posts small blind [$0.05 USD].
+milfin69 posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4s Qd ]
+tweetyteewt folds
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli folds
+kemper0k folds
+skorkin folds
+eszenyiadam calls [$0.10 USD]
+rivieraKRD calls [$0.05 USD]
+milfin69 checks
+** Dealing Flop ** [ 2c, 9s, Jd ]
+rivieraKRD checks
+milfin69 bets [$0.21 USD]
+eszenyiadam folds
+rivieraKRD calls [$0.21 USD]
+** Dealing Turn ** [ 6c ]
+rivieraKRD checks
+milfin69 checks
+** Dealing River ** [ Td ]
+rivieraKRD checks
+milfin69 bets [$0.34 USD]
+rivieraKRD calls [$0.34 USD]
+milfin69 shows [ Ac, Jc ]a pair of Jacks.
+rivieraKRD doesn't show [ Ks, Tc ]a pair of Tens.
+milfin69 wins $1.33 USD from the main pot with a pair of Jacks.
+Game #14684451105 starts.
+
+#Game No : 14684451105 
+***** Hand History for Game 14684451105 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:06:35 EDT 2015
+Table Namangan (Real Money)
+Seat 8 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $9.21 USD )
+Seat 2: bluebirdgaz ( $10 USD )
+Seat 7: eszenyiadam ( $10.53 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10.68 USD )
+Seat 8: rivieraKRD ( $11.78 USD )
+Seat 6: skorkin ( $14.17 USD )
+Seat 3: teufelsumos ( $11.90 USD )
+Seat 1: tweetyteewt ( $10 USD )
+milfin69 posts small blind [$0.05 USD].
+tweetyteewt posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Jc 8h ]
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli calls [$0.10 USD]
+kemper0k folds
+skorkin folds
+eszenyiadam calls [$0.10 USD]
+rivieraKRD folds
+milfin69 folds
+tweetyteewt checks
+** Dealing Flop ** [ 5h, Jd, 4s ]
+tweetyteewt checks
+TilliWilli bets [$0.10 USD]
+eszenyiadam folds
+tweetyteewt folds
+TilliWilli does not show cards.
+TilliWilli wins $0.44 USD
+Game #14684452593 starts.
+
+#Game No : 14684452593 
+***** Hand History for Game 14684452593 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:07:34 EDT 2015
+Table Namangan (Real Money)
+Seat 9 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $9.45 USD )
+Seat 2: bluebirdgaz ( $10 USD )
+Seat 7: eszenyiadam ( $10.43 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10.63 USD )
+Seat 8: rivieraKRD ( $11.78 USD )
+Seat 6: skorkin ( $14.17 USD )
+Seat 3: teufelsumos ( $11.90 USD )
+Seat 1: tweetyteewt ( $10 USD )
+tweetyteewt posts small blind [$0.05 USD].
+bluebirdgaz posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Kc 8h ]
+teufelsumos folds
+TilliWilli raises [$0.20 USD]
+kemper0k folds
+skorkin folds
+eszenyiadam folds
+rivieraKRD folds
+milfin69 folds
+tweetyteewt folds
+bluebirdgaz folds
+TilliWilli does not show cards.
+TilliWilli wins $0.35 USD
+Game #14684453364 starts.
+
+#Game No : 14684453364 
+***** Hand History for Game 14684453364 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:08:02 EDT 2015
+Table Namangan (Real Money)
+Seat 1 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $9.60 USD )
+Seat 2: bluebirdgaz ( $10 USD )
+Seat 7: eszenyiadam ( $10.43 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10.63 USD )
+Seat 8: rivieraKRD ( $11.78 USD )
+Seat 6: skorkin ( $14.17 USD )
+Seat 3: teufelsumos ( $11.90 USD )
+Seat 1: tweetyteewt ( $10 USD )
+bluebirdgaz posts small blind [$0.05 USD].
+teufelsumos posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8h 6h ]
+TilliWilli folds
+kemper0k folds
+skorkin folds
+eszenyiadam folds
+rivieraKRD folds
+milfin69 folds
+tweetyteewt raises [$0.30 USD]
+bluebirdgaz folds
+teufelsumos folds
+tweetyteewt does not show cards.
+tweetyteewt wins $0.45 USD
+Game #14684453881 starts.
+
+#Game No : 14684453881 
+***** Hand History for Game 14684453881 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:08:22 EDT 2015
+Table Namangan (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $9.60 USD )
+Seat 2: bluebirdgaz ( $10 USD )
+Seat 7: eszenyiadam ( $10.43 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10.63 USD )
+Seat 8: rivieraKRD ( $11.78 USD )
+Seat 6: skorkin ( $14.17 USD )
+Seat 3: teufelsumos ( $11.80 USD )
+Seat 1: tweetyteewt ( $10.15 USD )
+teufelsumos posts small blind [$0.05 USD].
+TilliWilli posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  7s Ts ]
+kemper0k folds
+skorkin folds
+eszenyiadam folds
+rivieraKRD folds
+milfin69 folds
+tweetyteewt raises [$0.30 USD]
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli folds
+tweetyteewt does not show cards.
+tweetyteewt wins $0.45 USD
+Game #14684454865 starts.
+
+#Game No : 14684454865 
+***** Hand History for Game 14684454865 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:08:39 EDT 2015
+Table Namangan (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $9.50 USD )
+Seat 2: bluebirdgaz ( $10 USD )
+Seat 7: eszenyiadam ( $10.43 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10.63 USD )
+Seat 8: rivieraKRD ( $11.78 USD )
+Seat 6: skorkin ( $14.17 USD )
+Seat 3: teufelsumos ( $11.75 USD )
+Seat 1: tweetyteewt ( $10.30 USD )
+TilliWilli posts small blind [$0.05 USD].
+kemper0k posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  7s 3h ]
+skorkin folds
+eszenyiadam folds
+rivieraKRD raises [$0.20 USD]
+milfin69 folds
+tweetyteewt folds
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli folds
+kemper0k folds
+rivieraKRD does not show cards.
+rivieraKRD wins $0.35 USD
+Game #14684455332 starts.
+
+#Game No : 14684455332 
+***** Hand History for Game 14684455332 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:08:58 EDT 2015
+Table Namangan (Real Money)
+Seat 4 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $9.45 USD )
+Seat 2: bluebirdgaz ( $10 USD )
+Seat 7: eszenyiadam ( $10.43 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10.63 USD )
+Seat 8: rivieraKRD ( $11.93 USD )
+Seat 6: skorkin ( $14.17 USD )
+Seat 3: teufelsumos ( $11.75 USD )
+Seat 1: tweetyteewt ( $10.30 USD )
+kemper0k posts small blind [$0.05 USD].
+skorkin posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Kc 5d ]
+eszenyiadam raises [$0.20 USD]
+rivieraKRD folds
+milfin69 folds
+tweetyteewt folds
+bluebirdgaz folds
+teufelsumos calls [$0.20 USD]
+TilliWilli folds
+kemper0k folds
+skorkin folds
+** Dealing Flop ** [ 5h, Kh, 8c ]
+eszenyiadam bets [$0.50 USD]
+teufelsumos raises [$1.10 USD]
+eszenyiadam calls [$0.60 USD]
+** Dealing Turn ** [ Tc ]
+eszenyiadam checks
+teufelsumos checks
+** Dealing River ** [ 4h ]
+eszenyiadam checks
+teufelsumos bets [$1.31 USD]
+eszenyiadam folds
+teufelsumos does not show cards.
+teufelsumos wins $3.93 USD
+Game #14684456738 starts.
+
+#Game No : 14684456738 
+***** Hand History for Game 14684456738 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:09:52 EDT 2015
+Table Namangan (Real Money)
+Seat 5 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $9.45 USD )
+Seat 2: bluebirdgaz ( $10 USD )
+Seat 7: eszenyiadam ( $9.13 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10.63 USD )
+Seat 8: rivieraKRD ( $11.93 USD )
+Seat 6: skorkin ( $14.07 USD )
+Seat 3: teufelsumos ( $13.07 USD )
+Seat 1: tweetyteewt ( $10.30 USD )
+skorkin posts small blind [$0.05 USD].
+eszenyiadam posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8c 5d ]
+rivieraKRD folds
+milfin69 raises [$0.20 USD]
+tweetyteewt folds
+bluebirdgaz raises [$0.50 USD]
+teufelsumos folds
+TilliWilli folds
+kemper0k folds
+skorkin folds
+eszenyiadam folds
+milfin69 calls [$0.30 USD]
+** Dealing Flop ** [ 7d, 9h, Ts ]
+milfin69 checks
+bluebirdgaz bets [$0.50 USD]
+milfin69 folds
+bluebirdgaz does not show cards.
+bluebirdgaz wins $1.60 USD
+Game #14684458334 starts.
+
+#Game No : 14684458334 
+***** Hand History for Game 14684458334 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:10:36 EDT 2015
+Table Namangan (Real Money)
+Seat 6 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $9.45 USD )
+Seat 2: bluebirdgaz ( $10.60 USD )
+Seat 7: eszenyiadam ( $9.03 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10.13 USD )
+Seat 8: rivieraKRD ( $11.93 USD )
+Seat 6: skorkin ( $14.02 USD )
+Seat 3: teufelsumos ( $13.07 USD )
+Seat 1: tweetyteewt ( $10.30 USD )
+eszenyiadam posts small blind [$0.05 USD].
+rivieraKRD posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qs Qd ]
+milfin69 folds
+tweetyteewt folds
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli raises [$0.40 USD]
+kemper0k folds
+skorkin folds
+eszenyiadam folds
+rivieraKRD folds
+TilliWilli does not show cards.
+TilliWilli wins $0.55 USD
+Game #14684458910 starts.
+
+#Game No : 14684458910 
+***** Hand History for Game 14684458910 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:10:59 EDT 2015
+Table Namangan (Real Money)
+Seat 7 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $9.60 USD )
+Seat 2: bluebirdgaz ( $10.60 USD )
+Seat 7: eszenyiadam ( $8.98 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10.13 USD )
+Seat 8: rivieraKRD ( $11.83 USD )
+Seat 6: skorkin ( $14.02 USD )
+Seat 3: teufelsumos ( $13.07 USD )
+Seat 1: tweetyteewt ( $10.30 USD )
+rivieraKRD posts small blind [$0.05 USD].
+milfin69 posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2h 4c ]
+tweetyteewt folds
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli folds
+kemper0k folds
+skorkin folds
+eszenyiadam folds
+rivieraKRD folds
+milfin69 does not show cards.
+milfin69 wins $0.15 USD
+Game #14684459198 starts.
+
+#Game No : 14684459198 
+***** Hand History for Game 14684459198 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:11:09 EDT 2015
+Table Namangan (Real Money)
+Seat 8 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $9.60 USD )
+Seat 2: bluebirdgaz ( $10.60 USD )
+Seat 7: eszenyiadam ( $8.98 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10.18 USD )
+Seat 8: rivieraKRD ( $11.78 USD )
+Seat 6: skorkin ( $14.02 USD )
+Seat 3: teufelsumos ( $13.07 USD )
+Seat 1: tweetyteewt ( $10.30 USD )
+milfin69 posts small blind [$0.05 USD].
+tweetyteewt posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5c Js ]
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli folds
+kemper0k folds
+skorkin folds
+eszenyiadam folds
+rivieraKRD raises [$0.20 USD]
+milfin69 folds
+tweetyteewt folds
+rivieraKRD does not show cards.
+rivieraKRD wins $0.35 USD
+Game #14684460556 starts.
+
+#Game No : 14684460556 
+***** Hand History for Game 14684460556 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:11:43 EDT 2015
+Table Namangan (Real Money)
+Seat 9 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $9.60 USD )
+Seat 2: bluebirdgaz ( $10.60 USD )
+Seat 7: eszenyiadam ( $8.98 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10.13 USD )
+Seat 8: rivieraKRD ( $11.93 USD )
+Seat 6: skorkin ( $14.02 USD )
+Seat 3: teufelsumos ( $13.07 USD )
+Seat 1: tweetyteewt ( $10.20 USD )
+tweetyteewt posts small blind [$0.05 USD].
+bluebirdgaz posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ad Ks ]
+teufelsumos folds
+TilliWilli raises [$0.20 USD]
+kemper0k raises [$0.60 USD]
+skorkin folds
+eszenyiadam folds
+rivieraKRD folds
+milfin69 folds
+tweetyteewt folds
+bluebirdgaz will be using their time bank for this hand.
+bluebirdgaz folds
+TilliWilli calls [$0.40 USD]
+** Dealing Flop ** [ Kh, Kd, Jc ]
+TilliWilli bets [$0.10 USD]
+kemper0k calls [$0.10 USD]
+** Dealing Turn ** [ Ah ]
+TilliWilli checks
+kemper0k bets [$0.74 USD]
+TilliWilli raises [$1.48 USD]
+kemper0k will be using their time bank for this hand.
+kemper0k raises [$2.76 USD]
+TilliWilli raises [$4.04 USD]
+kemper0k is all-In  [$5.80 USD]
+TilliWilli is all-In  [$3.38 USD]
+** Dealing River ** [ Th ]
+TilliWilli shows [ Ad, Ks ]a full house, Kings full of Aces.
+kemper0k shows [ Jd, Jh ]a full house, Jacks full of Kings.
+kemper0k wins $0.40 USD from the side pot 1 with a full house, Jacks full of Kings.
+TilliWilli wins $18.39 USD from the main pot with a full house, Kings full of Aces.
+Game #14684463660 starts.
+
+#Game No : 14684463660 
+***** Hand History for Game 14684463660 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:13:45 EDT 2015
+Table Namangan (Real Money)
+Seat 1 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $18.39 USD )
+Seat 2: bluebirdgaz ( $10.50 USD )
+Seat 7: eszenyiadam ( $8.98 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10.13 USD )
+Seat 8: rivieraKRD ( $11.93 USD )
+Seat 6: skorkin ( $14.02 USD )
+Seat 3: teufelsumos ( $13.07 USD )
+Seat 1: tweetyteewt ( $10.15 USD )
+bluebirdgaz posts small blind [$0.05 USD].
+teufelsumos posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9h 6h ]
+TilliWilli folds
+kemper0k folds
+skorkin folds
+eszenyiadam folds
+rivieraKRD folds
+milfin69 folds
+tweetyteewt folds
+bluebirdgaz folds
+teufelsumos does not show cards.
+teufelsumos wins $0.15 USD
+Game #14684464037 starts.
+
+#Game No : 14684464037 
+***** Hand History for Game 14684464037 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:14:01 EDT 2015
+Table Namangan (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $18.39 USD )
+Seat 2: bluebirdgaz ( $10.45 USD )
+Seat 7: eszenyiadam ( $8.98 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10.13 USD )
+Seat 8: rivieraKRD ( $11.93 USD )
+Seat 6: skorkin ( $14.02 USD )
+Seat 3: teufelsumos ( $13.12 USD )
+Seat 1: tweetyteewt ( $10.15 USD )
+teufelsumos posts small blind [$0.05 USD].
+TilliWilli posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Td Jh ]
+kemper0k folds
+skorkin folds
+eszenyiadam folds
+rivieraKRD folds
+milfin69 raises [$0.20 USD]
+tweetyteewt folds
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli calls [$0.10 USD]
+** Dealing Flop ** [ 4h, 9s, Qd ]
+TilliWilli bets [$0.15 USD]
+milfin69 folds
+TilliWilli does not show cards.
+TilliWilli wins $0.58 USD
+Game #14684465532 starts.
+
+#Game No : 14684465532 
+***** Hand History for Game 14684465532 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:14:40 EDT 2015
+Table Namangan (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $18.62 USD )
+Seat 2: bluebirdgaz ( $10.45 USD )
+Seat 7: eszenyiadam ( $8.98 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10 USD )
+Seat 8: rivieraKRD ( $11.93 USD )
+Seat 6: skorkin ( $14.02 USD )
+Seat 3: teufelsumos ( $13.07 USD )
+Seat 1: tweetyteewt ( $10.15 USD )
+TilliWilli posts small blind [$0.05 USD].
+kemper0k posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  7s As ]
+skorkin folds
+eszenyiadam folds
+rivieraKRD folds
+milfin69 raises [$0.20 USD]
+tweetyteewt folds
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli folds
+kemper0k folds
+milfin69 does not show cards.
+milfin69 wins $0.35 USD
+Game #14684466795 starts.
+
+#Game No : 14684466795 
+***** Hand History for Game 14684466795 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:15:09 EDT 2015
+Table Namangan (Real Money)
+Seat 4 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $18.57 USD )
+Seat 2: bluebirdgaz ( $10.45 USD )
+Seat 7: eszenyiadam ( $8.98 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10.15 USD )
+Seat 8: rivieraKRD ( $11.93 USD )
+Seat 6: skorkin ( $14.02 USD )
+Seat 3: teufelsumos ( $13.07 USD )
+Seat 1: tweetyteewt ( $10.15 USD )
+kemper0k posts small blind [$0.05 USD].
+skorkin posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  6c Jc ]
+eszenyiadam raises [$0.20 USD]
+rivieraKRD folds
+milfin69 folds
+tweetyteewt folds
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli folds
+kemper0k folds
+skorkin folds
+eszenyiadam does not show cards.
+eszenyiadam wins $0.35 USD
+Game #14684467353 starts.
+
+#Game No : 14684467353 
+***** Hand History for Game 14684467353 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:15:31 EDT 2015
+Table Namangan (Real Money)
+Seat 5 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $18.57 USD )
+Seat 2: bluebirdgaz ( $10.45 USD )
+Seat 7: eszenyiadam ( $9.13 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10.15 USD )
+Seat 8: rivieraKRD ( $11.93 USD )
+Seat 6: skorkin ( $13.92 USD )
+Seat 3: teufelsumos ( $13.07 USD )
+Seat 1: tweetyteewt ( $10.15 USD )
+skorkin posts small blind [$0.05 USD].
+eszenyiadam posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8c Jc ]
+rivieraKRD folds
+milfin69 folds
+tweetyteewt folds
+bluebirdgaz raises [$0.30 USD]
+teufelsumos folds
+TilliWilli folds
+kemper0k folds
+skorkin folds
+eszenyiadam folds
+bluebirdgaz does not show cards.
+bluebirdgaz wins $0.45 USD
+Game #14684468090 starts.
+
+#Game No : 14684468090 
+***** Hand History for Game 14684468090 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:15:58 EDT 2015
+Table Namangan (Real Money)
+Seat 6 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $18.57 USD )
+Seat 2: bluebirdgaz ( $10.60 USD )
+Seat 7: eszenyiadam ( $9.03 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10.15 USD )
+Seat 8: rivieraKRD ( $11.93 USD )
+Seat 6: skorkin ( $13.87 USD )
+Seat 3: teufelsumos ( $13.07 USD )
+Seat 1: tweetyteewt ( $10.15 USD )
+eszenyiadam posts small blind [$0.05 USD].
+rivieraKRD posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3c 8s ]
+milfin69 folds
+tweetyteewt folds
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli folds
+kemper0k folds
+skorkin folds
+eszenyiadam folds
+rivieraKRD does not show cards.
+rivieraKRD wins $0.15 USD
+Game #14684468578 starts.
+
+#Game No : 14684468578 
+***** Hand History for Game 14684468578 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:16:18 EDT 2015
+Table Namangan (Real Money)
+Seat 7 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $18.57 USD )
+Seat 2: bluebirdgaz ( $10.60 USD )
+Seat 7: eszenyiadam ( $8.98 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10.15 USD )
+Seat 8: rivieraKRD ( $11.98 USD )
+Seat 6: skorkin ( $13.87 USD )
+Seat 3: teufelsumos ( $13.07 USD )
+Seat 1: tweetyteewt ( $10.15 USD )
+rivieraKRD posts small blind [$0.05 USD].
+milfin69 posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5c 8c ]
+tweetyteewt folds
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli folds
+kemper0k folds
+skorkin folds
+eszenyiadam folds
+rivieraKRD folds
+milfin69 does not show cards.
+milfin69 wins $0.15 USD
+Game #14684468921 starts.
+
+#Game No : 14684468921 
+***** Hand History for Game 14684468921 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:16:30 EDT 2015
+Table Namangan (Real Money)
+Seat 8 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $18.57 USD )
+Seat 2: bluebirdgaz ( $10.60 USD )
+Seat 7: eszenyiadam ( $8.98 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10.20 USD )
+Seat 8: rivieraKRD ( $11.93 USD )
+Seat 6: skorkin ( $13.87 USD )
+Seat 3: teufelsumos ( $13.07 USD )
+Seat 1: tweetyteewt ( $10.15 USD )
+milfin69 posts small blind [$0.05 USD].
+tweetyteewt posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2c 6s ]
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli folds
+kemper0k folds
+skorkin raises [$0.30 USD]
+eszenyiadam folds
+rivieraKRD folds
+milfin69 folds
+tweetyteewt folds
+skorkin does not show cards.
+skorkin wins $0.45 USD
+Game #14684469855 starts.
+
+#Game No : 14684469855 
+***** Hand History for Game 14684469855 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:16:46 EDT 2015
+Table Namangan (Real Money)
+Seat 9 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $18.57 USD )
+Seat 2: bluebirdgaz ( $10.60 USD )
+Seat 7: eszenyiadam ( $8.98 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10.15 USD )
+Seat 8: rivieraKRD ( $11.93 USD )
+Seat 6: skorkin ( $14.02 USD )
+Seat 3: teufelsumos ( $13.07 USD )
+Seat 1: tweetyteewt ( $10.05 USD )
+tweetyteewt posts small blind [$0.05 USD].
+bluebirdgaz posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ks 5h ]
+teufelsumos folds
+TilliWilli folds
+kemper0k folds
+skorkin raises [$0.30 USD]
+eszenyiadam folds
+rivieraKRD folds
+milfin69 folds
+tweetyteewt folds
+bluebirdgaz folds
+skorkin does not show cards.
+skorkin wins $0.45 USD
+Game #14684470466 starts.
+
+#Game No : 14684470466 
+***** Hand History for Game 14684470466 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:17:09 EDT 2015
+Table Namangan (Real Money)
+Seat 1 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $18.57 USD )
+Seat 2: bluebirdgaz ( $10.50 USD )
+Seat 7: eszenyiadam ( $8.98 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10.15 USD )
+Seat 8: rivieraKRD ( $11.93 USD )
+Seat 6: skorkin ( $14.17 USD )
+Seat 3: teufelsumos ( $13.07 USD )
+Seat 1: tweetyteewt ( $10 USD )
+bluebirdgaz posts small blind [$0.05 USD].
+teufelsumos posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8s As ]
+TilliWilli raises [$0.20 USD]
+kemper0k folds
+skorkin folds
+eszenyiadam calls [$0.20 USD]
+rivieraKRD folds
+milfin69 folds
+tweetyteewt folds
+bluebirdgaz folds
+teufelsumos folds
+** Dealing Flop ** [ 8c, Jh, Th ]
+Your time bank will be activated in 6 secs. If you do not want it to be used, please act now.
+TilliWilli bets [$0.20 USD]
+eszenyiadam folds
+TilliWilli does not show cards.
+TilliWilli wins $0.73 USD
+Game #14684471909 starts.
+
+#Game No : 14684471909 
+***** Hand History for Game 14684471909 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:17:45 EDT 2015
+Table Namangan (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $18.90 USD )
+Seat 2: bluebirdgaz ( $10.45 USD )
+Seat 7: eszenyiadam ( $8.78 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10.15 USD )
+Seat 8: rivieraKRD ( $11.93 USD )
+Seat 6: skorkin ( $14.17 USD )
+Seat 3: teufelsumos ( $12.97 USD )
+Seat 1: tweetyteewt ( $10 USD )
+teufelsumos posts small blind [$0.05 USD].
+TilliWilli posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4d Kc ]
+kemper0k folds
+skorkin folds
+eszenyiadam raises [$0.20 USD]
+rivieraKRD folds
+milfin69 folds
+tweetyteewt folds
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli folds
+eszenyiadam does not show cards.
+eszenyiadam wins $0.35 USD
+Game #14684472498 starts.
+
+#Game No : 14684472498 
+***** Hand History for Game 14684472498 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:18:06 EDT 2015
+Table Namangan (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $18.80 USD )
+Seat 2: bluebirdgaz ( $10.45 USD )
+Seat 7: eszenyiadam ( $8.93 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10.15 USD )
+Seat 8: rivieraKRD ( $11.93 USD )
+Seat 6: skorkin ( $14.17 USD )
+Seat 3: teufelsumos ( $12.92 USD )
+Seat 1: tweetyteewt ( $10 USD )
+TilliWilli posts small blind [$0.05 USD].
+kemper0k posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4d Td ]
+skorkin folds
+eszenyiadam folds
+rivieraKRD folds
+milfin69 folds
+tweetyteewt folds
+bluebirdgaz raises [$0.30 USD]
+teufelsumos folds
+TilliWilli folds
+kemper0k folds
+bluebirdgaz does not show cards.
+bluebirdgaz wins $0.45 USD
+Game #14684473128 starts.
+
+#Game No : 14684473128 
+***** Hand History for Game 14684473128 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:18:30 EDT 2015
+Table Namangan (Real Money)
+Seat 4 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $18.75 USD )
+Seat 2: bluebirdgaz ( $10.60 USD )
+Seat 7: eszenyiadam ( $8.93 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10.15 USD )
+Seat 8: rivieraKRD ( $11.93 USD )
+Seat 6: skorkin ( $14.17 USD )
+Seat 3: teufelsumos ( $12.92 USD )
+Seat 1: tweetyteewt ( $10 USD )
+kemper0k posts small blind [$0.05 USD].
+skorkin posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5s 2d ]
+eszenyiadam calls [$0.10 USD]
+rivieraKRD folds
+milfin69 folds
+tweetyteewt folds
+bluebirdgaz raises [$0.30 USD]
+teufelsumos folds
+TilliWilli folds
+kemper0k folds
+skorkin folds
+eszenyiadam calls [$0.20 USD]
+** Dealing Flop ** [ 8s, As, 8h ]
+eszenyiadam bets [$0.50 USD]
+bluebirdgaz calls [$0.50 USD]
+** Dealing Turn ** [ Qc ]
+eszenyiadam bets [$1 USD]
+bluebirdgaz raises [$3.50 USD]
+eszenyiadam folds
+bluebirdgaz does not show cards.
+bluebirdgaz wins $6.07 USD
+Game #14684474544 starts.
+
+#Game No : 14684474544 
+***** Hand History for Game 14684474544 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:19:23 EDT 2015
+Table Namangan (Real Money)
+Seat 5 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $18.75 USD )
+Seat 2: bluebirdgaz ( $12.37 USD )
+Seat 7: eszenyiadam ( $7.13 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10.15 USD )
+Seat 8: rivieraKRD ( $11.93 USD )
+Seat 6: skorkin ( $14.07 USD )
+Seat 3: teufelsumos ( $12.92 USD )
+Seat 1: tweetyteewt ( $10 USD )
+skorkin posts small blind [$0.05 USD].
+eszenyiadam posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  7c 8c ]
+rivieraKRD folds
+milfin69 folds
+tweetyteewt folds
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli raises [$0.20 USD]
+kemper0k folds
+skorkin folds
+eszenyiadam calls [$0.10 USD]
+** Dealing Flop ** [ Kc, Jh, Kh ]
+eszenyiadam checks
+TilliWilli bets [$0.10 USD]
+eszenyiadam folds
+TilliWilli does not show cards.
+TilliWilli wins $0.53 USD
+Game #14684475316 starts.
+
+#Game No : 14684475316 
+***** Hand History for Game 14684475316 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:19:52 EDT 2015
+Table Namangan (Real Money)
+Seat 6 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $18.98 USD )
+Seat 2: bluebirdgaz ( $12.37 USD )
+Seat 7: eszenyiadam ( $6.93 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10.15 USD )
+Seat 8: rivieraKRD ( $11.93 USD )
+Seat 6: skorkin ( $14.02 USD )
+Seat 3: teufelsumos ( $12.92 USD )
+Seat 1: tweetyteewt ( $10 USD )
+eszenyiadam posts small blind [$0.05 USD].
+rivieraKRD posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  6c 8d ]
+milfin69 folds
+tweetyteewt folds
+bluebirdgaz folds
+teufelsumos calls [$0.10 USD]
+TilliWilli folds
+kemper0k folds
+skorkin folds
+eszenyiadam raises [$0.15 USD]
+rivieraKRD folds
+teufelsumos calls [$0.10 USD]
+** Dealing Flop ** [ 2c, Qs, 6d ]
+eszenyiadam bets [$0.10 USD]
+teufelsumos folds
+eszenyiadam does not show cards.
+eszenyiadam wins $0.58 USD
+Game #14684476478 starts.
+
+#Game No : 14684476478 
+***** Hand History for Game 14684476478 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:20:35 EDT 2015
+Table Namangan (Real Money)
+Seat 7 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $18.98 USD )
+Seat 2: bluebirdgaz ( $12.37 USD )
+Seat 7: eszenyiadam ( $7.21 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10.15 USD )
+Seat 8: rivieraKRD ( $11.83 USD )
+Seat 6: skorkin ( $14.02 USD )
+Seat 3: teufelsumos ( $12.72 USD )
+Seat 1: tweetyteewt ( $10 USD )
+rivieraKRD posts small blind [$0.05 USD].
+milfin69 posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ad 4c ]
+tweetyteewt folds
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli folds
+kemper0k folds
+skorkin raises [$0.30 USD]
+eszenyiadam folds
+rivieraKRD folds
+milfin69 calls [$0.20 USD]
+** Dealing Flop ** [ 8h, Qc, Ac ]
+milfin69 checks
+skorkin bets [$0.31 USD]
+milfin69 folds
+skorkin does not show cards.
+skorkin wins $0.93 USD
+Game #14684478230 starts.
+
+#Game No : 14684478230 
+***** Hand History for Game 14684478230 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:21:22 EDT 2015
+Table Namangan (Real Money)
+Seat 8 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $18.98 USD )
+Seat 2: bluebirdgaz ( $12.37 USD )
+Seat 7: eszenyiadam ( $7.21 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10 USD )
+Seat 8: rivieraKRD ( $11.78 USD )
+Seat 6: skorkin ( $14.34 USD )
+Seat 3: teufelsumos ( $12.72 USD )
+Seat 1: tweetyteewt ( $10 USD )
+milfin69 posts small blind [$0.05 USD].
+tweetyteewt posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  7s 3s ]
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli folds
+kemper0k folds
+skorkin folds
+eszenyiadam folds
+rivieraKRD folds
+milfin69 raises [$0.15 USD]
+tweetyteewt folds
+milfin69 does not show cards.
+milfin69 wins $0.30 USD
+Game #14684478864 starts.
+
+#Game No : 14684478864 
+***** Hand History for Game 14684478864 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:21:46 EDT 2015
+Table Namangan (Real Money)
+Seat 9 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $18.98 USD )
+Seat 2: bluebirdgaz ( $12.37 USD )
+Seat 7: eszenyiadam ( $7.21 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10.10 USD )
+Seat 8: rivieraKRD ( $11.78 USD )
+Seat 6: skorkin ( $14.34 USD )
+Seat 3: teufelsumos ( $12.72 USD )
+Seat 1: tweetyteewt ( $10 USD )
+tweetyteewt posts small blind [$0.05 USD].
+bluebirdgaz posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5h 2h ]
+teufelsumos folds
+TilliWilli folds
+kemper0k folds
+skorkin folds
+eszenyiadam folds
+rivieraKRD folds
+milfin69 folds
+tweetyteewt folds
+bluebirdgaz does not show cards.
+bluebirdgaz wins $0.15 USD
+Game #14684479891 starts.
+
+#Game No : 14684479891 
+***** Hand History for Game 14684479891 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:22:06 EDT 2015
+Table Namangan (Real Money)
+Seat 1 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $18.98 USD )
+Seat 2: bluebirdgaz ( $12.42 USD )
+Seat 7: eszenyiadam ( $7.21 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10.10 USD )
+Seat 8: rivieraKRD ( $11.78 USD )
+Seat 6: skorkin ( $14.34 USD )
+Seat 3: teufelsumos ( $12.72 USD )
+Seat 1: tweetyteewt ( $10 USD )
+bluebirdgaz posts small blind [$0.05 USD].
+teufelsumos posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2s Ts ]
+TilliWilli folds
+kemper0k folds
+skorkin folds
+eszenyiadam calls [$0.10 USD]
+rivieraKRD folds
+milfin69 folds
+tweetyteewt folds
+bluebirdgaz folds
+teufelsumos checks
+** Dealing Flop ** [ Tc, Kc, 8d ]
+teufelsumos checks
+eszenyiadam checks
+** Dealing Turn ** [ Kd ]
+teufelsumos checks
+eszenyiadam checks
+** Dealing River ** [ 6s ]
+teufelsumos checks
+eszenyiadam checks
+teufelsumos shows [ Th, 5c ]two pairs, Kings and Tens.
+eszenyiadam doesn't show [ 6d, Jd ]two pairs, Kings and Sixes.
+teufelsumos wins $0.24 USD from the main pot with two pairs, Kings and Tens.
+Game #14684480788 starts.
+
+#Game No : 14684480788 
+***** Hand History for Game 14684480788 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:22:41 EDT 2015
+Table Namangan (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $18.98 USD )
+Seat 2: bluebirdgaz ( $12.37 USD )
+Seat 7: eszenyiadam ( $7.11 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10.10 USD )
+Seat 8: rivieraKRD ( $11.78 USD )
+Seat 6: skorkin ( $14.34 USD )
+Seat 3: teufelsumos ( $12.86 USD )
+Seat 1: tweetyteewt ( $10 USD )
+teufelsumos posts small blind [$0.05 USD].
+TilliWilli posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8d As ]
+kemper0k folds
+skorkin folds
+eszenyiadam calls [$0.10 USD]
+rivieraKRD folds
+milfin69 folds
+tweetyteewt folds
+bluebirdgaz raises [$0.40 USD]
+teufelsumos folds
+TilliWilli folds
+eszenyiadam folds
+bluebirdgaz does not show cards.
+bluebirdgaz wins $0.65 USD
+Game #14684481546 starts.
+
+#Game No : 14684481546 
+***** Hand History for Game 14684481546 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:23:11 EDT 2015
+Table Namangan (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $18.88 USD )
+Seat 2: bluebirdgaz ( $12.62 USD )
+Seat 7: eszenyiadam ( $7.01 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10.10 USD )
+Seat 8: rivieraKRD ( $11.78 USD )
+Seat 6: skorkin ( $14.34 USD )
+Seat 3: teufelsumos ( $12.81 USD )
+Seat 1: tweetyteewt ( $10 USD )
+TilliWilli posts small blind [$0.05 USD].
+kemper0k posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2h 9h ]
+skorkin folds
+eszenyiadam calls [$0.10 USD]
+rivieraKRD folds
+milfin69 folds
+tweetyteewt folds
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli folds
+kemper0k checks
+** Dealing Flop ** [ Ac, Qd, 7s ]
+kemper0k checks
+eszenyiadam checks
+** Dealing Turn ** [ Jh ]
+kemper0k checks
+eszenyiadam bets [$0.10 USD]
+kemper0k folds
+eszenyiadam does not show cards.
+eszenyiadam wins $0.34 USD
+Game #14684482904 starts.
+
+#Game No : 14684482904 
+***** Hand History for Game 14684482904 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:24:04 EDT 2015
+Table Namangan (Real Money)
+Seat 4 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $18.83 USD )
+Seat 2: bluebirdgaz ( $12.62 USD )
+Seat 7: eszenyiadam ( $7.15 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10.10 USD )
+Seat 8: rivieraKRD ( $11.78 USD )
+Seat 6: skorkin ( $14.34 USD )
+Seat 3: teufelsumos ( $12.81 USD )
+Seat 1: tweetyteewt ( $10 USD )
+kemper0k posts small blind [$0.05 USD].
+skorkin posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qd 9c ]
+eszenyiadam folds
+rivieraKRD folds
+milfin69 folds
+tweetyteewt folds
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli raises [$0.20 USD]
+kemper0k calls [$0.15 USD]
+skorkin folds
+** Dealing Flop ** [ 6s, Kh, Kd ]
+kemper0k checks
+TilliWilli checks
+** Dealing Turn ** [ Kc ]
+kemper0k checks
+TilliWilli bets [$0.30 USD]
+kemper0k raises [$1 USD]
+TilliWilli folds
+kemper0k does not show cards.
+kemper0k wins $1.75 USD
+Game #14684484983 starts.
+
+#Game No : 14684484983 
+***** Hand History for Game 14684484983 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:25:04 EDT 2015
+Table Namangan (Real Money)
+Seat 5 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $18.33 USD )
+Seat 2: bluebirdgaz ( $12.62 USD )
+Seat 7: eszenyiadam ( $7.15 USD )
+Seat 5: kemper0k ( $10.55 USD )
+Seat 9: milfin69 ( $10.10 USD )
+Seat 8: rivieraKRD ( $11.78 USD )
+Seat 6: skorkin ( $14.24 USD )
+Seat 3: teufelsumos ( $12.81 USD )
+Seat 1: tweetyteewt ( $10 USD )
+skorkin posts small blind [$0.05 USD].
+eszenyiadam posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Tc Jd ]
+rivieraKRD folds
+milfin69 folds
+tweetyteewt folds
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli raises [$0.20 USD]
+kemper0k calls [$0.20 USD]
+skorkin folds
+eszenyiadam calls [$0.10 USD]
+** Dealing Flop ** [ 8s, 8h, 5d ]
+eszenyiadam checks
+TilliWilli checks
+kemper0k checks
+** Dealing Turn ** [ Jh ]
+eszenyiadam checks
+TilliWilli checks
+kemper0k bets [$0.41 USD]
+eszenyiadam folds
+TilliWilli calls [$0.41 USD]
+** Dealing River ** [ Js ]
+Your time bank will be activated in 6 secs. If you do not want it to be used, please act now.
+TilliWilli bets [$1 USD]
+kemper0k will be using their time bank for this hand.
+kemper0k calls [$1 USD]
+TilliWilli shows [ Tc, Jd ]a full house, Jacks full of Eights.
+kemper0k doesn't show [ 2h, Ah ]two pairs, Jacks and Eights.
+TilliWilli wins $3.30 USD from the main pot with a full house, Jacks full of Eights.
+Game #14684486797 starts.
+
+#Game No : 14684486797 
+***** Hand History for Game 14684486797 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:26:17 EDT 2015
+Table Namangan (Real Money)
+Seat 6 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $20.02 USD )
+Seat 2: bluebirdgaz ( $12.62 USD )
+Seat 7: eszenyiadam ( $6.95 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10.10 USD )
+Seat 8: rivieraKRD ( $11.78 USD )
+Seat 6: skorkin ( $14.19 USD )
+Seat 3: teufelsumos ( $12.81 USD )
+Seat 1: tweetyteewt ( $10 USD )
+eszenyiadam posts small blind [$0.05 USD].
+rivieraKRD posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4h Js ]
+milfin69 folds
+tweetyteewt raises [$0.30 USD]
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli folds
+kemper0k folds
+skorkin folds
+eszenyiadam folds
+rivieraKRD folds
+tweetyteewt does not show cards.
+tweetyteewt wins $0.45 USD
+Game #14684487622 starts.
+
+#Game No : 14684487622 
+***** Hand History for Game 14684487622 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:26:51 EDT 2015
+Table Namangan (Real Money)
+Seat 7 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $20.02 USD )
+Seat 2: bluebirdgaz ( $12.62 USD )
+Seat 7: eszenyiadam ( $6.90 USD )
+Seat 5: kemper0k ( $10 USD )
+Seat 9: milfin69 ( $10.10 USD )
+Seat 8: rivieraKRD ( $11.68 USD )
+Seat 6: skorkin ( $14.19 USD )
+Seat 3: teufelsumos ( $12.81 USD )
+Seat 1: tweetyteewt ( $10.15 USD )
+rivieraKRD posts small blind [$0.05 USD].
+milfin69 posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  7d 3s ]
+tweetyteewt folds
+bluebirdgaz folds
+teufelsumos folds
+TilliWilli folds
+kemper0k raises [$0.30 USD]
+skorkin folds
+eszenyiadam folds
+rivieraKRD folds
+milfin69 folds
+kemper0k does not show cards.
+kemper0k wins $0.45 USD
+Game #14684488287 starts.
+
+#Game No : 14684488287 
+***** Hand History for Game 14684488287 *****
+$0.05/$0.10 USD NL Texas Hold'em - Tuesday, July 21, 12:27:18 EDT 2015
+Table Namangan (Real Money)
+Seat 8 is the button
+Total number of players : 9/9 
+Seat 4: TilliWilli ( $20.02 USD )
+Seat 2: bluebirdgaz ( $12.62 USD )
+Seat 7: eszenyiadam ( $6.90 USD )
+Seat 5: kemper0k ( $10.15 USD )
+Seat 9: milfin69 ( $10 USD )
+Seat 8: rivieraKRD ( $11.63 USD )
+Seat 6: skorkin ( $14.19 USD )
+Seat 3: teufelsumos ( $12.81 USD )
+Seat 1: tweetyteewt ( $10.15 USD )
+milfin69 posts small blind [$0.05 USD].
+bluebirdgaz posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3h Qc ]
+teufelsumos folds
+TilliWilli folds
+kemper0k raises [$0.30 USD]
+skorkin folds
+eszenyiadam folds
+tweetyteewt has left the table.
+rivieraKRD raises [$0.90 USD]
+milfin69 folds
+bluebirdgaz folds
+kemper0k folds
+rivieraKRD does not show cards.
+rivieraKRD wins $1.35 USD
+
+Game #14684490092 starts.
+#Game No : 14684490092 
+Table Closed
+The hand history for this hand number is not available here.Please use Instant Hand History in the "Game Rules & Options"  menu to have this hand history delivered to the email address you have registered with us.
+

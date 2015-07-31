@@ -1,0 +1,1492 @@
+Game #14683292604 starts.
+
+#Game No : 14683292604 
+***** Hand History for Game 14683292604 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 16:10:48 EDT 2015
+Table Sheffield (Real Money)
+Seat 4 is the button
+Total number of players : 8/9 
+Seat 3: BCJOHNO89 ( $9.48 USD )
+Seat 9: TilliWilli ( $10 USD )
+Seat 6: alois1950 ( $12.12 USD )
+Seat 1: also5 ( $5 USD )
+Seat 7: early_man ( $10.50 USD )
+Seat 4: portvein_373 ( $10 USD )
+Seat 8: rivieraKRD ( $10 USD )
+Seat 2: skorkin ( $18.30 USD )
+alois1950 posts small blind [$0.05 USD].
+early_man posts big blind [$0.10 USD].
+TilliWilli posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ad Ks ]
+rivieraKRD folds
+TilliWilli checks
+also5 folds
+skorkin folds
+BCJOHNO89 folds
+portvein_373 folds
+alois1950 calls [$0.05 USD]
+early_man checks
+** Dealing Flop ** [ Qh, 7d, 2s ]
+alois1950 checks
+early_man checks
+TilliWilli checks
+** Dealing Turn ** [ 4s ]
+alois1950 checks
+early_man checks
+TilliWilli bets [$0.30 USD]
+alois1950 calls [$0.30 USD]
+early_man folds
+** Dealing River ** [ Tc ]
+alois1950 checks
+TilliWilli checks
+alois1950 shows [ 8d, 7h ]a pair of Sevens.
+TilliWilli doesn't show [ Ad, Ks ]high card Ace.
+alois1950 wins $0.86 USD from the main pot with a pair of Sevens.
+Game #14683295447 starts.
+
+#Game No : 14683295447 
+***** Hand History for Game 14683295447 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 16:11:53 EDT 2015
+Table Sheffield (Real Money)
+Seat 6 is the button
+Total number of players : 8/9 
+Seat 3: BCJOHNO89 ( $9.48 USD )
+Seat 9: TilliWilli ( $9.60 USD )
+Seat 6: alois1950 ( $12.58 USD )
+Seat 1: also5 ( $5 USD )
+Seat 7: early_man ( $10.40 USD )
+Seat 4: portvein_373 ( $10 USD )
+Seat 8: rivieraKRD ( $10 USD )
+Seat 2: skorkin ( $18.30 USD )
+early_man posts small blind [$0.05 USD].
+rivieraKRD posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8c 6h ]
+TilliWilli calls [$0.10 USD]
+also5 did not respond in time
+also5 folds
+skorkin folds
+BCJOHNO89 calls [$0.10 USD]
+portvein_373 folds
+alois1950 calls [$0.10 USD]
+early_man calls [$0.05 USD]
+rivieraKRD checks
+** Dealing Flop ** [ 2h, Ah, Qs ]
+early_man checks
+rivieraKRD checks
+TilliWilli checks
+BCJOHNO89 checks
+alois1950 checks
+** Dealing Turn ** [ 8s ]
+early_man checks
+rivieraKRD checks
+TilliWilli bets [$0.10 USD]
+BCJOHNO89 will be using their time bank for this hand.
+BCJOHNO89 folds
+alois1950 raises [$0.39 USD]
+early_man folds
+rivieraKRD folds
+TilliWilli folds
+alois1950 does not show cards.
+alois1950 wins $0.96 USD
+Game #14683300129 starts.
+
+#Game No : 14683300129 
+***** Hand History for Game 14683300129 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 16:13:35 EDT 2015
+Table Sheffield (Real Money)
+Seat 7 is the button
+Total number of players : 8/9 
+Seat 3: BCJOHNO89 ( $9.38 USD )
+Seat 9: TilliWilli ( $9.40 USD )
+Seat 6: alois1950 ( $13.05 USD )
+Seat 1: also5 ( $5 USD )
+Seat 7: early_man ( $10.30 USD )
+Seat 4: portvein_373 ( $10 USD )
+Seat 8: rivieraKRD ( $10 USD )
+Seat 2: skorkin ( $18.30 USD )
+rivieraKRD posts small blind [$0.05 USD].
+TilliWilli posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ks Kc ]
+also5 folds
+skorkin folds
+BCJOHNO89 folds
+portvein_373 folds
+alois1950 raises [$0.30 USD]
+early_man calls [$0.30 USD]
+rivieraKRD folds
+TilliWilli raises [$0.40 USD]
+alois1950 calls [$0.20 USD]
+early_man calls [$0.20 USD]
+** Dealing Flop ** [ Kd, 5d, Js ]
+TilliWilli bets [$0.10 USD]
+alois1950 calls [$0.10 USD]
+early_man calls [$0.10 USD]
+** Dealing Turn ** [ 3h ]
+TilliWilli bets [$0.15 USD]
+alois1950 calls [$0.15 USD]
+early_man calls [$0.15 USD]
+** Dealing River ** [ 8h ]
+TilliWilli checks
+alois1950 checks
+early_man checks
+TilliWilli shows [ Ks, Kc ]three of a kind, Kings.
+alois1950 doesn't show [ Qd, As ]high card Ace.
+early_man doesn't show [ Jc, 9c ]a pair of Jacks.
+TilliWilli wins $2.19 USD from the main pot with three of a kind, Kings.
+Game #14683303319 starts.
+
+#Game No : 14683303319 
+***** Hand History for Game 14683303319 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 16:15:01 EDT 2015
+Table Sheffield (Real Money)
+Seat 8 is the button
+Total number of players : 8/9 
+Seat 3: BCJOHNO89 ( $9.38 USD )
+Seat 9: TilliWilli ( $10.84 USD )
+Seat 6: alois1950 ( $12.30 USD )
+Seat 1: also5 ( $5 USD )
+Seat 7: early_man ( $10 USD )
+Seat 4: portvein_373 ( $10 USD )
+Seat 8: rivieraKRD ( $10 USD )
+Seat 2: skorkin ( $18.30 USD )
+TilliWilli posts small blind [$0.05 USD].
+also5 posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  As 7h ]
+skorkin folds
+BCJOHNO89 folds
+portvein_373 raises [$0.30 USD]
+alois1950 folds
+early_man folds
+rivieraKRD folds
+TilliWilli folds
+also5 folds
+portvein_373 does not show cards.
+portvein_373 wins $0.45 USD
+nickolayov has joined the table.
+Game #14683304067 starts.
+
+#Game No : 14683304067 
+***** Hand History for Game 14683304067 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 16:15:20 EDT 2015
+Table Sheffield (Real Money)
+Seat 9 is the button
+Total number of players : 9/9 
+Seat 3: BCJOHNO89 ( $9.38 USD )
+Seat 9: TilliWilli ( $10.79 USD )
+Seat 6: alois1950 ( $12.30 USD )
+Seat 1: also5 ( $4.90 USD )
+Seat 7: early_man ( $10 USD )
+Seat 5: nickolayov ( $10 USD )
+Seat 4: portvein_373 ( $10.15 USD )
+Seat 8: rivieraKRD ( $10 USD )
+Seat 2: skorkin ( $18.30 USD )
+also5 posts small blind [$0.05 USD].
+skorkin posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8s Jd ]
+BCJOHNO89 folds
+portvein_373 folds
+alois1950 folds
+early_man folds
+rivieraKRD folds
+TilliWilli calls [$0.10 USD]
+also5 folds
+skorkin checks
+** Dealing Flop ** [ Ad, Qc, 7c ]
+skorkin checks
+TilliWilli bets [$0.10 USD]
+skorkin folds
+TilliWilli does not show cards.
+TilliWilli wins $0.34 USD
+Game #14683306354 starts.
+
+#Game No : 14683306354 
+***** Hand History for Game 14683306354 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 16:16:07 EDT 2015
+Table Sheffield (Real Money)
+Seat 1 is the button
+Total number of players : 9/9 
+Seat 3: BCJOHNO89 ( $9.38 USD )
+Seat 9: TilliWilli ( $10.93 USD )
+Seat 6: alois1950 ( $12.30 USD )
+Seat 1: also5 ( $4.85 USD )
+Seat 7: early_man ( $10 USD )
+Seat 5: nickolayov ( $10 USD )
+Seat 4: portvein_373 ( $10.15 USD )
+Seat 8: rivieraKRD ( $10 USD )
+Seat 2: skorkin ( $18.20 USD )
+skorkin posts small blind [$0.05 USD].
+BCJOHNO89 posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9h 8d ]
+portvein_373 folds
+alois1950 folds
+early_man folds
+rivieraKRD folds
+TilliWilli calls [$0.10 USD]
+also5 raises [$0.40 USD]
+skorkin folds
+BCJOHNO89 folds
+TilliWilli folds
+also5 does not show cards.
+also5 wins $0.65 USD
+Game #14683307282 starts.
+
+#Game No : 14683307282 
+***** Hand History for Game 14683307282 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 16:16:32 EDT 2015
+Table Sheffield (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 3: BCJOHNO89 ( $9.28 USD )
+Seat 9: TilliWilli ( $10.83 USD )
+Seat 6: alois1950 ( $12.30 USD )
+Seat 1: also5 ( $5.10 USD )
+Seat 7: early_man ( $10 USD )
+Seat 5: nickolayov ( $10 USD )
+Seat 4: portvein_373 ( $10.15 USD )
+Seat 8: rivieraKRD ( $10 USD )
+Seat 2: skorkin ( $18.15 USD )
+BCJOHNO89 posts small blind [$0.05 USD].
+portvein_373 posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5c 6d ]
+alois1950 raises [$0.40 USD]
+early_man raises [$1.40 USD]
+rivieraKRD folds
+TilliWilli folds
+also5 folds
+skorkin folds
+BCJOHNO89 folds
+portvein_373 folds
+alois1950 calls [$1 USD]
+** Dealing Flop ** [ Qc, 4s, Jd ]
+alois1950 checks
+early_man bets [$2.10 USD]
+alois1950 calls [$2.10 USD]
+** Dealing Turn ** [ 3d ]
+alois1950 checks
+early_man is all-In  [$6.50 USD]
+alois1950 calls [$6.50 USD]
+** Dealing River ** [ Js ]
+alois1950 shows [ Kd, Ad ]a pair of Jacks.
+early_man shows [ Kh, Kc ]two pairs, Kings and Jacks.
+early_man wins $19.15 USD from the main pot with two pairs, Kings and Jacks.
+Game #14683310164 starts.
+
+#Game No : 14683310164 
+***** Hand History for Game 14683310164 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 16:17:37 EDT 2015
+Table Sheffield (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 3: BCJOHNO89 ( $9.23 USD )
+Seat 9: TilliWilli ( $10.83 USD )
+Seat 6: alois1950 ( $2.30 USD )
+Seat 1: also5 ( $5.10 USD )
+Seat 7: early_man ( $19.15 USD )
+Seat 5: nickolayov ( $10 USD )
+Seat 4: portvein_373 ( $10.05 USD )
+Seat 8: rivieraKRD ( $10 USD )
+Seat 2: skorkin ( $18.15 USD )
+portvein_373 posts small blind [$0.05 USD].
+nickolayov posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8h Qc ]
+alois1950 calls [$0.10 USD]
+early_man folds
+rivieraKRD folds
+TilliWilli raises [$0.30 USD]
+also5 folds
+skorkin folds
+BCJOHNO89 folds
+portvein_373 calls [$0.25 USD]
+nickolayov folds
+alois1950 calls [$0.20 USD]
+** Dealing Flop ** [ 8c, 6d, Js ]
+portvein_373 checks
+alois1950 checks
+TilliWilli bets [$1 USD]
+portvein_373 folds
+alois1950 is all-In  [$2 USD]
+TilliWilli calls [$1 USD]
+** Dealing Turn ** [ Ad ]
+** Dealing River ** [ 2c ]
+TilliWilli shows [ 8h, Qc ]a pair of Eights.
+alois1950 doesn't show [ Th, Qd ]high card Ace.
+TilliWilli wins $4.75 USD from the main pot with a pair of Eights.
+Game #14683313024 starts.
+
+#Game No : 14683313024 
+***** Hand History for Game 14683313024 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 16:18:41 EDT 2015
+Table Sheffield (Real Money)
+Seat 4 is the button
+Total number of players : 9/9 
+Seat 3: BCJOHNO89 ( $9.23 USD )
+Seat 9: TilliWilli ( $13.28 USD )
+Seat 6: alois1950 ( $0 USD )
+Seat 1: also5 ( $5.10 USD )
+Seat 7: early_man ( $19.15 USD )
+Seat 5: nickolayov ( $9.90 USD )
+Seat 4: portvein_373 ( $10 USD )
+Seat 8: rivieraKRD ( $10 USD )
+Seat 2: skorkin ( $18.15 USD )
+nickolayov posts small blind [$0.05 USD].
+early_man posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5c 2d ]
+rivieraKRD folds
+TilliWilli folds
+also5 folds
+alois1950 has left the table.
+skorkin folds
+BCJOHNO89 calls [$0.10 USD]
+pollenW has joined the table.
+portvein_373 calls [$0.10 USD]
+nickolayov folds
+early_man checks
+** Dealing Flop ** [ 2s, 8h, Qh ]
+early_man checks
+BCJOHNO89 bets [$0.10 USD]
+portvein_373 folds
+early_man calls [$0.10 USD]
+** Dealing Turn ** [ 4d ]
+early_man checks
+BCJOHNO89 checks
+** Dealing River ** [ 7c ]
+early_man checks
+BCJOHNO89 checks
+early_man shows [ Td, 2c ]a pair of Twos.
+BCJOHNO89 shows [ 9d, 8c ]a pair of Eights.
+BCJOHNO89 wins $0.53 USD from the main pot with a pair of Eights.
+Game #14683314484 starts.
+
+#Game No : 14683314484 
+***** Hand History for Game 14683314484 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 16:19:19 EDT 2015
+Table Sheffield (Real Money)
+Seat 5 is the button
+Total number of players : 9/9 
+Seat 3: BCJOHNO89 ( $9.56 USD )
+Seat 9: TilliWilli ( $13.28 USD )
+Seat 1: also5 ( $5.10 USD )
+Seat 7: early_man ( $18.95 USD )
+Seat 5: nickolayov ( $9.85 USD )
+Seat 6: pollenW ( $10 USD )
+Seat 4: portvein_373 ( $10 USD )
+Seat 8: rivieraKRD ( $10 USD )
+Seat 2: skorkin ( $18.15 USD )
+early_man posts small blind [$0.05 USD].
+rivieraKRD posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4c 6h ]
+TilliWilli folds
+also5 folds
+skorkin folds
+BCJOHNO89 folds
+portvein_373 folds
+nickolayov folds
+early_man calls [$0.05 USD]
+rivieraKRD checks
+** Dealing Flop ** [ Jd, 9d, 3d ]
+early_man checks
+rivieraKRD bets [$0.20 USD]
+early_man folds
+rivieraKRD does not show cards.
+rivieraKRD wins $0.39 USD
+Game #14683315505 starts.
+
+#Game No : 14683315505 
+***** Hand History for Game 14683315505 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 16:19:47 EDT 2015
+Table Sheffield (Real Money)
+Seat 7 is the button
+Total number of players : 9/9 
+Seat 3: BCJOHNO89 ( $9.56 USD )
+Seat 9: TilliWilli ( $13.28 USD )
+Seat 1: also5 ( $5.10 USD )
+Seat 7: early_man ( $18.85 USD )
+Seat 5: nickolayov ( $9.85 USD )
+Seat 6: pollenW ( $10 USD )
+Seat 4: portvein_373 ( $10 USD )
+Seat 8: rivieraKRD ( $10.09 USD )
+Seat 2: skorkin ( $18.15 USD )
+rivieraKRD posts small blind [$0.05 USD].
+TilliWilli posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4c Kd ]
+also5 folds
+skorkin folds
+BCJOHNO89 did not respond in time
+BCJOHNO89 folds
+portvein_373 folds
+nickolayov folds
+early_man folds
+rivieraKRD folds
+TilliWilli does not show cards.
+TilliWilli wins $0.15 USD
+Game #14683316734 starts.
+
+#Game No : 14683316734 
+***** Hand History for Game 14683316734 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 16:20:20 EDT 2015
+Table Sheffield (Real Money)
+Seat 8 is the button
+Total number of players : 9/9 
+Seat 3: BCJOHNO89 ( $9.56 USD )
+Seat 9: TilliWilli ( $13.33 USD )
+Seat 1: also5 ( $5.10 USD )
+Seat 7: early_man ( $18.85 USD )
+Seat 5: nickolayov ( $9.85 USD )
+Seat 6: pollenW ( $10 USD )
+Seat 4: portvein_373 ( $10 USD )
+Seat 8: rivieraKRD ( $10.04 USD )
+Seat 2: skorkin ( $18.15 USD )
+TilliWilli posts small blind [$0.05 USD].
+also5 posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5c Ts ]
+skorkin folds
+portvein_373 folds
+nickolayov folds
+early_man folds
+rivieraKRD raises [$0.20 USD]
+TilliWilli calls [$0.15 USD]
+also5 folds
+** Dealing Flop ** [ 9c, 3h, 2d ]
+TilliWilli bets [$0.20 USD]
+rivieraKRD raises [$1.08 USD]
+TilliWilli folds
+rivieraKRD does not show cards.
+rivieraKRD wins $1.74 USD
+Game #14683319537 starts.
+
+#Game No : 14683319537 
+***** Hand History for Game 14683319537 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 16:21:22 EDT 2015
+Table Sheffield (Real Money)
+Seat 9 is the button
+Total number of players : 9/9 
+Seat 3: BCJOHNO89 ( $9.56 USD )
+Seat 9: TilliWilli ( $12.93 USD )
+Seat 1: also5 ( $5 USD )
+Seat 7: early_man ( $18.85 USD )
+Seat 5: nickolayov ( $9.85 USD )
+Seat 6: pollenW ( $10 USD )
+Seat 4: portvein_373 ( $10 USD )
+Seat 8: rivieraKRD ( $10.50 USD )
+Seat 2: skorkin ( $18.15 USD )
+also5 posts small blind [$0.05 USD].
+skorkin posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ks 4d ]
+BCJOHNO89 folds
+portvein_373 raises [$0.30 USD]
+nickolayov calls [$0.30 USD]
+early_man calls [$0.30 USD]
+rivieraKRD folds
+TilliWilli folds
+also5 folds
+skorkin folds
+** Dealing Flop ** [ 3d, 5s, 8d ]
+portvein_373 bets [$0.66 USD]
+nickolayov folds
+early_man folds
+portvein_373 does not show cards.
+portvein_373 wins $1.66 USD
+Game #14683321831 starts.
+
+#Game No : 14683321831 
+***** Hand History for Game 14683321831 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 16:21:57 EDT 2015
+Table Sheffield (Real Money)
+Seat 1 is the button
+Total number of players : 9/9 
+Seat 3: BCJOHNO89 ( $9.56 USD )
+Seat 9: TilliWilli ( $12.93 USD )
+Seat 1: also5 ( $4.95 USD )
+Seat 7: early_man ( $18.55 USD )
+Seat 5: nickolayov ( $9.55 USD )
+Seat 6: pollenW ( $10 USD )
+Seat 4: portvein_373 ( $10.70 USD )
+Seat 8: rivieraKRD ( $10.50 USD )
+Seat 2: skorkin ( $18.05 USD )
+skorkin posts small blind [$0.05 USD].
+BCJOHNO89 posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  7d Kd ]
+portvein_373 folds
+nickolayov folds
+early_man folds
+rivieraKRD raises [$0.20 USD]
+TilliWilli raises [$1.30 USD]
+also5 folds
+skorkin folds
+BCJOHNO89 folds
+rivieraKRD folds
+TilliWilli does not show cards.
+TilliWilli wins $1.65 USD
+Game #14683323362 starts.
+
+#Game No : 14683323362 
+***** Hand History for Game 14683323362 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 16:22:39 EDT 2015
+Table Sheffield (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 3: BCJOHNO89 ( $9.46 USD )
+Seat 9: TilliWilli ( $13.28 USD )
+Seat 1: also5 ( $4.95 USD )
+Seat 7: early_man ( $18.55 USD )
+Seat 5: nickolayov ( $9.55 USD )
+Seat 6: pollenW ( $10 USD )
+Seat 4: portvein_373 ( $10.70 USD )
+Seat 8: rivieraKRD ( $10.30 USD )
+Seat 2: skorkin ( $18 USD )
+BCJOHNO89 posts small blind [$0.05 USD].
+portvein_373 posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3h 3d ]
+nickolayov raises [$0.30 USD]
+early_man folds
+rivieraKRD folds
+TilliWilli folds
+also5 folds
+skorkin folds
+BCJOHNO89 folds
+portvein_373 folds
+nickolayov does not show cards.
+nickolayov wins $0.45 USD
+Game #14683325464 starts.
+
+#Game No : 14683325464 
+***** Hand History for Game 14683325464 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 16:23:21 EDT 2015
+Table Sheffield (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 3: BCJOHNO89 ( $9.41 USD )
+Seat 9: TilliWilli ( $13.28 USD )
+Seat 1: also5 ( $4.95 USD )
+Seat 7: early_man ( $18.55 USD )
+Seat 5: nickolayov ( $9.70 USD )
+Seat 6: pollenW ( $10 USD )
+Seat 4: portvein_373 ( $10.60 USD )
+Seat 8: rivieraKRD ( $10.30 USD )
+Seat 2: skorkin ( $18 USD )
+portvein_373 posts small blind [$0.05 USD].
+nickolayov posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Td Kh ]
+early_man folds
+rivieraKRD folds
+TilliWilli raises [$0.30 USD]
+also5 folds
+skorkin folds
+BCJOHNO89 did not respond in time
+BCJOHNO89 folds
+portvein_373 folds
+nickolayov folds
+TilliWilli does not show cards.
+TilliWilli wins $0.45 USD
+Game #14683326961 starts.
+
+#Game No : 14683326961 
+***** Hand History for Game 14683326961 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 16:24:03 EDT 2015
+Table Sheffield (Real Money)
+Seat 4 is the button
+Total number of players : 9/9 
+Seat 3: BCJOHNO89 ( $9.41 USD )
+Seat 9: TilliWilli ( $13.43 USD )
+Seat 1: also5 ( $4.95 USD )
+Seat 7: early_man ( $18.55 USD )
+Seat 5: nickolayov ( $9.60 USD )
+Seat 6: pollenW ( $10 USD )
+Seat 4: portvein_373 ( $10.55 USD )
+Seat 8: rivieraKRD ( $10.30 USD )
+Seat 2: skorkin ( $18 USD )
+nickolayov posts small blind [$0.05 USD].
+pollenW posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  7d 2s ]
+early_man folds
+rivieraKRD folds
+TilliWilli folds
+also5 folds
+skorkin folds
+portvein_373 raises [$0.30 USD]
+nickolayov calls [$0.25 USD]
+pollenW folds
+** Dealing Flop ** [ Ks, Qh, 5d ]
+nickolayov checks
+portvein_373 bets [$0.44 USD]
+nickolayov calls [$0.44 USD]
+** Dealing Turn ** [ 3d ]
+nickolayov checks
+portvein_373 checks
+** Dealing River ** [ Th ]
+nickolayov bets [$1 USD]
+portvein_373 raises [$2.70 USD]
+nickolayov raises [$3.70 USD]
+portvein_373 is all-In  [$7.11 USD]
+nickolayov is all-In  [$4.16 USD]
+nickolayov shows [ Td, Tc ]three of a kind, Tens.
+portvein_373 shows [ Ad, Js ]a straight, Ten to Ace.
+portvein_373 wins $0.95 USD from the side pot 1 with a straight, Ten to Ace.
+portvein_373 wins $18.34 USD from the main pot with a straight, Ten to Ace.
+Game #14683330447 starts.
+
+#Game No : 14683330447 
+***** Hand History for Game 14683330447 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 16:25:24 EDT 2015
+Table Sheffield (Real Money)
+Seat 6 is the button
+Total number of players : 9/9 
+Seat 3: BCJOHNO89 ( $9.41 USD )
+Seat 9: TilliWilli ( $13.43 USD )
+Seat 1: also5 ( $4.95 USD )
+Seat 7: early_man ( $18.55 USD )
+Seat 5: nickolayov ( $0 USD )
+Seat 6: pollenW ( $10 USD )
+Seat 4: portvein_373 ( $19.29 USD )
+Seat 8: rivieraKRD ( $10.30 USD )
+Seat 2: skorkin ( $18 USD )
+early_man posts small blind [$0.05 USD].
+rivieraKRD posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8s 8d ]
+TilliWilli raises [$0.50 USD]
+also5 folds
+skorkin folds
+BCJOHNO89 folds
+portvein_373 folds
+pollenW folds
+early_man folds
+rivieraKRD folds
+TilliWilli does not show cards.
+TilliWilli wins $0.65 USD
+Game #14683331858 starts.
+
+#Game No : 14683331858 
+***** Hand History for Game 14683331858 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 16:26:03 EDT 2015
+Table Sheffield (Real Money)
+Seat 7 is the button
+Total number of players : 9/9 
+Seat 3: BCJOHNO89 ( $9.41 USD )
+Seat 9: TilliWilli ( $13.58 USD )
+Seat 1: also5 ( $4.95 USD )
+Seat 7: early_man ( $18.50 USD )
+Seat 5: nickolayov ( $10 USD )
+Seat 6: pollenW ( $10 USD )
+Seat 4: portvein_373 ( $19.29 USD )
+Seat 8: rivieraKRD ( $10.20 USD )
+Seat 2: skorkin ( $18 USD )
+rivieraKRD posts small blind [$0.05 USD].
+TilliWilli posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  7d 8s ]
+also5 folds
+skorkin folds
+BCJOHNO89 folds
+portvein_373 folds
+nickolayov did not respond in time
+nickolayov folds
+pollenW calls [$0.10 USD]
+early_man calls [$0.10 USD]
+rivieraKRD folds
+TilliWilli checks
+** Dealing Flop ** [ 2s, 5d, Ah ]
+TilliWilli checks
+pollenW checks
+early_man checks
+** Dealing Turn ** [ 7c ]
+TilliWilli checks
+pollenW checks
+early_man checks
+** Dealing River ** [ 3c ]
+TilliWilli bets [$0.10 USD]
+pollenW folds
+early_man folds
+TilliWilli does not show cards.
+TilliWilli wins $0.44 USD
+Game #14683335255 starts.
+
+#Game No : 14683335255 
+***** Hand History for Game 14683335255 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 16:27:20 EDT 2015
+Table Sheffield (Real Money)
+Seat 8 is the button
+Total number of players : 9/9 
+Seat 3: BCJOHNO89 ( $9.41 USD )
+Seat 9: TilliWilli ( $13.82 USD )
+Seat 1: also5 ( $4.95 USD )
+Seat 7: early_man ( $18.40 USD )
+Seat 5: nickolayov ( $10 USD )
+Seat 6: pollenW ( $10 USD )
+Seat 4: portvein_373 ( $19.29 USD )
+Seat 8: rivieraKRD ( $10.15 USD )
+Seat 2: skorkin ( $18 USD )
+TilliWilli posts small blind [$0.05 USD].
+also5 posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  6h Qs ]
+skorkin folds
+BCJOHNO89 raises [$0.20 USD]
+portvein_373 folds
+nickolayov folds
+pollenW folds
+early_man folds
+rivieraKRD folds
+TilliWilli folds
+also5 folds
+BCJOHNO89 does not show cards.
+BCJOHNO89 wins $0.35 USD
+Game #14683336497 starts.
+
+#Game No : 14683336497 
+***** Hand History for Game 14683336497 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 16:27:41 EDT 2015
+Table Sheffield (Real Money)
+Seat 9 is the button
+Total number of players : 9/9 
+Seat 3: BCJOHNO89 ( $9.56 USD )
+Seat 9: TilliWilli ( $13.77 USD )
+Seat 1: also5 ( $4.85 USD )
+Seat 7: early_man ( $18.40 USD )
+Seat 5: nickolayov ( $10 USD )
+Seat 6: pollenW ( $10 USD )
+Seat 4: portvein_373 ( $19.29 USD )
+Seat 8: rivieraKRD ( $10.15 USD )
+Seat 2: skorkin ( $18 USD )
+also5 posts small blind [$0.05 USD].
+skorkin posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4s 8h ]
+BCJOHNO89 raises [$0.20 USD]
+portvein_373 folds
+nickolayov folds
+pollenW folds
+early_man folds
+rivieraKRD folds
+TilliWilli folds
+also5 calls [$0.15 USD]
+skorkin folds
+** Dealing Flop ** [ 7c, 8d, 7d ]
+also5 checks
+BCJOHNO89 bets [$0.20 USD]
+also5 calls [$0.20 USD]
+** Dealing Turn ** [ Jc ]
+also5 checks
+BCJOHNO89 checks
+** Dealing River ** [ As ]
+also5 checks
+BCJOHNO89 bets [$0.43 USD]
+also5 folds
+BCJOHNO89 does not show cards.
+BCJOHNO89 wins $1.29 USD
+Game #14683338997 starts.
+
+#Game No : 14683338997 
+***** Hand History for Game 14683338997 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 16:28:50 EDT 2015
+Table Sheffield (Real Money)
+Seat 1 is the button
+Total number of players : 9/9 
+Seat 3: BCJOHNO89 ( $10.02 USD )
+Seat 9: TilliWilli ( $13.77 USD )
+Seat 1: also5 ( $4.45 USD )
+Seat 7: early_man ( $18.40 USD )
+Seat 5: nickolayov ( $10 USD )
+Seat 6: pollenW ( $10 USD )
+Seat 4: portvein_373 ( $19.29 USD )
+Seat 8: rivieraKRD ( $10.15 USD )
+Seat 2: skorkin ( $17.90 USD )
+skorkin posts small blind [$0.05 USD].
+BCJOHNO89 posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9s 9c ]
+portvein_373 folds
+nickolayov folds
+pollenW folds
+early_man calls [$0.10 USD]
+rivieraKRD folds
+TilliWilli raises [$0.40 USD]
+also5 folds
+skorkin folds
+BCJOHNO89 folds
+early_man calls [$0.30 USD]
+** Dealing Flop ** [ Th, 7c, As ]
+early_man checks
+TilliWilli checks
+** Dealing Turn ** [ Jd ]
+early_man checks
+TilliWilli checks
+** Dealing River ** [ 3d ]
+early_man checks
+TilliWilli bets [$0.90 USD]
+early_man folds
+TilliWilli does not show cards.
+TilliWilli wins $1.81 USD
+Game #14683340884 starts.
+
+#Game No : 14683340884 
+***** Hand History for Game 14683340884 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 16:29:41 EDT 2015
+Table Sheffield (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 3: BCJOHNO89 ( $9.92 USD )
+Seat 9: TilliWilli ( $14.28 USD )
+Seat 1: also5 ( $4.45 USD )
+Seat 7: early_man ( $18 USD )
+Seat 5: nickolayov ( $10 USD )
+Seat 6: pollenW ( $10 USD )
+Seat 4: portvein_373 ( $19.29 USD )
+Seat 8: rivieraKRD ( $10.15 USD )
+Seat 2: skorkin ( $17.85 USD )
+BCJOHNO89 posts small blind [$0.05 USD].
+nickolayov posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3d Qd ]
+pollenW folds
+early_man folds
+rivieraKRD raises [$0.20 USD]
+TilliWilli folds
+portvein_373 has left the table.
+also5 folds
+skorkin calls [$0.20 USD]
+BCJOHNO89 calls [$0.15 USD]
+touchman has joined the table.
+nickolayov calls [$0.10 USD]
+** Dealing Flop ** [ Js, 8s, 9d ]
+BCJOHNO89 checks
+nickolayov checks
+rivieraKRD checks
+skorkin bets [$0.38 USD]
+BCJOHNO89 folds
+nickolayov folds
+rivieraKRD folds
+skorkin does not show cards.
+skorkin wins $1.14 USD
+Game #14683344065 starts.
+
+#Game No : 14683344065 
+***** Hand History for Game 14683344065 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 16:30:49 EDT 2015
+Table Sheffield (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 3: BCJOHNO89 ( $9.72 USD )
+Seat 9: TilliWilli ( $14.28 USD )
+Seat 1: also5 ( $4.45 USD )
+Seat 7: early_man ( $18 USD )
+Seat 5: nickolayov ( $9.80 USD )
+Seat 6: pollenW ( $10 USD )
+Seat 8: rivieraKRD ( $10 USD )
+Seat 2: skorkin ( $18.41 USD )
+Seat 4: touchman ( $8 USD )
+nickolayov posts small blind [$0.05 USD].
+pollenW posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  7c 2d ]
+early_man folds
+rivieraKRD folds
+TilliWilli folds
+also5 raises [$0.30 USD]
+skorkin raises [$0.90 USD]
+BCJOHNO89 folds
+nickolayov is disconnected. We will wait for nickolayov to reconnect for a maximum of 14 seconds.
+nickolayov folds
+pollenW folds
+also5 folds
+skorkin does not show cards.
+skorkin wins $1.35 USD
+Game #14683346430 starts.
+
+#Game No : 14683346430 
+***** Hand History for Game 14683346430 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 16:31:47 EDT 2015
+Table Sheffield (Real Money)
+Seat 5 is the button
+Total number of players : 9/9 
+Seat 3: BCJOHNO89 ( $9.72 USD )
+Seat 9: TilliWilli ( $14.28 USD )
+Seat 1: also5 ( $4.15 USD )
+Seat 7: early_man ( $18 USD )
+Seat 5: nickolayov ( $9.75 USD )
+Seat 6: pollenW ( $10 USD )
+Seat 8: rivieraKRD ( $10 USD )
+Seat 2: skorkin ( $18.86 USD )
+Seat 4: touchman ( $8 USD )
+pollenW posts small blind [$0.05 USD].
+early_man posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  6c 9h ]
+rivieraKRD folds
+TilliWilli folds
+also5 folds
+skorkin folds
+BCJOHNO89 folds
+nickolayov folds
+pollenW raises [$0.35 USD]
+early_man calls [$0.30 USD]
+** Dealing Flop ** [ Kc, 2h, 5h ]
+pollenW bets [$0.40 USD]
+early_man folds
+pollenW does not show cards.
+pollenW wins $1.16 USD
+Game #14683348359 starts.
+
+#Game No : 14683348359 
+***** Hand History for Game 14683348359 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 16:32:24 EDT 2015
+Table Sheffield (Real Money)
+Seat 6 is the button
+Total number of players : 9/9 
+Seat 3: BCJOHNO89 ( $9.72 USD )
+Seat 9: TilliWilli ( $14.28 USD )
+Seat 1: also5 ( $4.15 USD )
+Seat 7: early_man ( $17.60 USD )
+Seat 5: nickolayov ( $9.75 USD )
+Seat 6: pollenW ( $10.36 USD )
+Seat 8: rivieraKRD ( $10 USD )
+Seat 2: skorkin ( $18.86 USD )
+Seat 4: touchman ( $8 USD )
+early_man posts small blind [$0.05 USD].
+rivieraKRD posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Kh 5d ]
+TilliWilli folds
+also5 folds
+skorkin folds
+BCJOHNO89 folds
+nickolayov raises [$0.30 USD]
+pollenW folds
+early_man folds
+rivieraKRD folds
+nickolayov does not show cards.
+nickolayov wins $0.45 USD
+also5 has left the table.
+Game #14683349022 starts.
+
+#Game No : 14683349022 
+***** Hand History for Game 14683349022 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 16:32:41 EDT 2015
+Table Sheffield (Real Money)
+Seat 7 is the button
+Total number of players : 8/9 
+Seat 3: BCJOHNO89 ( $9.72 USD )
+Seat 9: TilliWilli ( $14.28 USD )
+Seat 7: early_man ( $17.55 USD )
+Seat 5: nickolayov ( $9.90 USD )
+Seat 6: pollenW ( $10.36 USD )
+Seat 8: rivieraKRD ( $10 USD )
+Seat 2: skorkin ( $18.86 USD )
+Seat 4: touchman ( $8 USD )
+rivieraKRD posts small blind [$0.05 USD].
+TilliWilli posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9s Tc ]
+skorkin folds
+BetOnIt2 has joined the table.
+BCJOHNO89 did not respond in time
+BCJOHNO89 folds
+nickolayov folds
+pollenW folds
+early_man folds
+rivieraKRD raises [$0.15 USD]
+TilliWilli calls [$0.10 USD]
+** Dealing Flop ** [ 3h, 6c, 2d ]
+rivieraKRD bets [$0.30 USD]
+TilliWilli calls [$0.30 USD]
+** Dealing Turn ** [ Th ]
+rivieraKRD checks
+TilliWilli bets [$0.90 USD]
+rivieraKRD folds
+TilliWilli does not show cards.
+TilliWilli wins $1.85 USD
+Game #14683351319 starts.
+
+#Game No : 14683351319 
+***** Hand History for Game 14683351319 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 16:33:28 EDT 2015
+Table Sheffield (Real Money)
+Seat 8 is the button
+Total number of players : 9/9 
+Seat 3: BCJOHNO89 ( $9.72 USD )
+Seat 1: BetOnIt2 ( $3 USD )
+Seat 9: TilliWilli ( $14.73 USD )
+Seat 7: early_man ( $17.55 USD )
+Seat 5: nickolayov ( $9.90 USD )
+Seat 6: pollenW ( $10.36 USD )
+Seat 8: rivieraKRD ( $10 USD )
+Seat 2: skorkin ( $18.86 USD )
+Seat 4: touchman ( $8 USD )
+TilliWilli posts small blind [$0.05 USD].
+BetOnIt2 posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9d Qs ]
+skorkin folds
+BCJOHNO89 calls [$0.10 USD]
+nickolayov folds
+pollenW folds
+early_man folds
+rivieraKRD folds
+TilliWilli calls [$0.05 USD]
+BetOnIt2 will be using their time bank for this hand.
+BetOnIt2 checks
+** Dealing Flop ** [ 7h, 8h, 2d ]
+TilliWilli checks
+BetOnIt2 checks
+BCJOHNO89 checks
+** Dealing Turn ** [ Tc ]
+TilliWilli bets [$0.10 USD]
+BetOnIt2 folds
+BCJOHNO89 calls [$0.10 USD]
+** Dealing River ** [ Th ]
+TilliWilli checks
+BCJOHNO89 checks
+TilliWilli shows [ 9d, Qs ]a pair of Tens.
+BCJOHNO89 shows [ 9h, As ]a pair of Tens with Ace kicker.
+BCJOHNO89 wins $0.48 USD from the main pot with a pair of Tens with Ace kicker.
+Game #14683354466 starts.
+
+#Game No : 14683354466 
+***** Hand History for Game 14683354466 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 16:34:36 EDT 2015
+Table Sheffield (Real Money)
+Seat 9 is the button
+Total number of players : 9/9 
+Seat 3: BCJOHNO89 ( $10 USD )
+Seat 1: BetOnIt2 ( $2.90 USD )
+Seat 9: TilliWilli ( $14.53 USD )
+Seat 7: early_man ( $17.55 USD )
+Seat 5: nickolayov ( $9.90 USD )
+Seat 6: pollenW ( $10.36 USD )
+Seat 8: rivieraKRD ( $10 USD )
+Seat 2: skorkin ( $18.86 USD )
+Seat 4: touchman ( $8 USD )
+BetOnIt2 posts small blind [$0.05 USD].
+BCJOHNO89 posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4h 7c ]
+nickolayov folds
+pollenW raises [$0.40 USD]
+skorkin has left the table.
+early_man calls [$0.40 USD]
+rivieraKRD folds
+TilliWilli folds
+BetOnIt2 folds
+BCJOHNO89 folds
+** Dealing Flop ** [ 7h, 9c, Jh ]
+pollenW bets [$0.45 USD]
+early_man raises [$0.90 USD]
+tweetyteewt has joined the table.
+pollenW calls [$0.45 USD]
+** Dealing Turn ** [ Tc ]
+pollenW checks
+early_man bets [$1.31 USD]
+pollenW folds
+early_man does not show cards.
+early_man wins $3.93 USD
+Game #14683356144 starts.
+
+#Game No : 14683356144 
+***** Hand History for Game 14683356144 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 16:35:19 EDT 2015
+Table Sheffield (Real Money)
+Seat 1 is the button
+Total number of players : 9/9 
+Seat 3: BCJOHNO89 ( $9.90 USD )
+Seat 1: BetOnIt2 ( $2.85 USD )
+Seat 9: TilliWilli ( $14.53 USD )
+Seat 7: early_man ( $18.87 USD )
+Seat 5: nickolayov ( $9.90 USD )
+Seat 6: pollenW ( $10 USD )
+Seat 8: rivieraKRD ( $10 USD )
+Seat 4: touchman ( $8 USD )
+Seat 2: tweetyteewt ( $10 USD )
+BCJOHNO89 posts small blind [$0.05 USD].
+touchman posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5h 5c ]
+nickolayov folds
+pollenW folds
+early_man folds
+rivieraKRD raises [$0.20 USD]
+TilliWilli raises [$0.50 USD]
+BetOnIt2 folds
+BCJOHNO89 folds
+touchman folds
+rivieraKRD calls [$0.30 USD]
+** Dealing Flop ** [ 9c, Qd, 9s ]
+rivieraKRD checks
+TilliWilli bets [$0.80 USD]
+rivieraKRD folds
+TilliWilli does not show cards.
+TilliWilli wins $1.90 USD
+Game #14683358086 starts.
+
+#Game No : 14683358086 
+***** Hand History for Game 14683358086 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 16:36:09 EDT 2015
+Table Sheffield (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 3: BCJOHNO89 ( $9.85 USD )
+Seat 1: BetOnIt2 ( $2.85 USD )
+Seat 9: TilliWilli ( $15.13 USD )
+Seat 7: early_man ( $18.87 USD )
+Seat 5: nickolayov ( $9.90 USD )
+Seat 6: pollenW ( $10 USD )
+Seat 8: rivieraKRD ( $10 USD )
+Seat 4: touchman ( $7.90 USD )
+Seat 2: tweetyteewt ( $10 USD )
+touchman posts small blind [$0.05 USD].
+nickolayov posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5c 2d ]
+pollenW folds
+early_man folds
+rivieraKRD folds
+TilliWilli folds
+BetOnIt2 folds
+BCJOHNO89 folds
+touchman will be using their time bank for this hand.
+touchman folds
+nickolayov does not show cards.
+nickolayov wins $0.15 USD
+Game #14683360765 starts.
+
+#Game No : 14683360765 
+***** Hand History for Game 14683360765 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 16:36:52 EDT 2015
+Table Sheffield (Real Money)
+Seat 4 is the button
+Total number of players : 9/9 
+Seat 3: BCJOHNO89 ( $9.85 USD )
+Seat 1: BetOnIt2 ( $2.85 USD )
+Seat 9: TilliWilli ( $15.13 USD )
+Seat 7: early_man ( $18.87 USD )
+Seat 5: nickolayov ( $9.95 USD )
+Seat 6: pollenW ( $10 USD )
+Seat 8: rivieraKRD ( $10 USD )
+Seat 4: touchman ( $7.85 USD )
+Seat 2: tweetyteewt ( $10 USD )
+nickolayov posts small blind [$0.05 USD].
+pollenW posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8c 2s ]
+early_man folds
+rivieraKRD folds
+TilliWilli folds
+BetOnIt2 folds
+BCJOHNO89 calls [$0.10 USD]
+touchman folds
+nickolayov raises [$0.35 USD]
+pollenW raises [$1.20 USD]
+BCJOHNO89 folds
+nickolayov calls [$0.90 USD]
+** Dealing Flop ** [ Ts, Jh, 4s ]
+nickolayov bets [$1.71 USD]
+pollenW folds
+nickolayov does not show cards.
+nickolayov wins $4.28 USD
+Game #14683363297 starts.
+
+#Game No : 14683363297 
+***** Hand History for Game 14683363297 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 16:37:57 EDT 2015
+Table Sheffield (Real Money)
+Seat 5 is the button
+Total number of players : 9/9 
+Seat 3: BCJOHNO89 ( $9.75 USD )
+Seat 1: BetOnIt2 ( $2.85 USD )
+Seat 9: TilliWilli ( $15.13 USD )
+Seat 7: early_man ( $18.87 USD )
+Seat 5: nickolayov ( $11.22 USD )
+Seat 6: pollenW ( $10 USD )
+Seat 8: rivieraKRD ( $10 USD )
+Seat 4: touchman ( $7.85 USD )
+Seat 2: tweetyteewt ( $10 USD )
+pollenW posts small blind [$0.05 USD].
+early_man posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3d As ]
+TilliWilli folds
+BetOnIt2 will be using their time bank for this hand.
+BetOnIt2 folds
+BCJOHNO89 calls [$0.10 USD]
+touchman folds
+nickolayov folds
+pollenW raises [$0.35 USD]
+early_man folds
+BCJOHNO89 calls [$0.30 USD]
+** Dealing Flop ** [ 4c, 2c, 6d ]
+pollenW bets [$0.43 USD]
+BCJOHNO89 folds
+pollenW does not show cards.
+pollenW wins $1.29 USD
+Game #14683365262 starts.
+
+#Game No : 14683365262 
+***** Hand History for Game 14683365262 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 16:38:36 EDT 2015
+Table Sheffield (Real Money)
+Seat 6 is the button
+Total number of players : 9/9 
+Seat 3: BCJOHNO89 ( $9.35 USD )
+Seat 1: BetOnIt2 ( $2.85 USD )
+Seat 9: TilliWilli ( $15.13 USD )
+Seat 7: early_man ( $18.77 USD )
+Seat 5: nickolayov ( $11.22 USD )
+Seat 6: pollenW ( $10.46 USD )
+Seat 8: rivieraKRD ( $10 USD )
+Seat 4: touchman ( $7.85 USD )
+Seat 2: tweetyteewt ( $10 USD )
+early_man posts small blind [$0.05 USD].
+TilliWilli posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2c 9d ]
+BetOnIt2 will be using their time bank for this hand.
+BetOnIt2 folds
+BCJOHNO89 folds
+touchman folds
+nickolayov folds
+pollenW calls [$0.10 USD]
+early_man calls [$0.05 USD]
+TilliWilli checks
+** Dealing Flop ** [ 2s, 3s, 8h ]
+early_man bets [$0.29 USD]
+TilliWilli calls [$0.29 USD]
+pollenW folds
+** Dealing Turn ** [ Jc ]
+early_man checks
+TilliWilli checks
+** Dealing River ** [ 2h ]
+early_man checks
+TilliWilli bets [$0.90 USD]
+early_man calls [$0.90 USD]
+TilliWilli shows [ 2c, 9d ]three of a kind, Twos.
+early_man doesn't show [ Th, 8s ]two pairs, Eights and Twos.
+TilliWilli wins $2.55 USD from the main pot with three of a kind, Twos.
+Game #14683367308 starts.
+
+#Game No : 14683367308 
+***** Hand History for Game 14683367308 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 16:39:28 EDT 2015
+Table Sheffield (Real Money)
+Seat 7 is the button
+Total number of players : 9/9 
+Seat 3: BCJOHNO89 ( $9.35 USD )
+Seat 1: BetOnIt2 ( $2.85 USD )
+Seat 9: TilliWilli ( $16.39 USD )
+Seat 7: early_man ( $17.48 USD )
+Seat 5: nickolayov ( $11.22 USD )
+Seat 6: pollenW ( $10.36 USD )
+Seat 8: rivieraKRD ( $10 USD )
+Seat 4: touchman ( $7.85 USD )
+Seat 2: tweetyteewt ( $10 USD )
+TilliWilli posts small blind [$0.05 USD].
+BetOnIt2 posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5h 3d ]
+BCJOHNO89 did not respond in time
+BCJOHNO89 folds
+touchman calls [$0.10 USD]
+nickolayov folds
+pollenW folds
+early_man folds
+TilliWilli calls [$0.05 USD]
+BetOnIt2 checks
+** Dealing Flop ** [ Jc, Tc, 6s ]
+TilliWilli checks
+BetOnIt2 checks
+touchman checks
+** Dealing Turn ** [ 7c ]
+TilliWilli checks
+BetOnIt2 will be using their time bank for this hand.
+BetOnIt2 bets [$0.17 USD]
+touchman folds
+TilliWilli folds
+BetOnIt2 does not show cards.
+BetOnIt2 wins $0.46 USD
+BCJOHNO89 has left the table.
+Game #14683370458 starts.
+
+#Game No : 14683370458 
+***** Hand History for Game 14683370458 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 16:40:40 EDT 2015
+Table Sheffield (Real Money)
+Seat 9 is the button
+Total number of players : 8/9 
+Seat 1: BetOnIt2 ( $3.04 USD )
+Seat 9: TilliWilli ( $16.29 USD )
+Seat 7: early_man ( $17.48 USD )
+Seat 5: nickolayov ( $11.22 USD )
+Seat 6: pollenW ( $10.36 USD )
+Seat 8: rivieraKRD ( $10 USD )
+Seat 4: touchman ( $7.75 USD )
+Seat 2: tweetyteewt ( $10 USD )
+BetOnIt2 posts small blind [$0.05 USD].
+tweetyteewt posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  6s 3s ]
+lazyyan84 has joined the table.
+touchman raises [$0.30 USD]
+nickolayov folds
+pollenW folds
+early_man folds
+TilliWilli folds
+BetOnIt2 folds
+tweetyteewt folds
+touchman does not show cards.
+touchman wins $0.45 USD
+Game #14683371105 starts.
+
+#Game No : 14683371105 
+***** Hand History for Game 14683371105 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 16:40:57 EDT 2015
+Table Sheffield (Real Money)
+Seat 1 is the button
+Total number of players : 9/9 
+Seat 1: BetOnIt2 ( $2.99 USD )
+Seat 9: TilliWilli ( $16.29 USD )
+Seat 7: early_man ( $17.48 USD )
+Seat 3: lazyyan84 ( $10 USD )
+Seat 5: nickolayov ( $11.22 USD )
+Seat 6: pollenW ( $10.36 USD )
+Seat 8: rivieraKRD ( $10 USD )
+Seat 4: touchman ( $7.90 USD )
+Seat 2: tweetyteewt ( $10 USD )
+tweetyteewt posts small blind [$0.05 USD].
+lazyyan84 posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Js 6d ]
+touchman raises [$0.20 USD]
+nickolayov folds
+pollenW folds
+early_man folds
+TilliWilli folds
+BetOnIt2 folds
+tweetyteewt folds
+lazyyan84 folds
+touchman does not show cards.
+touchman wins $0.35 USD
+Game #14683372045 starts.
+
+#Game No : 14683372045 
+***** Hand History for Game 14683372045 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 16:41:24 EDT 2015
+Table Sheffield (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 1: BetOnIt2 ( $2.99 USD )
+Seat 9: TilliWilli ( $16.29 USD )
+Seat 7: early_man ( $17.48 USD )
+Seat 3: lazyyan84 ( $10 USD )
+Seat 5: nickolayov ( $11.22 USD )
+Seat 6: pollenW ( $10.36 USD )
+Seat 8: rivieraKRD ( $10 USD )
+Seat 4: touchman ( $8.05 USD )
+Seat 2: tweetyteewt ( $10 USD )
+lazyyan84 posts small blind [$0.05 USD].
+touchman posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  7c 2h ]
+nickolayov folds
+pollenW folds
+early_man folds
+TilliWilli folds
+BetOnIt2 will be using their time bank for this hand.
+BetOnIt2 folds
+tweetyteewt folds
+lazyyan84 raises [$0.25 USD]
+touchman folds
+lazyyan84 does not show cards.
+lazyyan84 wins $0.40 USD
+Game #14683373853 starts.
+
+#Game No : 14683373853 
+***** Hand History for Game 14683373853 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 16:42:00 EDT 2015
+Table Sheffield (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 1: BetOnIt2 ( $2.99 USD )
+Seat 9: TilliWilli ( $16.29 USD )
+Seat 7: early_man ( $17.48 USD )
+Seat 3: lazyyan84 ( $10.10 USD )
+Seat 5: nickolayov ( $11.22 USD )
+Seat 6: pollenW ( $10.36 USD )
+Seat 8: rivieraKRD ( $10 USD )
+Seat 4: touchman ( $7.95 USD )
+Seat 2: tweetyteewt ( $10 USD )
+touchman posts small blind [$0.05 USD].
+nickolayov posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2c 7d ]
+pollenW raises [$0.40 USD]
+early_man folds
+TilliWilli folds
+BetOnIt2 will be using their time bank for this hand.
+BetOnIt2 folds
+tweetyteewt calls [$0.40 USD]
+lazyyan84 folds
+touchman folds
+nickolayov folds
+** Dealing Flop ** [ 7h, Ac, Jh ]
+pollenW checks
+tweetyteewt checks
+** Dealing Turn ** [ Qd ]
+pollenW bets [$0.91 USD]
+tweetyteewt folds
+pollenW does not show cards.
+pollenW wins $1.82 USD
+Game #14683376587 starts.
+
+#Game No : 14683376587 
+***** Hand History for Game 14683376587 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 16:43:00 EDT 2015
+Table Sheffield (Real Money)
+Seat 4 is the button
+Total number of players : 9/9 
+Seat 1: BetOnIt2 ( $2.99 USD )
+Seat 9: TilliWilli ( $16.29 USD )
+Seat 7: early_man ( $17.48 USD )
+Seat 3: lazyyan84 ( $10.10 USD )
+Seat 5: nickolayov ( $11.12 USD )
+Seat 6: pollenW ( $10.87 USD )
+Seat 8: rivieraKRD ( $10 USD )
+Seat 4: touchman ( $7.90 USD )
+Seat 2: tweetyteewt ( $10 USD )
+nickolayov posts small blind [$0.05 USD].
+pollenW posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qs 4d ]
+early_man folds
+TilliWilli folds
+BetOnIt2 will be using their time bank for this hand.
+BetOnIt2 raises [$0.30 USD]
+tweetyteewt folds
+lazyyan84 folds
+touchman folds
+nickolayov folds
+pollenW raises [$0.80 USD]
+BetOnIt2 is all-In  [$2.69 USD]
+pollenW folds
+BetOnIt2 does not show cards.
+BetOnIt2 wins $3.94 USD
+
+Game #14683378578 starts.
+#Game No : 14683378578 
+Table Closed
+The hand history for this hand number is not available here.Please use Instant Hand History in the "Game Rules & Options"  menu to have this hand history delivered to the email address you have registered with us.
+

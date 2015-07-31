@@ -1,0 +1,2792 @@
+Game #14697188620 starts.
+
+#Game No : 14697188620 
+***** Hand History for Game 14697188620 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:05:30 EDT 2015
+Table Salalah (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 9: Nesch1102 ( $19.62 USD )
+Seat 4: TilliWilli ( $25 USD )
+Seat 5: Tonbert ( $9.15 USD )
+Seat 1: Unknown_Pro ( $34.72 USD )
+Seat 7: fazekbandi ( $28.47 USD )
+Seat 6: fruitdrop85 ( $31.50 USD )
+Seat 3: jmm2869 ( $25 USD )
+Seat 2: kemper0k ( $25 USD )
+Seat 8: kim13061988 ( $32.85 USD )
+jmm2869 posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ks 2h ]
+Tonbert folds
+fruitdrop85 folds
+fazekbandi folds
+kim13061988 calls [$0.25 USD]
+Nesch1102 raises [$0.50 USD]
+Unknown_Pro folds
+kemper0k calls [$0.50 USD]
+jmm2869 calls [$0.40 USD]
+TilliWilli folds
+kim13061988 calls [$0.25 USD]
+** Dealing Flop ** [ 8h, 6d, 3d ]
+jmm2869 checks
+kim13061988 checks
+Nesch1102 checks
+kemper0k checks
+** Dealing Turn ** [ 2c ]
+jmm2869 bets [$1.60 USD]
+kim13061988 folds
+Nesch1102 folds
+kemper0k folds
+jmm2869 does not show cards.
+jmm2869 wins $3.74 USD
+Game #14697189978 starts.
+
+#Game No : 14697189978 
+***** Hand History for Game 14697189978 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:06:50 EDT 2015
+Table Salalah (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 9: Nesch1102 ( $19.12 USD )
+Seat 4: TilliWilli ( $24.75 USD )
+Seat 5: Tonbert ( $9.15 USD )
+Seat 1: Unknown_Pro ( $34.72 USD )
+Seat 7: fazekbandi ( $28.47 USD )
+Seat 6: fruitdrop85 ( $31.50 USD )
+Seat 3: jmm2869 ( $26.64 USD )
+Seat 2: kemper0k ( $25 USD )
+Seat 8: kim13061988 ( $32.35 USD )
+TilliWilli posts small blind [$0.10 USD].
+Tonbert posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  6c 6s ]
+fruitdrop85 folds
+fazekbandi folds
+kim13061988 folds
+Nesch1102 folds
+Unknown_Pro folds
+kemper0k raises [$0.75 USD]
+jmm2869 folds
+Your time bank will be activated in 6 secs. If you do not want it to be used, please act now.
+TilliWilli folds
+Tonbert calls [$0.50 USD]
+** Dealing Flop ** [ 7d, 7c, 2s ]
+Tonbert checks
+kemper0k will be using their time bank for this hand.
+kemper0k checks
+** Dealing Turn ** [ Td ]
+Tonbert bets [$0.75 USD]
+kemper0k calls [$0.75 USD]
+** Dealing River ** [ 5c ]
+Tonbert bets [$2.25 USD]
+kemper0k folds
+Tonbert does not show cards.
+Tonbert wins $5.20 USD
+Game #14697191197 starts.
+
+#Game No : 14697191197 
+***** Hand History for Game 14697191197 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:08:00 EDT 2015
+Table Salalah (Real Money)
+Seat 4 is the button
+Total number of players : 9/9 
+Seat 9: Nesch1102 ( $19.12 USD )
+Seat 4: TilliWilli ( $24.65 USD )
+Seat 5: Tonbert ( $10.60 USD )
+Seat 1: Unknown_Pro ( $34.72 USD )
+Seat 7: fazekbandi ( $28.47 USD )
+Seat 6: fruitdrop85 ( $31.50 USD )
+Seat 3: jmm2869 ( $26.64 USD )
+Seat 2: kemper0k ( $25 USD )
+Seat 8: kim13061988 ( $32.35 USD )
+Tonbert posts small blind [$0.10 USD].
+fruitdrop85 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3s Qs ]
+kim13061988 calls [$0.25 USD]
+Nesch1102 calls [$0.25 USD]
+Unknown_Pro folds
+kemper0k folds
+jmm2869 folds
+TilliWilli folds
+Tonbert folds
+fruitdrop85 checks
+** Dealing Flop ** [ Ah, Jd, 5s ]
+fruitdrop85 checks
+kim13061988 bets [$0.25 USD]
+Nesch1102 folds
+fruitdrop85 folds
+kim13061988 does not show cards.
+kim13061988 wins $1.06 USD
+Game #14697191801 starts.
+
+#Game No : 14697191801 
+***** Hand History for Game 14697191801 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:08:37 EDT 2015
+Table Salalah (Real Money)
+Seat 5 is the button
+Total number of players : 9/9 
+Seat 9: Nesch1102 ( $18.87 USD )
+Seat 4: TilliWilli ( $24.65 USD )
+Seat 5: Tonbert ( $10.50 USD )
+Seat 1: Unknown_Pro ( $34.72 USD )
+Seat 7: fazekbandi ( $28.47 USD )
+Seat 6: fruitdrop85 ( $31.25 USD )
+Seat 3: jmm2869 ( $26.64 USD )
+Seat 2: kemper0k ( $25 USD )
+Seat 8: kim13061988 ( $32.91 USD )
+fruitdrop85 posts small blind [$0.10 USD].
+kim13061988 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Js 7c ]
+Nesch1102 folds
+Unknown_Pro raises [$0.75 USD]
+kemper0k folds
+jmm2869 calls [$0.75 USD]
+TilliWilli folds
+Tonbert folds
+fruitdrop85 folds
+kim13061988 folds
+** Dealing Flop ** [ 7h, 5s, 3c ]
+Unknown_Pro bets [$1.50 USD]
+jmm2869 calls [$1.50 USD]
+** Dealing Turn ** [ 4c ]
+Unknown_Pro checks
+jmm2869 bets [$2.30 USD]
+Unknown_Pro calls [$2.30 USD]
+** Dealing River ** [ Ks ]
+Unknown_Pro checks
+jmm2869 bets [$8.98 USD]
+Unknown_Pro folds
+jmm2869 does not show cards.
+jmm2869 wins $17.96 USD
+Game #14697193018 starts.
+
+#Game No : 14697193018 
+***** Hand History for Game 14697193018 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:09:23 EDT 2015
+Table Salalah (Real Money)
+Seat 6 is the button
+Total number of players : 9/9 
+Seat 9: Nesch1102 ( $18.87 USD )
+Seat 4: TilliWilli ( $24.65 USD )
+Seat 5: Tonbert ( $10.50 USD )
+Seat 1: Unknown_Pro ( $30.17 USD )
+Seat 7: fazekbandi ( $28.47 USD )
+Seat 6: fruitdrop85 ( $31.15 USD )
+Seat 3: jmm2869 ( $31.07 USD )
+Seat 2: kemper0k ( $25 USD )
+Seat 8: kim13061988 ( $32.66 USD )
+kim13061988 posts small blind [$0.10 USD].
+Nesch1102 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4d 6s ]
+Unknown_Pro folds
+kemper0k folds
+jmm2869 folds
+TilliWilli folds
+Tonbert folds
+fruitdrop85 folds
+kim13061988 calls [$0.15 USD]
+Nesch1102 checks
+** Dealing Flop ** [ Kh, Js, 2h ]
+kim13061988 checks
+Nesch1102 bets [$0.48 USD]
+kim13061988 folds
+Nesch1102 does not show cards.
+Nesch1102 wins $0.96 USD
+Game #14697193523 starts.
+
+#Game No : 14697193523 
+***** Hand History for Game 14697193523 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:09:54 EDT 2015
+Table Salalah (Real Money)
+Seat 8 is the button
+Total number of players : 9/9 
+Seat 9: Nesch1102 ( $19.10 USD )
+Seat 4: TilliWilli ( $24.65 USD )
+Seat 5: Tonbert ( $10.50 USD )
+Seat 1: Unknown_Pro ( $30.17 USD )
+Seat 7: fazekbandi ( $28.47 USD )
+Seat 6: fruitdrop85 ( $31.15 USD )
+Seat 3: jmm2869 ( $31.07 USD )
+Seat 2: kemper0k ( $25 USD )
+Seat 8: kim13061988 ( $32.41 USD )
+Nesch1102 posts small blind [$0.10 USD].
+kemper0k posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2h 9h ]
+jmm2869 folds
+TilliWilli folds
+Tonbert folds
+fruitdrop85 folds
+kim13061988 calls [$0.25 USD]
+Nesch1102 calls [$0.15 USD]
+kemper0k checks
+** Dealing Flop ** [ 2s, 6c, 4h ]
+Nesch1102 checks
+kemper0k checks
+kim13061988 checks
+** Dealing Turn ** [ Kc ]
+Nesch1102 checks
+kemper0k checks
+kim13061988 checks
+** Dealing River ** [ Qc ]
+Nesch1102 checks
+kemper0k checks
+kim13061988 bets [$0.72 USD]
+Nesch1102 folds
+kemper0k folds
+kim13061988 does not show cards.
+kim13061988 wins $1.44 USD
+Game #14697195487 starts.
+
+#Game No : 14697195487 
+***** Hand History for Game 14697195487 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:11:21 EDT 2015
+Table Salalah (Real Money)
+Seat 9 is the button
+Total number of players : 9/9 
+Seat 9: Nesch1102 ( $18.85 USD )
+Seat 4: TilliWilli ( $24.65 USD )
+Seat 5: Tonbert ( $10.50 USD )
+Seat 1: Unknown_Pro ( $30.17 USD )
+Seat 7: fazekbandi ( $28.47 USD )
+Seat 6: fruitdrop85 ( $31.15 USD )
+Seat 3: jmm2869 ( $31.07 USD )
+Seat 2: kemper0k ( $25 USD )
+Seat 8: kim13061988 ( $32.88 USD )
+kemper0k posts small blind [$0.10 USD].
+jmm2869 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9c 6c ]
+TilliWilli folds
+Tonbert raises [$0.75 USD]
+fruitdrop85 folds
+kim13061988 calls [$0.75 USD]
+Nesch1102 folds
+kemper0k folds
+jmm2869 calls [$0.50 USD]
+** Dealing Flop ** [ 6s, 8s, 8c ]
+jmm2869 checks
+Tonbert bets [$0.75 USD]
+kim13061988 folds
+jmm2869 folds
+Tonbert does not show cards.
+Tonbert wins $2.99 USD
+Game #14697196201 starts.
+
+#Game No : 14697196201 
+***** Hand History for Game 14697196201 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:12:04 EDT 2015
+Table Salalah (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 9: Nesch1102 ( $18.85 USD )
+Seat 4: TilliWilli ( $24.65 USD )
+Seat 5: Tonbert ( $11.99 USD )
+Seat 1: Unknown_Pro ( $30.17 USD )
+Seat 7: fazekbandi ( $28.47 USD )
+Seat 6: fruitdrop85 ( $31.15 USD )
+Seat 3: jmm2869 ( $30.32 USD )
+Seat 2: kemper0k ( $25 USD )
+Seat 8: kim13061988 ( $32.13 USD )
+jmm2869 posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Tc Ks ]
+Tonbert folds
+fruitdrop85 folds
+kim13061988 folds
+Nesch1102 folds
+kemper0k folds
+jmm2869 folds
+TilliWilli does not show cards.
+TilliWilli wins $0.35 USD
+kim13061988 has left the table.
+Game #14697196593 starts.
+
+#Game No : 14697196593 
+***** Hand History for Game 14697196593 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:12:26 EDT 2015
+Table Salalah (Real Money)
+Seat 3 is the button
+Total number of players : 8/9 
+Seat 9: Nesch1102 ( $18.85 USD )
+Seat 4: TilliWilli ( $24.75 USD )
+Seat 5: Tonbert ( $11.99 USD )
+Seat 1: Unknown_Pro ( $30.17 USD )
+Seat 7: fazekbandi ( $28.47 USD )
+Seat 6: fruitdrop85 ( $31.15 USD )
+Seat 3: jmm2869 ( $30.22 USD )
+Seat 2: kemper0k ( $25 USD )
+TilliWilli posts small blind [$0.10 USD].
+Tonbert posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qc 6s ]
+fazekbandi has left the table.
+fruitdrop85 raises [$1 USD]
+TheAlertOne has joined the table.
+Nesch1102 folds
+kemper0k folds
+catz__ has joined the table.
+jmm2869 calls [$1 USD]
+TilliWilli folds
+Tonbert folds
+** Dealing Flop ** [ 4c, Kd, 9h ]
+fruitdrop85 checks
+jmm2869 checks
+** Dealing Turn ** [ Th ]
+fruitdrop85 checks
+jmm2869 bets [$0.75 USD]
+fruitdrop85 folds
+jmm2869 does not show cards.
+jmm2869 wins $2.99 USD
+Game #14697197299 starts.
+
+#Game No : 14697197299 
+***** Hand History for Game 14697197299 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:13:08 EDT 2015
+Table Salalah (Real Money)
+Seat 4 is the button
+Total number of players : 9/9 
+Seat 9: Nesch1102 ( $18.85 USD )
+Seat 8: TheAlertOne ( $18.17 USD )
+Seat 4: TilliWilli ( $24.65 USD )
+Seat 5: Tonbert ( $11.74 USD )
+Seat 1: Unknown_Pro ( $30.17 USD )
+Seat 7: catz__ ( $25 USD )
+Seat 6: fruitdrop85 ( $30.15 USD )
+Seat 3: jmm2869 ( $31.46 USD )
+Seat 2: kemper0k ( $25 USD )
+Tonbert posts small blind [$0.10 USD].
+fruitdrop85 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4h 6s ]
+Nesch1102 calls [$0.25 USD]
+kemper0k folds
+jmm2869 folds
+TilliWilli folds
+Tonbert calls [$0.15 USD]
+fruitdrop85 raises [$0.75 USD]
+Nesch1102 calls [$0.75 USD]
+Tonbert calls [$0.75 USD]
+** Dealing Flop ** [ 5s, 7c, 6d ]
+Tonbert checks
+fruitdrop85 checks
+Nesch1102 checks
+** Dealing Turn ** [ Qc ]
+Tonbert bets [$0.25 USD]
+fruitdrop85 calls [$0.25 USD]
+Nesch1102 calls [$0.25 USD]
+** Dealing River ** [ 3c ]
+Tonbert bets [$0.25 USD]
+fruitdrop85 calls [$0.25 USD]
+Nesch1102 calls [$0.25 USD]
+Tonbert shows [ Ac, 5h ]a pair of Fives.
+fruitdrop85 doesn't show [ Ad, Ts ]high card Ace.
+Nesch1102 shows [ 7d, 5d ]two pairs, Sevens and Fives.
+Nesch1102 wins $4.28 USD from the main pot with two pairs, Sevens and Fives.
+Game #14697199295 starts.
+
+#Game No : 14697199295 
+***** Hand History for Game 14697199295 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:14:06 EDT 2015
+Table Salalah (Real Money)
+Seat 5 is the button
+Total number of players : 9/9 
+Seat 9: Nesch1102 ( $21.63 USD )
+Seat 8: TheAlertOne ( $18.17 USD )
+Seat 4: TilliWilli ( $24.65 USD )
+Seat 5: Tonbert ( $10.24 USD )
+Seat 1: Unknown_Pro ( $30.17 USD )
+Seat 7: catz__ ( $25 USD )
+Seat 6: fruitdrop85 ( $28.65 USD )
+Seat 3: jmm2869 ( $31.46 USD )
+Seat 2: kemper0k ( $25 USD )
+fruitdrop85 posts small blind [$0.10 USD].
+catz__ posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9d As ]
+Nesch1102 raises [$0.50 USD]
+kemper0k did not respond in time
+kemper0k folds
+jmm2869 folds
+TilliWilli calls [$0.50 USD]
+Tonbert folds
+fruitdrop85 calls [$0.40 USD]
+catz__ folds
+** Dealing Flop ** [ 3c, 3h, Qh ]
+fruitdrop85 checks
+Nesch1102 checks
+TilliWilli checks
+** Dealing Turn ** [ Jd ]
+fruitdrop85 checks
+Nesch1102 checks
+TilliWilli checks
+** Dealing River ** [ 3s ]
+fruitdrop85 checks
+Nesch1102 checks
+TilliWilli bets [$0.25 USD]
+fruitdrop85 folds
+Nesch1102 calls [$0.25 USD]
+TilliWilli shows [ 9d, As ]three of a kind, Threes.
+Nesch1102 shows [ 7h, 7s ]a full house, Threes full of Sevens.
+Nesch1102 wins $2.14 USD from the main pot with a full house, Threes full of Sevens.
+Game #14697200382 starts.
+
+#Game No : 14697200382 
+***** Hand History for Game 14697200382 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:15:08 EDT 2015
+Table Salalah (Real Money)
+Seat 6 is the button
+Total number of players : 9/9 
+Seat 9: Nesch1102 ( $23.02 USD )
+Seat 8: TheAlertOne ( $18.17 USD )
+Seat 4: TilliWilli ( $23.90 USD )
+Seat 5: Tonbert ( $10.24 USD )
+Seat 1: Unknown_Pro ( $30.17 USD )
+Seat 7: catz__ ( $25 USD )
+Seat 6: fruitdrop85 ( $28.15 USD )
+Seat 3: jmm2869 ( $31.46 USD )
+Seat 2: kemper0k ( $25 USD )
+catz__ posts small blind [$0.10 USD].
+TheAlertOne posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2s 4h ]
+Nesch1102 folds
+kemper0k folds
+jmm2869 folds
+TilliWilli folds
+Tonbert raises [$0.50 USD]
+fruitdrop85 folds
+catz__ folds
+TheAlertOne folds
+Tonbert does not show cards.
+Tonbert wins $0.85 USD
+Game #14697200899 starts.
+
+#Game No : 14697200899 
+***** Hand History for Game 14697200899 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:15:37 EDT 2015
+Table Salalah (Real Money)
+Seat 7 is the button
+Total number of players : 9/9 
+Seat 9: Nesch1102 ( $23.02 USD )
+Seat 8: TheAlertOne ( $17.92 USD )
+Seat 4: TilliWilli ( $23.90 USD )
+Seat 5: Tonbert ( $10.59 USD )
+Seat 1: Unknown_Pro ( $30.17 USD )
+Seat 7: catz__ ( $25 USD )
+Seat 6: fruitdrop85 ( $28.15 USD )
+Seat 3: jmm2869 ( $31.46 USD )
+Seat 2: kemper0k ( $25 USD )
+TheAlertOne posts small blind [$0.10 USD].
+Nesch1102 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8c Jh ]
+kemper0k raises [$0.75 USD]
+jmm2869 folds
+TilliWilli folds
+Tonbert folds
+fruitdrop85 folds
+catz__ folds
+TheAlertOne folds
+Nesch1102 calls [$0.50 USD]
+** Dealing Flop ** [ Ks, 7d, 6c ]
+Nesch1102 checks
+kemper0k checks
+** Dealing Turn ** [ 6h ]
+Nesch1102 checks
+kemper0k bets [$1 USD]
+Nesch1102 folds
+kemper0k does not show cards.
+kemper0k wins $2.52 USD
+Game #14697201841 starts.
+
+#Game No : 14697201841 
+***** Hand History for Game 14697201841 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:16:31 EDT 2015
+Table Salalah (Real Money)
+Seat 8 is the button
+Total number of players : 9/9 
+Seat 9: Nesch1102 ( $22.27 USD )
+Seat 8: TheAlertOne ( $17.82 USD )
+Seat 4: TilliWilli ( $23.90 USD )
+Seat 5: Tonbert ( $10.59 USD )
+Seat 1: Unknown_Pro ( $30.17 USD )
+Seat 7: catz__ ( $25 USD )
+Seat 6: fruitdrop85 ( $28.15 USD )
+Seat 3: jmm2869 ( $31.46 USD )
+Seat 2: kemper0k ( $25.77 USD )
+Nesch1102 posts small blind [$0.10 USD].
+kemper0k posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ad 4s ]
+jmm2869 folds
+TilliWilli folds
+Tonbert raises [$0.50 USD]
+fruitdrop85 did not respond in time
+fruitdrop85 folds
+catz__ calls [$0.50 USD]
+TheAlertOne folds
+Nesch1102 calls [$0.40 USD]
+kemper0k folds
+** Dealing Flop ** [ 8s, 2c, Ts ]
+Nesch1102 checks
+Tonbert bets [$1.25 USD]
+catz__ folds
+Nesch1102 folds
+Tonbert does not show cards.
+Tonbert wins $2.92 USD
+Game #14697202660 starts.
+
+#Game No : 14697202660 
+***** Hand History for Game 14697202660 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:17:16 EDT 2015
+Table Salalah (Real Money)
+Seat 9 is the button
+Total number of players : 9/9 
+Seat 9: Nesch1102 ( $21.77 USD )
+Seat 8: TheAlertOne ( $17.82 USD )
+Seat 4: TilliWilli ( $23.90 USD )
+Seat 5: Tonbert ( $11.76 USD )
+Seat 1: Unknown_Pro ( $30.17 USD )
+Seat 7: catz__ ( $25 USD )
+Seat 6: fruitdrop85 ( $28.15 USD )
+Seat 3: jmm2869 ( $31.46 USD )
+Seat 2: kemper0k ( $25.52 USD )
+kemper0k posts small blind [$0.10 USD].
+jmm2869 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4s Ks ]
+TilliWilli folds
+Tonbert folds
+catz__ folds
+TheAlertOne folds
+Nesch1102 folds
+kemper0k folds
+jmm2869 does not show cards.
+jmm2869 wins $0.35 USD
+Game #14697203378 starts.
+
+#Game No : 14697203378 
+***** Hand History for Game 14697203378 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:17:30 EDT 2015
+Table Salalah (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 9: Nesch1102 ( $21.77 USD )
+Seat 8: TheAlertOne ( $17.82 USD )
+Seat 4: TilliWilli ( $23.90 USD )
+Seat 5: Tonbert ( $11.76 USD )
+Seat 1: Unknown_Pro ( $30.17 USD )
+Seat 7: catz__ ( $25 USD )
+Seat 6: fruitdrop85 ( $28.15 USD )
+Seat 3: jmm2869 ( $31.56 USD )
+Seat 2: kemper0k ( $25.42 USD )
+jmm2869 posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qc Ac ]
+Tonbert folds
+fruitdrop85 has left the table.
+catz__ folds
+TheAlertOne folds
+Nesch1102 folds
+kemper0k folds
+jmm2869 folds
+TilliWilli does not show cards.
+TilliWilli wins $0.35 USD
+Game #14697203677 starts.
+
+#Game No : 14697203677 
+***** Hand History for Game 14697203677 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:17:46 EDT 2015
+Table Salalah (Real Money)
+Seat 3 is the button
+Total number of players : 8/9 
+Seat 9: Nesch1102 ( $21.77 USD )
+Seat 8: TheAlertOne ( $17.82 USD )
+Seat 4: TilliWilli ( $24 USD )
+Seat 5: Tonbert ( $11.76 USD )
+Seat 1: Unknown_Pro ( $30.17 USD )
+Seat 7: catz__ ( $25 USD )
+Seat 3: jmm2869 ( $31.46 USD )
+Seat 2: kemper0k ( $25.42 USD )
+TilliWilli posts small blind [$0.10 USD].
+Tonbert posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4d 9d ]
+catz__ will be using their time bank for this hand.
+catz__ folds
+fazekbandi has joined the table.
+TheAlertOne folds
+Nesch1102 folds
+kemper0k raises [$0.75 USD]
+jmm2869 calls [$0.75 USD]
+TilliWilli folds
+Tonbert calls [$0.50 USD]
+** Dealing Flop ** [ Kh, 8h, Qd ]
+Tonbert checks
+kemper0k bets [$1.49 USD]
+jmm2869 calls [$1.49 USD]
+Unknown_Pro has left the table.
+Tonbert calls [$1.49 USD]
+** Dealing Turn ** [ Tc ]
+Tonbert checks
+kemper0k checks
+titirion has joined the table.
+jmm2869 bets [$3.24 USD]
+Tonbert calls [$3.24 USD]
+kemper0k will be using their time bank for this hand.
+kemper0k calls [$3.24 USD]
+** Dealing River ** [ 2d ]
+Tonbert checks
+kemper0k checks
+jmm2869 checks
+Tonbert shows [ Qc, Jd ]a pair of Queens.
+kemper0k shows [ Kc, 9c ]a pair of Kings.
+jmm2869 shows [ Td, Kd ]two pairs, Kings and Tens.
+jmm2869 wins $15.72 USD from the main pot with two pairs, Kings and Tens.
+Game #14697206076 starts.
+
+#Game No : 14697206076 
+***** Hand History for Game 14697206076 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:19:33 EDT 2015
+Table Salalah (Real Money)
+Seat 4 is the button
+Total number of players : 9/9 
+Seat 9: Nesch1102 ( $21.77 USD )
+Seat 8: TheAlertOne ( $17.82 USD )
+Seat 4: TilliWilli ( $23.90 USD )
+Seat 5: Tonbert ( $6.28 USD )
+Seat 7: catz__ ( $25 USD )
+Seat 6: fazekbandi ( $28.47 USD )
+Seat 3: jmm2869 ( $41.70 USD )
+Seat 2: kemper0k ( $25 USD )
+Seat 1: titirion ( $15 USD )
+Tonbert posts small blind [$0.10 USD].
+fazekbandi posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  7s 8h ]
+catz__ will be using their time bank for this hand.
+catz__ folds
+TheAlertOne folds
+Nesch1102 folds
+kemper0k folds
+jmm2869 folds
+TilliWilli calls [$0.25 USD]
+Tonbert calls [$0.15 USD]
+fazekbandi checks
+** Dealing Flop ** [ 8d, 2d, Ks ]
+Tonbert bets [$0.25 USD]
+fazekbandi folds
+TilliWilli folds
+Tonbert does not show cards.
+Tonbert wins $0.97 USD
+Game #14697206876 starts.
+
+#Game No : 14697206876 
+***** Hand History for Game 14697206876 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:20:20 EDT 2015
+Table Salalah (Real Money)
+Seat 5 is the button
+Total number of players : 9/9 
+Seat 9: Nesch1102 ( $21.77 USD )
+Seat 8: TheAlertOne ( $17.82 USD )
+Seat 4: TilliWilli ( $23.65 USD )
+Seat 5: Tonbert ( $6.75 USD )
+Seat 7: catz__ ( $25 USD )
+Seat 6: fazekbandi ( $28.22 USD )
+Seat 3: jmm2869 ( $41.70 USD )
+Seat 2: kemper0k ( $25 USD )
+Seat 1: titirion ( $15 USD )
+fazekbandi posts small blind [$0.10 USD].
+TheAlertOne posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2c 4c ]
+Nesch1102 raises [$0.50 USD]
+catz__ has left the table.
+kemper0k folds
+jmm2869 folds
+TilliWilli calls [$0.50 USD]
+Tonbert folds
+fazekbandi calls [$0.40 USD]
+TheAlertOne calls [$0.25 USD]
+** Dealing Flop ** [ 8s, 6s, 6c ]
+fazekbandi checks
+TheAlertOne checks
+Nesch1102 bets [$1.90 USD]
+TilliWilli folds
+fazekbandi calls [$1.90 USD]
+TheAlertOne folds
+** Dealing Turn ** [ Ks ]
+fazekbandi checks
+Nesch1102 checks
+** Dealing River ** [ 6h ]
+fazekbandi checks
+Nesch1102 bets [$2.75 USD]
+fazekbandi calls [$2.75 USD]
+Nesch1102 shows [ 8d, 9d ]a full house, Sixes full of Eights.
+fazekbandi shows [ Th, Tc ]a full house, Sixes full of Tens.
+fazekbandi wins $10.74 USD from the main pot with a full house, Sixes full of Tens.
+Game #14697208126 starts.
+
+#Game No : 14697208126 
+***** Hand History for Game 14697208126 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:21:33 EDT 2015
+Table Salalah (Real Money)
+Seat 6 is the button
+Total number of players : 8/9 
+Seat 9: Nesch1102 ( $16.62 USD )
+Seat 8: TheAlertOne ( $17.32 USD )
+Seat 4: TilliWilli ( $23.15 USD )
+Seat 5: Tonbert ( $6.75 USD )
+Seat 6: fazekbandi ( $33.81 USD )
+Seat 3: jmm2869 ( $41.70 USD )
+Seat 2: kemper0k ( $25 USD )
+Seat 1: titirion ( $15 USD )
+TheAlertOne posts small blind [$0.10 USD].
+Nesch1102 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2h 9c ]
+kemper0k raises [$0.75 USD]
+jmm2869 folds
+TilliWilli folds
+Tonbert folds
+fazekbandi folds
+TheAlertOne folds
+Nesch1102 folds
+kemper0k does not show cards.
+kemper0k wins $1.10 USD
+Game #14697208698 starts.
+
+#Game No : 14697208698 
+***** Hand History for Game 14697208698 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:22:07 EDT 2015
+Table Salalah (Real Money)
+Seat 8 is the button
+Total number of players : 8/9 
+Seat 9: Nesch1102 ( $16.37 USD )
+Seat 8: TheAlertOne ( $17.22 USD )
+Seat 4: TilliWilli ( $23.15 USD )
+Seat 5: Tonbert ( $6.75 USD )
+Seat 6: fazekbandi ( $33.81 USD )
+Seat 3: jmm2869 ( $41.70 USD )
+Seat 2: kemper0k ( $25.35 USD )
+Seat 1: titirion ( $15 USD )
+Nesch1102 posts small blind [$0.10 USD].
+titirion posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3h 3d ]
+kemper0k raises [$0.75 USD]
+jmm2869 folds
+TilliWilli calls [$0.75 USD]
+Tonbert did not respond in time
+Tonbert folds
+fazekbandi folds
+TheAlertOne folds
+Nesch1102 folds
+titirion folds
+** Dealing Flop ** [ 7h, Th, 6s ]
+kemper0k checks
+TilliWilli bets [$0.90 USD]
+kemper0k folds
+TilliWilli does not show cards.
+TilliWilli wins $2.66 USD
+Game #14697209423 starts.
+
+#Game No : 14697209423 
+***** Hand History for Game 14697209423 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:22:50 EDT 2015
+Table Salalah (Real Money)
+Seat 9 is the button
+Total number of players : 8/9 
+Seat 9: Nesch1102 ( $16.27 USD )
+Seat 8: TheAlertOne ( $17.22 USD )
+Seat 4: TilliWilli ( $24.16 USD )
+Seat 5: Tonbert ( $6.75 USD )
+Seat 6: fazekbandi ( $33.81 USD )
+Seat 3: jmm2869 ( $41.70 USD )
+Seat 2: kemper0k ( $25 USD )
+Seat 1: titirion ( $14.75 USD )
+titirion posts small blind [$0.10 USD].
+kemper0k posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ks 8c ]
+jmm2869 folds
+TilliWilli raises [$0.50 USD]
+fazekbandi folds
+TheAlertOne raises [$1 USD]
+Nesch1102 folds
+titirion will be using their time bank for this hand.
+titirion folds
+kemper0k folds
+TilliWilli calls [$0.50 USD]
+** Dealing Flop ** [ Qd, 9h, 8d ]
+TilliWilli bets [$1 USD]
+TheAlertOne calls [$1 USD]
+** Dealing Turn ** [ 3s ]
+TilliWilli bets [$1.50 USD]
+TheAlertOne calls [$1.50 USD]
+** Dealing River ** [ 2c ]
+TilliWilli checks
+TheAlertOne checks
+TilliWilli shows [ Ks, 8c ]a pair of Eights.
+TheAlertOne shows [ Jc, Jd ]a pair of Jacks.
+TheAlertOne wins $6.99 USD from the main pot with a pair of Jacks.
+Game #14697210675 starts.
+
+#Game No : 14697210675 
+***** Hand History for Game 14697210675 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:24:04 EDT 2015
+Table Salalah (Real Money)
+Seat 1 is the button
+Total number of players : 8/9 
+Seat 9: Nesch1102 ( $16.27 USD )
+Seat 8: TheAlertOne ( $20.71 USD )
+Seat 4: TilliWilli ( $20.66 USD )
+Seat 5: Tonbert ( $6.75 USD )
+Seat 6: fazekbandi ( $33.81 USD )
+Seat 3: jmm2869 ( $41.70 USD )
+Seat 2: kemper0k ( $25 USD )
+Seat 1: titirion ( $14.65 USD )
+kemper0k posts small blind [$0.10 USD].
+jmm2869 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4c Th ]
+TilliWilli folds
+Tonbert folds
+fazekbandi raises [$0.75 USD]
+TheAlertOne calls [$0.75 USD]
+Nesch1102 folds
+titirion will be using their time bank for this hand.
+titirion folds
+kemper0k raises [$3.15 USD]
+jmm2869 folds
+fazekbandi will be using their time bank for this hand.
+fazekbandi folds
+TheAlertOne folds
+kemper0k does not show cards.
+kemper0k wins $5 USD
+Game #14697212040 starts.
+
+#Game No : 14697212040 
+***** Hand History for Game 14697212040 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:24:54 EDT 2015
+Table Salalah (Real Money)
+Seat 2 is the button
+Total number of players : 8/9 
+Seat 9: Nesch1102 ( $16.27 USD )
+Seat 8: TheAlertOne ( $19.96 USD )
+Seat 4: TilliWilli ( $20.66 USD )
+Seat 5: Tonbert ( $6.75 USD )
+Seat 6: fazekbandi ( $33.06 USD )
+Seat 3: jmm2869 ( $41.45 USD )
+Seat 2: kemper0k ( $26.75 USD )
+Seat 1: titirion ( $14.65 USD )
+jmm2869 posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ts Js ]
+Tonbert folds
+fazekbandi folds
+TheAlertOne folds
+Nesch1102 folds
+titirion will be using their time bank for this hand.
+titirion raises [$0.75 USD]
+kemper0k folds
+jmm2869 folds
+TilliWilli raises [$1.25 USD]
+titirion will be using their time bank for this hand.
+titirion calls [$0.75 USD]
+** Dealing Flop ** [ 9d, 5c, 3s ]
+TilliWilli checks
+titirion will be using their time bank for this hand.
+titirion checks
+** Dealing Turn ** [ 6h ]
+TilliWilli bets [$1.50 USD]
+titirion will be using their time bank for this hand.
+titirion calls [$1.50 USD]
+** Dealing River ** [ Kd ]
+TilliWilli checks
+titirion checks
+TilliWilli shows [ Ts, Js ]high card King.
+titirion shows [ 8s, 6s ]a pair of Sixes.
+titirion wins $5.80 USD from the main pot with a pair of Sixes.
+Game #14697213554 starts.
+
+#Game No : 14697213554 
+***** Hand History for Game 14697213554 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:25:53 EDT 2015
+Table Salalah (Real Money)
+Seat 3 is the button
+Total number of players : 8/9 
+Seat 9: Nesch1102 ( $16.27 USD )
+Seat 8: TheAlertOne ( $19.96 USD )
+Seat 4: TilliWilli ( $17.66 USD )
+Seat 5: Tonbert ( $6.75 USD )
+Seat 6: fazekbandi ( $33.06 USD )
+Seat 3: jmm2869 ( $41.35 USD )
+Seat 2: kemper0k ( $26.75 USD )
+Seat 1: titirion ( $17.45 USD )
+TilliWilli posts small blind [$0.10 USD].
+Tonbert posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4c 5c ]
+fazekbandi folds
+TheAlertOne raises [$0.50 USD]
+Nesch1102 raises [$0.75 USD]
+titirion folds
+kemper0k folds
+jmm2869 folds
+TilliWilli calls [$0.65 USD]
+Tonbert folds
+TheAlertOne calls [$0.25 USD]
+** Dealing Flop ** [ Qh, 5h, 4s ]
+TilliWilli checks
+TheAlertOne checks
+Nesch1102 bets [$1.19 USD]
+TilliWilli calls [$1.19 USD]
+TheAlertOne folds
+** Dealing Turn ** [ 7d ]
+TilliWilli checks
+Nesch1102 checks
+** Dealing River ** [ Ac ]
+TilliWilli bets [$4 USD]
+Nesch1102 folds
+TilliWilli does not show cards.
+TilliWilli wins $8.64 USD
+Game #14697214696 starts.
+
+#Game No : 14697214696 
+***** Hand History for Game 14697214696 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:27:01 EDT 2015
+Table Salalah (Real Money)
+Seat 4 is the button
+Total number of players : 8/9 
+Seat 9: Nesch1102 ( $14.33 USD )
+Seat 8: TheAlertOne ( $19.21 USD )
+Seat 4: TilliWilli ( $20.36 USD )
+Seat 5: Tonbert ( $6.50 USD )
+Seat 6: fazekbandi ( $33.06 USD )
+Seat 3: jmm2869 ( $41.35 USD )
+Seat 2: kemper0k ( $26.75 USD )
+Seat 1: titirion ( $17.45 USD )
+Tonbert posts small blind [$0.10 USD].
+fazekbandi posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3c 7s ]
+TheAlertOne raises [$0.50 USD]
+Nesch1102 folds
+titirion will be using their time bank for this hand.
+titirion folds
+kemper0k raises [$1.50 USD]
+jmm2869 calls [$1.50 USD]
+TilliWilli folds
+Tonbert folds
+fazekbandi folds
+TheAlertOne folds
+** Dealing Flop ** [ Tc, 6s, 2h ]
+kemper0k will be using their time bank for this hand.
+kemper0k bets [$2.25 USD]
+jmm2869 calls [$2.25 USD]
+** Dealing Turn ** [ 3d ]
+kemper0k will be using their time bank for this hand.
+kemper0k checks
+jmm2869 bets [$2.75 USD]
+kemper0k folds
+jmm2869 does not show cards.
+jmm2869 wins $10.69 USD
+Game #14697216476 starts.
+
+#Game No : 14697216476 
+***** Hand History for Game 14697216476 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:28:48 EDT 2015
+Table Salalah (Real Money)
+Seat 5 is the button
+Total number of players : 8/9 
+Seat 9: Nesch1102 ( $14.33 USD )
+Seat 8: TheAlertOne ( $18.71 USD )
+Seat 4: TilliWilli ( $20.36 USD )
+Seat 5: Tonbert ( $6.40 USD )
+Seat 6: fazekbandi ( $32.81 USD )
+Seat 3: jmm2869 ( $45.54 USD )
+Seat 2: kemper0k ( $25 USD )
+Seat 1: titirion ( $17.45 USD )
+fazekbandi posts small blind [$0.10 USD].
+TheAlertOne posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ac Kd ]
+Nesch1102 folds
+titirion will be using their time bank for this hand.
+titirion folds
+kemper0k folds
+jmm2869 folds
+TilliWilli raises [$0.75 USD]
+Tonbert calls [$0.75 USD]
+fazekbandi folds
+TheAlertOne will be using their time bank for this hand.
+TheAlertOne calls [$0.50 USD]
+** Dealing Flop ** [ 2s, Jd, As ]
+TheAlertOne checks
+TilliWilli bets [$0.50 USD]
+Tonbert calls [$0.50 USD]
+TheAlertOne calls [$0.50 USD]
+** Dealing Turn ** [ 6s ]
+TheAlertOne checks
+TilliWilli bets [$6 USD]
+Tonbert folds
+TheAlertOne will be using their time bank for this hand.
+TheAlertOne did not respond in time
+TheAlertOne folds
+TilliWilli does not show cards.
+TilliWilli wins $9.66 USD
+Game #14697218929 starts.
+
+#Game No : 14697218929 
+***** Hand History for Game 14697218929 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:30:42 EDT 2015
+Table Salalah (Real Money)
+Seat 6 is the button
+Total number of players : 8/9 
+Seat 9: Nesch1102 ( $14.33 USD )
+Seat 8: TheAlertOne ( $17.46 USD )
+Seat 4: TilliWilli ( $22.77 USD )
+Seat 5: Tonbert ( $5.15 USD )
+Seat 6: fazekbandi ( $32.71 USD )
+Seat 3: jmm2869 ( $45.54 USD )
+Seat 2: kemper0k ( $25 USD )
+Seat 1: titirion ( $17.45 USD )
+TheAlertOne posts small blind [$0.10 USD].
+Nesch1102 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Kd 2s ]
+titirion will be using their time bank for this hand.
+titirion folds
+kemper0k folds
+jmm2869 folds
+TilliWilli folds
+Tonbert folds
+fazekbandi folds
+TheAlertOne folds
+Nesch1102 does not show cards.
+Nesch1102 wins $0.35 USD
+Tonbert has left the table.
+Game #14697219221 starts.
+
+#Game No : 14697219221 
+***** Hand History for Game 14697219221 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:30:59 EDT 2015
+Table Salalah (Real Money)
+Seat 8 is the button
+Total number of players : 7/9 
+Seat 9: Nesch1102 ( $14.43 USD )
+Seat 8: TheAlertOne ( $17.36 USD )
+Seat 4: TilliWilli ( $22.77 USD )
+Seat 6: fazekbandi ( $32.71 USD )
+Seat 3: jmm2869 ( $45.54 USD )
+Seat 2: kemper0k ( $25 USD )
+Seat 1: titirion ( $17.45 USD )
+Nesch1102 posts small blind [$0.10 USD].
+titirion posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4d 2d ]
+kemper0k folds
+jmm2869 calls [$0.25 USD]
+TilliWilli calls [$0.25 USD]
+fazekbandi raises [$1.25 USD]
+TheAlertOne folds
+Nesch1102 calls [$1.15 USD]
+titirion will be using their time bank for this hand.
+titirion folds
+jmm2869 calls [$1 USD]
+TilliWilli calls [$1 USD]
+** Dealing Flop ** [ 5h, 8d, Tc ]
+Nesch1102 checks
+jmm2869 checks
+TilliWilli checks
+fazekbandi checks
+** Dealing Turn ** [ As ]
+Nesch1102 checks
+jmm2869 checks
+TilliWilli checks
+fazekbandi checks
+** Dealing River ** [ 7s ]
+Nesch1102 checks
+jmm2869 bets [$2.49 USD]
+TilliWilli folds
+fazekbandi folds
+Nesch1102 folds
+jmm2869 does not show cards.
+jmm2869 wins $7.48 USD
+Game #14697221561 starts.
+
+#Game No : 14697221561 
+***** Hand History for Game 14697221561 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:32:43 EDT 2015
+Table Salalah (Real Money)
+Seat 9 is the button
+Total number of players : 7/9 
+Seat 9: Nesch1102 ( $13.18 USD )
+Seat 8: TheAlertOne ( $17.36 USD )
+Seat 4: TilliWilli ( $21.52 USD )
+Seat 6: fazekbandi ( $31.46 USD )
+Seat 3: jmm2869 ( $49.28 USD )
+Seat 2: kemper0k ( $25 USD )
+Seat 1: titirion ( $17.20 USD )
+titirion posts small blind [$0.10 USD].
+kemper0k posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4s Jc ]
+Razer45 has joined the table.
+jmm2869 calls [$0.25 USD]
+TilliWilli folds
+fazekbandi folds
+TheAlertOne folds
+Nesch1102 folds
+titirion will be using their time bank for this hand.
+titirion raises [$0.90 USD]
+kemper0k folds
+jmm2869 raises [$3.25 USD]
+titirion will be using their time bank for this hand.
+titirion is all-In  [$16.20 USD]
+jmm2869 calls [$13.70 USD]
+** Dealing Flop ** [ 8d, Ad, 6c ]
+** Dealing Turn ** [ Kd ]
+** Dealing River ** [ 2d ]
+jmm2869 shows [ Qs, Qc ]a pair of Queens.
+titirion shows [ Kh, Ks ]three of a kind, Kings.
+titirion wins $32.92 USD from the main pot with three of a kind, Kings.
+Game #14697222316 starts.
+
+#Game No : 14697222316 
+***** Hand History for Game 14697222316 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:33:24 EDT 2015
+Table Salalah (Real Money)
+Seat 1 is the button
+Total number of players : 8/9 
+Seat 9: Nesch1102 ( $13.18 USD )
+Seat 5: Razer45 ( $12.50 USD )
+Seat 8: TheAlertOne ( $17.36 USD )
+Seat 4: TilliWilli ( $21.52 USD )
+Seat 6: fazekbandi ( $31.46 USD )
+Seat 3: jmm2869 ( $32.08 USD )
+Seat 2: kemper0k ( $25 USD )
+Seat 1: titirion ( $32.92 USD )
+kemper0k posts small blind [$0.10 USD].
+jmm2869 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Th Qs ]
+TilliWilli raises [$1 USD]
+fazekbandi calls [$1 USD]
+TheAlertOne folds
+Nesch1102 folds
+titirion folds
+kemper0k folds
+jmm2869 folds
+** Dealing Flop ** [ 7h, Td, Ac ]
+TilliWilli bets [$1.50 USD]
+fazekbandi folds
+TilliWilli does not show cards.
+TilliWilli wins $3.74 USD
+Game #14697223088 starts.
+
+#Game No : 14697223088 
+***** Hand History for Game 14697223088 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:34:07 EDT 2015
+Table Salalah (Real Money)
+Seat 2 is the button
+Total number of players : 8/9 
+Seat 9: Nesch1102 ( $13.18 USD )
+Seat 5: Razer45 ( $12.50 USD )
+Seat 8: TheAlertOne ( $17.36 USD )
+Seat 4: TilliWilli ( $22.76 USD )
+Seat 6: fazekbandi ( $30.46 USD )
+Seat 3: jmm2869 ( $31.83 USD )
+Seat 2: kemper0k ( $25 USD )
+Seat 1: titirion ( $32.92 USD )
+jmm2869 posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Kd 6h ]
+fazekbandi folds
+TheAlertOne folds
+Nesch1102 folds
+titirion will be using their time bank for this hand.
+titirion folds
+armejohn99 has joined the table.
+kemper0k raises [$2.75 USD]
+jmm2869 folds
+TilliWilli folds
+kemper0k does not show cards.
+kemper0k wins $3.10 USD
+Game #14697223603 starts.
+
+#Game No : 14697223603 
+***** Hand History for Game 14697223603 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:34:34 EDT 2015
+Table Salalah (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 9: Nesch1102 ( $13.18 USD )
+Seat 5: Razer45 ( $12.50 USD )
+Seat 8: TheAlertOne ( $17.36 USD )
+Seat 4: TilliWilli ( $22.51 USD )
+Seat 7: armejohn99 ( $10 USD )
+Seat 6: fazekbandi ( $30.46 USD )
+Seat 3: jmm2869 ( $31.73 USD )
+Seat 2: kemper0k ( $25.35 USD )
+Seat 1: titirion ( $32.92 USD )
+TilliWilli posts small blind [$0.10 USD].
+Razer45 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ks 3d ]
+fazekbandi folds
+TheAlertOne folds
+Nesch1102 calls [$0.25 USD]
+titirion will be using their time bank for this hand.
+titirion folds
+kemper0k raises [$1 USD]
+jmm2869 folds
+TilliWilli folds
+Razer45 calls [$0.75 USD]
+Nesch1102 calls [$0.75 USD]
+** Dealing Flop ** [ Qc, 5c, 7d ]
+Razer45 checks
+Nesch1102 checks
+kemper0k bets [$1.96 USD]
+Razer45 folds
+Nesch1102 folds
+kemper0k does not show cards.
+kemper0k wins $4.91 USD
+Game #14697225343 starts.
+
+#Game No : 14697225343 
+***** Hand History for Game 14697225343 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:35:43 EDT 2015
+Table Salalah (Real Money)
+Seat 4 is the button
+Total number of players : 9/9 
+Seat 9: Nesch1102 ( $12.18 USD )
+Seat 5: Razer45 ( $11.50 USD )
+Seat 8: TheAlertOne ( $17.36 USD )
+Seat 4: TilliWilli ( $22.41 USD )
+Seat 7: armejohn99 ( $10 USD )
+Seat 6: fazekbandi ( $30.46 USD )
+Seat 3: jmm2869 ( $31.73 USD )
+Seat 2: kemper0k ( $27.30 USD )
+Seat 1: titirion ( $32.92 USD )
+Razer45 posts small blind [$0.10 USD].
+fazekbandi posts big blind [$0.25 USD].
+armejohn99 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3d Ac ]
+armejohn99 checks
+TheAlertOne folds
+Nesch1102 folds
+titirion will be using their time bank for this hand.
+titirion folds
+kemper0k folds
+jmm2869 folds
+TilliWilli raises [$1 USD]
+Razer45 calls [$0.90 USD]
+fazekbandi folds
+armejohn99 calls [$0.75 USD]
+** Dealing Flop ** [ 3h, 6s, Jh ]
+Razer45 checks
+armejohn99 bets [$2.31 USD]
+TilliWilli folds
+Razer45 folds
+armejohn99 does not show cards.
+armejohn99 wins $5.40 USD
+Game #14697226515 starts.
+
+#Game No : 14697226515 
+***** Hand History for Game 14697226515 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:36:48 EDT 2015
+Table Salalah (Real Money)
+Seat 5 is the button
+Total number of players : 9/9 
+Seat 9: Nesch1102 ( $12.18 USD )
+Seat 5: Razer45 ( $10.50 USD )
+Seat 8: TheAlertOne ( $17.36 USD )
+Seat 4: TilliWilli ( $21.41 USD )
+Seat 7: armejohn99 ( $12.09 USD )
+Seat 6: fazekbandi ( $30.21 USD )
+Seat 3: jmm2869 ( $31.73 USD )
+Seat 2: kemper0k ( $27.30 USD )
+Seat 1: titirion ( $32.92 USD )
+fazekbandi posts small blind [$0.10 USD].
+armejohn99 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8d 7d ]
+TheAlertOne folds
+Nesch1102 calls [$0.25 USD]
+titirion will be using their time bank for this hand.
+titirion folds
+kemper0k folds
+jmm2869 folds
+TilliWilli raises [$0.50 USD]
+Razer45 folds
+fazekbandi folds
+armejohn99 folds
+Nesch1102 calls [$0.25 USD]
+** Dealing Flop ** [ Jh, 7c, 3d ]
+Nesch1102 checks
+TilliWilli bets [$0.67 USD]
+Nesch1102 folds
+TilliWilli does not show cards.
+TilliWilli wins $1.96 USD
+Game #14697227648 starts.
+
+#Game No : 14697227648 
+***** Hand History for Game 14697227648 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:37:50 EDT 2015
+Table Salalah (Real Money)
+Seat 6 is the button
+Total number of players : 9/9 
+Seat 9: Nesch1102 ( $11.68 USD )
+Seat 5: Razer45 ( $10.50 USD )
+Seat 8: TheAlertOne ( $17.36 USD )
+Seat 4: TilliWilli ( $22.20 USD )
+Seat 7: armejohn99 ( $11.84 USD )
+Seat 6: fazekbandi ( $30.11 USD )
+Seat 3: jmm2869 ( $31.73 USD )
+Seat 2: kemper0k ( $27.30 USD )
+Seat 1: titirion ( $32.92 USD )
+armejohn99 posts small blind [$0.10 USD].
+TheAlertOne posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ts 4d ]
+Nesch1102 calls [$0.25 USD]
+titirion will be using their time bank for this hand.
+titirion folds
+kemper0k raises [$1 USD]
+jmm2869 folds
+TilliWilli folds
+Razer45 folds
+fazekbandi folds
+armejohn99 folds
+TheAlertOne folds
+Nesch1102 folds
+kemper0k does not show cards.
+kemper0k wins $1.60 USD
+Game #14697228419 starts.
+
+#Game No : 14697228419 
+***** Hand History for Game 14697228419 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:38:33 EDT 2015
+Table Salalah (Real Money)
+Seat 7 is the button
+Total number of players : 9/9 
+Seat 9: Nesch1102 ( $11.43 USD )
+Seat 5: Razer45 ( $10.50 USD )
+Seat 8: TheAlertOne ( $17.11 USD )
+Seat 4: TilliWilli ( $22.20 USD )
+Seat 7: armejohn99 ( $11.74 USD )
+Seat 6: fazekbandi ( $30.11 USD )
+Seat 3: jmm2869 ( $31.73 USD )
+Seat 2: kemper0k ( $27.90 USD )
+Seat 1: titirion ( $32.92 USD )
+TheAlertOne posts small blind [$0.10 USD].
+Nesch1102 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8d 6c ]
+titirion will be using their time bank for this hand.
+titirion folds
+kemper0k folds
+jmm2869 folds
+TilliWilli folds
+fazekbandi folds
+armejohn99 folds
+TheAlertOne folds
+Nesch1102 does not show cards.
+Nesch1102 wins $0.35 USD
+Game #14697229270 starts.
+
+#Game No : 14697229270 
+***** Hand History for Game 14697229270 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:38:52 EDT 2015
+Table Salalah (Real Money)
+Seat 8 is the button
+Total number of players : 9/9 
+Seat 9: Nesch1102 ( $11.53 USD )
+Seat 5: Razer45 ( $10.50 USD )
+Seat 8: TheAlertOne ( $17.01 USD )
+Seat 4: TilliWilli ( $22.20 USD )
+Seat 7: armejohn99 ( $11.74 USD )
+Seat 6: fazekbandi ( $30.11 USD )
+Seat 3: jmm2869 ( $31.73 USD )
+Seat 2: kemper0k ( $27.90 USD )
+Seat 1: titirion ( $32.92 USD )
+Nesch1102 posts small blind [$0.10 USD].
+titirion posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Js 3s ]
+kemper0k folds
+jmm2869 folds
+TilliWilli folds
+fazekbandi folds
+armejohn99 folds
+TheAlertOne raises [$0.75 USD]
+Nesch1102 calls [$0.65 USD]
+titirion will be using their time bank for this hand.
+titirion folds
+** Dealing Flop ** [ Qd, 2s, Kd ]
+Nesch1102 checks
+TheAlertOne checks
+** Dealing Turn ** [ Ac ]
+Nesch1102 bets [$0.50 USD]
+TheAlertOne calls [$0.50 USD]
+** Dealing River ** [ 9c ]
+Nesch1102 bets [$1.31 USD]
+Razer45 has left the table.
+TheAlertOne folds
+Nesch1102 does not show cards.
+Nesch1102 wins $3.93 USD
+Game #14697231963 starts.
+
+#Game No : 14697231963 
+***** Hand History for Game 14697231963 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:40:26 EDT 2015
+Table Salalah (Real Money)
+Seat 9 is the button
+Total number of players : 8/9 
+Seat 9: Nesch1102 ( $12.90 USD )
+Seat 8: TheAlertOne ( $15.76 USD )
+Seat 4: TilliWilli ( $22.20 USD )
+Seat 7: armejohn99 ( $11.74 USD )
+Seat 6: fazekbandi ( $30.11 USD )
+Seat 3: jmm2869 ( $31.73 USD )
+Seat 2: kemper0k ( $27.90 USD )
+Seat 1: titirion ( $32.67 USD )
+titirion posts small blind [$0.10 USD].
+kemper0k posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ac 3s ]
+jmm2869 folds
+TilliWilli folds
+fazekbandi folds
+armejohn99 folds
+TheAlertOne folds
+Nesch1102 calls [$0.25 USD]
+titirion will be using their time bank for this hand.
+titirion folds
+kemper0k checks
+** Dealing Flop ** [ 8s, 5c, Ts ]
+kemper0k checks
+Nesch1102 bets [$0.50 USD]
+juboits has joined the table.
+kemper0k folds
+Nesch1102 does not show cards.
+Nesch1102 wins $1.07 USD
+Game #14697232725 starts.
+
+#Game No : 14697232725 
+***** Hand History for Game 14697232725 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:41:10 EDT 2015
+Table Salalah (Real Money)
+Seat 1 is the button
+Total number of players : 9/9 
+Seat 9: Nesch1102 ( $13.22 USD )
+Seat 8: TheAlertOne ( $15.76 USD )
+Seat 4: TilliWilli ( $22.20 USD )
+Seat 7: armejohn99 ( $11.74 USD )
+Seat 6: fazekbandi ( $30.11 USD )
+Seat 3: jmm2869 ( $31.73 USD )
+Seat 5: juboits ( $10.70 USD )
+Seat 2: kemper0k ( $27.65 USD )
+Seat 1: titirion ( $32.57 USD )
+kemper0k posts small blind [$0.10 USD].
+jmm2869 posts big blind [$0.25 USD].
+juboits posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8s 3c ]
+TilliWilli folds
+juboits checks
+fazekbandi folds
+armejohn99 folds
+TheAlertOne folds
+Nesch1102 folds
+titirion will be using their time bank for this hand.
+titirion folds
+kemper0k calls [$0.15 USD]
+jmm2869 checks
+** Dealing Flop ** [ 7d, 9d, 3s ]
+kemper0k will be using their time bank for this hand.
+kemper0k checks
+jmm2869 bets [$0.72 USD]
+juboits folds
+kemper0k folds
+jmm2869 does not show cards.
+jmm2869 wins $1.44 USD
+Game #14697234118 starts.
+
+#Game No : 14697234118 
+***** Hand History for Game 14697234118 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:42:29 EDT 2015
+Table Salalah (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 9: Nesch1102 ( $13.22 USD )
+Seat 8: TheAlertOne ( $15.76 USD )
+Seat 4: TilliWilli ( $22.20 USD )
+Seat 7: armejohn99 ( $11.74 USD )
+Seat 6: fazekbandi ( $30.11 USD )
+Seat 3: jmm2869 ( $32.20 USD )
+Seat 5: juboits ( $10.45 USD )
+Seat 2: kemper0k ( $27.40 USD )
+Seat 1: titirion ( $32.57 USD )
+jmm2869 posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4s 3s ]
+juboits folds
+fazekbandi folds
+armejohn99 folds
+TheAlertOne folds
+Nesch1102 calls [$0.25 USD]
+titirion will be using their time bank for this hand.
+titirion folds
+kemper0k folds
+jmm2869 folds
+TilliWilli checks
+** Dealing Flop ** [ 7s, 9d, Jc ]
+TilliWilli checks
+Nesch1102 checks
+** Dealing Turn ** [ 2s ]
+TilliWilli bets [$0.25 USD]
+Nesch1102 folds
+TilliWilli does not show cards.
+TilliWilli wins $0.82 USD
+Game #14697235089 starts.
+
+#Game No : 14697235089 
+***** Hand History for Game 14697235089 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:43:24 EDT 2015
+Table Salalah (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 9: Nesch1102 ( $12.97 USD )
+Seat 8: TheAlertOne ( $15.76 USD )
+Seat 4: TilliWilli ( $22.52 USD )
+Seat 7: armejohn99 ( $11.74 USD )
+Seat 6: fazekbandi ( $30.11 USD )
+Seat 3: jmm2869 ( $32.10 USD )
+Seat 5: juboits ( $10.45 USD )
+Seat 2: kemper0k ( $27.40 USD )
+Seat 1: titirion ( $32.57 USD )
+TilliWilli posts small blind [$0.10 USD].
+juboits posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Kc 2s ]
+fazekbandi folds
+armejohn99 folds
+TheAlertOne raises [$0.50 USD]
+Nesch1102 calls [$0.50 USD]
+titirion will be using their time bank for this hand.
+titirion folds
+kemper0k calls [$0.50 USD]
+jmm2869 calls [$0.50 USD]
+TilliWilli folds
+juboits calls [$0.25 USD]
+** Dealing Flop ** [ 8d, 2c, Td ]
+juboits checks
+TheAlertOne checks
+Nesch1102 checks
+kemper0k checks
+jmm2869 checks
+** Dealing Turn ** [ 7s ]
+juboits checks
+TheAlertOne checks
+Nesch1102 checks
+kemper0k checks
+jmm2869 checks
+** Dealing River ** [ Ks ]
+juboits checks
+TheAlertOne checks
+Nesch1102 checks
+kemper0k checks
+jmm2869 checks
+juboits shows [ 9d, 5c ]high card King.
+TheAlertOne shows [ 4h, 4c ]a pair of Fours.
+Nesch1102 doesn't show [ As, Jd ]high card Ace.
+kemper0k doesn't show [ Jc, Qs ]high card King with Queen kicker.
+jmm2869 doesn't show [ 3s, 3h ]a pair of Threes.
+TheAlertOne wins $2.47 USD from the main pot with a pair of Fours.
+Game #14697237302 starts.
+
+#Game No : 14697237302 
+***** Hand History for Game 14697237302 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:45:05 EDT 2015
+Table Salalah (Real Money)
+Seat 4 is the button
+Total number of players : 9/9 
+Seat 9: Nesch1102 ( $12.47 USD )
+Seat 8: TheAlertOne ( $17.73 USD )
+Seat 4: TilliWilli ( $22.42 USD )
+Seat 7: armejohn99 ( $11.74 USD )
+Seat 6: fazekbandi ( $30.11 USD )
+Seat 3: jmm2869 ( $31.60 USD )
+Seat 5: juboits ( $9.95 USD )
+Seat 2: kemper0k ( $26.90 USD )
+Seat 1: titirion ( $32.57 USD )
+juboits posts small blind [$0.10 USD].
+fazekbandi posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  6d Ts ]
+armejohn99 calls [$0.25 USD]
+TheAlertOne folds
+Nesch1102 calls [$0.25 USD]
+titirion will be using their time bank for this hand.
+titirion folds
+kemper0k calls [$0.25 USD]
+jmm2869 folds
+TilliWilli folds
+juboits raises [$0.90 USD]
+fazekbandi folds
+armejohn99 folds
+Nesch1102 calls [$0.75 USD]
+kemper0k folds
+** Dealing Flop ** [ 7d, Ah, 4c ]
+juboits bets [$2.62 USD]
+Nesch1102 folds
+juboits does not show cards.
+juboits wins $5.24 USD
+Game #14697238511 starts.
+
+#Game No : 14697238511 
+***** Hand History for Game 14697238511 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:46:13 EDT 2015
+Table Salalah (Real Money)
+Seat 5 is the button
+Total number of players : 9/9 
+Seat 9: Nesch1102 ( $11.47 USD )
+Seat 8: TheAlertOne ( $17.73 USD )
+Seat 4: TilliWilli ( $22.42 USD )
+Seat 7: armejohn99 ( $11.49 USD )
+Seat 6: fazekbandi ( $29.86 USD )
+Seat 3: jmm2869 ( $31.60 USD )
+Seat 5: juboits ( $11.57 USD )
+Seat 2: kemper0k ( $26.65 USD )
+Seat 1: titirion ( $32.57 USD )
+fazekbandi posts small blind [$0.10 USD].
+armejohn99 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  6c 5d ]
+TheAlertOne folds
+Nesch1102 folds
+titirion folds
+kemper0k folds
+jmm2869 folds
+TilliWilli calls [$0.25 USD]
+juboits raises [$1 USD]
+fazekbandi calls [$0.90 USD]
+armejohn99 raises [$5 USD]
+TilliWilli folds
+juboits raises [$8.50 USD]
+fazekbandi folds
+armejohn99 is all-In  [$6.24 USD]
+juboits calls [$1.99 USD]
+** Dealing Flop ** [ 5s, 2s, Td ]
+** Dealing Turn ** [ Tc ]
+** Dealing River ** [ 4h ]
+juboits shows [ Ah, 5h ]two pairs, Tens and Fives.
+armejohn99 doesn't show [ Qd, Ac ]a pair of Tens.
+juboits wins $23.02 USD from the main pot with two pairs, Tens and Fives.
+Game #14697240067 starts.
+
+#Game No : 14697240067 
+***** Hand History for Game 14697240067 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:47:13 EDT 2015
+Table Salalah (Real Money)
+Seat 6 is the button
+Total number of players : 9/9 
+Seat 9: Nesch1102 ( $11.47 USD )
+Seat 8: TheAlertOne ( $17.73 USD )
+Seat 4: TilliWilli ( $22.17 USD )
+Seat 7: armejohn99 ( $0 USD )
+Seat 6: fazekbandi ( $28.86 USD )
+Seat 3: jmm2869 ( $31.60 USD )
+Seat 5: juboits ( $23.10 USD )
+Seat 2: kemper0k ( $26.65 USD )
+Seat 1: titirion ( $32.57 USD )
+TheAlertOne posts small blind [$0.10 USD].
+Nesch1102 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9h 6c ]
+titirion will be using their time bank for this hand.
+titirion folds
+kemper0k folds
+jmm2869 folds
+TilliWilli folds
+juboits folds
+fazekbandi raises [$0.50 USD]
+TheAlertOne folds
+Nesch1102 calls [$0.25 USD]
+** Dealing Flop ** [ 4s, 8s, 7d ]
+Nesch1102 checks
+fazekbandi bets [$0.78 USD]
+Nesch1102 calls [$0.78 USD]
+** Dealing Turn ** [ Ts ]
+Nesch1102 checks
+fazekbandi checks
+** Dealing River ** [ Td ]
+Nesch1102 checks
+fazekbandi checks
+Nesch1102 shows [ Kh, Jc ]a pair of Tens.
+fazekbandi shows [ 3c, 4c ]two pairs, Tens and Fours.
+fazekbandi wins $2.53 USD from the main pot with two pairs, Tens and Fours.
+juboits has left the table.
+Game #14697241074 starts.
+
+#Game No : 14697241074 
+***** Hand History for Game 14697241074 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:48:09 EDT 2015
+Table Salalah (Real Money)
+Seat 8 is the button
+Total number of players : 8/9 
+Seat 9: Nesch1102 ( $10.19 USD )
+Seat 8: TheAlertOne ( $17.63 USD )
+Seat 4: TilliWilli ( $22.17 USD )
+Seat 7: armejohn99 ( $19.92 USD )
+Seat 6: fazekbandi ( $30.11 USD )
+Seat 3: jmm2869 ( $31.60 USD )
+Seat 2: kemper0k ( $26.65 USD )
+Seat 1: titirion ( $32.57 USD )
+Nesch1102 posts small blind [$0.10 USD].
+titirion posts big blind [$0.25 USD].
+armejohn99 posts small blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2s 3d ]
+kemper0k folds
+NeolitV has joined the table.
+jmm2869 folds
+TilliWilli folds
+fazekbandi folds
+armejohn99 calls [$0.15 USD]
+TheAlertOne raises [$0.75 USD]
+Nesch1102 folds
+titirion will be using their time bank for this hand.
+titirion folds
+armejohn99 calls [$0.50 USD]
+** Dealing Flop ** [ Ts, 6c, 9c ]
+armejohn99 checks
+TheAlertOne checks
+** Dealing Turn ** [ 6h ]
+armejohn99 checks
+TheAlertOne bets [$0.50 USD]
+armejohn99 folds
+TheAlertOne does not show cards.
+TheAlertOne wins $2.26 USD
+Game #14697242061 starts.
+
+#Game No : 14697242061 
+***** Hand History for Game 14697242061 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:49:04 EDT 2015
+Table Salalah (Real Money)
+Seat 9 is the button
+Total number of players : 9/9 
+Seat 5: NeolitV ( $7.50 USD )
+Seat 9: Nesch1102 ( $10.09 USD )
+Seat 8: TheAlertOne ( $18.64 USD )
+Seat 4: TilliWilli ( $22.17 USD )
+Seat 7: armejohn99 ( $19.17 USD )
+Seat 6: fazekbandi ( $30.11 USD )
+Seat 3: jmm2869 ( $31.60 USD )
+Seat 2: kemper0k ( $26.65 USD )
+Seat 1: titirion ( $32.32 USD )
+titirion posts small blind [$0.10 USD].
+kemper0k posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9s 7s ]
+jmm2869 folds
+TilliWilli folds
+fazekbandi folds
+armejohn99 folds
+TheAlertOne folds
+Nesch1102 folds
+titirion raises [$0.65 USD]
+kemper0k calls [$0.50 USD]
+** Dealing Flop ** [ 8d, Qc, 2c ]
+titirion will be using their time bank for this hand.
+titirion bets [$0.71 USD]
+kemper0k raises [$2.25 USD]
+titirion will be using their time bank for this hand.
+titirion folds
+kemper0k does not show cards.
+kemper0k wins $4.32 USD
+Game #14697243257 starts.
+
+#Game No : 14697243257 
+***** Hand History for Game 14697243257 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:49:45 EDT 2015
+Table Salalah (Real Money)
+Seat 1 is the button
+Total number of players : 9/9 
+Seat 5: NeolitV ( $7.50 USD )
+Seat 9: Nesch1102 ( $10.09 USD )
+Seat 8: TheAlertOne ( $18.64 USD )
+Seat 4: TilliWilli ( $22.17 USD )
+Seat 7: armejohn99 ( $19.17 USD )
+Seat 6: fazekbandi ( $30.11 USD )
+Seat 3: jmm2869 ( $31.60 USD )
+Seat 2: kemper0k ( $27.97 USD )
+Seat 1: titirion ( $30.86 USD )
+kemper0k posts small blind [$0.10 USD].
+jmm2869 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2c 3h ]
+TilliWilli folds
+fazekbandi folds
+armejohn99 calls [$0.25 USD]
+Nesch1102 folds
+titirion will be using their time bank for this hand.
+titirion calls [$0.25 USD]
+kemper0k folds
+jmm2869 checks
+** Dealing Flop ** [ 8d, 5d, Ah ]
+jmm2869 checks
+armejohn99 checks
+titirion will be using their time bank for this hand.
+titirion bets [$0.65 USD]
+jmm2869 folds
+armejohn99 calls [$0.65 USD]
+** Dealing Turn ** [ Jc ]
+armejohn99 checks
+titirion will be using their time bank for this hand.
+titirion checks
+** Dealing River ** [ 4d ]
+armejohn99 bets [$1.02 USD]
+titirion will be using their time bank for this hand.
+titirion folds
+armejohn99 does not show cards.
+armejohn99 wins $3.07 USD
+Game #14697244619 starts.
+
+#Game No : 14697244619 
+***** Hand History for Game 14697244619 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:51:04 EDT 2015
+Table Salalah (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 5: NeolitV ( $7.50 USD )
+Seat 9: Nesch1102 ( $10.09 USD )
+Seat 8: TheAlertOne ( $18.64 USD )
+Seat 4: TilliWilli ( $22.17 USD )
+Seat 7: armejohn99 ( $20.32 USD )
+Seat 6: fazekbandi ( $30.11 USD )
+Seat 3: jmm2869 ( $31.35 USD )
+Seat 2: kemper0k ( $27.87 USD )
+Seat 1: titirion ( $29.96 USD )
+jmm2869 posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  As Qc ]
+fazekbandi folds
+armejohn99 calls [$0.25 USD]
+Nesch1102 calls [$0.25 USD]
+titirion folds
+kemper0k calls [$0.25 USD]
+jmm2869 folds
+TilliWilli raises [$1 USD]
+armejohn99 calls [$1 USD]
+Nesch1102 folds
+kemper0k folds
+** Dealing Flop ** [ 2h, 6d, 3c ]
+TilliWilli bets [$0.50 USD]
+armejohn99 calls [$0.50 USD]
+** Dealing Turn ** [ Ts ]
+TilliWilli checks
+armejohn99 bets [$1.95 USD]
+TilliWilli calls [$1.95 USD]
+** Dealing River ** [ 6c ]
+TilliWilli bets [$1.50 USD]
+armejohn99 calls [$1.50 USD]
+TilliWilli shows [ As, Qc ]a pair of Sixes with Queen kicker.
+armejohn99 doesn't show [ Ah, 4s ]a pair of Sixes.
+TilliWilli wins $10.45 USD from the main pot with a pair of Sixes with Queen kicker.
+Game #14697246800 starts.
+
+#Game No : 14697246800 
+***** Hand History for Game 14697246800 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:52:43 EDT 2015
+Table Salalah (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 5: NeolitV ( $7.50 USD )
+Seat 9: Nesch1102 ( $9.84 USD )
+Seat 8: TheAlertOne ( $18.64 USD )
+Seat 4: TilliWilli ( $27.42 USD )
+Seat 7: armejohn99 ( $15.12 USD )
+Seat 6: fazekbandi ( $30.11 USD )
+Seat 3: jmm2869 ( $31.25 USD )
+Seat 2: kemper0k ( $27.62 USD )
+Seat 1: titirion ( $29.96 USD )
+TilliWilli posts small blind [$0.10 USD].
+NeolitV posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  7h Jc ]
+fazekbandi folds
+armejohn99 calls [$0.25 USD]
+TheAlertOne folds
+Nesch1102 raises [$0.50 USD]
+titirion will be using their time bank for this hand.
+titirion folds
+kemper0k raises [$1.50 USD]
+jmm2869 folds
+TilliWilli folds
+NeolitV folds
+armejohn99 folds
+Nesch1102 raises [$2 USD]
+kemper0k will be using their time bank for this hand.
+kemper0k is all-In  [$26.12 USD]
+Nesch1102 is all-In  [$7.34 USD]
+** Dealing Flop ** [ Ad, Ks, Js ]
+** Dealing Turn ** [ Td ]
+** Dealing River ** [ 4h ]
+Nesch1102 shows [ Kh, Kd ]three of a kind, Kings.
+kemper0k shows [ Qc, Qh ]a straight, Ten to Ace.
+kemper0k wins $17.78 USD from the side pot 1 with a straight, Ten to Ace.
+kemper0k wins $19.27 USD from the main pot with a straight, Ten to Ace.
+Game #14697248546 starts.
+
+#Game No : 14697248546 
+***** Hand History for Game 14697248546 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:53:57 EDT 2015
+Table Salalah (Real Money)
+Seat 4 is the button
+Total number of players : 9/9 
+Seat 5: NeolitV ( $7.25 USD )
+Seat 9: Nesch1102 ( $0 USD )
+Seat 8: TheAlertOne ( $18.64 USD )
+Seat 4: TilliWilli ( $27.32 USD )
+Seat 7: armejohn99 ( $14.87 USD )
+Seat 6: fazekbandi ( $30.11 USD )
+Seat 3: jmm2869 ( $31.25 USD )
+Seat 2: kemper0k ( $37.05 USD )
+Seat 1: titirion ( $29.96 USD )
+NeolitV posts small blind [$0.10 USD].
+fazekbandi posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4s Jd ]
+armejohn99 folds
+TheAlertOne folds
+titirion will be using their time bank for this hand.
+titirion raises [$0.75 USD]
+kemper0k folds
+jmm2869 folds
+TilliWilli folds
+NeolitV folds
+fazekbandi folds
+titirion does not show cards.
+titirion wins $1.10 USD
+Game #14697248879 starts.
+
+#Game No : 14697248879 
+***** Hand History for Game 14697248879 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:54:18 EDT 2015
+Table Salalah (Real Money)
+Seat 5 is the button
+Total number of players : 9/9 
+Seat 5: NeolitV ( $7.15 USD )
+Seat 9: Nesch1102 ( $0 USD )
+Seat 8: TheAlertOne ( $18.64 USD )
+Seat 4: TilliWilli ( $27.32 USD )
+Seat 7: armejohn99 ( $14.87 USD )
+Seat 6: fazekbandi ( $29.86 USD )
+Seat 3: jmm2869 ( $31.25 USD )
+Seat 2: kemper0k ( $37.05 USD )
+Seat 1: titirion ( $30.31 USD )
+fazekbandi posts small blind [$0.10 USD].
+armejohn99 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  7h 9c ]
+TheAlertOne raises [$0.75 USD]
+titirion folds
+kemper0k calls [$0.75 USD]
+jmm2869 folds
+TilliWilli folds
+NeolitV folds
+fazekbandi folds
+armejohn99 raises [$3.50 USD]
+TheAlertOne folds
+kemper0k folds
+armejohn99 does not show cards.
+armejohn99 wins $5.35 USD
+Game #14697249612 starts.
+
+#Game No : 14697249612 
+***** Hand History for Game 14697249612 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:55:02 EDT 2015
+Table Salalah (Real Money)
+Seat 6 is the button
+Total number of players : 9/9 
+Seat 5: NeolitV ( $7.15 USD )
+Seat 9: Nesch1102 ( $0 USD )
+Seat 8: TheAlertOne ( $17.89 USD )
+Seat 4: TilliWilli ( $27.32 USD )
+Seat 7: armejohn99 ( $16.47 USD )
+Seat 6: fazekbandi ( $29.76 USD )
+Seat 3: jmm2869 ( $31.25 USD )
+Seat 2: kemper0k ( $36.30 USD )
+Seat 1: titirion ( $30.31 USD )
+armejohn99 posts small blind [$0.10 USD].
+TheAlertOne posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qh 2c ]
+titirion will be using their time bank for this hand.
+titirion folds
+kemper0k folds
+jmm2869 raises [$0.75 USD]
+TilliWilli folds
+NeolitV raises [$2 USD]
+fazekbandi folds
+armejohn99 folds
+TheAlertOne folds
+jmm2869 is all-In  [$30.50 USD]
+NeolitV folds
+jmm2869 does not show cards.
+jmm2869 wins $33.60 USD
+Game #14697250308 starts.
+
+#Game No : 14697250308 
+***** Hand History for Game 14697250308 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:55:43 EDT 2015
+Table Salalah (Real Money)
+Seat 7 is the button
+Total number of players : 9/9 
+Seat 5: NeolitV ( $5.15 USD )
+Seat 9: Nesch1102 ( $10 USD )
+Seat 8: TheAlertOne ( $17.64 USD )
+Seat 4: TilliWilli ( $27.32 USD )
+Seat 7: armejohn99 ( $16.37 USD )
+Seat 6: fazekbandi ( $29.76 USD )
+Seat 3: jmm2869 ( $33.60 USD )
+Seat 2: kemper0k ( $36.30 USD )
+Seat 1: titirion ( $30.31 USD )
+TheAlertOne posts small blind [$0.10 USD].
+Nesch1102 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qd 3d ]
+titirion will be using their time bank for this hand.
+titirion folds
+kemper0k folds
+jmm2869 folds
+TilliWilli folds
+NeolitV folds
+fazekbandi folds
+armejohn99 folds
+TheAlertOne raises [$0.65 USD]
+Nesch1102 folds
+TheAlertOne does not show cards.
+TheAlertOne wins $1 USD
+Game #14697250570 starts.
+
+#Game No : 14697250570 
+***** Hand History for Game 14697250570 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:56:01 EDT 2015
+Table Salalah (Real Money)
+Seat 8 is the button
+Total number of players : 9/9 
+Seat 5: NeolitV ( $5.15 USD )
+Seat 9: Nesch1102 ( $9.75 USD )
+Seat 8: TheAlertOne ( $17.89 USD )
+Seat 4: TilliWilli ( $27.32 USD )
+Seat 7: armejohn99 ( $16.37 USD )
+Seat 6: fazekbandi ( $29.76 USD )
+Seat 3: jmm2869 ( $33.60 USD )
+Seat 2: kemper0k ( $36.30 USD )
+Seat 1: titirion ( $30.31 USD )
+Nesch1102 posts small blind [$0.10 USD].
+titirion posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qc 4c ]
+kemper0k folds
+jmm2869 folds
+TilliWilli folds
+NeolitV folds
+fazekbandi folds
+armejohn99 folds
+TheAlertOne folds
+Nesch1102 calls [$0.15 USD]
+titirion will be using their time bank for this hand.
+titirion checks
+** Dealing Flop ** [ 9d, 7h, 5d ]
+Nesch1102 checks
+titirion will be using their time bank for this hand.
+titirion bets [$0.25 USD]
+Nesch1102 calls [$0.25 USD]
+** Dealing Turn ** [ Qs ]
+Nesch1102 checks
+titirion will be using their time bank for this hand.
+titirion checks
+** Dealing River ** [ 8h ]
+Nesch1102 bets [$0.95 USD]
+titirion will be using their time bank for this hand.
+titirion calls [$0.95 USD]
+Nesch1102 shows [ Ac, 8d ]a pair of Eights.
+titirion shows [ 6h, Ad ]a straight, Five to Nine.
+titirion wins $2.76 USD from the main pot with a straight, Five to Nine.
+Game #14697251257 starts.
+
+#Game No : 14697251257 
+***** Hand History for Game 14697251257 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:56:47 EDT 2015
+Table Salalah (Real Money)
+Seat 9 is the button
+Total number of players : 9/9 
+Seat 5: NeolitV ( $5.15 USD )
+Seat 9: Nesch1102 ( $8.30 USD )
+Seat 8: TheAlertOne ( $17.89 USD )
+Seat 4: TilliWilli ( $27.32 USD )
+Seat 7: armejohn99 ( $16.37 USD )
+Seat 6: fazekbandi ( $29.76 USD )
+Seat 3: jmm2869 ( $33.60 USD )
+Seat 2: kemper0k ( $36.30 USD )
+Seat 1: titirion ( $31.62 USD )
+titirion posts small blind [$0.10 USD].
+jmm2869 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Td 7d ]
+TilliWilli folds
+NeolitV folds
+fazekbandi folds
+kemper0k has left the table.
+armejohn99 calls [$0.25 USD]
+TheAlertOne folds
+Nesch1102 folds
+titirion will be using their time bank for this hand.
+NoMind_ has joined the table.
+titirion folds
+jmm2869 checks
+** Dealing Flop ** [ Jh, 4d, 8s ]
+jmm2869 checks
+armejohn99 checks
+** Dealing Turn ** [ 6c ]
+jmm2869 bets [$0.57 USD]
+armejohn99 calls [$0.57 USD]
+** Dealing River ** [ 9h ]
+jmm2869 bets [$1.24 USD]
+armejohn99 raises [$2.48 USD]
+jmm2869 calls [$1.24 USD]
+armejohn99 shows [ Qs, Qd ]a pair of Queens.
+jmm2869 shows [ 6h, 4h ]two pairs, Sixes and Fours.
+jmm2869 wins $6.37 USD from the main pot with two pairs, Sixes and Fours.
+Game #14697252210 starts.
+
+#Game No : 14697252210 
+***** Hand History for Game 14697252210 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:57:54 EDT 2015
+Table Salalah (Real Money)
+Seat 1 is the button
+Total number of players : 9/9 
+Seat 5: NeolitV ( $5.15 USD )
+Seat 9: Nesch1102 ( $8.30 USD )
+Seat 2: NoMind_ ( $25 USD )
+Seat 8: TheAlertOne ( $17.89 USD )
+Seat 4: TilliWilli ( $27.32 USD )
+Seat 7: armejohn99 ( $13.07 USD )
+Seat 6: fazekbandi ( $29.76 USD )
+Seat 3: jmm2869 ( $36.67 USD )
+Seat 1: titirion ( $31.52 USD )
+jmm2869 posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8s Qh ]
+NeolitV folds
+fazekbandi folds
+armejohn99 folds
+TheAlertOne folds
+Nesch1102 raises [$0.50 USD]
+titirion will be using their time bank for this hand.
+titirion calls [$0.50 USD]
+jmm2869 folds
+TilliWilli calls [$0.25 USD]
+** Dealing Flop ** [ 9c, 7d, 2s ]
+TilliWilli checks
+Nesch1102 checks
+titirion will be using their time bank for this hand.
+titirion checks
+** Dealing Turn ** [ 2h ]
+TilliWilli checks
+Nesch1102 checks
+titirion checks
+** Dealing River ** [ Js ]
+TilliWilli checks
+Nesch1102 checks
+titirion will be using their time bank for this hand.
+titirion bets [$0.91 USD]
+TilliWilli folds
+Nesch1102 folds
+titirion does not show cards.
+titirion wins $2.43 USD
+Game #14697253518 starts.
+
+#Game No : 14697253518 
+***** Hand History for Game 14697253518 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 08:59:22 EDT 2015
+Table Salalah (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 5: NeolitV ( $5.15 USD )
+Seat 9: Nesch1102 ( $7.80 USD )
+Seat 2: NoMind_ ( $25 USD )
+Seat 8: TheAlertOne ( $17.89 USD )
+Seat 4: TilliWilli ( $26.82 USD )
+Seat 7: armejohn99 ( $13.07 USD )
+Seat 6: fazekbandi ( $29.76 USD )
+Seat 3: jmm2869 ( $36.57 USD )
+Seat 1: titirion ( $32.54 USD )
+TilliWilli posts small blind [$0.10 USD].
+NeolitV posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Tc Ts ]
+fazekbandi folds
+armejohn99 raises [$1 USD]
+Nesch1102 folds
+titirion will be using their time bank for this hand.
+titirion calls [$1 USD]
+jmm2869 folds
+TilliWilli calls [$0.90 USD]
+NeolitV folds
+** Dealing Flop ** [ 6s, 9s, 2h ]
+TilliWilli bets [$0.50 USD]
+armejohn99 folds
+titirion folds
+TilliWilli does not show cards.
+TilliWilli wins $3.59 USD
+Game #14697255650 starts.
+
+#Game No : 14697255650 
+***** Hand History for Game 14697255650 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 09:00:05 EDT 2015
+Table Salalah (Real Money)
+Seat 4 is the button
+Total number of players : 9/9 
+Seat 5: NeolitV ( $4.90 USD )
+Seat 9: Nesch1102 ( $7.80 USD )
+Seat 2: NoMind_ ( $25 USD )
+Seat 8: TheAlertOne ( $17.89 USD )
+Seat 4: TilliWilli ( $28.91 USD )
+Seat 7: armejohn99 ( $12.07 USD )
+Seat 6: fazekbandi ( $29.76 USD )
+Seat 3: jmm2869 ( $36.57 USD )
+Seat 1: titirion ( $31.54 USD )
+NeolitV posts small blind [$0.10 USD].
+fazekbandi posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Js 5s ]
+armejohn99 raises [$1.50 USD]
+Nesch1102 folds
+titirion will be using their time bank for this hand.
+titirion folds
+jmm2869 folds
+TilliWilli folds
+NeolitV folds
+fazekbandi folds
+armejohn99 does not show cards.
+armejohn99 wins $1.85 USD
+Game #14697256046 starts.
+
+#Game No : 14697256046 
+***** Hand History for Game 14697256046 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 09:00:31 EDT 2015
+Table Salalah (Real Money)
+Seat 5 is the button
+Total number of players : 9/9 
+Seat 5: NeolitV ( $4.80 USD )
+Seat 9: Nesch1102 ( $7.80 USD )
+Seat 2: NoMind_ ( $25 USD )
+Seat 8: TheAlertOne ( $17.89 USD )
+Seat 4: TilliWilli ( $28.91 USD )
+Seat 7: armejohn99 ( $12.42 USD )
+Seat 6: fazekbandi ( $29.51 USD )
+Seat 3: jmm2869 ( $36.57 USD )
+Seat 1: titirion ( $31.54 USD )
+fazekbandi posts small blind [$0.10 USD].
+armejohn99 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2c Ac ]
+Nesch1102 calls [$0.25 USD]
+titirion folds
+jmm2869 folds
+TilliWilli calls [$0.25 USD]
+NeolitV raises [$1.50 USD]
+fazekbandi folds
+armejohn99 raises [$2.50 USD]
+Nesch1102 folds
+TilliWilli folds
+NeolitV is all-In  [$3.30 USD]
+armejohn99 calls [$2.05 USD]
+** Dealing Flop ** [ 4h, Qh, Tc ]
+** Dealing Turn ** [ 7d ]
+** Dealing River ** [ 4s ]
+armejohn99 shows [ 8s, 6s ]a pair of Fours.
+NeolitV shows [ 9c, Ah ]a pair of Fours with Ace kicker.
+NeolitV wins $9.69 USD from the main pot with a pair of Fours with Ace kicker.
+Game #14697257126 starts.
+
+#Game No : 14697257126 
+***** Hand History for Game 14697257126 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 09:01:40 EDT 2015
+Table Salalah (Real Money)
+Seat 6 is the button
+Total number of players : 9/9 
+Seat 5: NeolitV ( $9.69 USD )
+Seat 9: Nesch1102 ( $7.55 USD )
+Seat 2: NoMind_ ( $25 USD )
+Seat 8: TheAlertOne ( $17.89 USD )
+Seat 4: TilliWilli ( $28.66 USD )
+Seat 7: armejohn99 ( $7.62 USD )
+Seat 6: fazekbandi ( $29.41 USD )
+Seat 3: jmm2869 ( $36.57 USD )
+Seat 1: titirion ( $31.54 USD )
+armejohn99 posts small blind [$0.10 USD].
+Nesch1102 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9h Ks ]
+titirion will be using their time bank for this hand.
+titirion folds
+jmm2869 folds
+TilliWilli raises [$0.50 USD]
+NeolitV folds
+fazekbandi folds
+armejohn99 folds
+Nesch1102 folds
+TilliWilli does not show cards.
+TilliWilli wins $0.85 USD
+Game #14697257454 starts.
+
+#Game No : 14697257454 
+***** Hand History for Game 14697257454 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 09:01:58 EDT 2015
+Table Salalah (Real Money)
+Seat 7 is the button
+Total number of players : 9/9 
+Seat 5: NeolitV ( $9.69 USD )
+Seat 9: Nesch1102 ( $7.30 USD )
+Seat 2: NoMind_ ( $25 USD )
+Seat 8: TheAlertOne ( $17.89 USD )
+Seat 4: TilliWilli ( $29.01 USD )
+Seat 7: armejohn99 ( $7.52 USD )
+Seat 6: fazekbandi ( $29.41 USD )
+Seat 3: jmm2869 ( $36.57 USD )
+Seat 1: titirion ( $31.54 USD )
+Nesch1102 posts small blind [$0.10 USD].
+titirion posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5h Ad ]
+jmm2869 folds
+TilliWilli folds
+NeolitV folds
+fazekbandi folds
+armejohn99 calls [$0.25 USD]
+Nesch1102 calls [$0.15 USD]
+titirion will be using their time bank for this hand.
+titirion raises [$0.50 USD]
+armejohn99 is all-In  [$7.27 USD]
+Nesch1102 folds
+titirion will be using their time bank for this hand.
+titirion folds
+armejohn99 does not show cards.
+armejohn99 wins $8.52 USD
+Game #14697258543 starts.
+
+#Game No : 14697258543 
+***** Hand History for Game 14697258543 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 09:02:59 EDT 2015
+Table Salalah (Real Money)
+Seat 9 is the button
+Total number of players : 9/9 
+Seat 5: NeolitV ( $9.69 USD )
+Seat 9: Nesch1102 ( $7.05 USD )
+Seat 2: NoMind_ ( $25 USD )
+Seat 8: TheAlertOne ( $17.89 USD )
+Seat 4: TilliWilli ( $29.01 USD )
+Seat 7: armejohn99 ( $8.52 USD )
+Seat 6: fazekbandi ( $29.41 USD )
+Seat 3: jmm2869 ( $36.57 USD )
+Seat 1: titirion ( $30.79 USD )
+titirion posts small blind [$0.10 USD].
+NoMind_ posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Tc 3c ]
+jmm2869 folds
+TilliWilli folds
+NeolitV folds
+fazekbandi folds
+armejohn99 raises [$0.50 USD]
+Nesch1102 folds
+titirion will be using their time bank for this hand.
+titirion folds
+NoMind_ calls [$0.25 USD]
+** Dealing Flop ** [ 9h, 5h, 3s ]
+NoMind_ checks
+armejohn99 bets [$1.05 USD]
+NoMind_ folds
+armejohn99 does not show cards.
+armejohn99 wins $2.10 USD
+Game #14697259265 starts.
+
+#Game No : 14697259265 
+***** Hand History for Game 14697259265 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 09:03:38 EDT 2015
+Table Salalah (Real Money)
+Seat 1 is the button
+Total number of players : 9/9 
+Seat 5: NeolitV ( $9.69 USD )
+Seat 9: Nesch1102 ( $7.05 USD )
+Seat 2: NoMind_ ( $25 USD )
+Seat 8: TheAlertOne ( $17.89 USD )
+Seat 4: TilliWilli ( $29.01 USD )
+Seat 7: armejohn99 ( $9.07 USD )
+Seat 6: fazekbandi ( $29.41 USD )
+Seat 3: jmm2869 ( $36.57 USD )
+Seat 1: titirion ( $30.69 USD )
+NoMind_ posts small blind [$0.10 USD].
+jmm2869 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3s 2h ]
+TilliWilli folds
+NeolitV raises [$0.75 USD]
+fazekbandi folds
+armejohn99 folds
+Nesch1102 folds
+titirion will be using their time bank for this hand.
+titirion folds
+NoMind_ folds
+jmm2869 folds
+NeolitV does not show cards.
+NeolitV wins $1.10 USD
+Game #14697259753 starts.
+
+#Game No : 14697259753 
+***** Hand History for Game 14697259753 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 09:04:06 EDT 2015
+Table Salalah (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 5: NeolitV ( $10.04 USD )
+Seat 9: Nesch1102 ( $7.05 USD )
+Seat 2: NoMind_ ( $24.90 USD )
+Seat 8: TheAlertOne ( $17.89 USD )
+Seat 4: TilliWilli ( $29.01 USD )
+Seat 7: armejohn99 ( $9.07 USD )
+Seat 6: fazekbandi ( $29.41 USD )
+Seat 3: jmm2869 ( $36.32 USD )
+Seat 1: titirion ( $30.69 USD )
+jmm2869 posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  6d 4h ]
+NeolitV folds
+fazekbandi raises [$0.75 USD]
+armejohn99 calls [$0.75 USD]
+Nesch1102 folds
+titirion folds
+NoMind_ folds
+jmm2869 folds
+TilliWilli folds
+** Dealing Flop ** [ As, 5c, Qd ]
+fazekbandi bets [$1.17 USD]
+armejohn99 calls [$1.17 USD]
+** Dealing Turn ** [ Kd ]
+fazekbandi bets [$2.99 USD]
+armejohn99 is all-In  [$7.15 USD]
+fazekbandi calls [$4.16 USD]
+** Dealing River ** [ 4s ]
+fazekbandi shows [ Qs, Ah ]two pairs, Aces and Queens.
+armejohn99 doesn't show [ Qh, 7h ]a pair of Queens.
+fazekbandi wins $17.57 USD from the main pot with two pairs, Aces and Queens.
+Game #14697261072 starts.
+
+#Game No : 14697261072 
+***** Hand History for Game 14697261072 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 09:05:24 EDT 2015
+Table Salalah (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 5: NeolitV ( $10.04 USD )
+Seat 9: Nesch1102 ( $7.05 USD )
+Seat 2: NoMind_ ( $25 USD )
+Seat 8: TheAlertOne ( $17.89 USD )
+Seat 4: TilliWilli ( $28.76 USD )
+Seat 7: armejohn99 ( $0 USD )
+Seat 6: fazekbandi ( $37.91 USD )
+Seat 3: jmm2869 ( $36.22 USD )
+Seat 1: titirion ( $30.69 USD )
+TilliWilli posts small blind [$0.10 USD].
+NeolitV posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2c Kc ]
+fazekbandi folds
+armejohn99 has left the table.
+Nesch1102 calls [$0.25 USD]
+titirion will be using their time bank for this hand.
+titirion folds
+NoMind_ folds
+jmm2869 folds
+TilliWilli calls [$0.15 USD]
+NeolitV checks
+** Dealing Flop ** [ As, 9c, 4h ]
+TilliWilli checks
+NeolitV checks
+Nesch1102 checks
+** Dealing Turn ** [ 5h ]
+TilliWilli bets [$0.25 USD]
+NeolitV calls [$0.25 USD]
+Nesch1102 folds
+** Dealing River ** [ 6c ]
+TilliWilli bets [$0.25 USD]
+NeolitV folds
+TilliWilli does not show cards.
+TilliWilli wins $1.44 USD
+Game #14697263487 starts.
+
+#Game No : 14697263487 
+***** Hand History for Game 14697263487 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 09:06:40 EDT 2015
+Table Salalah (Real Money)
+Seat 4 is the button
+Total number of players : 8/9 
+Seat 5: NeolitV ( $9.54 USD )
+Seat 9: Nesch1102 ( $6.80 USD )
+Seat 2: NoMind_ ( $25 USD )
+Seat 8: TheAlertOne ( $17.89 USD )
+Seat 4: TilliWilli ( $29.45 USD )
+Seat 6: fazekbandi ( $37.91 USD )
+Seat 3: jmm2869 ( $36.22 USD )
+Seat 1: titirion ( $30.69 USD )
+NeolitV posts small blind [$0.10 USD].
+fazekbandi posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3s 9h ]
+Nesch1102 calls [$0.25 USD]
+titirion will be using their time bank for this hand.
+Milana_2013 has joined the table.
+titirion raises [$1 USD]
+NoMind_ raises [$3.25 USD]
+jmm2869 folds
+TilliWilli folds
+NeolitV folds
+fazekbandi folds
+Nesch1102 folds
+titirion will be using their time bank for this hand.
+titirion raises [$4.50 USD]
+NoMind_ calls [$2.25 USD]
+** Dealing Flop ** [ 6s, 4s, 4d ]
+titirion will be using their time bank for this hand.
+titirion bets [$8.82 USD]
+NoMind_ folds
+titirion does not show cards.
+titirion wins $19.84 USD
+Game #14697264930 starts.
+
+#Game No : 14697264930 
+***** Hand History for Game 14697264930 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 09:07:57 EDT 2015
+Table Salalah (Real Money)
+Seat 5 is the button
+Total number of players : 9/9 
+Seat 7: Milana_2013 ( $25 USD )
+Seat 5: NeolitV ( $9.44 USD )
+Seat 9: Nesch1102 ( $6.55 USD )
+Seat 2: NoMind_ ( $25 USD )
+Seat 8: TheAlertOne ( $17.89 USD )
+Seat 4: TilliWilli ( $29.45 USD )
+Seat 6: fazekbandi ( $37.66 USD )
+Seat 3: jmm2869 ( $36.22 USD )
+Seat 1: titirion ( $36.21 USD )
+fazekbandi posts small blind [$0.10 USD].
+Milana_2013 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  6s Js ]
+Nesch1102 folds
+titirion folds
+NoMind_ raises [$0.75 USD]
+jmm2869 calls [$0.75 USD]
+TilliWilli folds
+NeolitV folds
+fazekbandi folds
+Milana_2013 folds
+** Dealing Flop ** [ 8s, Ks, 8c ]
+NoMind_ checks
+jmm2869 checks
+** Dealing Turn ** [ 6d ]
+NoMind_ bets [$1.32 USD]
+jmm2869 folds
+NoMind_ does not show cards.
+NoMind_ wins $3.08 USD
+Game #14697265926 starts.
+
+#Game No : 14697265926 
+***** Hand History for Game 14697265926 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 09:08:53 EDT 2015
+Table Salalah (Real Money)
+Seat 6 is the button
+Total number of players : 9/9 
+Seat 7: Milana_2013 ( $25 USD )
+Seat 5: NeolitV ( $9.44 USD )
+Seat 9: Nesch1102 ( $6.55 USD )
+Seat 2: NoMind_ ( $26.01 USD )
+Seat 8: TheAlertOne ( $17.89 USD )
+Seat 4: TilliWilli ( $29.45 USD )
+Seat 6: fazekbandi ( $37.56 USD )
+Seat 3: jmm2869 ( $35.47 USD )
+Seat 1: titirion ( $36.21 USD )
+Milana_2013 posts small blind [$0.10 USD].
+TheAlertOne posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5s 9h ]
+Nesch1102 calls [$0.25 USD]
+titirion will be using their time bank for this hand.
+titirion folds
+NoMind_ folds
+jmm2869 folds
+TilliWilli folds
+NeolitV folds
+fazekbandi folds
+Milana_2013 folds
+TheAlertOne checks
+** Dealing Flop ** [ 8h, Kd, Ts ]
+TheAlertOne checks
+Nesch1102 checks
+** Dealing Turn ** [ 3s ]
+TheAlertOne bets [$0.28 USD]
+Nesch1102 folds
+TheAlertOne does not show cards.
+TheAlertOne wins $0.85 USD
+Game #14697267208 starts.
+
+#Game No : 14697267208 
+***** Hand History for Game 14697267208 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 09:10:03 EDT 2015
+Table Salalah (Real Money)
+Seat 7 is the button
+Total number of players : 9/9 
+Seat 7: Milana_2013 ( $25 USD )
+Seat 5: NeolitV ( $9.44 USD )
+Seat 9: Nesch1102 ( $6.30 USD )
+Seat 2: NoMind_ ( $26.01 USD )
+Seat 8: TheAlertOne ( $18.21 USD )
+Seat 4: TilliWilli ( $29.45 USD )
+Seat 6: fazekbandi ( $37.56 USD )
+Seat 3: jmm2869 ( $35.47 USD )
+Seat 1: titirion ( $36.21 USD )
+TheAlertOne posts small blind [$0.10 USD].
+Nesch1102 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  7h 9c ]
+titirion will be using their time bank for this hand.
+titirion folds
+NoMind_ folds
+jmm2869 folds
+TilliWilli folds
+NeolitV folds
+fazekbandi raises [$0.75 USD]
+Milana_2013 folds
+TheAlertOne folds
+Nesch1102 folds
+fazekbandi does not show cards.
+fazekbandi wins $1.10 USD
+Game #14697268065 starts.
+
+#Game No : 14697268065 
+***** Hand History for Game 14697268065 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 09:10:49 EDT 2015
+Table Salalah (Real Money)
+Seat 8 is the button
+Total number of players : 9/9 
+Seat 7: Milana_2013 ( $25 USD )
+Seat 5: NeolitV ( $9.44 USD )
+Seat 9: Nesch1102 ( $6.05 USD )
+Seat 2: NoMind_ ( $26.01 USD )
+Seat 8: TheAlertOne ( $18.11 USD )
+Seat 4: TilliWilli ( $29.45 USD )
+Seat 6: fazekbandi ( $37.91 USD )
+Seat 3: jmm2869 ( $35.47 USD )
+Seat 1: titirion ( $36.21 USD )
+Nesch1102 posts small blind [$0.10 USD].
+titirion posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Js 7s ]
+NoMind_ folds
+jmm2869 folds
+TilliWilli folds
+NeolitV folds
+fazekbandi folds
+Milana_2013 folds
+TheAlertOne raises [$0.50 USD]
+Nesch1102 calls [$0.40 USD]
+titirion will be using their time bank for this hand.
+titirion calls [$0.25 USD]
+** Dealing Flop ** [ 7d, Qd, 8d ]
+Nesch1102 bets [$0.71 USD]
+titirion will be using their time bank for this hand.
+titirion folds
+TheAlertOne calls [$0.71 USD]
+** Dealing Turn ** [ 7c ]
+Nesch1102 bets [$1.39 USD]
+TheAlertOne calls [$1.39 USD]
+** Dealing River ** [ Jc ]
+Nesch1102 bets [$2.71 USD]
+TheAlertOne calls [$2.71 USD]
+Nesch1102 shows [ Qh, Th ]two pairs, Queens and Sevens.
+TheAlertOne doesn't show [ 9c, 9s ]two pairs, Nines and Sevens.
+Nesch1102 wins $10.57 USD from the main pot with two pairs, Queens and Sevens.
+Game #14697269699 starts.
+
+#Game No : 14697269699 
+***** Hand History for Game 14697269699 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 09:11:49 EDT 2015
+Table Salalah (Real Money)
+Seat 9 is the button
+Total number of players : 9/9 
+Seat 7: Milana_2013 ( $25 USD )
+Seat 5: NeolitV ( $9.44 USD )
+Seat 9: Nesch1102 ( $11.31 USD )
+Seat 2: NoMind_ ( $26.01 USD )
+Seat 8: TheAlertOne ( $12.80 USD )
+Seat 4: TilliWilli ( $29.45 USD )
+Seat 6: fazekbandi ( $37.91 USD )
+Seat 3: jmm2869 ( $35.47 USD )
+Seat 1: titirion ( $35.71 USD )
+titirion posts small blind [$0.10 USD].
+NoMind_ posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Jc Tc ]
+jmm2869 folds
+TilliWilli raises [$0.50 USD]
+NeolitV folds
+fazekbandi folds
+Milana_2013 folds
+TheAlertOne calls [$0.50 USD]
+Nesch1102 calls [$0.50 USD]
+titirion will be using their time bank for this hand.
+titirion folds
+NoMind_ folds
+** Dealing Flop ** [ 6h, Jd, Ah ]
+TilliWilli bets [$0.50 USD]
+TheAlertOne calls [$0.50 USD]
+Nesch1102 calls [$0.50 USD]
+** Dealing Turn ** [ Td ]
+TilliWilli bets [$0.50 USD]
+TheAlertOne calls [$0.50 USD]
+Nesch1102 calls [$0.50 USD]
+** Dealing River ** [ Kc ]
+TilliWilli bets [$6 USD]
+TheAlertOne folds
+Nesch1102 folds
+TilliWilli does not show cards.
+TilliWilli wins $10.61 USD
+
+Game #14697271354 starts.
+#Game No : 14697271354 
+Table Closed
+The hand history for this hand number is not available here.Please use Instant Hand History in the "Game Rules & Options"  menu to have this hand history delivered to the email address you have registered with us.
+

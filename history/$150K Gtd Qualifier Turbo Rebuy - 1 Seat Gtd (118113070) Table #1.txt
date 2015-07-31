@@ -1,0 +1,188 @@
+Game #14683236776 starts.
+
+#Game No : 14683236776 
+***** Hand History for Game 14683236776 *****
+NL Texas Hold'em $2 USD Buy-in Trny: 118113070 Level: 1  Blinds(10/20) - Monday, July 20, 15:47:13 EDT 2015
+Table $150K Gtd Qualifier Turbo Rebuy - 1 Seat Gtd (118113070) Table #1 (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 8: T3ZZ3R14 ( 2,000 )
+Seat 6: ThunderMalot ( 2,020 )
+Seat 9: TilliWilli ( 2,000 )
+Seat 5: canarias111 ( 3,990 )
+Seat 7: eculipto ( 4,050 )
+Seat 2: i_ft_never ( 1,990 )
+Seat 4: kind_boy1 ( 1,980 )
+Seat 3: macbug ( 3,970 )
+Seat 1: mits83 ( 2,000 )
+Trny: 118113070 Level: 1 
+Blinds(10/20)
+kind_boy1 posts small blind [10].
+canarias111 posts big blind [20].
+** Dealing down cards **
+Dealt to TilliWilli [  Jc 6s ]
+ThunderMalot calls [20]
+eculipto calls [20]
+T3ZZ3R14 folds
+TilliWilli folds
+mits83 folds
+i_ft_never folds
+macbug folds
+kind_boy1 folds
+canarias111 checks
+** Dealing Flop ** [ Jh, 7d, 5h ]
+canarias111 checks
+ThunderMalot bets [40]
+eculipto calls [40]
+canarias111 folds
+** Dealing Turn ** [ Kh ]
+ThunderMalot checks
+eculipto checks
+** Dealing River ** [ 3d ]
+ThunderMalot bets [160]
+eculipto folds
+ThunderMalot does not show cards.
+ThunderMalot wins 310 chips
+Game #14683242142 starts.
+
+#Game No : 14683242142 
+***** Hand History for Game 14683242142 *****
+NL Texas Hold'em $2 USD Buy-in Trny: 118113070 Level: 1  Blinds(10/20) - Monday, July 20, 15:49:12 EDT 2015
+Table $150K Gtd Qualifier Turbo Rebuy - 1 Seat Gtd (118113070) Table #1 (Real Money)
+Seat 4 is the button
+Total number of players : 9/9 
+Seat 8: T3ZZ3R14 ( 2,000 )
+Seat 6: ThunderMalot ( 2,110 )
+Seat 9: TilliWilli ( 2,000 )
+Seat 5: canarias111 ( 3,970 )
+Seat 7: eculipto ( 3,990 )
+Seat 2: i_ft_never ( 1,990 )
+Seat 4: kind_boy1 ( 1,970 )
+Seat 3: macbug ( 3,970 )
+Seat 1: mits83 ( 2,000 )
+Trny: 118113070 Level: 1 
+Blinds(10/20)
+canarias111 posts small blind [10].
+ThunderMalot posts big blind [20].
+** Dealing down cards **
+Dealt to TilliWilli [  Qc Jh ]
+eculipto folds
+T3ZZ3R14 folds
+TilliWilli raises [80]
+mits83 folds
+i_ft_never folds
+macbug folds
+kind_boy1 folds
+canarias111 calls [70]
+ThunderMalot calls [60]
+** Dealing Flop ** [ 4c, 3d, 2h ]
+canarias111 checks
+ThunderMalot bets [40]
+TilliWilli raises [80]
+canarias111 folds
+There will be a break in 4 minute(s)
+ThunderMalot calls [40]
+** Dealing Turn ** [ Qs ]
+ThunderMalot checks
+TilliWilli bets [150]
+ThunderMalot folds
+TilliWilli does not show cards.
+TilliWilli wins 550 chips
+Rebuy: ThunderMalot rebuys 2,000 chips and the chip stack increases from 1,950 chips to 3,950 chips.
+Game #14683244536 starts.
+
+#Game No : 14683244536 
+***** Hand History for Game 14683244536 *****
+NL Texas Hold'em $2 USD Buy-in Trny: 118113070 Level: 2  Blinds(15/30) - Monday, July 20, 15:50:18 EDT 2015
+Table $150K Gtd Qualifier Turbo Rebuy - 1 Seat Gtd (118113070) Table #1 (Real Money)
+Seat 5 is the button
+Total number of players : 9/9 
+Seat 8: T3ZZ3R14 ( 2,000 )
+Seat 6: ThunderMalot ( 3,950 )
+Seat 9: TilliWilli ( 2,240 )
+Seat 5: canarias111 ( 3,890 )
+Seat 7: eculipto ( 3,990 )
+Seat 2: i_ft_never ( 1,990 )
+Seat 4: kind_boy1 ( 1,970 )
+Seat 3: macbug ( 3,970 )
+Seat 1: mits83 ( 2,000 )
+Trny: 118113070 Level: 2 
+Blinds(15/30)
+ThunderMalot posts small blind [15].
+eculipto posts big blind [30].
+** Dealing down cards **
+Dealt to TilliWilli [  5h Kh ]
+T3ZZ3R14 raises [60]
+TilliWilli folds
+mits83 calls [60]
+i_ft_never folds
+macbug folds
+kind_boy1 folds
+canarias111 folds
+ThunderMalot calls [45]
+eculipto calls [30]
+** Dealing Flop ** [ 2s, 7s, 4d ]
+ThunderMalot bets [60]
+eculipto calls [60]
+T3ZZ3R14 calls [60]
+mits83 is all-In  [1,940]
+ThunderMalot folds
+eculipto folds
+T3ZZ3R14 folds
+mits83 does not show cards.
+mits83 wins 2,360 chips
+Game #14683248428 starts.
+
+#Game No : 14683248428 
+***** Hand History for Game 14683248428 *****
+NL Texas Hold'em $2 USD Buy-in Trny: 118113070 Level: 2  Blinds(15/30) - Monday, July 20, 15:51:51 EDT 2015
+Table $150K Gtd Qualifier Turbo Rebuy - 1 Seat Gtd (118113070) Table #1 (Real Money)
+Seat 6 is the button
+Total number of players : 9/9 
+Seat 8: T3ZZ3R14 ( 1,880 )
+Seat 6: ThunderMalot ( 3,830 )
+Seat 9: TilliWilli ( 2,240 )
+Seat 5: canarias111 ( 3,890 )
+Seat 7: eculipto ( 3,870 )
+Seat 2: i_ft_never ( 1,990 )
+Seat 4: kind_boy1 ( 1,970 )
+Seat 3: macbug ( 3,970 )
+Seat 1: mits83 ( 2,360 )
+Trny: 118113070 Level: 2 
+Blinds(15/30)
+eculipto posts small blind [15].
+T3ZZ3R14 posts big blind [30].
+** Dealing down cards **
+Dealt to TilliWilli [  Ts Js ]
+TilliWilli raises [60]
+mits83 folds
+i_ft_never folds
+macbug folds
+kind_boy1 folds
+canarias111 folds
+ThunderMalot calls [60]
+eculipto calls [45]
+T3ZZ3R14 calls [30]
+** Dealing Flop ** [ 2h, 7c, 3h ]
+eculipto checks
+T3ZZ3R14 checks
+TilliWilli bets [30]
+ThunderMalot calls [30]
+eculipto calls [30]
+T3ZZ3R14 will be using their time bank for this hand.
+T3ZZ3R14 calls [30]
+** Dealing Turn ** [ Tc ]
+eculipto checks
+T3ZZ3R14 bets [30]
+TilliWilli raises [200]
+ThunderMalot folds
+eculipto folds
+T3ZZ3R14 calls [170]
+** Dealing River ** [ Kd ]
+T3ZZ3R14 checks
+TilliWilli bets [560]
+T3ZZ3R14 calls [560]
+TilliWilli shows [ Ts, Js ]a pair of Tens.
+T3ZZ3R14 shows [ Td, Jc ]a pair of Tens.
+T3ZZ3R14 wins 940 chips from the main pot with a pair of Tens.
+TilliWilli wins 940 chips from the main pot with a pair of Tens.

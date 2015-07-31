@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+	<meta charset="UTF-8">
+	<title>SParserJS</title>
+	
+	<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+	<script src="http://code.highcharts.com/highcharts.js"></script>
+	<script src="http://code.highcharts.com/modules/exporting.js"></script>
+	
+	
+	<script src="fileLoader.js"></script>
+	<script src="base.js"></script>
+	<script src="stats2.js"></script>
+	<script src="parserCollections.js"></script>
+	<script src="parserManager.js"></script>
+</head>
+<body>
+	<script>
+		CFileLoader.RegisterHandler(
+			function(pResource)
+			{
+				var theParser = new CParserPartyPoker.Create();
+				window.ans = theParser.Parse(pResource);
+				window.depo = [];
+				for(var iX=0; iX<window.ans.length; ++iX)
+				{
+					window.depo.push(window.ans[iX].depositStart);
+				}
+				//
+				$('#deposit').highcharts({
+					chart: {
+						type: 'line'
+					},
+					title: {
+						text: 'Monthly Average Temperature'
+					},
+					subtitle: {
+						text: 'Source: WorldClimate.com'
+					},
+					yAxis: {
+						title: {
+							text: 'Depo (USD)'
+						}
+					},
+					plotOptions: {
+						line: {
+							dataLabels: {
+								enabled: true
+							},
+							enableMouseTracking: true
+						}
+					},
+					series: [{
+						name: 'Poker',
+						data: depo.map(parseFloat)
+					}]
+				});
+			}
+		);
+		CFileLoader.Load();
+	</script>
+	<div id="deposit"></div>
+</body>
+</html>

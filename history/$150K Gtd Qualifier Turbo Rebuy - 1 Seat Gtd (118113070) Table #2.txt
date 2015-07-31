@@ -1,0 +1,268 @@
+Game #14683255115 starts.
+
+#Game No : 14683255115 
+***** Hand History for Game 14683255115 *****
+NL Texas Hold'em $2 USD Buy-in Trny: 118113070 Level: 1  Blinds(15/30) - Monday, July 20, 15:54:11 EDT 2015
+Table $150K Gtd Qualifier Turbo Rebuy - 1 Seat Gtd (118113070) Table #2 (Real Money)
+Seat 2 is the button
+Total number of players : 5/9 
+Seat 3: TilliWilli ( 2,330 )
+Seat 2: eculipto ( 3,780 )
+Seat 4: i_ft_never ( 1,990 )
+Seat 5: kind_boy1 ( 1,970 )
+Seat 1: logofet ( 2,000 )
+Trny: 118113070 Level: 1 
+Blinds(15/30)
+TilliWilli posts small blind [15].
+i_ft_never posts big blind [30].
+** Dealing down cards **
+Dealt to TilliWilli [  6c 2s ]
+Leviisu has joined the table.
+kind_boy1 folds
+logofet folds
+eculipto folds
+TilliWilli folds
+i_ft_never does not show cards.
+i_ft_never wins 45 chips
+Game #14683255773 starts.
+
+#Game No : 14683255773 
+***** Hand History for Game 14683255773 *****
+NL Texas Hold'em $2 USD Buy-in Trny: 118113070 Level: 2  Blinds(15/30) - Monday, July 20, 15:54:32 EDT 2015
+Table $150K Gtd Qualifier Turbo Rebuy - 1 Seat Gtd (118113070) Table #2 (Real Money)
+Seat 3 is the button
+Total number of players : 6/9 
+Seat 6: Leviisu ( 2,000 )
+Seat 3: TilliWilli ( 2,315 )
+Seat 2: eculipto ( 3,780 )
+Seat 4: i_ft_never ( 2,005 )
+Seat 5: kind_boy1 ( 1,970 )
+Seat 1: logofet ( 2,000 )
+Trny: 118113070 Level: 2 
+Blinds(15/30)
+i_ft_never posts small blind [15].
+kind_boy1 posts big blind [30].
+** Dealing down cards **
+Dealt to TilliWilli [  8s 6c ]
+Leviisu raises [75]
+logofet folds
+eculipto calls [75]
+TilliWilli folds
+i_ft_never folds
+kind_boy1 calls [45]
+** Dealing Flop ** [ Js, 9d, 4s ]
+kind_boy1 checks
+Leviisu will be using their time bank for this hand.
+Leviisu bets [120]
+eculipto will be using their time bank for this hand.
+eculipto did not respond in time
+eculipto folds
+kind_boy1 will be using their time bank for this hand.
+kind_boy1 did not respond in time
+kind_boy1 folds
+Leviisu does not show cards.
+Leviisu wins 360 chips
+Game #14683260176 starts.
+
+#Game No : 14683260176 
+***** Hand History for Game 14683260176 *****
+NL Texas Hold'em $2 USD Buy-in Trny: 118113070 Level: 2  Blinds(15/30) - Monday, July 20, 16:01:36 EDT 2015
+Table $150K Gtd Qualifier Turbo Rebuy - 1 Seat Gtd (118113070) Table #2 (Real Money)
+Seat 4 is the button
+Total number of players : 7/9 
+Seat 6: Leviisu ( 2,165 )
+Seat 3: TilliWilli ( 2,315 )
+Seat 2: eculipto ( 3,705 )
+Seat 4: i_ft_never ( 1,990 )
+Seat 5: kind_boy1 ( 1,895 )
+Seat 1: logofet ( 2,000 )
+Seat 7: pari119 ( 2,000 )
+Trny: 118113070 Level: 2 
+Blinds(15/30)
+kind_boy1 posts small blind [15].
+Leviisu posts big blind [30].
+** Dealing down cards **
+Dealt to TilliWilli [  3h Ad ]
+pari119 raises [120]
+logofet folds
+eculipto folds
+TilliWilli folds
+i_ft_never folds
+kind_boy1 folds
+Leviisu calls [90]
+** Dealing Flop ** [ 2s, 5h, Ah ]
+Leviisu checks
+pari119 bets [191]
+Leviisu calls [191]
+** Dealing Turn ** [ 5s ]
+Leviisu checks
+pari119 bets [318]
+Leviisu calls [318]
+** Dealing River ** [ Qh ]
+Leviisu checks
+pari119 checks
+Leviisu shows [ 4s, Kh ]a pair of Fives.
+pari119 shows [ Qc, As ]two pairs, Aces and Queens.
+pari119 wins 1,273 chips from the main pot with two pairs, Aces and Queens.
+Game #14683272377 starts.
+
+#Game No : 14683272377 
+***** Hand History for Game 14683272377 *****
+NL Texas Hold'em $2 USD Buy-in Trny: 118113070 Level: 3  Blinds(20/40) - Monday, July 20, 16:02:59 EDT 2015
+Table $150K Gtd Qualifier Turbo Rebuy - 1 Seat Gtd (118113070) Table #2 (Real Money)
+Seat 5 is the button
+Total number of players : 7/9 
+Seat 6: Leviisu ( 1,536 )
+Seat 3: TilliWilli ( 2,315 )
+Seat 2: eculipto ( 3,705 )
+Seat 4: i_ft_never ( 1,990 )
+Seat 5: kind_boy1 ( 1,880 )
+Seat 1: logofet ( 2,000 )
+Seat 7: pari119 ( 2,644 )
+Trny: 118113070 Level: 3 
+Blinds(20/40)
+Leviisu posts small blind [20].
+pari119 posts big blind [40].
+** Dealing down cards **
+Dealt to TilliWilli [  Qh Ah ]
+logofet raises [320]
+eculipto folds
+TilliWilli raises [800]
+i_ft_never folds
+kind_boy1 folds
+Leviisu is all-In  [1,516]
+pari119 folds
+logofet is all-In  [1,680]
+TilliWilli calls [1,200]
+** Dealing Flop ** [ 8c, 4d, 7h ]
+** Dealing Turn ** [ 5s ]
+** Dealing River ** [ 3c ]
+TilliWilli shows [ Qh, Ah ]high card Ace.
+Leviisu shows [ Ac, Qd ]high card Ace.
+logofet shows [ 9d, 9s ]a pair of Nines.
+logofet wins 928 chips from the side pot 1 with a pair of Nines.
+logofet wins 4,648 chips from the main pot with a pair of Nines.
+waiting for Leviisu  to rebuy in  20 seconds to continue playing in the tournament
+Rebuy: Leviisu rebuys 4,000 chips and the chip stack increases from 0 chips to 4,000 chips.
+Game #14683274194 starts.
+
+#Game No : 14683274194 
+***** Hand History for Game 14683274194 *****
+NL Texas Hold'em $2 USD Buy-in Trny: 118113070 Level: 3  Blinds(20/40) - Monday, July 20, 16:03:43 EDT 2015
+Table $150K Gtd Qualifier Turbo Rebuy - 1 Seat Gtd (118113070) Table #2 (Real Money)
+Seat 6 is the button
+Total number of players : 7/9 
+Seat 6: Leviisu ( 4,000 )
+Seat 3: TilliWilli ( 315 )
+Seat 2: eculipto ( 3,705 )
+Seat 4: i_ft_never ( 1,990 )
+Seat 5: kind_boy1 ( 1,880 )
+Seat 1: logofet ( 5,576 )
+Seat 7: pari119 ( 2,604 )
+Trny: 118113070 Level: 3 
+Blinds(20/40)
+pari119 posts small blind [20].
+logofet posts big blind [40].
+** Dealing down cards **
+Dealt to TilliWilli [  2d 6h ]
+eculipto calls [40]
+TilliWilli folds
+i_ft_never folds
+kind_boy1 folds
+Leviisu folds
+pari119 calls [20]
+logofet folds
+** Dealing Flop ** [ Qs, Kd, Jd ]
+pari119 checks
+eculipto checks
+** Dealing Turn ** [ Kh ]
+pari119 bets [40]
+eculipto calls [40]
+** Dealing River ** [ 8s ]
+pari119 bets [100]
+eculipto did not respond in time
+eculipto folds
+pari119 does not show cards.
+pari119 wins 300 chips
+Game #14683276943 starts.
+
+#Game No : 14683276943 
+***** Hand History for Game 14683276943 *****
+NL Texas Hold'em $2 USD Buy-in Trny: 118113070 Level: 3  Blinds(20/40) - Monday, July 20, 16:04:39 EDT 2015
+Table $150K Gtd Qualifier Turbo Rebuy - 1 Seat Gtd (118113070) Table #2 (Real Money)
+Seat 7 is the button
+Total number of players : 7/9 
+Seat 6: Leviisu ( 4,000 )
+Seat 3: TilliWilli ( 315 )
+Seat 2: eculipto ( 3,625 )
+Seat 4: i_ft_never ( 1,990 )
+Seat 5: kind_boy1 ( 1,880 )
+Seat 1: logofet ( 5,536 )
+Seat 7: pari119 ( 2,724 )
+Trny: 118113070 Level: 3 
+Blinds(20/40)
+logofet posts small blind [20].
+eculipto posts big blind [40].
+** Dealing down cards **
+Dealt to TilliWilli [  As 4d ]
+TilliWilli is all-In  [315]
+i_ft_never folds
+kind_boy1 folds
+Leviisu calls [315]
+pari119 folds
+boss46 has joined the table.
+logofet folds
+eculipto folds
+** Dealing Flop ** [ 6s, 8d, Ah ]
+** Dealing Turn ** [ Qd ]
+** Dealing River ** [ 2s ]
+TilliWilli shows [ As, 4d ]a pair of Aces.
+Leviisu shows [ Ac, 7d ]a pair of Aces with Seven kicker.
+Leviisu wins 690 chips from the main pot with a pair of Aces with Seven kicker.
+waiting for TilliWilli  to rebuy in  20 seconds to continue playing in the tournament
+Rebuy: TilliWilli rebuys 2,000 chips and the chip stack increases from 0 chips to 2,000 chips.
+Game #14683278465 starts.
+
+#Game No : 14683278465 
+***** Hand History for Game 14683278465 *****
+NL Texas Hold'em $2 USD Buy-in Trny: 118113070 Level: 3  Blinds(20/40) - Monday, July 20, 16:05:28 EDT 2015
+Table $150K Gtd Qualifier Turbo Rebuy - 1 Seat Gtd (118113070) Table #2 (Real Money)
+Seat 1 is the button
+Total number of players : 8/9 
+Seat 6: Leviisu ( 4,375 )
+Seat 3: TilliWilli ( 2,000 )
+Seat 8: boss46 ( 2,000 )
+Seat 2: eculipto ( 3,585 )
+Seat 4: i_ft_never ( 1,990 )
+Seat 5: kind_boy1 ( 1,880 )
+Seat 1: logofet ( 5,516 )
+Seat 7: pari119 ( 2,724 )
+Trny: 118113070 Level: 3 
+Blinds(20/40)
+eculipto posts small blind [20].
+TilliWilli posts big blind [40].
+** Dealing down cards **
+Dealt to TilliWilli [  4h Js ]
+i_ft_never folds
+kind_boy1 folds
+Leviisu folds
+pari119 calls [40]
+boss46 raises [80]
+logofet folds
+eculipto calls [60]
+TilliWilli folds
+pari119 calls [40]
+** Dealing Flop ** [ Qh, 2c, Kc ]
+eculipto checks
+pari119 checks
+boss46 bets [280]
+eculipto folds
+pari119 folds
+boss46 does not show cards.
+boss46 wins 560 chips
+
+Game #14683280987 starts.
+#Game No : 14683280987 
+Table Closed
+The hand history for this hand number is not available here.Please use Instant Hand History in the "Game Rules & Options"  menu to have this hand history delivered to the email address you have registered with us.
+

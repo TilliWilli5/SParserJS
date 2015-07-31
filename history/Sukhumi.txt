@@ -1,0 +1,2155 @@
+Game #14697621104 starts.
+
+#Game No : 14697621104 
+***** Hand History for Game 14697621104 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:02:35 EDT 2015
+Table Sukhumi (Real Money)
+Seat 6 is the button
+Total number of players : 8/9 
+Seat 5: ChGrBvB ( $9.83 USD )
+Seat 8: TilliWilli ( $25 USD )
+Seat 7: betonik234 ( $24.50 USD )
+Seat 9: bulgur22 ( $19.87 USD )
+Seat 3: cyrillus2104 ( $18.34 USD )
+Seat 6: fruitdrop85 ( $25 USD )
+Seat 1: haagi6 ( $19.01 USD )
+Seat 4: saso1803 ( $40.70 USD )
+betonik234 posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  6c 4c ]
+bulgur22 calls [$0.25 USD]
+haagi6 calls [$0.25 USD]
+cyrillus2104 folds
+ChGrBvB folds
+fruitdrop85 calls [$0.25 USD]
+betonik234 folds
+TilliWilli checks
+** Dealing Flop ** [ Qd, 4d, 6h ]
+TilliWilli checks
+bulgur22 bets [$0.78 USD]
+haagi6 calls [$0.78 USD]
+fruitdrop85 folds
+TilliWilli raises [$1.56 USD]
+bulgur22 calls [$0.78 USD]
+haagi6 calls [$0.78 USD]
+** Dealing Turn ** [ 5d ]
+TilliWilli bets [$1.50 USD]
+pollenW has joined the table.
+bulgur22 folds
+haagi6 calls [$1.50 USD]
+** Dealing River ** [ Qs ]
+TilliWilli bets [$4 USD]
+haagi6 calls [$4 USD]
+TilliWilli shows [ 6c, 4c ]two pairs, Queens and Sixes.
+haagi6 shows [ 2d, 6d ]a flush, Queen high.
+haagi6 wins $15.95 USD from the main pot with a flush, Queen high.
+Game #14697623049 starts.
+
+#Game No : 14697623049 
+***** Hand History for Game 14697623049 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:03:32 EDT 2015
+Table Sukhumi (Real Money)
+Seat 7 is the button
+Total number of players : 9/9 
+Seat 5: ChGrBvB ( $9.83 USD )
+Seat 8: TilliWilli ( $17.69 USD )
+Seat 7: betonik234 ( $24.40 USD )
+Seat 9: bulgur22 ( $18.06 USD )
+Seat 3: cyrillus2104 ( $18.34 USD )
+Seat 6: fruitdrop85 ( $25 USD )
+Seat 1: haagi6 ( $27.65 USD )
+Seat 2: pollenW ( $25.64 USD )
+Seat 4: saso1803 ( $40.70 USD )
+TilliWilli posts small blind [$0.10 USD].
+bulgur22 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Tc 4h ]
+haagi6 folds
+cyrillus2104 folds
+ChGrBvB calls [$0.25 USD]
+fruitdrop85 raises [$1 USD]
+betonik234 raises [$3.50 USD]
+TilliWilli folds
+bulgur22 folds
+ChGrBvB folds
+fruitdrop85 folds
+betonik234 does not show cards.
+betonik234 wins $5.10 USD
+Game #14697623805 starts.
+
+#Game No : 14697623805 
+***** Hand History for Game 14697623805 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:04:03 EDT 2015
+Table Sukhumi (Real Money)
+Seat 8 is the button
+Total number of players : 9/9 
+Seat 5: ChGrBvB ( $9.58 USD )
+Seat 8: TilliWilli ( $17.59 USD )
+Seat 7: betonik234 ( $26 USD )
+Seat 9: bulgur22 ( $17.81 USD )
+Seat 3: cyrillus2104 ( $18.34 USD )
+Seat 6: fruitdrop85 ( $25 USD )
+Seat 1: haagi6 ( $27.65 USD )
+Seat 2: pollenW ( $25.64 USD )
+Seat 4: saso1803 ( $40.70 USD )
+bulgur22 posts small blind [$0.10 USD].
+haagi6 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2s 3d ]
+cyrillus2104 folds
+ChGrBvB folds
+fruitdrop85 folds
+betonik234 folds
+TilliWilli folds
+bulgur22 folds
+haagi6 does not show cards.
+haagi6 wins $0.35 USD
+Game #14697624390 starts.
+
+#Game No : 14697624390 
+***** Hand History for Game 14697624390 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:04:25 EDT 2015
+Table Sukhumi (Real Money)
+Seat 9 is the button
+Total number of players : 9/9 
+Seat 5: ChGrBvB ( $9.58 USD )
+Seat 8: TilliWilli ( $17.59 USD )
+Seat 7: betonik234 ( $26 USD )
+Seat 9: bulgur22 ( $17.71 USD )
+Seat 3: cyrillus2104 ( $18.34 USD )
+Seat 6: fruitdrop85 ( $25 USD )
+Seat 1: haagi6 ( $27.75 USD )
+Seat 2: pollenW ( $25.64 USD )
+Seat 4: saso1803 ( $40.70 USD )
+haagi6 posts small blind [$0.10 USD].
+pollenW posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  6s 4d ]
+cyrillus2104 folds
+ChGrBvB folds
+fruitdrop85 folds
+betonik234 folds
+TilliWilli folds
+bulgur22 calls [$0.25 USD]
+haagi6 raises [$0.40 USD]
+pollenW folds
+bulgur22 calls [$0.25 USD]
+** Dealing Flop ** [ 8h, Th, 4c ]
+haagi6 bets [$0.59 USD]
+bulgur22 raises [$1.18 USD]
+haagi6 calls [$0.59 USD]
+** Dealing Turn ** [ 8s ]
+haagi6 checks
+bulgur22 checks
+** Dealing River ** [ Tc ]
+haagi6 checks
+bulgur22 checks
+haagi6 shows [ Ac, Ks ]two pairs, Tens and Eights.
+bulgur22 shows [ Ah, 4h ]two pairs, Tens and Eights.
+haagi6 wins $1.72 USD from the main pot with two pairs, Tens and Eights.
+bulgur22 wins $1.71 USD from the main pot with two pairs, Tens and Eights.
+Game #14697625807 starts.
+
+#Game No : 14697625807 
+***** Hand History for Game 14697625807 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:05:21 EDT 2015
+Table Sukhumi (Real Money)
+Seat 1 is the button
+Total number of players : 9/9 
+Seat 5: ChGrBvB ( $9.58 USD )
+Seat 8: TilliWilli ( $17.59 USD )
+Seat 7: betonik234 ( $26 USD )
+Seat 9: bulgur22 ( $17.74 USD )
+Seat 3: cyrillus2104 ( $18.34 USD )
+Seat 6: fruitdrop85 ( $25 USD )
+Seat 1: haagi6 ( $27.79 USD )
+Seat 2: pollenW ( $25.39 USD )
+Seat 4: saso1803 ( $40.70 USD )
+pollenW posts small blind [$0.10 USD].
+cyrillus2104 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2d Ks ]
+ChGrBvB folds
+fruitdrop85 folds
+betonik234 folds
+TilliWilli folds
+bulgur22 raises [$0.50 USD]
+haagi6 calls [$0.50 USD]
+pollenW folds
+cyrillus2104 folds
+** Dealing Flop ** [ 8h, Kc, Th ]
+bulgur22 bets [$0.96 USD]
+haagi6 calls [$0.96 USD]
+** Dealing Turn ** [ 7h ]
+bulgur22 bets [$2.33 USD]
+haagi6 calls [$2.33 USD]
+** Dealing River ** [ Ac ]
+bulgur22 is all-In  [$13.95 USD]
+haagi6 folds
+bulgur22 does not show cards.
+bulgur22 wins $21.49 USD
+Game #14697627499 starts.
+
+#Game No : 14697627499 
+***** Hand History for Game 14697627499 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:06:10 EDT 2015
+Table Sukhumi (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 5: ChGrBvB ( $9.58 USD )
+Seat 8: TilliWilli ( $17.59 USD )
+Seat 7: betonik234 ( $26 USD )
+Seat 9: bulgur22 ( $21.49 USD )
+Seat 3: cyrillus2104 ( $18.09 USD )
+Seat 6: fruitdrop85 ( $25 USD )
+Seat 1: haagi6 ( $24 USD )
+Seat 2: pollenW ( $25.29 USD )
+Seat 4: saso1803 ( $40.70 USD )
+cyrillus2104 posts small blind [$0.10 USD].
+ChGrBvB posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Tc 6c ]
+fruitdrop85 folds
+betonik234 folds
+TilliWilli calls [$0.25 USD]
+bulgur22 folds
+haagi6 folds
+pollenW raises [$1 USD]
+cyrillus2104 folds
+ChGrBvB folds
+TilliWilli folds
+pollenW does not show cards.
+pollenW wins $1.60 USD
+Game #14697628264 starts.
+
+#Game No : 14697628264 
+***** Hand History for Game 14697628264 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:06:40 EDT 2015
+Table Sukhumi (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 5: ChGrBvB ( $9.33 USD )
+Seat 8: TilliWilli ( $17.34 USD )
+Seat 7: betonik234 ( $26 USD )
+Seat 9: bulgur22 ( $21.49 USD )
+Seat 3: cyrillus2104 ( $17.99 USD )
+Seat 6: fruitdrop85 ( $25 USD )
+Seat 1: haagi6 ( $24 USD )
+Seat 2: pollenW ( $25.89 USD )
+Seat 4: saso1803 ( $40.70 USD )
+ChGrBvB posts small blind [$0.10 USD].
+fruitdrop85 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qd 5c ]
+betonik234 folds
+TilliWilli folds
+bulgur22 folds
+haagi6 calls [$0.25 USD]
+pollenW folds
+cyrillus2104 calls [$0.25 USD]
+ChGrBvB folds
+fruitdrop85 checks
+** Dealing Flop ** [ Jd, As, Qc ]
+fruitdrop85 checks
+haagi6 checks
+cyrillus2104 bets [$1 USD]
+fruitdrop85 folds
+haagi6 folds
+cyrillus2104 does not show cards.
+cyrillus2104 wins $1.81 USD
+Game #14697629430 starts.
+
+#Game No : 14697629430 
+***** Hand History for Game 14697629430 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:07:26 EDT 2015
+Table Sukhumi (Real Money)
+Seat 5 is the button
+Total number of players : 9/9 
+Seat 5: ChGrBvB ( $9.23 USD )
+Seat 8: TilliWilli ( $17.34 USD )
+Seat 7: betonik234 ( $26 USD )
+Seat 9: bulgur22 ( $21.49 USD )
+Seat 3: cyrillus2104 ( $18.55 USD )
+Seat 6: fruitdrop85 ( $25 USD )
+Seat 1: haagi6 ( $23.75 USD )
+Seat 2: pollenW ( $25.89 USD )
+Seat 4: saso1803 ( $40.70 USD )
+fruitdrop85 posts small blind [$0.10 USD].
+betonik234 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ks Ad ]
+TilliWilli raises [$1 USD]
+bulgur22 calls [$1 USD]
+haagi6 calls [$1 USD]
+pollenW folds
+cyrillus2104 folds
+ChGrBvB folds
+fruitdrop85 did not respond in time
+fruitdrop85 folds
+betonik234 calls [$0.75 USD]
+** Dealing Flop ** [ Th, 4h, 4d ]
+betonik234 bets [$2.92 USD]
+TilliWilli folds
+bulgur22 calls [$2.92 USD]
+haagi6 folds
+** Dealing Turn ** [ 9h ]
+betonik234 checks
+bulgur22 bets [$4 USD]
+betonik234 folds
+bulgur22 does not show cards.
+bulgur22 wins $13.45 USD
+Game #14697631751 starts.
+
+#Game No : 14697631751 
+***** Hand History for Game 14697631751 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:08:36 EDT 2015
+Table Sukhumi (Real Money)
+Seat 6 is the button
+Total number of players : 9/9 
+Seat 5: ChGrBvB ( $9.23 USD )
+Seat 8: TilliWilli ( $16.34 USD )
+Seat 7: betonik234 ( $22.08 USD )
+Seat 9: bulgur22 ( $27.02 USD )
+Seat 3: cyrillus2104 ( $18.55 USD )
+Seat 6: fruitdrop85 ( $25 USD )
+Seat 1: haagi6 ( $22.75 USD )
+Seat 2: pollenW ( $25.89 USD )
+Seat 4: saso1803 ( $40.70 USD )
+betonik234 posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9d 3c ]
+bulgur22 folds
+pollenW raises [$0.75 USD]
+cyrillus2104 folds
+ChGrBvB folds
+fruitdrop85 folds
+betonik234 folds
+TilliWilli folds
+pollenW does not show cards.
+pollenW wins $1.10 USD
+Game #14697632286 starts.
+
+#Game No : 14697632286 
+***** Hand History for Game 14697632286 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:08:56 EDT 2015
+Table Sukhumi (Real Money)
+Seat 7 is the button
+Total number of players : 9/9 
+Seat 5: ChGrBvB ( $9.23 USD )
+Seat 8: TilliWilli ( $16.09 USD )
+Seat 7: betonik234 ( $21.98 USD )
+Seat 9: bulgur22 ( $27.02 USD )
+Seat 3: cyrillus2104 ( $18.55 USD )
+Seat 6: fruitdrop85 ( $25 USD )
+Seat 1: haagi6 ( $22.75 USD )
+Seat 2: pollenW ( $26.24 USD )
+Seat 4: saso1803 ( $40.70 USD )
+TilliWilli posts small blind [$0.10 USD].
+bulgur22 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  7d 9s ]
+pollenW folds
+cyrillus2104 folds
+ChGrBvB raises [$0.60 USD]
+fruitdrop85 folds
+betonik234 calls [$0.60 USD]
+TilliWilli folds
+bulgur22 calls [$0.35 USD]
+** Dealing Flop ** [ 6d, Tc, 4c ]
+bulgur22 checks
+ChGrBvB checks
+betonik234 bets [$1.35 USD]
+bulgur22 folds
+ChGrBvB folds
+betonik234 does not show cards.
+betonik234 wins $3.16 USD
+
+Game #14697633919 starts.
+#Game No : 14697633919 
+Connection Lost due to some reason
+The hand history for this hand number is not available here.Please use Instant Hand History in the "Game Rules & Options"  menu to have this hand history delivered to the email address you have registered with us.
+
+Game #14697634703 starts.
+
+#Game No : 14697634703 
+***** Hand History for Game 14697634703 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:10:10 EDT 2015
+Table Sukhumi (Real Money)
+Seat 9 is the button
+Total number of players : 9/9 
+Seat 5: ChGrBvB ( $8.63 USD )
+Seat 8: TilliWilli ( $16.34 USD )
+Seat 7: betonik234 ( $23.19 USD )
+Seat 9: bulgur22 ( $26.32 USD )
+Seat 3: cyrillus2104 ( $18.55 USD )
+Seat 6: fruitdrop85 ( $25 USD )
+Seat 1: haagi6 ( $22.75 USD )
+Seat 2: pollenW ( $25.99 USD )
+Seat 4: saso1803 ( $40.70 USD )
+pollenW posts small blind [$0.10 USD].
+cyrillus2104 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Jd 5s ]
+ChGrBvB raises [$0.50 USD]
+fruitdrop85 raises [$1.50 USD]
+betonik234 folds
+TilliWilli folds
+bulgur22 folds
+pollenW folds
+cyrillus2104 folds
+ChGrBvB raises [$2.50 USD]
+fruitdrop85 calls [$1.50 USD]
+** Dealing Flop ** [ Th, 7c, 8d ]
+ChGrBvB is all-In  [$5.63 USD]
+fruitdrop85 calls [$5.63 USD]
+** Dealing Turn ** [ 7d ]
+** Dealing River ** [ Kc ]
+ChGrBvB shows [ Ad, Qc ]a pair of Sevens.
+fruitdrop85 shows [ Qh, Qs ]two pairs, Queens and Sevens.
+fruitdrop85 wins $16.73 USD from the main pot with two pairs, Queens and Sevens.
+Game #14697636845 starts.
+
+#Game No : 14697636845 
+***** Hand History for Game 14697636845 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:11:12 EDT 2015
+Table Sukhumi (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 5: ChGrBvB ( $0 USD )
+Seat 8: TilliWilli ( $16.34 USD )
+Seat 7: betonik234 ( $23.19 USD )
+Seat 9: bulgur22 ( $26.32 USD )
+Seat 3: cyrillus2104 ( $18.30 USD )
+Seat 6: fruitdrop85 ( $33.10 USD )
+Seat 1: haagi6 ( $22.75 USD )
+Seat 2: pollenW ( $25.89 USD )
+Seat 4: saso1803 ( $40.70 USD )
+cyrillus2104 posts small blind [$0.10 USD].
+fruitdrop85 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3h 9s ]
+betonik234 folds
+ChGrBvB has left the table.
+TilliWilli folds
+bulgur22 folds
+pollenW folds
+Milana_2013 has joined the table.
+cyrillus2104 calls [$0.15 USD]
+fruitdrop85 checks
+** Dealing Flop ** [ 2h, Jd, Ks ]
+cyrillus2104 checks
+fruitdrop85 checks
+** Dealing Turn ** [ Tc ]
+cyrillus2104 checks
+fruitdrop85 checks
+** Dealing River ** [ 9h ]
+cyrillus2104 bets [$1 USD]
+fruitdrop85 folds
+cyrillus2104 does not show cards.
+cyrillus2104 wins $1.48 USD
+Game #14697637800 starts.
+
+#Game No : 14697637800 
+***** Hand History for Game 14697637800 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:11:49 EDT 2015
+Table Sukhumi (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 5: Milana_2013 ( $27.76 USD )
+Seat 8: TilliWilli ( $16.34 USD )
+Seat 7: betonik234 ( $23.19 USD )
+Seat 9: bulgur22 ( $26.32 USD )
+Seat 3: cyrillus2104 ( $18.53 USD )
+Seat 6: fruitdrop85 ( $32.85 USD )
+Seat 1: haagi6 ( $22.75 USD )
+Seat 2: pollenW ( $25.89 USD )
+Seat 4: saso1803 ( $40.70 USD )
+fruitdrop85 posts small blind [$0.10 USD].
+betonik234 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Kh 7d ]
+TilliWilli folds
+bulgur22 folds
+pollenW raises [$1 USD]
+cyrillus2104 folds
+fruitdrop85 folds
+betonik234 folds
+pollenW does not show cards.
+pollenW wins $1.35 USD
+Game #14697638302 starts.
+
+#Game No : 14697638302 
+***** Hand History for Game 14697638302 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:12:07 EDT 2015
+Table Sukhumi (Real Money)
+Seat 6 is the button
+Total number of players : 9/9 
+Seat 5: Milana_2013 ( $27.76 USD )
+Seat 8: TilliWilli ( $16.34 USD )
+Seat 7: betonik234 ( $22.94 USD )
+Seat 9: bulgur22 ( $26.32 USD )
+Seat 3: cyrillus2104 ( $18.53 USD )
+Seat 6: fruitdrop85 ( $32.75 USD )
+Seat 1: haagi6 ( $22.75 USD )
+Seat 2: pollenW ( $26.24 USD )
+Seat 4: saso1803 ( $40.70 USD )
+betonik234 posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+saso1803 posts big blind + dead [$0.35].
+** Dealing down cards **
+Dealt to TilliWilli [  Qd 7s ]
+bulgur22 calls [$0.25 USD]
+pollenW raises [$1 USD]
+cyrillus2104 folds
+saso1803 folds
+fruitdrop85 folds
+betonik234 will be using their time bank for this hand.
+betonik234 did not respond in time
+betonik234 folds
+Your time bank will be activated in 6 secs. If you do not want it to be used, please act now.
+TilliWilli folds
+bulgur22 folds
+pollenW does not show cards.
+pollenW wins $1.95 USD
+Game #14697640249 starts.
+
+#Game No : 14697640249 
+***** Hand History for Game 14697640249 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:13:03 EDT 2015
+Table Sukhumi (Real Money)
+Seat 8 is the button
+Total number of players : 9/9 
+Seat 5: Milana_2013 ( $27.76 USD )
+Seat 8: TilliWilli ( $16.09 USD )
+Seat 7: betonik234 ( $22.84 USD )
+Seat 9: bulgur22 ( $26.07 USD )
+Seat 3: cyrillus2104 ( $18.53 USD )
+Seat 6: fruitdrop85 ( $32.75 USD )
+Seat 1: haagi6 ( $22.75 USD )
+Seat 2: pollenW ( $27.19 USD )
+Seat 4: saso1803 ( $40.35 USD )
+bulgur22 posts small blind [$0.10 USD].
+pollenW posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4d Kd ]
+cyrillus2104 folds
+saso1803 folds
+fruitdrop85 folds
+TilliWilli folds
+bulgur22 folds
+pollenW does not show cards.
+pollenW wins $0.35 USD
+Game #14697640609 starts.
+
+#Game No : 14697640609 
+***** Hand History for Game 14697640609 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:13:15 EDT 2015
+Table Sukhumi (Real Money)
+Seat 9 is the button
+Total number of players : 9/9 
+Seat 5: Milana_2013 ( $27.76 USD )
+Seat 8: TilliWilli ( $16.09 USD )
+Seat 7: betonik234 ( $22.84 USD )
+Seat 9: bulgur22 ( $25.97 USD )
+Seat 3: cyrillus2104 ( $18.53 USD )
+Seat 6: fruitdrop85 ( $32.75 USD )
+Seat 1: haagi6 ( $22.75 USD )
+Seat 2: pollenW ( $27.29 USD )
+Seat 4: saso1803 ( $40.35 USD )
+pollenW posts small blind [$0.10 USD].
+cyrillus2104 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  6s Ac ]
+saso1803 folds
+betonik234 has left the table.
+fruitdrop85 folds
+TilliWilli raises [$0.50 USD]
+bulgur22 folds
+pollenW folds
+cyrillus2104 folds
+TilliWilli does not show cards.
+TilliWilli wins $0.85 USD
+Game #14697641024 starts.
+
+#Game No : 14697641024 
+***** Hand History for Game 14697641024 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:13:32 EDT 2015
+Table Sukhumi (Real Money)
+Seat 2 is the button
+Total number of players : 8/9 
+Seat 5: Milana_2013 ( $27.76 USD )
+Seat 8: TilliWilli ( $16.44 USD )
+Seat 9: bulgur22 ( $25.97 USD )
+Seat 3: cyrillus2104 ( $18.28 USD )
+Seat 6: fruitdrop85 ( $32.75 USD )
+Seat 1: haagi6 ( $22.75 USD )
+Seat 2: pollenW ( $27.19 USD )
+Seat 4: saso1803 ( $40.35 USD )
+cyrillus2104 posts small blind [$0.10 USD].
+saso1803 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3d Jd ]
+fruitdrop85 folds
+TilliWilli folds
+bulgur22 folds
+NeolitV has joined the table.
+pollenW folds
+cyrillus2104 folds
+saso1803 does not show cards.
+saso1803 wins $0.35 USD
+Game #14697641410 starts.
+
+#Game No : 14697641410 
+***** Hand History for Game 14697641410 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:13:46 EDT 2015
+Table Sukhumi (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 5: Milana_2013 ( $27.76 USD )
+Seat 7: NeolitV ( $7.50 USD )
+Seat 8: TilliWilli ( $16.44 USD )
+Seat 9: bulgur22 ( $25.97 USD )
+Seat 3: cyrillus2104 ( $18.18 USD )
+Seat 6: fruitdrop85 ( $32.75 USD )
+Seat 1: haagi6 ( $22.75 USD )
+Seat 2: pollenW ( $27.19 USD )
+Seat 4: saso1803 ( $40.45 USD )
+saso1803 posts small blind [$0.10 USD].
+Milana_2013 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qd Js ]
+fruitdrop85 folds
+haagi6 has left the table.
+TilliWilli raises [$0.75 USD]
+bulgur22 folds
+pollenW folds
+cyrillus2104 folds
+saso1803 folds
+skorkin has joined the table.
+Milana_2013 calls [$0.50 USD]
+** Dealing Flop ** [ 3d, Qh, Jh ]
+Milana_2013 checks
+TilliWilli bets [$0.25 USD]
+Milana_2013 calls [$0.25 USD]
+** Dealing Turn ** [ 5c ]
+Milana_2013 checks
+TilliWilli bets [$0.25 USD]
+Milana_2013 calls [$0.25 USD]
+** Dealing River ** [ Th ]
+Milana_2013 checks
+TilliWilli bets [$2 USD]
+Milana_2013 folds
+TilliWilli does not show cards.
+TilliWilli wins $4.47 USD
+Game #14697642486 starts.
+
+#Game No : 14697642486 
+***** Hand History for Game 14697642486 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:14:27 EDT 2015
+Table Sukhumi (Real Money)
+Seat 4 is the button
+Total number of players : 9/9 
+Seat 5: Milana_2013 ( $26.51 USD )
+Seat 7: NeolitV ( $7.50 USD )
+Seat 8: TilliWilli ( $17.66 USD )
+Seat 9: bulgur22 ( $25.97 USD )
+Seat 3: cyrillus2104 ( $18.18 USD )
+Seat 6: fruitdrop85 ( $32.75 USD )
+Seat 2: pollenW ( $27.19 USD )
+Seat 4: saso1803 ( $40.35 USD )
+Seat 1: skorkin ( $25 USD )
+Milana_2013 posts small blind [$0.10 USD].
+fruitdrop85 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qh 5d ]
+TilliWilli folds
+bulgur22 raises [$0.50 USD]
+pollenW folds
+cyrillus2104 folds
+saso1803 folds
+Milana_2013 folds
+fruitdrop85 calls [$0.25 USD]
+** Dealing Flop ** [ 8h, Kh, 8c ]
+fruitdrop85 checks
+bulgur22 bets [$0.52 USD]
+fruitdrop85 calls [$0.52 USD]
+** Dealing Turn ** [ 4d ]
+fruitdrop85 checks
+bulgur22 checks
+** Dealing River ** [ Jc ]
+fruitdrop85 bets [$1.02 USD]
+bulgur22 folds
+fruitdrop85 does not show cards.
+fruitdrop85 wins $3.06 USD
+Game #14697644585 starts.
+
+#Game No : 14697644585 
+***** Hand History for Game 14697644585 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:15:26 EDT 2015
+Table Sukhumi (Real Money)
+Seat 5 is the button
+Total number of players : 9/9 
+Seat 5: Milana_2013 ( $26.41 USD )
+Seat 7: NeolitV ( $7.50 USD )
+Seat 8: TilliWilli ( $17.66 USD )
+Seat 9: bulgur22 ( $24.95 USD )
+Seat 3: cyrillus2104 ( $18.18 USD )
+Seat 6: fruitdrop85 ( $33.77 USD )
+Seat 2: pollenW ( $27.19 USD )
+Seat 4: saso1803 ( $40.35 USD )
+Seat 1: skorkin ( $25 USD )
+fruitdrop85 posts small blind [$0.10 USD].
+NeolitV posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9s 3d ]
+TilliWilli folds
+bulgur22 calls [$0.25 USD]
+pollenW folds
+cyrillus2104 calls [$0.25 USD]
+saso1803 folds
+Milana_2013 raises [$1 USD]
+fruitdrop85 folds
+NeolitV folds
+bulgur22 will be using their time bank for this hand.
+bulgur22 did not respond in time
+bulgur22 folds
+cyrillus2104 calls [$0.75 USD]
+** Dealing Flop ** [ 9h, 8h, Ks ]
+cyrillus2104 bets [$2 USD]
+Milana_2013 folds
+cyrillus2104 does not show cards.
+cyrillus2104 wins $4.47 USD
+saso1803 has left the table.
+Game #14697646347 starts.
+
+#Game No : 14697646347 
+***** Hand History for Game 14697646347 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:16:31 EDT 2015
+Table Sukhumi (Real Money)
+Seat 6 is the button
+Total number of players : 8/9 
+Seat 5: Milana_2013 ( $25.41 USD )
+Seat 7: NeolitV ( $7.25 USD )
+Seat 8: TilliWilli ( $17.66 USD )
+Seat 9: bulgur22 ( $24.70 USD )
+Seat 3: cyrillus2104 ( $19.65 USD )
+Seat 6: fruitdrop85 ( $33.67 USD )
+Seat 2: pollenW ( $27.19 USD )
+Seat 1: skorkin ( $25 USD )
+NeolitV posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2h 6h ]
+pollenW raises [$1 USD]
+cyrillus2104 folds
+Milana_2013 folds
+fruitdrop85 folds
+NeolitV raises [$2.65 USD]
+TilliWilli folds
+Bsacbsac has joined the table.
+pollenW calls [$1.75 USD]
+** Dealing Flop ** [ 7c, 8s, 7s ]
+NeolitV bets [$2.75 USD]
+pollenW calls [$2.75 USD]
+** Dealing Turn ** [ 3d ]
+NeolitV is all-In  [$1.75 USD]
+pollenW calls [$1.75 USD]
+** Dealing River ** [ Qd ]
+NeolitV shows [ Ad, Ah ]two pairs, Aces and Sevens.
+pollenW shows [ Qh, Ac ]two pairs, Queens and Sevens.
+NeolitV wins $14.02 USD from the main pot with two pairs, Aces and Sevens.
+cyrillus2104 has left the table.
+Game #14697647617 starts.
+
+#Game No : 14697647617 
+***** Hand History for Game 14697647617 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:17:19 EDT 2015
+Table Sukhumi (Real Money)
+Seat 7 is the button
+Total number of players : 8/9 
+Seat 4: Bsacbsac ( $25 USD )
+Seat 5: Milana_2013 ( $25.41 USD )
+Seat 7: NeolitV ( $14.02 USD )
+Seat 8: TilliWilli ( $17.41 USD )
+Seat 9: bulgur22 ( $24.70 USD )
+Seat 6: fruitdrop85 ( $33.67 USD )
+Seat 2: pollenW ( $25 USD )
+Seat 1: skorkin ( $25 USD )
+TilliWilli posts small blind [$0.10 USD].
+skorkin posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4c 5d ]
+pollenW folds
+Milana_2013 folds
+fruitdrop85 raises [$1 USD]
+NeolitV folds
+TilliWilli folds
+skorkin folds
+fruitdrop85 does not show cards.
+fruitdrop85 wins $1.35 USD
+Game #14697648488 starts.
+
+#Game No : 14697648488 
+***** Hand History for Game 14697648488 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:17:33 EDT 2015
+Table Sukhumi (Real Money)
+Seat 8 is the button
+Total number of players : 8/9 
+Seat 4: Bsacbsac ( $25 USD )
+Seat 5: Milana_2013 ( $25.41 USD )
+Seat 7: NeolitV ( $14.02 USD )
+Seat 8: TilliWilli ( $17.31 USD )
+Seat 9: bulgur22 ( $24.70 USD )
+Seat 6: fruitdrop85 ( $34.02 USD )
+Seat 2: pollenW ( $25 USD )
+Seat 1: skorkin ( $25 USD )
+skorkin posts small blind [$0.10 USD].
+pollenW posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ts Qs ]
+Milana_2013 folds
+fruitdrop85 raises [$1 USD]
+NeolitV folds
+TilliWilli calls [$1 USD]
+skorkin folds
+pollenW folds
+** Dealing Flop ** [ Jh, Ac, 5c ]
+ChGrBvB has joined the table.
+fruitdrop85 bets [$1.12 USD]
+TilliWilli raises [$3 USD]
+fruitdrop85 calls [$1.88 USD]
+** Dealing Turn ** [ 4d ]
+fruitdrop85 checks
+TilliWilli checks
+** Dealing River ** [ 3d ]
+fruitdrop85 checks
+TilliWilli bets [$7 USD]
+fruitdrop85 folds
+TilliWilli does not show cards.
+TilliWilli wins $14.94 USD
+Game #14697650156 starts.
+
+#Game No : 14697650156 
+***** Hand History for Game 14697650156 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:18:15 EDT 2015
+Table Sukhumi (Real Money)
+Seat 1 is the button
+Total number of players : 9/9 
+Seat 4: Bsacbsac ( $25 USD )
+Seat 3: ChGrBvB ( $11.06 USD )
+Seat 5: Milana_2013 ( $25.41 USD )
+Seat 7: NeolitV ( $14.02 USD )
+Seat 8: TilliWilli ( $21.25 USD )
+Seat 9: bulgur22 ( $24.70 USD )
+Seat 6: fruitdrop85 ( $30.02 USD )
+Seat 2: pollenW ( $25 USD )
+Seat 1: skorkin ( $25 USD )
+pollenW posts small blind [$0.10 USD].
+ChGrBvB posts big blind [$0.25 USD].
+bulgur22 posts big blind + dead [$0.35].
+** Dealing down cards **
+Dealt to TilliWilli [  8d 6d ]
+Milana_2013 raises [$1 USD]
+fruitdrop85 folds
+NeolitV folds
+TilliWilli folds
+bulgur22 calls [$0.75 USD]
+skorkin folds
+pollenW folds
+ChGrBvB folds
+** Dealing Flop ** [ 4s, Ac, Td ]
+Milana_2013 bets [$1.50 USD]
+bulgur22 calls [$1.50 USD]
+** Dealing Turn ** [ 9s ]
+Milana_2013 checks
+bulgur22 bets [$2.59 USD]
+Milana_2013 folds
+bulgur22 does not show cards.
+bulgur22 wins $7.77 USD
+Game #14697651065 starts.
+
+#Game No : 14697651065 
+***** Hand History for Game 14697651065 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:18:49 EDT 2015
+Table Sukhumi (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 4: Bsacbsac ( $25 USD )
+Seat 3: ChGrBvB ( $10.81 USD )
+Seat 5: Milana_2013 ( $22.91 USD )
+Seat 7: NeolitV ( $14.02 USD )
+Seat 8: TilliWilli ( $21.25 USD )
+Seat 9: bulgur22 ( $27.28 USD )
+Seat 6: fruitdrop85 ( $30.02 USD )
+Seat 2: pollenW ( $25 USD )
+Seat 1: skorkin ( $25 USD )
+ChGrBvB posts small blind [$0.10 USD].
+Bsacbsac posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8c 9h ]
+Milana_2013 folds
+fruitdrop85 folds
+NeolitV folds
+TilliWilli raises [$0.50 USD]
+bulgur22 folds
+skorkin folds
+pollenW raises [$1.50 USD]
+ChGrBvB folds
+Bsacbsac raises [$4.55 USD]
+Your time bank will be activated in 6 secs. If you do not want it to be used, please act now.
+TilliWilli folds
+pollenW folds
+Bsacbsac does not show cards.
+Bsacbsac wins $6.90 USD
+Game #14697652270 starts.
+
+#Game No : 14697652270 
+***** Hand History for Game 14697652270 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:19:35 EDT 2015
+Table Sukhumi (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 4: Bsacbsac ( $27.10 USD )
+Seat 3: ChGrBvB ( $10.71 USD )
+Seat 5: Milana_2013 ( $22.91 USD )
+Seat 7: NeolitV ( $14.02 USD )
+Seat 8: TilliWilli ( $20.75 USD )
+Seat 9: bulgur22 ( $27.28 USD )
+Seat 6: fruitdrop85 ( $30.02 USD )
+Seat 2: pollenW ( $25 USD )
+Seat 1: skorkin ( $25 USD )
+Bsacbsac posts small blind [$0.10 USD].
+Milana_2013 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  As 4c ]
+fruitdrop85 folds
+NeolitV folds
+TilliWilli folds
+bulgur22 folds
+skorkin folds
+pollenW folds
+ChGrBvB folds
+Bsacbsac will be using their time bank for this hand.
+Bsacbsac raises [$0.65 USD]
+Milana_2013 folds
+Bsacbsac does not show cards.
+Bsacbsac wins $1 USD
+Game #14697652687 starts.
+
+#Game No : 14697652687 
+***** Hand History for Game 14697652687 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:19:52 EDT 2015
+Table Sukhumi (Real Money)
+Seat 4 is the button
+Total number of players : 9/9 
+Seat 4: Bsacbsac ( $27.35 USD )
+Seat 3: ChGrBvB ( $10.71 USD )
+Seat 5: Milana_2013 ( $22.66 USD )
+Seat 7: NeolitV ( $14.02 USD )
+Seat 8: TilliWilli ( $20.75 USD )
+Seat 9: bulgur22 ( $27.28 USD )
+Seat 6: fruitdrop85 ( $30.02 USD )
+Seat 2: pollenW ( $25 USD )
+Seat 1: skorkin ( $25 USD )
+Milana_2013 posts small blind [$0.10 USD].
+fruitdrop85 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4c 9c ]
+NeolitV folds
+TilliWilli folds
+bulgur22 folds
+skorkin folds
+pollenW folds
+ChGrBvB calls [$0.25 USD]
+Bsacbsac folds
+Milana_2013 raises [$0.90 USD]
+fruitdrop85 calls [$0.75 USD]
+ChGrBvB folds
+** Dealing Flop ** [ 8h, Th, Js ]
+Milana_2013 checks
+fruitdrop85 bets [$1.60 USD]
+Milana_2013 folds
+fruitdrop85 does not show cards.
+fruitdrop85 wins $3.74 USD
+bulgur22 has left the table.
+Game #14697654033 starts.
+
+#Game No : 14697654033 
+***** Hand History for Game 14697654033 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:20:24 EDT 2015
+Table Sukhumi (Real Money)
+Seat 5 is the button
+Total number of players : 8/9 
+Seat 4: Bsacbsac ( $27.35 USD )
+Seat 3: ChGrBvB ( $10.46 USD )
+Seat 5: Milana_2013 ( $21.66 USD )
+Seat 7: NeolitV ( $14.02 USD )
+Seat 8: TilliWilli ( $20.75 USD )
+Seat 6: fruitdrop85 ( $31.16 USD )
+Seat 2: pollenW ( $25 USD )
+Seat 1: skorkin ( $25 USD )
+fruitdrop85 posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Kd 2s ]
+NeolitV has left the table.
+skorkin folds
+pollenW folds
+ChGrBvB calls [$0.25 USD]
+Bsacbsac will be using their time bank for this hand.
+Bsacbsac folds
+mathon123321 has joined the table.
+Milana_2013 raises [$0.75 USD]
+fruitdrop85 folds
+TilliWilli folds
+ChGrBvB calls [$0.50 USD]
+** Dealing Flop ** [ 3h, 7c, 5s ]
+ChGrBvB checks
+mathon123321 has left the table.
+Milana_2013 bets [$1 USD]
+ChGrBvB folds
+Milana_2013 does not show cards.
+Milana_2013 wins $2.76 USD
+Game #14697655190 starts.
+
+#Game No : 14697655190 
+***** Hand History for Game 14697655190 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:21:07 EDT 2015
+Table Sukhumi (Real Money)
+Seat 6 is the button
+Total number of players : 7/9 
+Seat 4: Bsacbsac ( $27.35 USD )
+Seat 3: ChGrBvB ( $9.71 USD )
+Seat 5: Milana_2013 ( $22.67 USD )
+Seat 8: TilliWilli ( $20.50 USD )
+Seat 6: fruitdrop85 ( $31.06 USD )
+Seat 2: pollenW ( $25 USD )
+Seat 1: skorkin ( $25 USD )
+TilliWilli posts small blind [$0.10 USD].
+skorkin posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qc Th ]
+pollenW folds
+ChGrBvB folds
+Bsacbsac folds
+Milana_2013 folds
+fruitdrop85 folds
+TilliWilli raises [$0.65 USD]
+skorkin folds
+TilliWilli does not show cards.
+TilliWilli wins $1 USD
+Game #14697655857 starts.
+
+#Game No : 14697655857 
+***** Hand History for Game 14697655857 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:21:31 EDT 2015
+Table Sukhumi (Real Money)
+Seat 8 is the button
+Total number of players : 7/9 
+Seat 4: Bsacbsac ( $27.35 USD )
+Seat 3: ChGrBvB ( $9.71 USD )
+Seat 5: Milana_2013 ( $22.67 USD )
+Seat 8: TilliWilli ( $20.75 USD )
+Seat 6: fruitdrop85 ( $31.06 USD )
+Seat 2: pollenW ( $25 USD )
+Seat 1: skorkin ( $25 USD )
+skorkin posts small blind [$0.10 USD].
+pollenW posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qc 3h ]
+ChGrBvB folds
+Bsacbsac will be using their time bank for this hand.
+Bsacbsac raises [$0.75 USD]
+Milana_2013 folds
+BetOnIt2 has joined the table.
+fruitdrop85 calls [$0.75 USD]
+TilliWilli folds
+skorkin folds
+pollenW folds
+** Dealing Flop ** [ 7s, 4c, 4s ]
+Bsacbsac bets [$1.32 USD]
+fruitdrop85 calls [$1.32 USD]
+** Dealing Turn ** [ Th ]
+Bsacbsac will be using their time bank for this hand.
+Bsacbsac bets [$3.20 USD]
+fruitdrop85 folds
+Bsacbsac does not show cards.
+Bsacbsac wins $7.47 USD
+Game #14697656976 starts.
+
+#Game No : 14697656976 
+***** Hand History for Game 14697656976 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:22:13 EDT 2015
+Table Sukhumi (Real Money)
+Seat 1 is the button
+Total number of players : 8/9 
+Seat 7: BetOnIt2 ( $7.50 USD )
+Seat 4: Bsacbsac ( $29.55 USD )
+Seat 3: ChGrBvB ( $9.71 USD )
+Seat 5: Milana_2013 ( $22.67 USD )
+Seat 8: TilliWilli ( $20.75 USD )
+Seat 6: fruitdrop85 ( $28.99 USD )
+Seat 2: pollenW ( $25 USD )
+Seat 1: skorkin ( $25 USD )
+pollenW posts small blind [$0.10 USD].
+ChGrBvB posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  6h Qc ]
+Bsacbsac folds
+nathanphipps has joined the table.
+Milana_2013 folds
+fruitdrop85 raises [$1 USD]
+TilliWilli folds
+skorkin folds
+pollenW folds
+ChGrBvB folds
+fruitdrop85 does not show cards.
+fruitdrop85 wins $1.35 USD
+Game #14697657729 starts.
+
+#Game No : 14697657729 
+***** Hand History for Game 14697657729 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:22:42 EDT 2015
+Table Sukhumi (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 7: BetOnIt2 ( $7.50 USD )
+Seat 4: Bsacbsac ( $29.55 USD )
+Seat 3: ChGrBvB ( $9.46 USD )
+Seat 5: Milana_2013 ( $22.67 USD )
+Seat 8: TilliWilli ( $20.75 USD )
+Seat 6: fruitdrop85 ( $29.34 USD )
+Seat 9: nathanphipps ( $14.58 USD )
+Seat 2: pollenW ( $25 USD )
+Seat 1: skorkin ( $25 USD )
+ChGrBvB posts small blind [$0.10 USD].
+Bsacbsac posts big blind [$0.25 USD].
+nathanphipps posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  7d 5h ]
+Milana_2013 folds
+fruitdrop85 folds
+TilliWilli folds
+nathanphipps checks
+skorkin folds
+pollenW folds
+ChGrBvB folds
+Bsacbsac will be using their time bank for this hand.
+Bsacbsac checks
+** Dealing Flop ** [ Jc, 6d, Th ]
+Bsacbsac checks
+nathanphipps bets [$0.57 USD]
+Bsacbsac will be using their time bank for this hand.
+Bsacbsac calls [$0.57 USD]
+** Dealing Turn ** [ 5c ]
+Bsacbsac checks
+nathanphipps bets [$1.66 USD]
+Bsacbsac calls [$1.66 USD]
+** Dealing River ** [ 4c ]
+Bsacbsac will be using their time bank for this hand.
+Bsacbsac checks
+nathanphipps checks
+Bsacbsac shows [ Tc, 9c ]a flush, Jack high.
+nathanphipps doesn't show [ 7c, 2d ]high card Jack.
+Bsacbsac wins $4.81 USD from the main pot with a flush, Jack high.
+ChGrBvB has left the table.
+Game #14697659496 starts.
+
+#Game No : 14697659496 
+***** Hand History for Game 14697659496 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:23:30 EDT 2015
+Table Sukhumi (Real Money)
+Seat 4 is the button
+Total number of players : 8/9 
+Seat 7: BetOnIt2 ( $7.50 USD )
+Seat 4: Bsacbsac ( $31.88 USD )
+Seat 5: Milana_2013 ( $22.67 USD )
+Seat 8: TilliWilli ( $20.75 USD )
+Seat 6: fruitdrop85 ( $29.34 USD )
+Seat 9: nathanphipps ( $12.10 USD )
+Seat 2: pollenW ( $25 USD )
+Seat 1: skorkin ( $25 USD )
+Milana_2013 posts small blind [$0.10 USD].
+fruitdrop85 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4s Js ]
+TilliWilli folds
+nathanphipps raises [$0.50 USD]
+skorkin raises [$1.50 USD]
+pollenW folds
+Tike Myson has joined the table.
+Bsacbsac folds
+Milana_2013 folds
+fruitdrop85 folds
+nathanphipps is all-In  [$11.60 USD]
+skorkin folds
+nathanphipps does not show cards.
+nathanphipps wins $13.95 USD
+Game #14697660297 starts.
+
+#Game No : 14697660297 
+***** Hand History for Game 14697660297 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:24:00 EDT 2015
+Table Sukhumi (Real Money)
+Seat 5 is the button
+Total number of players : 9/9 
+Seat 7: BetOnIt2 ( $7.50 USD )
+Seat 4: Bsacbsac ( $31.88 USD )
+Seat 5: Milana_2013 ( $22.57 USD )
+Seat 3: Tike Myson ( $7.50 USD )
+Seat 8: TilliWilli ( $20.75 USD )
+Seat 6: fruitdrop85 ( $29.09 USD )
+Seat 9: nathanphipps ( $13.95 USD )
+Seat 2: pollenW ( $25 USD )
+Seat 1: skorkin ( $25 USD )
+fruitdrop85 posts small blind [$0.10 USD].
+BetOnIt2 posts big blind [$0.25 USD].
+Tike Myson posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qc Th ]
+TilliWilli calls [$0.25 USD]
+nathanphipps folds
+skorkin folds
+pollenW folds
+Tike Myson checks
+Bsacbsac will be using their time bank for this hand.
+Bsacbsac folds
+Milana_2013 folds
+fruitdrop85 raises [$1.40 USD]
+BetOnIt2 folds
+TilliWilli calls [$1.25 USD]
+Tike Myson folds
+** Dealing Flop ** [ Qd, 7h, Qs ]
+fruitdrop85 checks
+TilliWilli bets [$1.50 USD]
+fruitdrop85 folds
+TilliWilli does not show cards.
+TilliWilli wins $4.83 USD
+Game #14697662756 starts.
+
+#Game No : 14697662756 
+***** Hand History for Game 14697662756 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:25:14 EDT 2015
+Table Sukhumi (Real Money)
+Seat 6 is the button
+Total number of players : 9/9 
+Seat 7: BetOnIt2 ( $7.25 USD )
+Seat 4: Bsacbsac ( $31.88 USD )
+Seat 5: Milana_2013 ( $22.57 USD )
+Seat 3: Tike Myson ( $7.25 USD )
+Seat 8: TilliWilli ( $22.58 USD )
+Seat 6: fruitdrop85 ( $27.59 USD )
+Seat 9: nathanphipps ( $13.95 USD )
+Seat 2: pollenW ( $25 USD )
+Seat 1: skorkin ( $25 USD )
+BetOnIt2 posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ad Ah ]
+nathanphipps raises [$1 USD]
+skorkin folds
+pollenW folds
+Tike Myson calls [$1 USD]
+Bsacbsac folds
+Milana_2013 folds
+fruitdrop85 folds
+BetOnIt2 folds
+TilliWilli raises [$2 USD]
+nathanphipps is all-In  [$12.95 USD]
+Tike Myson folds
+TilliWilli calls [$11.70 USD]
+** Dealing Flop ** [ 4d, Kh, Ks ]
+** Dealing Turn ** [ 8d ]
+** Dealing River ** [ 9d ]
+TilliWilli shows [ Ad, Ah ]two pairs, Aces and Kings.
+nathanphipps shows [ 9s, 9c ]a full house, Nines full of Kings.
+nathanphipps wins $27.55 USD from the main pot with a full house, Nines full of Kings.
+Game #14697664043 starts.
+
+#Game No : 14697664043 
+***** Hand History for Game 14697664043 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:26:02 EDT 2015
+Table Sukhumi (Real Money)
+Seat 7 is the button
+Total number of players : 9/9 
+Seat 7: BetOnIt2 ( $7.15 USD )
+Seat 4: Bsacbsac ( $31.88 USD )
+Seat 5: Milana_2013 ( $22.57 USD )
+Seat 3: Tike Myson ( $6.25 USD )
+Seat 8: TilliWilli ( $8.63 USD )
+Seat 6: fruitdrop85 ( $27.59 USD )
+Seat 9: nathanphipps ( $27.55 USD )
+Seat 2: pollenW ( $25 USD )
+Seat 1: skorkin ( $25 USD )
+TilliWilli posts small blind [$0.10 USD].
+nathanphipps posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Kd Th ]
+skorkin raises [$0.75 USD]
+pollenW raises [$2.25 USD]
+Tike Myson calls [$2.25 USD]
+Bsacbsac will be using their time bank for this hand.
+Bsacbsac folds
+Milana_2013 folds
+fruitdrop85 calls [$2.25 USD]
+BetOnIt2 folds
+TilliWilli folds
+nathanphipps folds
+skorkin calls [$1.50 USD]
+** Dealing Flop ** [ 2h, 9c, 6s ]
+skorkin bets [$0.25 USD]
+TilliWilli: (
+pollenW folds
+Tike Myson calls [$0.25 USD]
+TilliWilli: (:
+fruitdrop85 raises [$4.94 USD]
+skorkin folds
+Tike Myson is all-In  [$3.75 USD]
+** Dealing Turn ** [ 4s ]
+** Dealing River ** [ 2d ]
+fruitdrop85 shows [ 9h, 5h ]two pairs, Nines and Twos.
+Tike Myson doesn't show [ As, Qc ]a pair of Twos.
+fruitdrop85 wins $0.94 USD from the side pot 1 with two pairs, Nines and Twos.
+fruitdrop85 wins $16.72 USD from the main pot with two pairs, Nines and Twos.
+Game #14697666579 starts.
+
+#Game No : 14697666579 
+***** Hand History for Game 14697666579 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:27:20 EDT 2015
+Table Sukhumi (Real Money)
+Seat 8 is the button
+Total number of players : 9/9 
+Seat 7: BetOnIt2 ( $7.15 USD )
+Seat 4: Bsacbsac ( $31.88 USD )
+Seat 5: Milana_2013 ( $22.57 USD )
+Seat 3: Tike Myson ( $0 USD )
+Seat 8: TilliWilli ( $8.53 USD )
+Seat 6: fruitdrop85 ( $38.06 USD )
+Seat 9: nathanphipps ( $27.30 USD )
+Seat 2: pollenW ( $25 USD )
+Seat 1: skorkin ( $25 USD )
+nathanphipps posts small blind [$0.10 USD].
+skorkin posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9s 5d ]
+pollenW folds
+skorkin: omg
+Bsacbsac folds
+Milana_2013 folds
+fruitdrop85 raises [$1 USD]
+BetOnIt2 folds
+TilliWilli folds
+nathanphipps folds
+skorkin folds
+fruitdrop85 does not show cards.
+fruitdrop85 wins $1.35 USD
+Game #14697667719 starts.
+
+#Game No : 14697667719 
+***** Hand History for Game 14697667719 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:27:45 EDT 2015
+Table Sukhumi (Real Money)
+Seat 9 is the button
+Total number of players : 9/9 
+Seat 7: BetOnIt2 ( $7.15 USD )
+Seat 4: Bsacbsac ( $31.88 USD )
+Seat 5: Milana_2013 ( $22.57 USD )
+Seat 3: Tike Myson ( $7.50 USD )
+Seat 8: TilliWilli ( $8.53 USD )
+Seat 6: fruitdrop85 ( $38.41 USD )
+Seat 9: nathanphipps ( $27.20 USD )
+Seat 2: pollenW ( $25 USD )
+Seat 1: skorkin ( $25 USD )
+skorkin posts small blind [$0.10 USD].
+pollenW posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ad As ]
+Tike Myson folds
+Bsacbsac will be using their time bank for this hand.
+Bsacbsac folds
+Milana_2013 folds
+fruitdrop85 folds
+BetOnIt2 folds
+TilliWilli calls [$0.25 USD]
+nathanphipps calls [$0.25 USD]
+skorkin raises [$0.90 USD]
+pollenW folds
+TilliWilli raises [$1.50 USD]
+nathanphipps calls [$1.50 USD]
+skorkin calls [$0.75 USD]
+** Dealing Flop ** [ Td, Ts, 6s ]
+skorkin checks
+TilliWilli bets [$0.25 USD]
+nathanphipps calls [$0.25 USD]
+skorkin calls [$0.25 USD]
+** Dealing Turn ** [ 6c ]
+skorkin checks
+TilliWilli bets [$0.75 USD]
+nathanphipps folds
+skorkin calls [$0.75 USD]
+** Dealing River ** [ 4d ]
+skorkin checks
+TilliWilli is all-In  [$5.78 USD]
+skorkin calls [$5.78 USD]
+skorkin shows [ Ac, 8c ]two pairs, Tens and Sixes.
+TilliWilli shows [ Ad, As ]two pairs, Aces and Tens.
+TilliWilli wins $18.35 USD from the main pot with two pairs, Aces and Tens.
+Game #14697669976 starts.
+
+#Game No : 14697669976 
+***** Hand History for Game 14697669976 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:29:10 EDT 2015
+Table Sukhumi (Real Money)
+Seat 1 is the button
+Total number of players : 9/9 
+Seat 7: BetOnIt2 ( $7.15 USD )
+Seat 4: Bsacbsac ( $31.88 USD )
+Seat 5: Milana_2013 ( $22.57 USD )
+Seat 3: Tike Myson ( $7.50 USD )
+Seat 8: TilliWilli ( $18.35 USD )
+Seat 6: fruitdrop85 ( $38.41 USD )
+Seat 9: nathanphipps ( $25.20 USD )
+Seat 2: pollenW ( $25 USD )
+Seat 1: skorkin ( $25 USD )
+pollenW posts small blind [$0.10 USD].
+Tike Myson posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3s Kc ]
+Bsacbsac folds
+Milana_2013 folds
+fruitdrop85 folds
+BetOnIt2 raises [$0.75 USD]
+TilliWilli folds
+nathanphipps folds
+skorkin folds
+pollenW raises [$2.15 USD]
+Tike Myson folds
+BetOnIt2 folds
+pollenW does not show cards.
+pollenW wins $3.25 USD
+Game #14697671422 starts.
+
+#Game No : 14697671422 
+***** Hand History for Game 14697671422 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:29:44 EDT 2015
+Table Sukhumi (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 7: BetOnIt2 ( $6.40 USD )
+Seat 4: Bsacbsac ( $31.88 USD )
+Seat 5: Milana_2013 ( $22.57 USD )
+Seat 3: Tike Myson ( $7.25 USD )
+Seat 8: TilliWilli ( $18.35 USD )
+Seat 6: fruitdrop85 ( $38.41 USD )
+Seat 9: nathanphipps ( $25.20 USD )
+Seat 2: pollenW ( $26 USD )
+Seat 1: skorkin ( $25 USD )
+Tike Myson posts small blind [$0.10 USD].
+Bsacbsac posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Kc 9c ]
+Milana_2013 folds
+fruitdrop85 folds
+BetOnIt2 folds
+TilliWilli raises [$0.50 USD]
+nathanphipps folds
+skorkin folds
+pollenW folds
+Tike Myson calls [$0.40 USD]
+Bsacbsac will be using their time bank for this hand.
+Bsacbsac folds
+** Dealing Flop ** [ 6s, 9h, 7s ]
+Tike Myson checks
+TilliWilli bets [$1.20 USD]
+Tike Myson folds
+TilliWilli does not show cards.
+TilliWilli wins $2.39 USD
+Game #14697672579 starts.
+
+#Game No : 14697672579 
+***** Hand History for Game 14697672579 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:30:29 EDT 2015
+Table Sukhumi (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 7: BetOnIt2 ( $6.40 USD )
+Seat 4: Bsacbsac ( $31.63 USD )
+Seat 5: Milana_2013 ( $22.57 USD )
+Seat 3: Tike Myson ( $6.75 USD )
+Seat 8: TilliWilli ( $19.04 USD )
+Seat 6: fruitdrop85 ( $38.41 USD )
+Seat 9: nathanphipps ( $25.20 USD )
+Seat 2: pollenW ( $26 USD )
+Seat 1: skorkin ( $25 USD )
+Bsacbsac posts small blind [$0.10 USD].
+Milana_2013 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5s 6s ]
+fruitdrop85 folds
+BetOnIt2 folds
+TilliWilli calls [$0.25 USD]
+nathanphipps raises [$0.50 USD]
+skorkin folds
+pollenW folds
+Tike Myson calls [$0.50 USD]
+Bsacbsac will be using their time bank for this hand.
+Bsacbsac folds
+Milana_2013 calls [$0.25 USD]
+TilliWilli calls [$0.25 USD]
+** Dealing Flop ** [ Qc, 5c, Tc ]
+Milana_2013 checks
+TilliWilli checks
+nathanphipps bets [$1 USD]
+Tike Myson calls [$1 USD]
+Milana_2013 folds
+TilliWilli folds
+** Dealing Turn ** [ 3d ]
+nathanphipps bets [$7 USD]
+Tike Myson folds
+nathanphipps does not show cards.
+nathanphipps wins $10.90 USD
+Game #14697674794 starts.
+
+#Game No : 14697674794 
+***** Hand History for Game 14697674794 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:31:53 EDT 2015
+Table Sukhumi (Real Money)
+Seat 4 is the button
+Total number of players : 9/9 
+Seat 7: BetOnIt2 ( $6.40 USD )
+Seat 4: Bsacbsac ( $31.53 USD )
+Seat 5: Milana_2013 ( $22.07 USD )
+Seat 3: Tike Myson ( $5.25 USD )
+Seat 8: TilliWilli ( $18.54 USD )
+Seat 6: fruitdrop85 ( $38.41 USD )
+Seat 9: nathanphipps ( $27.60 USD )
+Seat 2: pollenW ( $26 USD )
+Seat 1: skorkin ( $25 USD )
+Milana_2013 posts small blind [$0.10 USD].
+fruitdrop85 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qc Qs ]
+BetOnIt2 folds
+TilliWilli calls [$0.25 USD]
+nathanphipps folds
+skorkin raises [$0.75 USD]
+pollenW folds
+Tike Myson folds
+Bsacbsac folds
+Milana_2013 folds
+fruitdrop85 folds
+TilliWilli raises [$2 USD]
+skorkin folds
+TilliWilli does not show cards.
+TilliWilli wins $3.35 USD
+Game #14697676529 starts.
+
+#Game No : 14697676529 
+***** Hand History for Game 14697676529 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:32:39 EDT 2015
+Table Sukhumi (Real Money)
+Seat 5 is the button
+Total number of players : 9/9 
+Seat 7: BetOnIt2 ( $6.40 USD )
+Seat 4: Bsacbsac ( $31.53 USD )
+Seat 5: Milana_2013 ( $21.97 USD )
+Seat 3: Tike Myson ( $5.25 USD )
+Seat 8: TilliWilli ( $19.64 USD )
+Seat 6: fruitdrop85 ( $38.16 USD )
+Seat 9: nathanphipps ( $27.60 USD )
+Seat 2: pollenW ( $26 USD )
+Seat 1: skorkin ( $25 USD )
+fruitdrop85 posts small blind [$0.10 USD].
+BetOnIt2 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8d Jc ]
+TilliWilli folds
+nathanphipps raises [$0.50 USD]
+skorkin folds
+pollenW folds
+Tike Myson folds
+Bsacbsac will be using their time bank for this hand.
+Bsacbsac folds
+Milana_2013 folds
+fruitdrop85 folds
+BetOnIt2 folds
+nathanphipps does not show cards.
+nathanphipps wins $0.85 USD
+Game #14697677236 starts.
+
+#Game No : 14697677236 
+***** Hand History for Game 14697677236 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:33:06 EDT 2015
+Table Sukhumi (Real Money)
+Seat 6 is the button
+Total number of players : 9/9 
+Seat 7: BetOnIt2 ( $6.15 USD )
+Seat 4: Bsacbsac ( $31.53 USD )
+Seat 5: Milana_2013 ( $21.97 USD )
+Seat 3: Tike Myson ( $5.25 USD )
+Seat 8: TilliWilli ( $19.64 USD )
+Seat 6: fruitdrop85 ( $38.06 USD )
+Seat 9: nathanphipps ( $27.95 USD )
+Seat 2: pollenW ( $26 USD )
+Seat 1: skorkin ( $25 USD )
+BetOnIt2 posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9d 7c ]
+nathanphipps did not respond in time
+nathanphipps folds
+skorkin folds
+pollenW folds
+Tike Myson calls [$0.25 USD]
+Bsacbsac raises [$1 USD]
+Milana_2013 raises [$3 USD]
+fruitdrop85 folds
+BetOnIt2 folds
+TilliWilli folds
+Tike Myson calls [$2.75 USD]
+Bsacbsac will be using their time bank for this hand.
+Bsacbsac folds
+** Dealing Flop ** [ 5h, 8h, 7d ]
+Tike Myson checks
+Milana_2013 bets [$4.66 USD]
+Tike Myson is all-In  [$2.25 USD]
+** Dealing Turn ** [ 4c ]
+** Dealing River ** [ 9c ]
+Milana_2013 shows [ Qh, Qs ]a pair of Queens.
+Tike Myson doesn't show [ Jh, Kh ]high card King.
+Milana_2013 wins $2.41 USD from the side pot 1 with a pair of Queens.
+Milana_2013 wins $11.26 USD from the main pot with a pair of Queens.
+Game #14697679654 starts.
+
+#Game No : 14697679654 
+***** Hand History for Game 14697679654 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:34:20 EDT 2015
+Table Sukhumi (Real Money)
+Seat 7 is the button
+Total number of players : 9/9 
+Seat 7: BetOnIt2 ( $6.05 USD )
+Seat 4: Bsacbsac ( $30.53 USD )
+Seat 5: Milana_2013 ( $27.98 USD )
+Seat 3: Tike Myson ( $0 USD )
+Seat 8: TilliWilli ( $19.39 USD )
+Seat 6: fruitdrop85 ( $38.06 USD )
+Seat 9: nathanphipps ( $27.95 USD )
+Seat 2: pollenW ( $26 USD )
+Seat 1: skorkin ( $25 USD )
+TilliWilli posts small blind [$0.10 USD].
+skorkin posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  As 3h ]
+pollenW folds
+Bsacbsac will be using their time bank for this hand.
+Bsacbsac folds
+Milana_2013 folds
+fruitdrop85 raises [$1 USD]
+BetOnIt2 folds
+TilliWilli folds
+skorkin raises [$2.75 USD]
+fruitdrop85 folds
+skorkin does not show cards.
+skorkin wins $4.10 USD
+Game #14697680536 starts.
+
+#Game No : 14697680536 
+***** Hand History for Game 14697680536 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:34:53 EDT 2015
+Table Sukhumi (Real Money)
+Seat 8 is the button
+Total number of players : 9/9 
+Seat 7: BetOnIt2 ( $6.05 USD )
+Seat 4: Bsacbsac ( $30.53 USD )
+Seat 5: Milana_2013 ( $27.98 USD )
+Seat 3: Tike Myson ( $7.50 USD )
+Seat 8: TilliWilli ( $19.29 USD )
+Seat 6: fruitdrop85 ( $37.06 USD )
+Seat 9: nathanphipps ( $27.95 USD )
+Seat 2: pollenW ( $26 USD )
+Seat 1: skorkin ( $26.10 USD )
+skorkin posts small blind [$0.10 USD].
+pollenW posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Kc 6h ]
+Tike Myson folds
+Bsacbsac folds
+Milana_2013 folds
+fruitdrop85 folds
+BetOnIt2 raises [$0.62 USD]
+TilliWilli folds
+skorkin folds
+pollenW folds
+BetOnIt2 does not show cards.
+BetOnIt2 wins $0.97 USD
+Game #14697681965 starts.
+
+#Game No : 14697681965 
+***** Hand History for Game 14697681965 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:35:29 EDT 2015
+Table Sukhumi (Real Money)
+Seat 1 is the button
+Total number of players : 9/9 
+Seat 7: BetOnIt2 ( $6.40 USD )
+Seat 4: Bsacbsac ( $30.53 USD )
+Seat 5: Milana_2013 ( $27.98 USD )
+Seat 3: Tike Myson ( $7.50 USD )
+Seat 8: TilliWilli ( $19.29 USD )
+Seat 6: fruitdrop85 ( $37.06 USD )
+Seat 9: nathanphipps ( $27.95 USD )
+Seat 2: pollenW ( $25.75 USD )
+Seat 1: skorkin ( $26 USD )
+pollenW posts small blind [$0.10 USD].
+Tike Myson posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Jh Td ]
+Bsacbsac will be using their time bank for this hand.
+Bsacbsac folds
+Milana_2013 folds
+fruitdrop85 folds
+BetOnIt2 folds
+TilliWilli raises [$0.75 USD]
+skorkin folds
+pollenW folds
+Tike Myson folds
+TilliWilli does not show cards.
+TilliWilli wins $1.10 USD
+Game #14697682497 starts.
+
+#Game No : 14697682497 
+***** Hand History for Game 14697682497 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:35:51 EDT 2015
+Table Sukhumi (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 7: BetOnIt2 ( $6.40 USD )
+Seat 4: Bsacbsac ( $30.53 USD )
+Seat 5: Milana_2013 ( $27.98 USD )
+Seat 3: Tike Myson ( $7.25 USD )
+Seat 8: TilliWilli ( $19.64 USD )
+Seat 6: fruitdrop85 ( $37.06 USD )
+Seat 9: nathanphipps ( $27.95 USD )
+Seat 2: pollenW ( $25.65 USD )
+Seat 1: skorkin ( $26 USD )
+Tike Myson posts small blind [$0.10 USD].
+Bsacbsac posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Tc 7s ]
+Milana_2013 folds
+fruitdrop85 folds
+BetOnIt2 folds
+TilliWilli folds
+skorkin raises [$0.75 USD]
+pollenW folds
+Tike Myson folds
+Bsacbsac folds
+skorkin does not show cards.
+skorkin wins $1.10 USD
+Game #14697683027 starts.
+
+#Game No : 14697683027 
+***** Hand History for Game 14697683027 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:36:11 EDT 2015
+Table Sukhumi (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 7: BetOnIt2 ( $6.40 USD )
+Seat 4: Bsacbsac ( $30.28 USD )
+Seat 5: Milana_2013 ( $27.98 USD )
+Seat 3: Tike Myson ( $7.15 USD )
+Seat 8: TilliWilli ( $19.64 USD )
+Seat 6: fruitdrop85 ( $37.06 USD )
+Seat 9: nathanphipps ( $27.95 USD )
+Seat 2: pollenW ( $25.65 USD )
+Seat 1: skorkin ( $26.35 USD )
+Bsacbsac posts small blind [$0.10 USD].
+Milana_2013 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qc Qh ]
+fruitdrop85 folds
+BetOnIt2 raises [$0.75 USD]
+TilliWilli calls [$0.75 USD]
+skorkin folds
+pollenW folds
+Tike Myson folds
+Bsacbsac will be using their time bank for this hand.
+Bsacbsac folds
+Milana_2013 folds
+** Dealing Flop ** [ 8s, 9d, Kh ]
+BetOnIt2 bets [$1.02 USD]
+TilliWilli calls [$1.02 USD]
+** Dealing Turn ** [ 7d ]
+BetOnIt2 checks
+TilliWilli is all-In  [$17.87 USD]
+BetOnIt2 folds
+TilliWilli does not show cards.
+TilliWilli wins $21.57 USD
+Game #14697684597 starts.
+
+#Game No : 14697684597 
+***** Hand History for Game 14697684597 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:37:12 EDT 2015
+Table Sukhumi (Real Money)
+Seat 4 is the button
+Total number of players : 9/9 
+Seat 7: BetOnIt2 ( $8 USD )
+Seat 4: Bsacbsac ( $30.18 USD )
+Seat 5: Milana_2013 ( $27.73 USD )
+Seat 3: Tike Myson ( $7.15 USD )
+Seat 8: TilliWilli ( $21.57 USD )
+Seat 6: fruitdrop85 ( $37.06 USD )
+Seat 9: nathanphipps ( $27.95 USD )
+Seat 2: pollenW ( $25.65 USD )
+Seat 1: skorkin ( $26.35 USD )
+Milana_2013 posts small blind [$0.10 USD].
+fruitdrop85 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Js 9s ]
+BetOnIt2 folds
+TilliWilli raises [$0.50 USD]
+skorkin folds
+pollenW folds
+nathanphipps has left the table.
+Tike Myson could not respond in time.(disconnected)
+Tike Myson folds
+Bsacbsac folds
+betonik234 has joined the table.
+Milana_2013 folds
+fruitdrop85 folds
+TilliWilli does not show cards.
+TilliWilli wins $0.85 USD
+Game #14697686441 starts.
+
+#Game No : 14697686441 
+***** Hand History for Game 14697686441 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:38:06 EDT 2015
+Table Sukhumi (Real Money)
+Seat 5 is the button
+Total number of players : 9/9 
+Seat 7: BetOnIt2 ( $8 USD )
+Seat 4: Bsacbsac ( $30.18 USD )
+Seat 5: Milana_2013 ( $27.63 USD )
+Seat 3: Tike Myson ( $7.15 USD )
+Seat 8: TilliWilli ( $21.92 USD )
+Seat 9: betonik234 ( $22.84 USD )
+Seat 6: fruitdrop85 ( $36.81 USD )
+Seat 2: pollenW ( $25.65 USD )
+Seat 1: skorkin ( $26.35 USD )
+fruitdrop85 posts small blind [$0.10 USD].
+BetOnIt2 posts big blind [$0.25 USD].
+betonik234 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4d 8d ]
+TilliWilli folds
+betonik234 checks
+skorkin folds
+pollenW folds
+Bsacbsac will be using their time bank for this hand.
+Bsacbsac raises [$1 USD]
+Milana_2013 folds
+fruitdrop85 folds
+BetOnIt2 folds
+betonik234 folds
+Bsacbsac does not show cards.
+Bsacbsac wins $1.60 USD
+Game #14697687384 starts.
+
+#Game No : 14697687384 
+***** Hand History for Game 14697687384 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:38:44 EDT 2015
+Table Sukhumi (Real Money)
+Seat 6 is the button
+Total number of players : 9/9 
+Seat 7: BetOnIt2 ( $7.75 USD )
+Seat 4: Bsacbsac ( $30.78 USD )
+Seat 5: Milana_2013 ( $27.63 USD )
+Seat 3: Tike Myson ( $7.15 USD )
+Seat 8: TilliWilli ( $21.92 USD )
+Seat 9: betonik234 ( $22.59 USD )
+Seat 6: fruitdrop85 ( $36.71 USD )
+Seat 2: pollenW ( $25.65 USD )
+Seat 1: skorkin ( $26.35 USD )
+BetOnIt2 posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9s 8h ]
+betonik234 folds
+skorkin folds
+pollenW folds
+Bsacbsac folds
+Milana_2013 folds
+fruitdrop85 raises [$1 USD]
+BetOnIt2 folds
+TilliWilli calls [$0.75 USD]
+** Dealing Flop ** [ Td, Ac, Qd ]
+TilliWilli bets [$0.50 USD]
+fruitdrop85 calls [$0.50 USD]
+** Dealing Turn ** [ 9c ]
+Your time bank will be activated in 6 secs. If you do not want it to be used, please act now.
+TilliWilli bets [$0.25 USD]
+fruitdrop85 raises [$1.85 USD]
+TilliWilli calls [$1.60 USD]
+** Dealing River ** [ Jd ]
+TilliWilli bets [$7 USD]
+fruitdrop85 folds
+TilliWilli does not show cards.
+TilliWilli wins $13.46 USD
+Game #14697689428 starts.
+
+#Game No : 14697689428 
+***** Hand History for Game 14697689428 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:39:46 EDT 2015
+Table Sukhumi (Real Money)
+Seat 7 is the button
+Total number of players : 9/9 
+Seat 7: BetOnIt2 ( $7.65 USD )
+Seat 4: Bsacbsac ( $30.78 USD )
+Seat 5: Milana_2013 ( $27.63 USD )
+Seat 3: Tike Myson ( $7.15 USD )
+Seat 8: TilliWilli ( $25.03 USD )
+Seat 9: betonik234 ( $22.59 USD )
+Seat 6: fruitdrop85 ( $33.36 USD )
+Seat 2: pollenW ( $25.65 USD )
+Seat 1: skorkin ( $26.35 USD )
+TilliWilli posts small blind [$0.10 USD].
+betonik234 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4h Js ]
+skorkin folds
+pollenW folds
+Bsacbsac will be using their time bank for this hand.
+Bsacbsac folds
+Milana_2013 did not respond in time
+Milana_2013 folds
+fruitdrop85 folds
+BetOnIt2 raises [$0.57 USD]
+TilliWilli folds
+betonik234 folds
+BetOnIt2 does not show cards.
+BetOnIt2 wins $0.92 USD
+Game #14697690170 starts.
+
+#Game No : 14697690170 
+***** Hand History for Game 14697690170 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:40:15 EDT 2015
+Table Sukhumi (Real Money)
+Seat 8 is the button
+Total number of players : 9/9 
+Seat 7: BetOnIt2 ( $8 USD )
+Seat 4: Bsacbsac ( $30.78 USD )
+Seat 5: Milana_2013 ( $27.63 USD )
+Seat 3: Tike Myson ( $7.15 USD )
+Seat 8: TilliWilli ( $24.93 USD )
+Seat 9: betonik234 ( $22.34 USD )
+Seat 6: fruitdrop85 ( $33.36 USD )
+Seat 2: pollenW ( $25.65 USD )
+Seat 1: skorkin ( $26.35 USD )
+betonik234 posts small blind [$0.10 USD].
+skorkin posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5h Td ]
+pollenW folds
+Bsacbsac folds
+Milana_2013 raises [$0.75 USD]
+fruitdrop85 folds
+BetOnIt2 folds
+TilliWilli folds
+betonik234 folds
+skorkin folds
+Milana_2013 does not show cards.
+Milana_2013 wins $1.10 USD
+Game #14697690851 starts.
+
+#Game No : 14697690851 
+***** Hand History for Game 14697690851 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:40:43 EDT 2015
+Table Sukhumi (Real Money)
+Seat 9 is the button
+Total number of players : 9/9 
+Seat 7: BetOnIt2 ( $8 USD )
+Seat 4: Bsacbsac ( $30.78 USD )
+Seat 5: Milana_2013 ( $27.98 USD )
+Seat 3: Tike Myson ( $7.15 USD )
+Seat 8: TilliWilli ( $24.93 USD )
+Seat 9: betonik234 ( $22.24 USD )
+Seat 6: fruitdrop85 ( $33.36 USD )
+Seat 2: pollenW ( $25.65 USD )
+Seat 1: skorkin ( $26.10 USD )
+skorkin posts small blind [$0.10 USD].
+pollenW posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ac 9s ]
+Bsacbsac will be using their time bank for this hand.
+Bsacbsac folds
+Milana_2013 folds
+fruitdrop85 folds
+BetOnIt2 folds
+TilliWilli raises [$1 USD]
+betonik234 folds
+skorkin folds
+pollenW folds
+TilliWilli does not show cards.
+TilliWilli wins $1.35 USD
+Game #14697691523 starts.
+
+#Game No : 14697691523 
+***** Hand History for Game 14697691523 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:41:09 EDT 2015
+Table Sukhumi (Real Money)
+Seat 1 is the button
+Total number of players : 9/9 
+Seat 7: BetOnIt2 ( $8 USD )
+Seat 4: Bsacbsac ( $30.78 USD )
+Seat 5: Milana_2013 ( $27.98 USD )
+Seat 3: Tike Myson ( $7.15 USD )
+Seat 8: TilliWilli ( $25.28 USD )
+Seat 9: betonik234 ( $22.24 USD )
+Seat 6: fruitdrop85 ( $33.36 USD )
+Seat 2: pollenW ( $25.40 USD )
+Seat 1: skorkin ( $26 USD )
+pollenW posts small blind [$0.10 USD].
+Tike Myson posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qh 3c ]
+Bsacbsac folds
+Milana_2013 folds
+fruitdrop85 raises [$1 USD]
+BetOnIt2 folds
+TilliWilli folds
+betonik234 folds
+skorkin calls [$1 USD]
+pollenW folds
+Tike Myson folds
+** Dealing Flop ** [ 2h, Kd, 8s ]
+fruitdrop85 bets [$1.12 USD]
+skorkin raises [$2.24 USD]
+fruitdrop85 folds
+skorkin does not show cards.
+skorkin wins $5.49 USD
+Game #14697692449 starts.
+
+#Game No : 14697692449 
+***** Hand History for Game 14697692449 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:41:46 EDT 2015
+Table Sukhumi (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 7: BetOnIt2 ( $8 USD )
+Seat 4: Bsacbsac ( $30.78 USD )
+Seat 5: Milana_2013 ( $27.98 USD )
+Seat 3: Tike Myson ( $6.90 USD )
+Seat 8: TilliWilli ( $25.28 USD )
+Seat 9: betonik234 ( $22.24 USD )
+Seat 6: fruitdrop85 ( $31.24 USD )
+Seat 2: pollenW ( $25.30 USD )
+Seat 1: skorkin ( $28.25 USD )
+Tike Myson posts small blind [$0.10 USD].
+Bsacbsac posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qh Kh ]
+Milana_2013 folds
+fruitdrop85 folds
+BetOnIt2 will be using their time bank for this hand.
+BetOnIt2 folds
+TilliWilli raises [$0.50 USD]
+betonik234 folds
+skorkin folds
+pollenW folds
+Tike Myson calls [$0.40 USD]
+Bsacbsac will be using their time bank for this hand.
+Bsacbsac calls [$0.25 USD]
+** Dealing Flop ** [ 2c, Td, Tc ]
+Tike Myson checks
+Bsacbsac will be using their time bank for this hand.
+Bsacbsac checks
+TilliWilli bets [$0.25 USD]
+Tike Myson calls [$0.25 USD]
+Bsacbsac will be using their time bank for this hand.
+Bsacbsac folds
+** Dealing Turn ** [ Th ]
+Tike Myson checks
+TilliWilli bets [$1 USD]
+Tike Myson folds
+TilliWilli does not show cards.
+TilliWilli wins $2.90 USD
+Game #14697694935 starts.
+
+#Game No : 14697694935 
+***** Hand History for Game 14697694935 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:43:05 EDT 2015
+Table Sukhumi (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 7: BetOnIt2 ( $8 USD )
+Seat 4: Bsacbsac ( $30.28 USD )
+Seat 5: Milana_2013 ( $27.98 USD )
+Seat 3: Tike Myson ( $6.15 USD )
+Seat 8: TilliWilli ( $26.43 USD )
+Seat 9: betonik234 ( $22.24 USD )
+Seat 6: fruitdrop85 ( $31.24 USD )
+Seat 2: pollenW ( $25.30 USD )
+Seat 1: skorkin ( $28.25 USD )
+Bsacbsac posts small blind [$0.10 USD].
+Milana_2013 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Jh Ad ]
+fruitdrop85 raises [$1 USD]
+BetOnIt2 folds
+TilliWilli calls [$1 USD]
+betonik234 calls [$1 USD]
+skorkin folds
+pollenW folds
+Tike Myson folds
+Bsacbsac folds
+Milana_2013 folds
+** Dealing Flop ** [ Qs, 4s, Qd ]
+fruitdrop85 bets [$1.59 USD]
+TilliWilli folds
+betonik234 calls [$1.59 USD]
+** Dealing Turn ** [ Kd ]
+fruitdrop85 checks
+betonik234 bets [$3.10 USD]
+fruitdrop85 folds
+betonik234 does not show cards.
+betonik234 wins $9.31 USD
+Game #14697697377 starts.
+
+#Game No : 14697697377 
+***** Hand History for Game 14697697377 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 13:44:03 EDT 2015
+Table Sukhumi (Real Money)
+Seat 4 is the button
+Total number of players : 9/9 
+Seat 7: BetOnIt2 ( $8 USD )
+Seat 4: Bsacbsac ( $30.18 USD )
+Seat 5: Milana_2013 ( $27.73 USD )
+Seat 3: Tike Myson ( $6.15 USD )
+Seat 8: TilliWilli ( $25.43 USD )
+Seat 9: betonik234 ( $25.86 USD )
+Seat 6: fruitdrop85 ( $28.65 USD )
+Seat 2: pollenW ( $25.30 USD )
+Seat 1: skorkin ( $28.25 USD )
+Milana_2013 posts small blind [$0.10 USD].
+fruitdrop85 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2d Ks ]
+BetOnIt2 folds
+TilliWilli folds
+betonik234 folds
+skorkin folds
+pollenW folds
+Tike Myson folds
+Bsacbsac will be using their time bank for this hand.
+Bsacbsac raises [$0.55 USD]
+Milana_2013 folds
+fruitdrop85 folds
+Bsacbsac does not show cards.
+Bsacbsac wins $0.90 USD
+
+Game #14697697992 starts.
+#Game No : 14697697992 
+Table Closed
+The hand history for this hand number is not available here.Please use Instant Hand History in the "Game Rules & Options"  menu to have this hand history delivered to the email address you have registered with us.
+

@@ -1,0 +1,303 @@
+Game #14683231315 starts.
+
+#Game No : 14683231315 
+***** Hand History for Game 14683231315 *****
+NL Texas Hold'em $0.01 USD Buy-in Trny:118112883 Level:7  Blinds-Antes(50/100 -10) - Monday, July 20, 15:45:17 EDT 2015
+Table $150K Gtd 40 Seat Frenzy Rebuy Qualifier - 1 Seat Gtd (118112883) Table #9 (Real Money)
+Seat 3 is the button
+Total number of players : 7/9 
+Seat 8: GLADIATORSSo ( 5,950 )
+Seat 4: SuperMeili ( 1,890 )
+Seat 5: TilliWilli ( 2,000 )
+Seat 3: anoole21 ( 1,830 )
+Seat 6: deonis888 ( 1,990 )
+Seat 2: gilgamesh16399 ( 4,280 )
+Seat 7: klesken ( 1,570 )
+Trny:118112883 Level:7 
+Blinds-Antes(50/100 -10)
+gilgamesh16399 posts ante [10]
+anoole21 posts ante [10]
+SuperMeili posts ante [10]
+TilliWilli posts ante [10]
+deonis888 posts ante [10]
+klesken posts ante [10]
+GLADIATORSSo posts ante [10]
+SuperMeili posts small blind [50].
+TilliWilli posts big blind [100].
+** Dealing down cards **
+Dealt to TilliWilli [  Qs 5h ]
+deonis888 calls [100]
+santunas has joined the table.
+Player santunas has been moved from table 8 to this table
+klesken folds
+GLADIATORSSo is all-In  [5,940]
+gilgamesh16399 folds
+anoole21 folds
+SuperMeili folds
+TilliWilli folds
+deonis888 folds
+GLADIATORSSo does not show cards.
+GLADIATORSSo wins 6,260 chips
+Game #14683233404 starts.
+
+#Game No : 14683233404 
+***** Hand History for Game 14683233404 *****
+NL Texas Hold'em $0.01 USD Buy-in Trny:118112883 Level:8  Blinds-Antes(60/120 -10) - Monday, July 20, 15:45:54 EDT 2015
+Table $150K Gtd 40 Seat Frenzy Rebuy Qualifier - 1 Seat Gtd (118112883) Table #9 (Real Money)
+Seat 4 is the button
+Total number of players : 8/9 
+Seat 8: GLADIATORSSo ( 6,260 )
+Seat 4: SuperMeili ( 1,830 )
+Seat 5: TilliWilli ( 1,890 )
+Seat 3: anoole21 ( 1,820 )
+Seat 6: deonis888 ( 1,880 )
+Seat 2: gilgamesh16399 ( 4,270 )
+Seat 7: klesken ( 1,560 )
+Seat 1: santunas ( 5,030 )
+Trny:118112883 Level:8 
+Blinds-Antes(60/120 -10)
+santunas posts ante [10]
+gilgamesh16399 posts ante [10]
+anoole21 posts ante [10]
+SuperMeili posts ante [10]
+TilliWilli posts ante [10]
+deonis888 posts ante [10]
+klesken posts ante [10]
+GLADIATORSSo posts ante [10]
+TilliWilli posts small blind [60].
+deonis888 posts big blind [120].
+** Dealing down cards **
+Dealt to TilliWilli [  Ad 8s ]
+klesken folds
+GLADIATORSSo calls [120]
+santunas folds
+gilgamesh16399 calls [120]
+anoole21 calls [120]
+SuperMeili folds
+TilliWilli calls [60]
+deonis888 is all-In  [1,750]
+GLADIATORSSo folds
+gilgamesh16399 is all-In  [4,140]
+anoole21 is all-In  [1,690]
+TilliWilli folds
+** Dealing Flop ** [ 6c, 5s, 7s ]
+** Dealing Turn ** [ Ah ]
+** Dealing River ** [ 3h ]
+deonis888 shows [ Qs, 6s ]a pair of Sixes.
+gilgamesh16399 shows [ 7c, 8h ]a pair of Sevens.
+anoole21 shows [ Kc, Js ]high card Ace.
+gilgamesh16399 wins 2,390 chips from the side pot 2 with a pair of Sevens.
+gilgamesh16399 wins 120 chips from the side pot 1 with a pair of Sevens.
+gilgamesh16399 wins 5,750 chips from the main pot with a pair of Sevens.
+waiting for anoole21, deonis888  to rebuy in  20 seconds to continue playing in the tournament
+CostkaMD has joined the table.
+Player anoole21 finished in 52.
+Player deonis888 finished in 51.
+Game #14683236390 starts.
+
+#Game No : 14683236390 
+***** Hand History for Game 14683236390 *****
+NL Texas Hold'em $0.01 USD Buy-in Trny:118112883 Level:8  Blinds-Antes(60/120 -10) - Monday, July 20, 15:47:23 EDT 2015
+Table $150K Gtd 40 Seat Frenzy Rebuy Qualifier - 1 Seat Gtd (118112883) Table #9 (Real Money)
+Seat 5 is the button
+Total number of players : 7/9 
+Seat 9: CostkaMD ( 2,000 )
+Seat 8: GLADIATORSSo ( 6,130 )
+Seat 4: SuperMeili ( 1,820 )
+Seat 5: TilliWilli ( 1,760 )
+Seat 2: gilgamesh16399 ( 8,260 )
+Seat 7: klesken ( 1,550 )
+Seat 1: santunas ( 5,020 )
+Trny:118112883 Level:8 
+Blinds-Antes(60/120 -10)
+santunas posts ante [10]
+gilgamesh16399 posts ante [10]
+SuperMeili posts ante [10]
+TilliWilli posts ante [10]
+klesken posts ante [10]
+GLADIATORSSo posts ante [10]
+CostkaMD posts ante [10]
+There is no Small Blind in this hand as the Big Blind of the previous hand left the table.
+klesken posts big blind [120].
+** Dealing down cards **
+Dealt to TilliWilli [  6c Kc ]
+GLADIATORSSo folds
+CostkaMD calls [120]
+santunas calls [120]
+gilgamesh16399 calls [120]
+SuperMeili folds
+Dewin88 has joined the table.
+TilliWilli folds
+klesken checks
+** Dealing Flop ** [ 6d, 9d, Jc ]
+klesken checks
+CostkaMD bets [120]
+santunas calls [120]
+gilgamesh16399 calls [120]
+klesken calls [120]
+** Dealing Turn ** [ As ]
+klesken checks
+CostkaMD checks
+santunas checks
+gilgamesh16399 checks
+** Dealing River ** [ Qs ]
+klesken checks
+CostkaMD checks
+santunas checks
+gilgamesh16399 checks
+klesken shows [ 7c, 5h ]high card Ace.
+CostkaMD shows [ 9s, Kd ]a pair of Nines.
+santunas doesn't show [ 5c, 7s ]high card Ace.
+gilgamesh16399 doesn't show [ 3c, 3h ]a pair of Threes.
+CostkaMD wins 1,030 chips from the main pot with a pair of Nines.
+Game #14683240383 starts.
+
+#Game No : 14683240383 
+***** Hand History for Game 14683240383 *****
+NL Texas Hold'em $0.01 USD Buy-in Trny:118112883 Level:8  Blinds-Antes(60/120 -10) - Monday, July 20, 15:48:50 EDT 2015
+Table $150K Gtd 40 Seat Frenzy Rebuy Qualifier - 1 Seat Gtd (118112883) Table #9 (Real Money)
+Seat 5 is the button
+Total number of players : 8/9 
+Seat 9: CostkaMD ( 2,780 )
+Seat 3: Dewin88 ( 2,000 )
+Seat 8: GLADIATORSSo ( 6,120 )
+Seat 4: SuperMeili ( 1,810 )
+Seat 5: TilliWilli ( 1,750 )
+Seat 2: gilgamesh16399 ( 8,010 )
+Seat 7: klesken ( 1,300 )
+Seat 1: santunas ( 4,770 )
+Trny:118112883 Level:8 
+Blinds-Antes(60/120 -10)
+santunas posts ante [10]
+gilgamesh16399 posts ante [10]
+Dewin88 posts ante [10]
+SuperMeili posts ante [10]
+TilliWilli posts ante [10]
+klesken posts ante [10]
+GLADIATORSSo posts ante [10]
+CostkaMD posts ante [10]
+klesken posts small blind [60].
+GLADIATORSSo posts big blind [120].
+** Dealing down cards **
+Dealt to TilliWilli [  3s Ks ]
+CostkaMD calls [120]
+santunas calls [120]
+gilgamesh16399 calls [120]
+Dewin88 calls [120]
+SuperMeili folds
+TilliWilli folds
+klesken calls [60]
+GLADIATORSSo raises [840]
+CostkaMD is all-In  [2,650]
+santunas folds
+gilgamesh16399 folds
+Dewin88 folds
+klesken is all-In  [1,170]
+GLADIATORSSo calls [1,810]
+** Dealing Flop ** [ 3h, 2s, Tc ]
+** Dealing Turn ** [ 2d ]
+** Dealing River ** [ Qd ]
+GLADIATORSSo shows [ Kd, Kc ]two pairs, Kings and Twos.
+CostkaMD shows [ Jd, Kh ]a pair of Twos.
+klesken shows [ Jh, Td ]two pairs, Tens and Twos.
+GLADIATORSSo wins 2,960 chips from the side pot 1 with two pairs, Kings and Twos.
+GLADIATORSSo wins 4,310 chips from the main pot with two pairs, Kings and Twos.
+waiting for klesken, CostkaMD  to rebuy in  20 seconds to continue playing in the tournament
+There will be a break in 4 minute(s)
+Player klesken finished in 49.
+Player CostkaMD finished in 48.
+Game #14683243810 starts.
+
+#Game No : 14683243810 
+***** Hand History for Game 14683243810 *****
+NL Texas Hold'em $0.01 USD Buy-in Trny:118112883 Level:8  Blinds-Antes(60/120 -10) - Monday, July 20, 15:50:18 EDT 2015
+Table $150K Gtd 40 Seat Frenzy Rebuy Qualifier - 1 Seat Gtd (118112883) Table #9 (Real Money)
+Seat 5 is the button
+Total number of players : 6/9 
+Seat 3: Dewin88 ( 1,870 )
+Seat 8: GLADIATORSSo ( 10,610 )
+Seat 4: SuperMeili ( 1,800 )
+Seat 5: TilliWilli ( 1,740 )
+Seat 2: gilgamesh16399 ( 7,880 )
+Seat 1: santunas ( 4,640 )
+Trny:118112883 Level:8 
+Blinds-Antes(60/120 -10)
+santunas posts ante [10]
+gilgamesh16399 posts ante [10]
+Dewin88 posts ante [10]
+SuperMeili posts ante [10]
+TilliWilli posts ante [10]
+GLADIATORSSo posts ante [10]
+GLADIATORSSo posts small blind [60].
+santunas posts big blind [120].
+** Dealing down cards **
+Dealt to TilliWilli [  8s 9d ]
+gilgamesh16399 raises [240]
+t.v.bede has joined the table.
+Dewin88 folds
+SuperMeili folds
+TilliWilli folds
+GLADIATORSSo calls [180]
+santunas calls [120]
+** Dealing Flop ** [ 5h, 7c, 3c ]
+GLADIATORSSo checks
+santunas checks
+gilgamesh16399 bets [390]
+GLADIATORSSo folds
+santunas folds
+gilgamesh16399 does not show cards.
+gilgamesh16399 wins 1,170 chips
+Game #14683247788 starts.
+
+#Game No : 14683247788 
+***** Hand History for Game 14683247788 *****
+NL Texas Hold'em $0.01 USD Buy-in Trny:118112883 Level:9  Blinds-Antes(80/160 -15) - Monday, July 20, 15:51:34 EDT 2015
+Table $150K Gtd 40 Seat Frenzy Rebuy Qualifier - 1 Seat Gtd (118112883) Table #9 (Real Money)
+Seat 8 is the button
+Total number of players : 7/9 
+Seat 3: Dewin88 ( 1,860 )
+Seat 8: GLADIATORSSo ( 10,360 )
+Seat 4: SuperMeili ( 1,790 )
+Seat 5: TilliWilli ( 1,730 )
+Seat 2: gilgamesh16399 ( 8,410 )
+Seat 1: santunas ( 4,390 )
+Seat 6: t.v.bede ( 2,000 )
+Trny:118112883 Level:9 
+Blinds-Antes(80/160 -15)
+santunas posts ante [15]
+gilgamesh16399 posts ante [15]
+Dewin88 posts ante [15]
+SuperMeili posts ante [15]
+TilliWilli posts ante [15]
+t.v.bede posts ante [15]
+GLADIATORSSo posts ante [15]
+santunas posts small blind [80].
+gilgamesh16399 posts big blind [160].
+** Dealing down cards **
+Dealt to TilliWilli [  8c Ac ]
+Dewin88 will be using their time bank for this hand.
+hapa933 has joined the table.
+Dewin88 did not respond in time
+Dewin88 folds
+SuperMeili folds
+TilliWilli raises [320]
+t.v.bede is all-In  [1,985]
+GLADIATORSSo is all-In  [10,345]
+santunas folds
+gilgamesh16399 is all-In  [8,235]
+TilliWilli is all-In  [1,395]
+** Dealing Flop ** [ 6h, As, 8h ]
+** Dealing Turn ** [ 4h ]
+** Dealing River ** [ 2h ]
+TilliWilli shows [ 8c, Ac ]two pairs, Aces and Eights.
+t.v.bede shows [ 3d, 8s ]a pair of Eights.
+GLADIATORSSo shows [ Qd, Qh ]a flush, Queen high.
+gilgamesh16399 shows [ 9d, Ad ]a pair of Aces.
+GLADIATORSSo wins 1,950 chips from the side pot 3 with a flush, Queen high.
+GLADIATORSSo wins 12,820 chips from the side pot 2 with a flush, Queen high.
+GLADIATORSSo wins 810 chips from the side pot 1 with a flush, Queen high.
+GLADIATORSSo wins 7,045 chips from the main pot with a flush, Queen high.
+waiting for gilgamesh16399, TilliWilli, t.v.bede  to rebuy in  20 seconds to continue playing in the tournament
+Player TilliWilli finished in 45.
+Player t.v.bede finished in 44.
+Player gilgamesh16399 finished in 43.

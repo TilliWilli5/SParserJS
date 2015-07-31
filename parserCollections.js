@@ -46,7 +46,9 @@ var CParserPartyPoker = CParser.Extend
 		var gameStats = [];
 		for(var iX=1; iX<games.length; ++iX)
 		{
-			var gameStatements = games[iX].split("\n");
+			var gameStatements = games[iX].split("\r\n");
+			if(gameStatements[1] === "Table Closed")
+				continue;//Выходим из цикла потому что стол закрыт а значит статистика по этому розыгрышу недоступна
 			var game = new CPPPGame.Create();
 			game.Initialize();
 			game.id = parseInt(gameStatements[0]);

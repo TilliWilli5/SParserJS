@@ -1,0 +1,1054 @@
+Game #14683150642 starts.
+
+#Game No : 14683150642 
+***** Hand History for Game 14683150642 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 15:13:00 EDT 2015
+Table Colombo (Real Money)
+Seat 1 is the button
+Total number of players : 7/9 
+Seat 4: Kajen ( $4 USD )
+Seat 5: TilliWilli ( $10 USD )
+Seat 2: Vegas100_x ( $3.90 USD )
+Seat 6: hauraffel100 ( $0 USD )
+Seat 3: luckylady600 ( $11.05 USD )
+Seat 1: manicciu ( $3.90 USD )
+Seat 9: rivieraKRD ( $10 USD )
+Vegas100_x posts small blind [$0.05 USD].
+luckylady600 posts big blind [$0.10 USD].
+TilliWilli posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3s 5d ]
+hauraffel100 has joined the table.
+TilliWilli checks
+rivieraKRD folds
+Rahilman has joined the table.
+manicciu raises [$0.30 USD]
+Vegas100_x folds
+luckylady600 calls [$0.20 USD]
+TilliWilli folds
+** Dealing Flop ** [ Td, Kh, 8d ]
+luckylady600 bets [$0.10 USD]
+gardine2 has joined the table.
+manicciu raises [$0.50 USD]
+luckylady600 calls [$0.40 USD]
+** Dealing Turn ** [ Qd ]
+luckylady600 bets [$0.10 USD]
+manicciu raises [$0.70 USD]
+luckylady600 calls [$0.60 USD]
+** Dealing River ** [ 7h ]
+luckylady600 bets [$3 USD]
+manicciu is all-In  [$2.40 USD]
+luckylady600 shows [ 7d, Qs ]two pairs, Queens and Sevens.
+manicciu shows [ Qh, Ts ]two pairs, Queens and Tens.
+luckylady600 wins $0.60 USD from the side pot 1 with two pairs, Queens and Sevens.
+manicciu wins $7.56 USD from the main pot with two pairs, Queens and Tens.
+Game #14683153073 starts.
+
+#Game No : 14683153073 
+***** Hand History for Game 14683153073 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 15:13:54 EDT 2015
+Table Colombo (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 4: Kajen ( $4 USD )
+Seat 7: Rahilman ( $10 USD )
+Seat 5: TilliWilli ( $9.90 USD )
+Seat 2: Vegas100_x ( $3.85 USD )
+Seat 8: gardine2 ( $4.88 USD )
+Seat 6: hauraffel100 ( $3 USD )
+Seat 3: luckylady600 ( $7.15 USD )
+Seat 1: manicciu ( $7.56 USD )
+Seat 9: rivieraKRD ( $10 USD )
+luckylady600 posts small blind [$0.05 USD].
+Kajen posts big blind [$0.10 USD].
+hauraffel100 posts big blind [$0.10 USD].
+Rahilman posts big blind [$0.10 USD].
+gardine2 posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4d Ks ]
+TilliWilli folds
+hauraffel100 checks
+Rahilman checks
+gardine2 checks
+rivieraKRD folds
+manicciu folds
+Vegas100_x folds
+luckylady600 folds
+Kajen checks
+** Dealing Flop ** [ 4h, 5h, As ]
+Kajen checks
+hauraffel100 checks
+Rahilman checks
+gardine2 checks
+** Dealing Turn ** [ 8d ]
+Kajen bets [$0.43 USD]
+hauraffel100 folds
+Rahilman raises [$1.72 USD]
+gardine2 folds
+Kajen is all-In  [$3.47 USD]
+Rahilman calls [$2.18 USD]
+** Dealing River ** [ Jh ]
+Rahilman shows [ 8s, 5s ]two pairs, Eights and Fives.
+Kajen shows [ Ad, 8h ]two pairs, Aces and Eights.
+Kajen wins $7.84 USD from the main pot with two pairs, Aces and Eights.
+Game #14683155788 starts.
+
+#Game No : 14683155788 
+***** Hand History for Game 14683155788 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 15:15:08 EDT 2015
+Table Colombo (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 4: Kajen ( $7.84 USD )
+Seat 7: Rahilman ( $6 USD )
+Seat 5: TilliWilli ( $9.90 USD )
+Seat 2: Vegas100_x ( $3.85 USD )
+Seat 8: gardine2 ( $4.78 USD )
+Seat 6: hauraffel100 ( $2.90 USD )
+Seat 3: luckylady600 ( $7.10 USD )
+Seat 1: manicciu ( $7.56 USD )
+Seat 9: rivieraKRD ( $10 USD )
+Kajen posts small blind [$0.05 USD].
+TilliWilli posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Tc Jd ]
+hauraffel100 calls [$0.10 USD]
+Rahilman calls [$0.10 USD]
+gardine2 calls [$0.10 USD]
+rivieraKRD folds
+manicciu folds
+Vegas100_x folds
+luckylady600 calls [$0.10 USD]
+Kajen folds
+TilliWilli checks
+** Dealing Flop ** [ Qs, 6h, Qd ]
+TilliWilli checks
+hauraffel100 checks
+Rahilman checks
+gardine2 checks
+luckylady600 checks
+** Dealing Turn ** [ Ah ]
+TilliWilli checks
+hauraffel100 checks
+Rahilman bets [$0.53 USD]
+gardine2 folds
+luckylady600 calls [$0.53 USD]
+TilliWilli folds
+hauraffel100 folds
+** Dealing River ** [ 8d ]
+Rahilman bets [$0.76 USD]
+luckylady600 folds
+Rahilman does not show cards.
+Rahilman wins $2.29 USD
+Game #14683160723 starts.
+
+#Game No : 14683160723 
+***** Hand History for Game 14683160723 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 15:16:58 EDT 2015
+Table Colombo (Real Money)
+Seat 4 is the button
+Total number of players : 9/9 
+Seat 4: Kajen ( $7.79 USD )
+Seat 7: Rahilman ( $6.90 USD )
+Seat 5: TilliWilli ( $9.80 USD )
+Seat 2: Vegas100_x ( $3.85 USD )
+Seat 8: gardine2 ( $4.68 USD )
+Seat 6: hauraffel100 ( $2.80 USD )
+Seat 3: luckylady600 ( $6.47 USD )
+Seat 1: manicciu ( $7.56 USD )
+Seat 9: rivieraKRD ( $10 USD )
+TilliWilli posts small blind [$0.05 USD].
+hauraffel100 posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Js Kh ]
+Rahilman calls [$0.10 USD]
+gardine2 calls [$0.10 USD]
+rivieraKRD folds
+manicciu folds
+Vegas100_x folds
+luckylady600 calls [$0.10 USD]
+Kajen folds
+TilliWilli raises [$2.95 USD]
+hauraffel100 is all-In  [$2.70 USD]
+Rahilman folds
+gardine2 folds
+luckylady600 folds
+** Dealing Flop ** [ Qd, Qh, 4d ]
+** Dealing Turn ** [ Ks ]
+** Dealing River ** [ 8d ]
+TilliWilli shows [ Js, Kh ]two pairs, Kings and Queens.
+hauraffel100 shows [ Ad, 2d ]a flush, Ace high.
+TilliWilli wins $0.20 USD from the side pot 1 with two pairs, Kings and Queens.
+hauraffel100 wins $5.61 USD from the main pot with a flush, Ace high.
+Game #14683162401 starts.
+
+#Game No : 14683162401 
+***** Hand History for Game 14683162401 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 15:17:32 EDT 2015
+Table Colombo (Real Money)
+Seat 5 is the button
+Total number of players : 9/9 
+Seat 4: Kajen ( $7.79 USD )
+Seat 7: Rahilman ( $6.80 USD )
+Seat 5: TilliWilli ( $7 USD )
+Seat 2: Vegas100_x ( $3.85 USD )
+Seat 8: gardine2 ( $4.58 USD )
+Seat 6: hauraffel100 ( $5.61 USD )
+Seat 3: luckylady600 ( $6.37 USD )
+Seat 1: manicciu ( $7.56 USD )
+Seat 9: rivieraKRD ( $10 USD )
+hauraffel100 posts small blind [$0.05 USD].
+Rahilman posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Kd 7d ]
+gardine2 calls [$0.10 USD]
+rivieraKRD folds
+manicciu raises [$0.30 USD]
+Vegas100_x folds
+luckylady600 folds
+Kajen folds
+TilliWilli calls [$0.30 USD]
+hauraffel100 folds
+Rahilman calls [$0.20 USD]
+gardine2 calls [$0.20 USD]
+** Dealing Flop ** [ 6h, 3d, Jh ]
+Rahilman checks
+gardine2 bets [$1.19 USD]
+manicciu folds
+TilliWilli folds
+Rahilman folds
+gardine2 does not show cards.
+gardine2 wins $2.38 USD
+Game #14683163895 starts.
+
+#Game No : 14683163895 
+***** Hand History for Game 14683163895 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 15:18:12 EDT 2015
+Table Colombo (Real Money)
+Seat 6 is the button
+Total number of players : 9/9 
+Seat 4: Kajen ( $7.79 USD )
+Seat 7: Rahilman ( $6.50 USD )
+Seat 5: TilliWilli ( $6.70 USD )
+Seat 2: Vegas100_x ( $3.85 USD )
+Seat 8: gardine2 ( $5.47 USD )
+Seat 6: hauraffel100 ( $5.56 USD )
+Seat 3: luckylady600 ( $6.37 USD )
+Seat 1: manicciu ( $7.26 USD )
+Seat 9: rivieraKRD ( $10 USD )
+Rahilman posts small blind [$0.05 USD].
+gardine2 posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9h 4d ]
+rivieraKRD folds
+manicciu calls [$0.10 USD]
+Vegas100_x folds
+Kajen calls [$0.10 USD]
+TilliWilli folds
+hauraffel100 calls [$0.10 USD]
+Rahilman calls [$0.05 USD]
+gardine2 checks
+** Dealing Flop ** [ 4c, Ts, 2d ]
+Rahilman checks
+gardine2 checks
+manicciu checks
+Kajen checks
+hauraffel100 checks
+** Dealing Turn ** [ 5h ]
+Rahilman checks
+gardine2 checks
+manicciu checks
+Kajen checks
+hauraffel100 checks
+** Dealing River ** [ Kc ]
+Rahilman checks
+gardine2 checks
+manicciu checks
+Kajen checks
+hauraffel100 checks
+Rahilman shows [ Qs, 3s ]high card King.
+gardine2 shows [ 2c, As ]a pair of Twos.
+manicciu doesn't show [ Ac, 8s ]high card Ace.
+Kajen doesn't show [ Jh, Qh ]high card King with Jack kicker.
+hauraffel100 doesn't show [ 6c, 7h ]high card King.
+gardine2 wins $0.48 USD from the main pot with a pair of Twos.
+Game #14683166990 starts.
+
+#Game No : 14683166990 
+***** Hand History for Game 14683166990 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 15:19:23 EDT 2015
+Table Colombo (Real Money)
+Seat 7 is the button
+Total number of players : 9/9 
+Seat 4: Kajen ( $7.69 USD )
+Seat 7: Rahilman ( $6.40 USD )
+Seat 5: TilliWilli ( $6.70 USD )
+Seat 2: Vegas100_x ( $3.85 USD )
+Seat 8: gardine2 ( $5.85 USD )
+Seat 6: hauraffel100 ( $5.46 USD )
+Seat 3: luckylady600 ( $6.37 USD )
+Seat 1: manicciu ( $7.16 USD )
+Seat 9: rivieraKRD ( $10 USD )
+gardine2 posts small blind [$0.05 USD].
+rivieraKRD posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5h 2d ]
+manicciu did not respond in time
+manicciu folds
+Vegas100_x calls [$0.10 USD]
+Kajen calls [$0.10 USD]
+TilliWilli folds
+hauraffel100 calls [$0.10 USD]
+Rahilman calls [$0.10 USD]
+gardine2 calls [$0.05 USD]
+rivieraKRD checks
+** Dealing Flop ** [ Jc, 5d, 3h ]
+gardine2 checks
+rivieraKRD checks
+Vegas100_x checks
+Kajen checks
+hauraffel100 checks
+Rahilman checks
+** Dealing Turn ** [ Ah ]
+gardine2 checks
+rivieraKRD checks
+Vegas100_x checks
+Kajen checks
+hauraffel100 checks
+Rahilman bets [$0.57 USD]
+gardine2 folds
+rivieraKRD folds
+Vegas100_x calls [$0.57 USD]
+Kajen folds
+hauraffel100 folds
+** Dealing River ** [ 9c ]
+Vegas100_x checks
+Rahilman checks
+Vegas100_x shows [ 6s, Ac ]a pair of Aces with Six kicker.
+Rahilman doesn't show [ 4s, As ]a pair of Aces.
+Vegas100_x wins $1.66 USD from the main pot with a pair of Aces with Six kicker.
+Game #14683170634 starts.
+
+#Game No : 14683170634 
+***** Hand History for Game 14683170634 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 15:21:06 EDT 2015
+Table Colombo (Real Money)
+Seat 8 is the button
+Total number of players : 9/9 
+Seat 4: Kajen ( $7.59 USD )
+Seat 7: Rahilman ( $5.73 USD )
+Seat 5: TilliWilli ( $6.70 USD )
+Seat 2: Vegas100_x ( $4.84 USD )
+Seat 8: gardine2 ( $5.75 USD )
+Seat 6: hauraffel100 ( $5.36 USD )
+Seat 3: luckylady600 ( $6.37 USD )
+Seat 1: manicciu ( $7.16 USD )
+Seat 9: rivieraKRD ( $10 USD )
+rivieraKRD posts small blind [$0.05 USD].
+manicciu posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  6h As ]
+Vegas100_x calls [$0.10 USD]
+luckylady600 folds
+Kajen folds
+TilliWilli calls [$0.10 USD]
+hauraffel100 calls [$0.10 USD]
+Rahilman did not respond in time
+Rahilman folds
+gardine2 calls [$0.10 USD]
+rivieraKRD folds
+manicciu folds
+** Dealing Flop ** [ 9h, 3c, Kh ]
+Vegas100_x checks
+TilliWilli bets [$0.10 USD]
+hauraffel100 calls [$0.10 USD]
+gardine2 calls [$0.10 USD]
+Vegas100_x calls [$0.10 USD]
+** Dealing Turn ** [ 6d ]
+Vegas100_x checks
+TilliWilli checks
+hauraffel100 bets [$0.91 USD]
+gardine2 calls [$0.91 USD]
+Vegas100_x folds
+TilliWilli folds
+** Dealing River ** [ Ks ]
+hauraffel100 checks
+gardine2 checks
+hauraffel100 shows [ 9d, 9s ]a full house, Nines full of Kings.
+gardine2 doesn't show [ 3h, 2h ]two pairs, Kings and Threes.
+hauraffel100 wins $2.64 USD from the main pot with a full house, Nines full of Kings.
+Game #14683174233 starts.
+
+#Game No : 14683174233 
+***** Hand History for Game 14683174233 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 15:22:17 EDT 2015
+Table Colombo (Real Money)
+Seat 9 is the button
+Total number of players : 9/9 
+Seat 4: Kajen ( $7.59 USD )
+Seat 7: Rahilman ( $5.73 USD )
+Seat 5: TilliWilli ( $6.50 USD )
+Seat 2: Vegas100_x ( $4.64 USD )
+Seat 8: gardine2 ( $4.64 USD )
+Seat 6: hauraffel100 ( $6.89 USD )
+Seat 3: luckylady600 ( $6.37 USD )
+Seat 1: manicciu ( $7.06 USD )
+Seat 9: rivieraKRD ( $10 USD )
+manicciu posts small blind [$0.05 USD].
+Vegas100_x posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ks Js ]
+luckylady600 folds
+Kajen folds
+TilliWilli raises [$0.30 USD]
+hauraffel100 folds
+Rahilman calls [$0.30 USD]
+gardine2 calls [$0.30 USD]
+rivieraKRD folds
+manicciu folds
+Vegas100_x calls [$0.20 USD]
+** Dealing Flop ** [ Kc, 8s, 3c ]
+Vegas100_x checks
+TilliWilli bets [$0.30 USD]
+Rahilman calls [$0.30 USD]
+gardine2 folds
+Vegas100_x folds
+** Dealing Turn ** [ 9c ]
+TilliWilli checks
+Rahilman checks
+** Dealing River ** [ 2d ]
+TilliWilli bets [$0.45 USD]
+Rahilman calls [$0.45 USD]
+TilliWilli shows [ Ks, Js ]a pair of Kings.
+Rahilman doesn't show [ Ac, 9s ]a pair of Nines.
+TilliWilli wins $2.62 USD from the main pot with a pair of Kings.
+hauraffel100 has left the table.
+Game #14683176925 starts.
+
+#Game No : 14683176925 
+***** Hand History for Game 14683176925 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 15:23:33 EDT 2015
+Table Colombo (Real Money)
+Seat 1 is the button
+Total number of players : 8/9 
+Seat 4: Kajen ( $7.59 USD )
+Seat 7: Rahilman ( $4.68 USD )
+Seat 5: TilliWilli ( $8.07 USD )
+Seat 2: Vegas100_x ( $4.34 USD )
+Seat 8: gardine2 ( $4.34 USD )
+Seat 3: luckylady600 ( $6.37 USD )
+Seat 1: manicciu ( $7.01 USD )
+Seat 9: rivieraKRD ( $10 USD )
+Vegas100_x posts small blind [$0.05 USD].
+luckylady600 posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9c 4s ]
+Kajen folds
+TilliWilli folds
+Rahilman calls [$0.10 USD]
+Plutus5 has joined the table.
+gardine2 calls [$0.10 USD]
+rivieraKRD folds
+manicciu folds
+Vegas100_x calls [$0.05 USD]
+luckylady600 checks
+** Dealing Flop ** [ 5s, Ah, 2h ]
+Vegas100_x checks
+luckylady600 checks
+Rahilman checks
+gardine2 checks
+** Dealing Turn ** [ Qd ]
+Vegas100_x checks
+luckylady600 checks
+Rahilman checks
+gardine2 checks
+** Dealing River ** [ Kh ]
+Vegas100_x bets [$0.10 USD]
+luckylady600 folds
+Rahilman calls [$0.10 USD]
+gardine2 folds
+Vegas100_x shows [ 7d, Qh ]a pair of Queens.
+Rahilman doesn't show [ 8c, 3s ]high card Ace.
+Vegas100_x wins $0.57 USD from the main pot with a pair of Queens.
+Game #14683179933 starts.
+
+#Game No : 14683179933 
+***** Hand History for Game 14683179933 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 15:24:40 EDT 2015
+Table Colombo (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 4: Kajen ( $7.59 USD )
+Seat 6: Plutus5 ( $4 USD )
+Seat 7: Rahilman ( $4.48 USD )
+Seat 5: TilliWilli ( $8.07 USD )
+Seat 2: Vegas100_x ( $4.71 USD )
+Seat 8: gardine2 ( $4.24 USD )
+Seat 3: luckylady600 ( $6.27 USD )
+Seat 1: manicciu ( $7.01 USD )
+Seat 9: rivieraKRD ( $10 USD )
+luckylady600 posts small blind [$0.05 USD].
+Kajen posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5h 4h ]
+TilliWilli calls [$0.10 USD]
+Rahilman calls [$0.10 USD]
+gardine2 calls [$0.10 USD]
+rivieraKRD folds
+manicciu did not respond in time
+manicciu folds
+Vegas100_x could not respond in time.(disconnected)
+Vegas100_x folds
+luckylady600 raises [$0.15 USD]
+Kajen calls [$0.10 USD]
+TilliWilli calls [$0.10 USD]
+Rahilman calls [$0.10 USD]
+gardine2 calls [$0.10 USD]
+** Dealing Flop ** [ Td, 4c, Jd ]
+luckylady600 bets [$0.95 USD]
+Kajen folds
+TilliWilli folds
+Rahilman calls [$0.95 USD]
+gardine2 is all-In  [$4.04 USD]
+luckylady600 is all-In  [$5.12 USD]
+Rahilman folds
+** Dealing Turn ** [ 3s ]
+** Dealing River ** [ As ]
+luckylady600 shows [ Ac, Tc ]two pairs, Aces and Tens.
+gardine2 shows [ Jh, Ad ]two pairs, Aces and Jacks.
+luckylady600 wins $2.03 USD from the side pot 1 with two pairs, Aces and Tens.
+gardine2 wins $9.53 USD from the main pot with two pairs, Aces and Jacks.
+Game #14683184190 starts.
+
+#Game No : 14683184190 
+***** Hand History for Game 14683184190 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 15:26:25 EDT 2015
+Table Colombo (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 4: Kajen ( $7.39 USD )
+Seat 6: Plutus5 ( $4 USD )
+Seat 7: Rahilman ( $3.33 USD )
+Seat 5: TilliWilli ( $7.87 USD )
+Seat 2: Vegas100_x ( $4.71 USD )
+Seat 8: gardine2 ( $9.53 USD )
+Seat 3: luckylady600 ( $2.03 USD )
+Seat 1: manicciu ( $7.01 USD )
+Seat 9: rivieraKRD ( $10 USD )
+Kajen posts small blind [$0.05 USD].
+TilliWilli posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Th Jd ]
+Rahilman calls [$0.10 USD]
+gardine2 folds
+rivieraKRD folds
+manicciu did not respond in time
+manicciu folds
+Vegas100_x has left the table.
+luckylady600 is all-In  [$2.03 USD]
+wowiweb has joined the table.
+Kajen folds
+TilliWilli raises [$3.86 USD]
+Rahilman folds
+** Dealing Flop ** [ Kh, 4s, Qc ]
+** Dealing Turn ** [ Qd ]
+** Dealing River ** [ 8d ]
+TilliWilli shows [ Th, Jd ]a pair of Queens.
+luckylady600 shows [ Qs, 6d ]three of a kind, Queens.
+TilliWilli wins $1.93 USD from the side pot 1 with a pair of Queens.
+luckylady600 wins $4 USD from the main pot with three of a kind, Queens.
+Game #14683186806 starts.
+
+#Game No : 14683186806 
+***** Hand History for Game 14683186806 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 15:27:09 EDT 2015
+Table Colombo (Real Money)
+Seat 4 is the button
+Total number of players : 9/9 
+Seat 4: Kajen ( $7.34 USD )
+Seat 6: Plutus5 ( $4 USD )
+Seat 7: Rahilman ( $3.23 USD )
+Seat 5: TilliWilli ( $5.84 USD )
+Seat 8: gardine2 ( $9.53 USD )
+Seat 3: luckylady600 ( $4 USD )
+Seat 1: manicciu ( $7.01 USD )
+Seat 9: rivieraKRD ( $10 USD )
+Seat 2: wowiweb ( $10 USD )
+TilliWilli posts small blind [$0.05 USD].
+Plutus5 posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  6c 4c ]
+Rahilman calls [$0.10 USD]
+gardine2 calls [$0.10 USD]
+rivieraKRD folds
+manicciu raises [$0.40 USD]
+luckylady600 folds
+Kajen folds
+TilliWilli folds
+Plutus5 folds
+Rahilman calls [$0.30 USD]
+gardine2 folds
+** Dealing Flop ** [ Ah, 4d, Ks ]
+Rahilman checks
+manicciu bets [$0.50 USD]
+Rahilman calls [$0.50 USD]
+** Dealing Turn ** [ Jc ]
+Rahilman checks
+manicciu checks
+** Dealing River ** [ 9c ]
+Rahilman bets [$0.97 USD]
+manicciu folds
+Rahilman does not show cards.
+Rahilman wins $2.92 USD
+Game #14683188602 starts.
+
+#Game No : 14683188602 
+***** Hand History for Game 14683188602 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 15:27:58 EDT 2015
+Table Colombo (Real Money)
+Seat 5 is the button
+Total number of players : 9/9 
+Seat 4: Kajen ( $7.34 USD )
+Seat 6: Plutus5 ( $3.90 USD )
+Seat 7: Rahilman ( $4.28 USD )
+Seat 5: TilliWilli ( $5.79 USD )
+Seat 8: gardine2 ( $9.43 USD )
+Seat 3: luckylady600 ( $4 USD )
+Seat 1: manicciu ( $6.11 USD )
+Seat 9: rivieraKRD ( $10 USD )
+Seat 2: wowiweb ( $10 USD )
+Plutus5 posts small blind [$0.05 USD].
+Rahilman posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3c 6h ]
+gardine2 calls [$0.10 USD]
+rivieraKRD folds
+manicciu raises [$0.30 USD]
+luckylady600 calls [$0.30 USD]
+Kajen folds
+TilliWilli folds
+Plutus5 folds
+Rahilman calls [$0.20 USD]
+gardine2 calls [$0.20 USD]
+** Dealing Flop ** [ 5d, 2c, 7h ]
+Rahilman checks
+gardine2 checks
+manicciu checks
+luckylady600 checks
+** Dealing Turn ** [ Kd ]
+Rahilman checks
+gardine2 checks
+manicciu bets [$0.80 USD]
+luckylady600 folds
+Rahilman calls [$0.80 USD]
+gardine2 folds
+** Dealing River ** [ 4d ]
+Rahilman checks
+manicciu bets [$2.40 USD]
+Rahilman folds
+manicciu does not show cards.
+manicciu wins $5.11 USD
+Game #14683192195 starts.
+
+#Game No : 14683192195 
+***** Hand History for Game 14683192195 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 15:29:24 EDT 2015
+Table Colombo (Real Money)
+Seat 6 is the button
+Total number of players : 9/9 
+Seat 4: Kajen ( $7.34 USD )
+Seat 6: Plutus5 ( $3.85 USD )
+Seat 7: Rahilman ( $3.18 USD )
+Seat 5: TilliWilli ( $5.79 USD )
+Seat 8: gardine2 ( $9.13 USD )
+Seat 3: luckylady600 ( $3.70 USD )
+Seat 1: manicciu ( $7.72 USD )
+Seat 9: rivieraKRD ( $10 USD )
+Seat 2: wowiweb ( $10 USD )
+Rahilman posts small blind [$0.05 USD].
+gardine2 posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Kc 5d ]
+rivieraKRD folds
+manicciu folds
+luckylady600 calls [$0.10 USD]
+Kajen folds
+TilliWilli folds
+Plutus5 folds
+Rahilman calls [$0.05 USD]
+gardine2 checks
+** Dealing Flop ** [ 7s, 8c, Js ]
+Rahilman bets [$0.29 USD]
+gardine2 folds
+luckylady600 calls [$0.29 USD]
+** Dealing Turn ** [ 8d ]
+Rahilman bets [$0.84 USD]
+luckylady600 folds
+Rahilman does not show cards.
+Rahilman wins $1.68 USD
+Game #14683193956 starts.
+
+#Game No : 14683193956 
+***** Hand History for Game 14683193956 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 15:30:12 EDT 2015
+Table Colombo (Real Money)
+Seat 7 is the button
+Total number of players : 9/9 
+Seat 4: Kajen ( $7.34 USD )
+Seat 6: Plutus5 ( $3.85 USD )
+Seat 7: Rahilman ( $3.63 USD )
+Seat 5: TilliWilli ( $5.79 USD )
+Seat 8: gardine2 ( $9.03 USD )
+Seat 3: luckylady600 ( $3.31 USD )
+Seat 1: manicciu ( $7.72 USD )
+Seat 9: rivieraKRD ( $10 USD )
+Seat 2: wowiweb ( $10 USD )
+gardine2 posts small blind [$0.05 USD].
+rivieraKRD posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3h 4s ]
+manicciu folds
+luckylady600 calls [$0.10 USD]
+Kajen folds
+TilliWilli folds
+Plutus5 raises [$0.30 USD]
+Rahilman calls [$0.30 USD]
+gardine2 folds
+rivieraKRD folds
+luckylady600 calls [$0.20 USD]
+** Dealing Flop ** [ Jh, 8d, Qc ]
+luckylady600 checks
+Plutus5 checks
+Rahilman bets [$0.50 USD]
+luckylady600 calls [$0.50 USD]
+Plutus5 folds
+** Dealing Turn ** [ Qs ]
+luckylady600 checks
+Rahilman bets [$0.97 USD]
+luckylady600 raises [$1.94 USD]
+Rahilman calls [$0.97 USD]
+** Dealing River ** [ 2s ]
+luckylady600 is all-In  [$0.57 USD]
+Rahilman calls [$0.57 USD]
+luckylady600 shows [ Jc, Qh ]a full house, Queens full of Jacks.
+Rahilman shows [ Td, Ts ]two pairs, Queens and Tens.
+luckylady600 wins $6.72 USD from the main pot with a full house, Queens full of Jacks.
+Game #14683195837 starts.
+
+#Game No : 14683195837 
+***** Hand History for Game 14683195837 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 15:31:03 EDT 2015
+Table Colombo (Real Money)
+Seat 8 is the button
+Total number of players : 9/9 
+Seat 4: Kajen ( $7.34 USD )
+Seat 6: Plutus5 ( $3.55 USD )
+Seat 7: Rahilman ( $10 USD )
+Seat 5: TilliWilli ( $5.79 USD )
+Seat 8: gardine2 ( $8.98 USD )
+Seat 3: luckylady600 ( $6.72 USD )
+Seat 1: manicciu ( $7.72 USD )
+Seat 9: rivieraKRD ( $10 USD )
+Seat 2: wowiweb ( $10 USD )
+rivieraKRD posts small blind [$0.05 USD].
+manicciu posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Js 3c ]
+luckylady600 calls [$0.10 USD]
+Kajen folds
+TilliWilli folds
+Plutus5 folds
+Rahilman calls [$0.10 USD]
+gardine2 calls [$0.10 USD]
+rivieraKRD folds
+manicciu checks
+** Dealing Flop ** [ 7d, 5s, Ac ]
+manicciu checks
+luckylady600 checks
+Rahilman checks
+gardine2 checks
+** Dealing Turn ** [ 6c ]
+manicciu will be using their time bank for this hand.
+manicciu checks
+luckylady600 bets [$0.43 USD]
+Rahilman calls [$0.43 USD]
+gardine2 folds
+manicciu calls [$0.43 USD]
+** Dealing River ** [ Jh ]
+manicciu checks
+luckylady600 checks
+Rahilman bets [$0.83 USD]
+manicciu folds
+luckylady600 folds
+Rahilman does not show cards.
+Rahilman wins $2.49 USD
+Game #14683200881 starts.
+
+#Game No : 14683200881 
+***** Hand History for Game 14683200881 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 15:32:54 EDT 2015
+Table Colombo (Real Money)
+Seat 9 is the button
+Total number of players : 9/9 
+Seat 4: Kajen ( $7.34 USD )
+Seat 6: Plutus5 ( $3.55 USD )
+Seat 7: Rahilman ( $11.13 USD )
+Seat 5: TilliWilli ( $5.79 USD )
+Seat 8: gardine2 ( $8.88 USD )
+Seat 3: luckylady600 ( $6.19 USD )
+Seat 1: manicciu ( $7.19 USD )
+Seat 9: rivieraKRD ( $10 USD )
+Seat 2: wowiweb ( $10 USD )
+manicciu posts small blind [$0.05 USD].
+wowiweb posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qc 3c ]
+luckylady600 calls [$0.10 USD]
+Kajen folds
+TilliWilli calls [$0.10 USD]
+Plutus5 folds
+Rahilman calls [$0.10 USD]
+gardine2 calls [$0.10 USD]
+rivieraKRD folds
+manicciu folds
+wowiweb checks
+** Dealing Flop ** [ 2c, Tc, 3s ]
+wowiweb checks
+luckylady600 checks
+TilliWilli bets [$0.20 USD]
+Rahilman calls [$0.20 USD]
+gardine2 calls [$0.20 USD]
+wowiweb folds
+luckylady600 calls [$0.20 USD]
+** Dealing Turn ** [ 3d ]
+luckylady600 bets [$0.10 USD]
+TilliWilli calls [$0.10 USD]
+Rahilman raises [$0.84 USD]
+gardine2 folds
+luckylady600 calls [$0.74 USD]
+TilliWilli raises [$1.48 USD]
+Rahilman folds
+luckylady600 is all-In  [$5.05 USD]
+TilliWilli is all-In  [$3.91 USD]
+** Dealing River ** [ 2d ]
+TilliWilli shows [ Qc, 3c ]a full house, Threes full of Twos.
+luckylady600 shows [ Jh, 3h ]a full house, Threes full of Twos.
+luckylady600 wins $0.40 USD from the side pot 1 with a full house, Threes full of Twos.
+TilliWilli wins $6.26 USD from the main pot with a full house, Threes full of Twos.
+luckylady600 wins $6.26 USD from the main pot with a full house, Threes full of Twos.
+Game #14683204458 starts.
+
+#Game No : 14683204458 
+***** Hand History for Game 14683204458 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 15:34:19 EDT 2015
+Table Colombo (Real Money)
+Seat 1 is the button
+Total number of players : 9/9 
+Seat 4: Kajen ( $7.34 USD )
+Seat 6: Plutus5 ( $3.55 USD )
+Seat 7: Rahilman ( $9.99 USD )
+Seat 5: TilliWilli ( $6.26 USD )
+Seat 8: gardine2 ( $8.58 USD )
+Seat 3: luckylady600 ( $10 USD )
+Seat 1: manicciu ( $7.14 USD )
+Seat 9: rivieraKRD ( $10 USD )
+Seat 2: wowiweb ( $10 USD )
+wowiweb posts small blind [$0.05 USD].
+luckylady600 posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  6h 8s ]
+Kajen folds
+TilliWilli folds
+Plutus5 folds
+Rahilman calls [$0.10 USD]
+gardine2 calls [$0.10 USD]
+rivieraKRD folds
+manicciu folds
+wowiweb folds
+luckylady600 checks
+** Dealing Flop ** [ 5c, 9c, 8c ]
+luckylady600 checks
+Rahilman bets [$0.34 USD]
+gardine2 folds
+luckylady600 folds
+Rahilman does not show cards.
+Rahilman wins $0.68 USD
+Game #14683205698 starts.
+
+#Game No : 14683205698 
+***** Hand History for Game 14683205698 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 15:34:53 EDT 2015
+Table Colombo (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 4: Kajen ( $7.34 USD )
+Seat 6: Plutus5 ( $3.55 USD )
+Seat 7: Rahilman ( $10.23 USD )
+Seat 5: TilliWilli ( $6.26 USD )
+Seat 8: gardine2 ( $8.48 USD )
+Seat 3: luckylady600 ( $9.90 USD )
+Seat 1: manicciu ( $7.14 USD )
+Seat 9: rivieraKRD ( $10 USD )
+Seat 2: wowiweb ( $10 USD )
+luckylady600 posts small blind [$0.05 USD].
+Kajen posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Th 9h ]
+TilliWilli raises [$0.20 USD]
+Plutus5 folds
+Rahilman calls [$0.20 USD]
+gardine2 raises [$0.60 USD]
+rivieraKRD folds
+manicciu calls [$0.60 USD]
+wowiweb folds
+luckylady600 folds
+Kajen folds
+Your time bank will be activated in 6 secs. If you do not want it to be used, please act now.
+TilliWilli calls [$0.40 USD]
+Rahilman calls [$0.40 USD]
+** Dealing Flop ** [ 3h, 2s, Jc ]
+TilliWilli checks
+Rahilman checks
+gardine2 bets [$2.43 USD]
+manicciu folds
+TilliWilli folds
+Rahilman calls [$2.43 USD]
+** Dealing Turn ** [ 4d ]
+Rahilman checks
+gardine2 is all-In  [$5.45 USD]
+Rahilman folds
+gardine2 does not show cards.
+gardine2 wins $12.49 USD
+Game #14683209549 starts.
+
+#Game No : 14683209549 
+***** Hand History for Game 14683209549 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 15:36:25 EDT 2015
+Table Colombo (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 4: Kajen ( $7.24 USD )
+Seat 6: Plutus5 ( $3.55 USD )
+Seat 7: Rahilman ( $7.20 USD )
+Seat 5: TilliWilli ( $5.66 USD )
+Seat 8: gardine2 ( $12.49 USD )
+Seat 3: luckylady600 ( $9.85 USD )
+Seat 1: manicciu ( $6.54 USD )
+Seat 9: rivieraKRD ( $10 USD )
+Seat 2: wowiweb ( $10 USD )
+Kajen posts small blind [$0.05 USD].
+TilliWilli posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Kc 2h ]
+Plutus5 folds
+Rahilman calls [$0.10 USD]
+gardine2 calls [$0.10 USD]
+rivieraKRD raises [$0.50 USD]
+manicciu calls [$0.50 USD]
+wowiweb folds
+luckylady600 calls [$0.50 USD]
+Kajen folds
+TilliWilli folds
+Rahilman calls [$0.40 USD]
+gardine2 calls [$0.40 USD]
+** Dealing Flop ** [ Ts, Th, 6c ]
+Rahilman checks
+gardine2 checks
+rivieraKRD checks
+manicciu bets [$1.90 USD]
+luckylady600 folds
+Rahilman folds
+gardine2 folds
+rivieraKRD folds
+manicciu does not show cards.
+manicciu wins $4.42 USD
+Game #14683212325 starts.
+
+#Game No : 14683212325 
+***** Hand History for Game 14683212325 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 15:37:28 EDT 2015
+Table Colombo (Real Money)
+Seat 4 is the button
+Total number of players : 9/9 
+Seat 4: Kajen ( $7.19 USD )
+Seat 6: Plutus5 ( $3.55 USD )
+Seat 7: Rahilman ( $6.70 USD )
+Seat 5: TilliWilli ( $5.56 USD )
+Seat 8: gardine2 ( $11.99 USD )
+Seat 3: luckylady600 ( $9.35 USD )
+Seat 1: manicciu ( $8.56 USD )
+Seat 9: rivieraKRD ( $10 USD )
+Seat 2: wowiweb ( $10 USD )
+TilliWilli posts small blind [$0.05 USD].
+Plutus5 posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ks Td ]
+Rahilman calls [$0.10 USD]
+gardine2 calls [$0.10 USD]
+rivieraKRD raises [$0.90 USD]
+manicciu folds
+wowiweb folds
+luckylady600 folds
+Kajen folds
+TilliWilli folds
+Plutus5 folds
+Rahilman calls [$0.80 USD]
+gardine2 calls [$0.80 USD]
+** Dealing Flop ** [ 2s, 4c, 9d ]
+Rahilman checks
+gardine2 checks
+rivieraKRD bets [$2.71 USD]
+Rahilman folds
+gardine2 folds
+rivieraKRD does not show cards.
+rivieraKRD wins $5.42 USD
+Game #14683215192 starts.
+
+#Game No : 14683215192 
+***** Hand History for Game 14683215192 *****
+$0.05/$0.10 USD NL Texas Hold'em - Monday, July 20, 15:38:33 EDT 2015
+Table Colombo (Real Money)
+Seat 5 is the button
+Total number of players : 9/9 
+Seat 4: Kajen ( $7.19 USD )
+Seat 6: Plutus5 ( $4 USD )
+Seat 7: Rahilman ( $5.80 USD )
+Seat 5: TilliWilli ( $5.51 USD )
+Seat 8: gardine2 ( $11.09 USD )
+Seat 3: luckylady600 ( $9.35 USD )
+Seat 1: manicciu ( $8.56 USD )
+Seat 9: rivieraKRD ( $11.81 USD )
+Seat 2: wowiweb ( $10 USD )
+Plutus5 posts small blind [$0.05 USD].
+Rahilman posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Jc Ts ]
+gardine2 calls [$0.10 USD]
+rivieraKRD folds
+manicciu folds
+wowiweb folds
+luckylady600 calls [$0.10 USD]
+Kajen folds
+TilliWilli raises [$0.30 USD]
+Plutus5 folds
+Rahilman calls [$0.20 USD]
+gardine2 calls [$0.20 USD]
+luckylady600 calls [$0.20 USD]
+** Dealing Flop ** [ Tc, 8s, 8h ]
+Rahilman checks
+gardine2 checks
+luckylady600 checks
+TilliWilli bets [$0.30 USD]
+Rahilman calls [$0.30 USD]
+gardine2 calls [$0.30 USD]
+luckylady600 folds
+** Dealing Turn ** [ 5s ]
+Rahilman checks
+gardine2 bets [$2.05 USD]
+TilliWilli is all-In  [$4.91 USD]
+Rahilman folds
+gardine2 calls [$2.86 USD]
+** Dealing River ** [ 2c ]
+gardine2 shows [ 8d, As ]three of a kind, Eights.
+TilliWilli doesn't show [ Jc, Ts ]two pairs, Tens and Eights.
+gardine2 wins $11.38 USD from the main pot with three of a kind, Eights.

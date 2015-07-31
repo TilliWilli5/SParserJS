@@ -1,0 +1,1004 @@
+Game #14687906971 starts.
+
+#Game No : 14687906971 
+***** Hand History for Game 14687906971 *****
+$0.05/$0.10 USD NL Texas Hold'em - Thursday, July 23, 14:54:45 EDT 2015
+Table Cayenne (Real Money)
+Seat 6 is the button
+Total number of players : 8/9 
+Seat 3: Kilofer ( $10.42 USD )
+Seat 1: Malosetti ( $4 USD )
+Seat 6: Peakey_Nose ( $15.02 USD )
+Seat 5: TilliWilli ( $10 USD )
+Seat 4: WhoDaresWins_7 ( $10.22 USD )
+Seat 2: eckniz ( $3 USD )
+Seat 8: skorkin ( $10 USD )
+Seat 7: tweetyteewt ( $12.54 USD )
+tweetyteewt posts small blind [$0.05 USD].
+skorkin posts big blind [$0.10 USD].
+TilliWilli posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qd 8s ]
+Kilofer raises [$0.40 USD]
+WhoDaresWins_7 folds
+TilliWilli folds
+Peakey_Nose folds
+tweetyteewt calls [$0.35 USD]
+skorkin folds
+** Dealing Flop ** [ 4c, 4d, 3c ]
+tweetyteewt checks
+Kilofer bets [$0.63 USD]
+tweetyteewt folds
+Kilofer does not show cards.
+Kilofer wins $1.58 USD
+
+Game #14687907833 starts.
+#Game No : 14687907833 
+Table Closed
+The hand history for this hand number is not available here.Please use Instant Hand History in the "Game Rules & Options"  menu to have this hand history delivered to the email address you have registered with us.
+
+Game #14687913659 starts.
+
+#Game No : 14687913659 
+***** Hand History for Game 14687913659 *****
+$0.05/$0.10 USD NL Texas Hold'em - Thursday, July 23, 14:58:43 EDT 2015
+Table Cayenne (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 3: Kilofer ( $10.82 USD )
+Seat 1: Malosetti ( $10 USD )
+Seat 6: Peakey_Nose ( $14.72 USD )
+Seat 5: TilliWilli ( $9.60 USD )
+Seat 4: WhoDaresWins_7 ( $10.97 USD )
+Seat 2: eckniz ( $6.08 USD )
+Seat 9: kuleol ( $10 USD )
+Seat 8: skorkin ( $10.94 USD )
+Seat 7: tweetyteewt ( $11.84 USD )
+WhoDaresWins_7 posts small blind [$0.05 USD].
+TilliWilli posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Kc 9s ]
+Peakey_Nose folds
+skorkin folds
+kuleol folds
+Malosetti will be using their time bank for this hand.
+Malosetti raises [$0.36 USD]
+eckniz folds
+Kilofer folds
+WhoDaresWins_7 folds
+TilliWilli folds
+Malosetti does not show cards.
+Malosetti wins $0.51 USD
+Game #14687914088 starts.
+
+#Game No : 14687914088 
+***** Hand History for Game 14687914088 *****
+$0.05/$0.10 USD NL Texas Hold'em - Thursday, July 23, 14:59:02 EDT 2015
+Table Cayenne (Real Money)
+Seat 4 is the button
+Total number of players : 9/9 
+Seat 3: Kilofer ( $10.82 USD )
+Seat 1: Malosetti ( $10.15 USD )
+Seat 6: Peakey_Nose ( $14.72 USD )
+Seat 5: TilliWilli ( $9.50 USD )
+Seat 4: WhoDaresWins_7 ( $10.92 USD )
+Seat 2: eckniz ( $6.08 USD )
+Seat 9: kuleol ( $10 USD )
+Seat 8: skorkin ( $10.94 USD )
+Seat 7: tweetyteewt ( $11.84 USD )
+TilliWilli posts small blind [$0.05 USD].
+Peakey_Nose posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ac Ks ]
+skorkin folds
+kuleol calls [$0.10 USD]
+Malosetti will be using their time bank for this hand.
+Malosetti folds
+eckniz folds
+Kilofer folds
+WhoDaresWins_7 folds
+TilliWilli raises [$0.25 USD]
+Peakey_Nose folds
+kuleol calls [$0.20 USD]
+** Dealing Flop ** [ Qc, 2d, 8s ]
+TilliWilli bets [$0.50 USD]
+kuleol calls [$0.50 USD]
+** Dealing Turn ** [ Jc ]
+TilliWilli checks
+kuleol bets [$0.40 USD]
+TilliWilli calls [$0.40 USD]
+** Dealing River ** [ Td ]
+TilliWilli bets [$3.50 USD]
+kuleol calls [$3.50 USD]
+TilliWilli shows [ Ac, Ks ]a straight, Ten to Ace.
+kuleol doesn't show [ Qs, 3s ]a pair of Queens.
+TilliWilli wins $9.03 USD from the main pot with a straight, Ten to Ace.
+Game #14687915861 starts.
+
+#Game No : 14687915861 
+***** Hand History for Game 14687915861 *****
+$0.05/$0.10 USD NL Texas Hold'em - Thursday, July 23, 15:00:03 EDT 2015
+Table Cayenne (Real Money)
+Seat 5 is the button
+Total number of players : 9/9 
+Seat 3: Kilofer ( $10.82 USD )
+Seat 1: Malosetti ( $10.15 USD )
+Seat 6: Peakey_Nose ( $14.62 USD )
+Seat 5: TilliWilli ( $13.83 USD )
+Seat 4: WhoDaresWins_7 ( $10.92 USD )
+Seat 2: eckniz ( $6.08 USD )
+Seat 9: kuleol ( $10 USD )
+Seat 8: skorkin ( $10.94 USD )
+Seat 7: tweetyteewt ( $11.84 USD )
+Peakey_Nose posts small blind [$0.05 USD].
+skorkin posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3d Qd ]
+kuleol calls [$0.10 USD]
+Malosetti will be using their time bank for this hand.
+Malosetti folds
+eckniz folds
+Kilofer folds
+WhoDaresWins_7 folds
+TilliWilli folds
+Peakey_Nose raises [$0.35 USD]
+skorkin folds
+kuleol calls [$0.30 USD]
+** Dealing Flop ** [ Ts, 4s, 7s ]
+Peakey_Nose bets [$0.43 USD]
+kuleol calls [$0.43 USD]
+** Dealing Turn ** [ 6h ]
+Peakey_Nose checks
+kuleol checks
+** Dealing River ** [ 5s ]
+Peakey_Nose checks
+kuleol bets [$0.80 USD]
+Peakey_Nose folds
+kuleol does not show cards.
+kuleol wins $2.48 USD
+Game #14687916905 starts.
+
+#Game No : 14687916905 
+***** Hand History for Game 14687916905 *****
+$0.05/$0.10 USD NL Texas Hold'em - Thursday, July 23, 15:00:47 EDT 2015
+Table Cayenne (Real Money)
+Seat 6 is the button
+Total number of players : 9/9 
+Seat 3: Kilofer ( $10.82 USD )
+Seat 1: Malosetti ( $10.15 USD )
+Seat 6: Peakey_Nose ( $13.79 USD )
+Seat 5: TilliWilli ( $13.83 USD )
+Seat 4: WhoDaresWins_7 ( $10.92 USD )
+Seat 2: eckniz ( $6.08 USD )
+Seat 9: kuleol ( $10.85 USD )
+Seat 8: skorkin ( $10.84 USD )
+Seat 7: tweetyteewt ( $11.84 USD )
+skorkin posts small blind [$0.05 USD].
+kuleol posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Th 6c ]
+Malosetti will be using their time bank for this hand.
+Malosetti folds
+eckniz folds
+Kilofer folds
+WhoDaresWins_7 folds
+TilliWilli folds
+Peakey_Nose raises [$0.30 USD]
+skorkin folds
+kuleol folds
+Peakey_Nose does not show cards.
+Peakey_Nose wins $0.45 USD
+Game #14687918037 starts.
+
+#Game No : 14687918037 
+***** Hand History for Game 14687918037 *****
+$0.05/$0.10 USD NL Texas Hold'em - Thursday, July 23, 15:01:13 EDT 2015
+Table Cayenne (Real Money)
+Seat 8 is the button
+Total number of players : 9/9 
+Seat 3: Kilofer ( $10.82 USD )
+Seat 1: Malosetti ( $10.15 USD )
+Seat 6: Peakey_Nose ( $13.94 USD )
+Seat 5: TilliWilli ( $13.83 USD )
+Seat 4: WhoDaresWins_7 ( $10.92 USD )
+Seat 2: eckniz ( $6.08 USD )
+Seat 9: kuleol ( $10.75 USD )
+Seat 8: skorkin ( $10.79 USD )
+Seat 7: tweetyteewt ( $11.84 USD )
+kuleol posts small blind [$0.05 USD].
+Malosetti posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3c 6c ]
+eckniz calls [$0.10 USD]
+Kilofer raises [$0.40 USD]
+WhoDaresWins_7 folds
+TilliWilli folds
+Peakey_Nose folds
+skorkin folds
+kuleol folds
+Malosetti will be using their time bank for this hand.
+Malosetti folds
+eckniz calls [$0.30 USD]
+** Dealing Flop ** [ Ad, Kc, Qd ]
+eckniz will be using their time bank for this hand.
+eckniz checks
+Kilofer checks
+** Dealing Turn ** [ 2h ]
+eckniz bets [$0.10 USD]
+Kilofer raises [$0.80 USD]
+eckniz calls [$0.70 USD]
+** Dealing River ** [ 9c ]
+eckniz checks
+Kilofer bets [$1 USD]
+eckniz folds
+Kilofer does not show cards.
+Kilofer wins $3.43 USD
+Game #14687920928 starts.
+
+#Game No : 14687920928 
+***** Hand History for Game 14687920928 *****
+$0.05/$0.10 USD NL Texas Hold'em - Thursday, July 23, 15:02:41 EDT 2015
+Table Cayenne (Real Money)
+Seat 9 is the button
+Total number of players : 9/9 
+Seat 3: Kilofer ( $12.05 USD )
+Seat 1: Malosetti ( $10.05 USD )
+Seat 6: Peakey_Nose ( $13.94 USD )
+Seat 5: TilliWilli ( $13.83 USD )
+Seat 4: WhoDaresWins_7 ( $10.92 USD )
+Seat 2: eckniz ( $4.88 USD )
+Seat 9: kuleol ( $10.70 USD )
+Seat 8: skorkin ( $10.79 USD )
+Seat 7: tweetyteewt ( $11.84 USD )
+Malosetti posts small blind [$0.05 USD].
+eckniz posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qh As ]
+Kilofer folds
+WhoDaresWins_7 folds
+TilliWilli raises [$0.20 USD]
+Peakey_Nose folds
+skorkin folds
+kuleol calls [$0.20 USD]
+Malosetti will be using their time bank for this hand.
+Malosetti calls [$0.15 USD]
+eckniz calls [$0.10 USD]
+** Dealing Flop ** [ 9c, Ad, 4c ]
+Malosetti will be using their time bank for this hand.
+Malosetti checks
+eckniz checks
+TilliWilli bets [$0.70 USD]
+kuleol folds
+Malosetti will be using their time bank for this hand.
+Malosetti folds
+eckniz folds
+TilliWilli does not show cards.
+TilliWilli wins $1.46 USD
+Game #14687922670 starts.
+
+#Game No : 14687922670 
+***** Hand History for Game 14687922670 *****
+$0.05/$0.10 USD NL Texas Hold'em - Thursday, July 23, 15:03:21 EDT 2015
+Table Cayenne (Real Money)
+Seat 1 is the button
+Total number of players : 9/9 
+Seat 3: Kilofer ( $12.05 USD )
+Seat 1: Malosetti ( $10 USD )
+Seat 6: Peakey_Nose ( $13.94 USD )
+Seat 5: TilliWilli ( $14.39 USD )
+Seat 4: WhoDaresWins_7 ( $10.92 USD )
+Seat 2: eckniz ( $4.68 USD )
+Seat 9: kuleol ( $10.50 USD )
+Seat 8: skorkin ( $10.79 USD )
+Seat 7: tweetyteewt ( $11.84 USD )
+eckniz posts small blind [$0.05 USD].
+Kilofer posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9h Kh ]
+WhoDaresWins_7 folds
+TilliWilli folds
+Peakey_Nose folds
+skorkin folds
+kuleol calls [$0.10 USD]
+Malosetti will be using their time bank for this hand.
+Malosetti raises [$0.40 USD]
+eckniz calls [$0.35 USD]
+Kilofer folds
+kuleol calls [$0.30 USD]
+** Dealing Flop ** [ Td, 5h, 6d ]
+eckniz checks
+kuleol checks
+Malosetti will be using their time bank for this hand.
+Malosetti bets [$0.70 USD]
+eckniz folds
+kuleol calls [$0.70 USD]
+** Dealing Turn ** [ 7c ]
+kuleol checks
+Malosetti will be using their time bank for this hand.
+Malosetti bets [$1.92 USD]
+kuleol calls [$1.92 USD]
+** Dealing River ** [ Jh ]
+kuleol checks
+Malosetti will be using their time bank for this hand.
+Malosetti bets [$4.14 USD]
+kuleol folds
+Malosetti does not show cards.
+Malosetti wins $10.36 USD
+Game #14687924705 starts.
+
+#Game No : 14687924705 
+***** Hand History for Game 14687924705 *****
+$0.05/$0.10 USD NL Texas Hold'em - Thursday, July 23, 15:04:25 EDT 2015
+Table Cayenne (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 3: Kilofer ( $11.95 USD )
+Seat 1: Malosetti ( $13.20 USD )
+Seat 6: Peakey_Nose ( $13.94 USD )
+Seat 5: TilliWilli ( $14.39 USD )
+Seat 4: WhoDaresWins_7 ( $10.92 USD )
+Seat 2: eckniz ( $4.28 USD )
+Seat 9: kuleol ( $10 USD )
+Seat 8: skorkin ( $10.79 USD )
+Seat 7: tweetyteewt ( $11.84 USD )
+Kilofer posts small blind [$0.05 USD].
+WhoDaresWins_7 posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Th As ]
+TilliWilli raises [$0.20 USD]
+Peakey_Nose folds
+skorkin folds
+kuleol folds
+Malosetti will be using their time bank for this hand.
+Malosetti folds
+eckniz calls [$0.20 USD]
+Kilofer folds
+WhoDaresWins_7 folds
+** Dealing Flop ** [ 9s, 5d, Qd ]
+TilliWilli bets [$0.10 USD]
+eckniz calls [$0.10 USD]
+** Dealing Turn ** [ 7s ]
+TilliWilli checks
+eckniz checks
+** Dealing River ** [ 8s ]
+TilliWilli checks
+eckniz checks
+TilliWilli shows [ Th, As ]high card Ace.
+eckniz shows [ Ah, Jd ]high card Ace with Jack kicker.
+eckniz wins $0.72 USD from the main pot with high card, Ace with Jack kicker.
+Game #14687925707 starts.
+
+#Game No : 14687925707 
+***** Hand History for Game 14687925707 *****
+$0.05/$0.10 USD NL Texas Hold'em - Thursday, July 23, 15:04:54 EDT 2015
+Table Cayenne (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 3: Kilofer ( $11.90 USD )
+Seat 1: Malosetti ( $13.20 USD )
+Seat 6: Peakey_Nose ( $13.94 USD )
+Seat 5: TilliWilli ( $14.09 USD )
+Seat 4: WhoDaresWins_7 ( $10.82 USD )
+Seat 2: eckniz ( $4.70 USD )
+Seat 9: kuleol ( $10 USD )
+Seat 8: skorkin ( $10.79 USD )
+Seat 7: tweetyteewt ( $11.84 USD )
+WhoDaresWins_7 posts small blind [$0.05 USD].
+TilliWilli posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Td As ]
+Peakey_Nose folds
+skorkin folds
+kuleol calls [$0.10 USD]
+Malosetti will be using their time bank for this hand.
+Malosetti folds
+eckniz calls [$0.10 USD]
+Kilofer folds
+WhoDaresWins_7 folds
+TilliWilli checks
+** Dealing Flop ** [ Kh, 4s, Kc ]
+TilliWilli checks
+kuleol checks
+eckniz checks
+** Dealing Turn ** [ Jd ]
+TilliWilli checks
+kuleol bets [$0.20 USD]
+eckniz folds
+TilliWilli folds
+kuleol does not show cards.
+kuleol wins $0.54 USD
+Game #14687927697 starts.
+
+#Game No : 14687927697 
+***** Hand History for Game 14687927697 *****
+$0.05/$0.10 USD NL Texas Hold'em - Thursday, July 23, 15:05:54 EDT 2015
+Table Cayenne (Real Money)
+Seat 4 is the button
+Total number of players : 9/9 
+Seat 3: Kilofer ( $11.90 USD )
+Seat 1: Malosetti ( $13.20 USD )
+Seat 6: Peakey_Nose ( $13.94 USD )
+Seat 5: TilliWilli ( $13.99 USD )
+Seat 4: WhoDaresWins_7 ( $10.77 USD )
+Seat 2: eckniz ( $4.60 USD )
+Seat 9: kuleol ( $10.24 USD )
+Seat 8: skorkin ( $10.79 USD )
+Seat 7: tweetyteewt ( $11.84 USD )
+TilliWilli posts small blind [$0.05 USD].
+Peakey_Nose posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Th 6d ]
+skorkin folds
+kuleol folds
+Malosetti will be using their time bank for this hand.
+Malosetti raises [$0.36 USD]
+eckniz folds
+Kilofer raises [$0.90 USD]
+WhoDaresWins_7 folds
+TilliWilli folds
+Peakey_Nose folds
+Malosetti will be using their time bank for this hand.
+Malosetti folds
+Kilofer does not show cards.
+Kilofer wins $1.41 USD
+Game #14687929779 starts.
+
+#Game No : 14687929779 
+***** Hand History for Game 14687929779 *****
+$0.05/$0.10 USD NL Texas Hold'em - Thursday, July 23, 15:06:41 EDT 2015
+Table Cayenne (Real Money)
+Seat 5 is the button
+Total number of players : 9/9 
+Seat 3: Kilofer ( $12.41 USD )
+Seat 1: Malosetti ( $12.84 USD )
+Seat 6: Peakey_Nose ( $13.84 USD )
+Seat 5: TilliWilli ( $13.94 USD )
+Seat 4: WhoDaresWins_7 ( $10.77 USD )
+Seat 2: eckniz ( $4.60 USD )
+Seat 9: kuleol ( $10.24 USD )
+Seat 8: skorkin ( $10.79 USD )
+Seat 7: tweetyteewt ( $11.84 USD )
+Peakey_Nose posts small blind [$0.05 USD].
+tweetyteewt posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Td 2d ]
+skorkin folds
+kuleol calls [$0.10 USD]
+Malosetti will be using their time bank for this hand.
+Malosetti folds
+eckniz calls [$0.10 USD]
+Kilofer folds
+WhoDaresWins_7 folds
+TilliWilli calls [$0.10 USD]
+Peakey_Nose calls [$0.05 USD]
+tweetyteewt checks
+** Dealing Flop ** [ 2h, As, 9h ]
+Peakey_Nose checks
+tweetyteewt checks
+kuleol checks
+eckniz bets [$0.24 USD]
+TilliWilli folds
+Peakey_Nose folds
+tweetyteewt folds
+kuleol folds
+eckniz does not show cards.
+eckniz wins $0.72 USD
+Game #14687931614 starts.
+
+#Game No : 14687931614 
+***** Hand History for Game 14687931614 *****
+$0.05/$0.10 USD NL Texas Hold'em - Thursday, July 23, 15:07:34 EDT 2015
+Table Cayenne (Real Money)
+Seat 6 is the button
+Total number of players : 9/9 
+Seat 3: Kilofer ( $12.41 USD )
+Seat 1: Malosetti ( $12.84 USD )
+Seat 6: Peakey_Nose ( $13.74 USD )
+Seat 5: TilliWilli ( $13.84 USD )
+Seat 4: WhoDaresWins_7 ( $10.77 USD )
+Seat 2: eckniz ( $4.98 USD )
+Seat 9: kuleol ( $10.14 USD )
+Seat 8: skorkin ( $10.79 USD )
+Seat 7: tweetyteewt ( $11.74 USD )
+tweetyteewt posts small blind [$0.05 USD].
+skorkin posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3s Th ]
+kuleol folds
+Malosetti will be using their time bank for this hand.
+Malosetti folds
+eckniz folds
+Kilofer folds
+WhoDaresWins_7 folds
+TilliWilli folds
+Peakey_Nose raises [$0.30 USD]
+tweetyteewt folds
+skorkin folds
+Peakey_Nose does not show cards.
+Peakey_Nose wins $0.45 USD
+Game #14687932377 starts.
+
+#Game No : 14687932377 
+***** Hand History for Game 14687932377 *****
+$0.05/$0.10 USD NL Texas Hold'em - Thursday, July 23, 15:07:57 EDT 2015
+Table Cayenne (Real Money)
+Seat 7 is the button
+Total number of players : 9/9 
+Seat 3: Kilofer ( $12.41 USD )
+Seat 1: Malosetti ( $12.84 USD )
+Seat 6: Peakey_Nose ( $13.89 USD )
+Seat 5: TilliWilli ( $13.84 USD )
+Seat 4: WhoDaresWins_7 ( $10.77 USD )
+Seat 2: eckniz ( $4.98 USD )
+Seat 9: kuleol ( $10.14 USD )
+Seat 8: skorkin ( $10.69 USD )
+Seat 7: tweetyteewt ( $11.69 USD )
+skorkin posts small blind [$0.05 USD].
+kuleol posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2d 4h ]
+Malosetti will be using their time bank for this hand.
+Malosetti folds
+eckniz folds
+Kilofer folds
+WhoDaresWins_7 folds
+TilliWilli raises [$0.20 USD]
+Peakey_Nose folds
+tweetyteewt folds
+skorkin folds
+kuleol calls [$0.10 USD]
+** Dealing Flop ** [ 7s, 5c, Td ]
+kuleol checks
+TilliWilli bets [$0.15 USD]
+kuleol calls [$0.15 USD]
+** Dealing Turn ** [ 7d ]
+kuleol bets [$0.30 USD]
+TilliWilli folds
+kuleol does not show cards.
+kuleol wins $1.02 USD
+Game #14687934276 starts.
+
+#Game No : 14687934276 
+***** Hand History for Game 14687934276 *****
+$0.05/$0.10 USD NL Texas Hold'em - Thursday, July 23, 15:08:40 EDT 2015
+Table Cayenne (Real Money)
+Seat 8 is the button
+Total number of players : 9/9 
+Seat 3: Kilofer ( $12.41 USD )
+Seat 1: Malosetti ( $12.84 USD )
+Seat 6: Peakey_Nose ( $13.89 USD )
+Seat 5: TilliWilli ( $13.49 USD )
+Seat 4: WhoDaresWins_7 ( $10.77 USD )
+Seat 2: eckniz ( $4.98 USD )
+Seat 9: kuleol ( $10.51 USD )
+Seat 8: skorkin ( $10.64 USD )
+Seat 7: tweetyteewt ( $11.69 USD )
+kuleol posts small blind [$0.05 USD].
+Malosetti posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Th 9s ]
+eckniz folds
+Kilofer folds
+WhoDaresWins_7 folds
+TilliWilli calls [$0.10 USD]
+Peakey_Nose folds
+tweetyteewt folds
+skorkin folds
+kuleol raises [$0.35 USD]
+Malosetti folds
+TilliWilli folds
+kuleol does not show cards.
+kuleol wins $0.60 USD
+eckniz has left the table.
+Game #14687935114 starts.
+
+#Game No : 14687935114 
+***** Hand History for Game 14687935114 *****
+$0.05/$0.10 USD NL Texas Hold'em - Thursday, July 23, 15:09:06 EDT 2015
+Table Cayenne (Real Money)
+Seat 9 is the button
+Total number of players : 8/9 
+Seat 3: Kilofer ( $12.41 USD )
+Seat 1: Malosetti ( $12.74 USD )
+Seat 6: Peakey_Nose ( $13.89 USD )
+Seat 5: TilliWilli ( $13.39 USD )
+Seat 4: WhoDaresWins_7 ( $10.77 USD )
+Seat 9: kuleol ( $10.71 USD )
+Seat 8: skorkin ( $10.64 USD )
+Seat 7: tweetyteewt ( $11.69 USD )
+Malosetti posts small blind [$0.05 USD].
+Kilofer posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  6d Th ]
+WhoDaresWins_7 folds
+TilliWilli folds
+Peakey_Nose raises [$0.30 USD]
+teufelsumos has joined the table.
+tweetyteewt folds
+skorkin folds
+kuleol calls [$0.30 USD]
+Malosetti will be using their time bank for this hand.
+Malosetti folds
+Kilofer calls [$0.20 USD]
+** Dealing Flop ** [ 3s, Ts, 2d ]
+Kilofer checks
+Peakey_Nose bets [$0.45 USD]
+kuleol calls [$0.45 USD]
+Kilofer calls [$0.45 USD]
+** Dealing Turn ** [ 8d ]
+Kilofer checks
+Peakey_Nose bets [$1.09 USD]
+kuleol folds
+Kilofer calls [$1.09 USD]
+** Dealing River ** [ 3d ]
+Kilofer checks
+Peakey_Nose checks
+Kilofer shows [ Js, Ks ]a pair of Threes.
+Peakey_Nose shows [ Td, 9s ]two pairs, Tens and Threes.
+Peakey_Nose wins $4.26 USD from the main pot with two pairs, Tens and Threes.
+Game #14687938334 starts.
+
+#Game No : 14687938334 
+***** Hand History for Game 14687938334 *****
+$0.05/$0.10 USD NL Texas Hold'em - Thursday, July 23, 15:10:12 EDT 2015
+Table Cayenne (Real Money)
+Seat 1 is the button
+Total number of players : 9/9 
+Seat 3: Kilofer ( $10.57 USD )
+Seat 1: Malosetti ( $12.69 USD )
+Seat 6: Peakey_Nose ( $16.31 USD )
+Seat 5: TilliWilli ( $13.39 USD )
+Seat 4: WhoDaresWins_7 ( $10.77 USD )
+Seat 9: kuleol ( $10 USD )
+Seat 8: skorkin ( $10.64 USD )
+Seat 2: teufelsumos ( $10 USD )
+Seat 7: tweetyteewt ( $11.69 USD )
+Kilofer posts small blind [$0.05 USD].
+WhoDaresWins_7 posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Td 5s ]
+TilliWilli folds
+Peakey_Nose folds
+tweetyteewt folds
+skorkin folds
+kuleol raises [$0.30 USD]
+Malosetti will be using their time bank for this hand.
+Malosetti calls [$0.30 USD]
+Kilofer calls [$0.25 USD]
+WhoDaresWins_7 calls [$0.20 USD]
+** Dealing Flop ** [ Jd, 9d, 4c ]
+Kilofer checks
+WhoDaresWins_7 checks
+kuleol bets [$0.30 USD]
+Malosetti will be using their time bank for this hand.
+Malosetti calls [$0.30 USD]
+Kilofer folds
+WhoDaresWins_7 calls [$0.30 USD]
+** Dealing Turn ** [ 9s ]
+WhoDaresWins_7 checks
+kuleol bets [$0.40 USD]
+Malosetti will be using their time bank for this hand.
+Malosetti folds
+WhoDaresWins_7 calls [$0.40 USD]
+** Dealing River ** [ 4d ]
+WhoDaresWins_7 checks
+kuleol bets [$0.50 USD]
+WhoDaresWins_7 calls [$0.50 USD]
+kuleol shows [ 5c, Ad ]two pairs, Nines and Fours.
+WhoDaresWins_7 shows [ Kd, Qd ]a flush, King high.
+WhoDaresWins_7 wins $3.71 USD from the main pot with a flush, King high.
+Game #14687940771 starts.
+
+#Game No : 14687940771 
+***** Hand History for Game 14687940771 *****
+$0.05/$0.10 USD NL Texas Hold'em - Thursday, July 23, 15:11:24 EDT 2015
+Table Cayenne (Real Money)
+Seat 3 is the button
+Total number of players : 9/9 
+Seat 3: Kilofer ( $10.27 USD )
+Seat 1: Malosetti ( $12.09 USD )
+Seat 6: Peakey_Nose ( $16.31 USD )
+Seat 5: TilliWilli ( $13.39 USD )
+Seat 4: WhoDaresWins_7 ( $12.98 USD )
+Seat 9: kuleol ( $10 USD )
+Seat 8: skorkin ( $10.64 USD )
+Seat 2: teufelsumos ( $10 USD )
+Seat 7: tweetyteewt ( $11.69 USD )
+WhoDaresWins_7 posts small blind [$0.05 USD].
+TilliWilli posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Kh 5s ]
+Peakey_Nose raises [$0.30 USD]
+tweetyteewt folds
+skorkin folds
+kuleol folds
+Malosetti will be using their time bank for this hand.
+Malosetti folds
+Kilofer calls [$0.30 USD]
+WhoDaresWins_7 folds
+TilliWilli folds
+** Dealing Flop ** [ Qs, 9s, 3d ]
+Peakey_Nose bets [$0.36 USD]
+Kilofer calls [$0.36 USD]
+** Dealing Turn ** [ 4s ]
+Peakey_Nose bets [$0.70 USD]
+Kilofer folds
+Peakey_Nose does not show cards.
+Peakey_Nose wins $2.10 USD
+Game #14687942133 starts.
+
+#Game No : 14687942133 
+***** Hand History for Game 14687942133 *****
+$0.05/$0.10 USD NL Texas Hold'em - Thursday, July 23, 15:12:05 EDT 2015
+Table Cayenne (Real Money)
+Seat 4 is the button
+Total number of players : 9/9 
+Seat 3: Kilofer ( $10 USD )
+Seat 1: Malosetti ( $12.09 USD )
+Seat 6: Peakey_Nose ( $17.05 USD )
+Seat 5: TilliWilli ( $13.29 USD )
+Seat 4: WhoDaresWins_7 ( $12.93 USD )
+Seat 9: kuleol ( $10 USD )
+Seat 8: skorkin ( $10.64 USD )
+Seat 2: teufelsumos ( $10 USD )
+Seat 7: tweetyteewt ( $11.69 USD )
+TilliWilli posts small blind [$0.05 USD].
+Peakey_Nose posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ac 6d ]
+tweetyteewt folds
+skorkin folds
+kuleol calls [$0.10 USD]
+Malosetti will be using their time bank for this hand.
+Malosetti raises [$0.40 USD]
+Kilofer folds
+WhoDaresWins_7 folds
+TilliWilli folds
+Peakey_Nose folds
+kuleol calls [$0.30 USD]
+** Dealing Flop ** [ Qc, 7s, 2c ]
+kuleol bets [$0.30 USD]
+Malosetti will be using their time bank for this hand.
+Malosetti calls [$0.30 USD]
+** Dealing Turn ** [ 5c ]
+kuleol bets [$0.30 USD]
+Malosetti will be using their time bank for this hand.
+Malosetti calls [$0.30 USD]
+** Dealing River ** [ 5d ]
+kuleol bets [$0.50 USD]
+Malosetti will be using their time bank for this hand.
+Malosetti calls [$0.50 USD]
+kuleol shows [ Ks, Jh ]a pair of Fives.
+Malosetti shows [ 5h, 6c ]three of a kind, Fives.
+Malosetti wins $3 USD from the main pot with three of a kind, Fives.
+Game #14687944233 starts.
+
+#Game No : 14687944233 
+***** Hand History for Game 14687944233 *****
+$0.05/$0.10 USD NL Texas Hold'em - Thursday, July 23, 15:12:54 EDT 2015
+Table Cayenne (Real Money)
+Seat 5 is the button
+Total number of players : 9/9 
+Seat 3: Kilofer ( $10 USD )
+Seat 1: Malosetti ( $13.59 USD )
+Seat 6: Peakey_Nose ( $16.95 USD )
+Seat 5: TilliWilli ( $13.24 USD )
+Seat 4: WhoDaresWins_7 ( $12.93 USD )
+Seat 9: kuleol ( $10 USD )
+Seat 8: skorkin ( $10.64 USD )
+Seat 2: teufelsumos ( $10 USD )
+Seat 7: tweetyteewt ( $11.69 USD )
+Peakey_Nose posts small blind [$0.05 USD].
+tweetyteewt posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2h 6h ]
+skorkin folds
+kuleol raises [$0.40 USD]
+Malosetti folds
+Kilofer folds
+WhoDaresWins_7 folds
+TilliWilli folds
+Peakey_Nose folds
+tweetyteewt folds
+kuleol does not show cards.
+kuleol wins $0.55 USD
+Game #14687945528 starts.
+
+#Game No : 14687945528 
+***** Hand History for Game 14687945528 *****
+$0.05/$0.10 USD NL Texas Hold'em - Thursday, July 23, 15:13:18 EDT 2015
+Table Cayenne (Real Money)
+Seat 6 is the button
+Total number of players : 9/9 
+Seat 3: Kilofer ( $10 USD )
+Seat 1: Malosetti ( $13.59 USD )
+Seat 6: Peakey_Nose ( $16.90 USD )
+Seat 5: TilliWilli ( $13.24 USD )
+Seat 4: WhoDaresWins_7 ( $12.93 USD )
+Seat 9: kuleol ( $10.15 USD )
+Seat 8: skorkin ( $10.64 USD )
+Seat 2: teufelsumos ( $10 USD )
+Seat 7: tweetyteewt ( $11.59 USD )
+tweetyteewt posts small blind [$0.05 USD].
+skorkin posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ac Jc ]
+kuleol calls [$0.10 USD]
+Malosetti folds
+Kilofer folds
+WhoDaresWins_7 folds
+TilliWilli raises [$0.40 USD]
+Peakey_Nose folds
+tweetyteewt calls [$0.35 USD]
+skorkin folds
+kuleol calls [$0.30 USD]
+** Dealing Flop ** [ Js, 2s, Qd ]
+tweetyteewt checks
+kuleol bets [$0.30 USD]
+TilliWilli raises [$0.70 USD]
+tweetyteewt folds
+kuleol calls [$0.40 USD]
+** Dealing Turn ** [ Td ]
+kuleol bets [$0.30 USD]
+TilliWilli calls [$0.30 USD]
+** Dealing River ** [ 5c ]
+kuleol checks
+TilliWilli bets [$0.50 USD]
+kuleol calls [$0.50 USD]
+TilliWilli shows [ Ac, Jc ]a pair of Jacks.
+kuleol doesn't show [ 6s, Ah ]high card Ace.
+TilliWilli wins $4.09 USD from the main pot with a pair of Jacks.
+Game #14687947267 starts.
+
+#Game No : 14687947267 
+***** Hand History for Game 14687947267 *****
+$0.05/$0.10 USD NL Texas Hold'em - Thursday, July 23, 15:14:09 EDT 2015
+Table Cayenne (Real Money)
+Seat 7 is the button
+Total number of players : 9/9 
+Seat 3: Kilofer ( $10 USD )
+Seat 1: Malosetti ( $13.59 USD )
+Seat 6: Peakey_Nose ( $16.90 USD )
+Seat 5: TilliWilli ( $15.43 USD )
+Seat 4: WhoDaresWins_7 ( $12.93 USD )
+Seat 9: kuleol ( $10 USD )
+Seat 8: skorkin ( $10.54 USD )
+Seat 2: teufelsumos ( $10 USD )
+Seat 7: tweetyteewt ( $11.19 USD )
+skorkin posts small blind [$0.05 USD].
+kuleol posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3d Jd ]
+Malosetti will be using their time bank for this hand.
+Malosetti folds
+Kilofer folds
+WhoDaresWins_7 folds
+TilliWilli folds
+Peakey_Nose folds
+tweetyteewt folds
+skorkin folds
+kuleol does not show cards.
+kuleol wins $0.15 USD
+Game #14687947746 starts.
+
+#Game No : 14687947746 
+***** Hand History for Game 14687947746 *****
+$0.05/$0.10 USD NL Texas Hold'em - Thursday, July 23, 15:14:24 EDT 2015
+Table Cayenne (Real Money)
+Seat 8 is the button
+Total number of players : 9/9 
+Seat 3: Kilofer ( $10 USD )
+Seat 1: Malosetti ( $13.59 USD )
+Seat 6: Peakey_Nose ( $16.90 USD )
+Seat 5: TilliWilli ( $15.43 USD )
+Seat 4: WhoDaresWins_7 ( $12.93 USD )
+Seat 9: kuleol ( $10.05 USD )
+Seat 8: skorkin ( $10.49 USD )
+Seat 2: teufelsumos ( $10 USD )
+Seat 7: tweetyteewt ( $11.19 USD )
+kuleol posts small blind [$0.05 USD].
+Malosetti posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9h Ad ]
+Kilofer folds
+WhoDaresWins_7 folds
+TilliWilli raises [$0.20 USD]
+Peakey_Nose raises [$0.60 USD]
+tweetyteewt folds
+skorkin folds
+kuleol calls [$0.55 USD]
+Malosetti folds
+TilliWilli folds
+** Dealing Flop ** [ 9s, 6s, 7d ]
+kuleol checks
+Peakey_Nose bets [$0.71 USD]
+kuleol calls [$0.71 USD]
+** Dealing Turn ** [ Th ]
+kuleol checks
+Peakey_Nose checks
+** Dealing River ** [ 4h ]
+kuleol bets [$0.30 USD]
+Peakey_Nose calls [$0.30 USD]
+kuleol shows [ Qh, Kh ]high card King.
+Peakey_Nose shows [ Kc, As ]high card Ace.
+Peakey_Nose wins $3.35 USD from the main pot with high card, Ace.
+Game #14687949244 starts.
+
+#Game No : 14687949244 
+***** Hand History for Game 14687949244 *****
+$0.05/$0.10 USD NL Texas Hold'em - Thursday, July 23, 15:15:09 EDT 2015
+Table Cayenne (Real Money)
+Seat 9 is the button
+Total number of players : 9/9 
+Seat 3: Kilofer ( $10 USD )
+Seat 1: Malosetti ( $13.49 USD )
+Seat 6: Peakey_Nose ( $18.64 USD )
+Seat 5: TilliWilli ( $15.23 USD )
+Seat 4: WhoDaresWins_7 ( $12.93 USD )
+Seat 9: kuleol ( $10 USD )
+Seat 8: skorkin ( $10.49 USD )
+Seat 2: teufelsumos ( $10 USD )
+Seat 7: tweetyteewt ( $11.19 USD )
+Malosetti posts small blind [$0.05 USD].
+teufelsumos posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  6h 8h ]
+Kilofer folds
+WhoDaresWins_7 folds
+TilliWilli folds
+Peakey_Nose folds
+tweetyteewt folds
+skorkin folds
+kuleol calls [$0.10 USD]
+Malosetti will be using their time bank for this hand.
+Malosetti raises [$0.35 USD]
+teufelsumos folds
+kuleol calls [$0.30 USD]
+** Dealing Flop ** [ Ks, Td, 2d ]
+Malosetti will be using their time bank for this hand.
+Malosetti bets [$0.36 USD]
+kuleol calls [$0.36 USD]
+** Dealing Turn ** [ 5h ]
+Malosetti will be using their time bank for this hand.
+Malosetti checks
+kuleol checks
+** Dealing River ** [ 9d ]
+Malosetti will be using their time bank for this hand.
+Malosetti checks
+kuleol checks
+Malosetti shows [ As, Jc ]high card Ace.
+kuleol shows [ 9s, 7d ]a pair of Nines.
+kuleol wins $1.54 USD from the main pot with a pair of Nines.
+Game #14687950634 starts.
+
+#Game No : 14687950634 
+***** Hand History for Game 14687950634 *****
+$0.05/$0.10 USD NL Texas Hold'em - Thursday, July 23, 15:15:50 EDT 2015
+Table Cayenne (Real Money)
+Seat 1 is the button
+Total number of players : 9/9 
+Seat 3: Kilofer ( $10 USD )
+Seat 1: Malosetti ( $12.73 USD )
+Seat 6: Peakey_Nose ( $18.64 USD )
+Seat 5: TilliWilli ( $15.23 USD )
+Seat 4: WhoDaresWins_7 ( $12.93 USD )
+Seat 9: kuleol ( $10.78 USD )
+Seat 8: skorkin ( $10.49 USD )
+Seat 2: teufelsumos ( $10 USD )
+Seat 7: tweetyteewt ( $11.19 USD )
+teufelsumos posts small blind [$0.05 USD].
+Kilofer posts big blind [$0.10 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ah 5d ]
+WhoDaresWins_7 could not respond in time.(disconnected)
+WhoDaresWins_7 folds
+TilliWilli folds
+Peakey_Nose folds
+tweetyteewt folds
+skorkin folds
+kuleol folds
+Malosetti will be using their time bank for this hand.
+Malosetti folds
+teufelsumos folds
+Kilofer does not show cards.
+Kilofer wins $0.15 USD

@@ -1,0 +1,2226 @@
+Game #14697952710 starts.
+
+#Game No : 14697952710 
+***** Hand History for Game 14697952710 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 15:47:34 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 1 is the button
+Total number of players : 5/6 
+Seat 2: J0NNY_MAGIC ( $25.10 USD )
+Seat 4: TilliWilli ( $25 USD )
+Seat 5: UseingiPad ( $30.47 USD )
+Seat 1: mr_SINFUL_ ( $10 USD )
+Seat 6: stofl95 ( $9.30 USD )
+J0NNY_MAGIC posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  7s 9c ]
+UseingiPad folds
+stofl95 folds
+mr_SINFUL_ raises [$0.50 USD]
+J0NNY_MAGIC will be using their time bank for this hand.
+J0NNY_MAGIC raises [$1.90 USD]
+TilliWilli folds
+mr_SINFUL_ raises [$9.25 USD]
+J0NNY_MAGIC folds
+mr_SINFUL_ does not show cards.
+mr_SINFUL_ wins $12 USD
+Game #14697954300 starts.
+
+#Game No : 14697954300 
+***** Hand History for Game 14697954300 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 15:48:21 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 2 is the button
+Total number of players : 5/6 
+Seat 2: J0NNY_MAGIC ( $25 USD )
+Seat 4: TilliWilli ( $24.75 USD )
+Seat 5: UseingiPad ( $30.47 USD )
+Seat 1: mr_SINFUL_ ( $12.25 USD )
+Seat 6: stofl95 ( $9.30 USD )
+TilliWilli posts small blind [$0.10 USD].
+UseingiPad posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Jc 3h ]
+stofl95 folds
+bmw777_x has joined the table.
+mr_SINFUL_ raises [$0.75 USD]
+J0NNY_MAGIC folds
+TilliWilli folds
+UseingiPad folds
+mr_SINFUL_ does not show cards.
+mr_SINFUL_ wins $1.10 USD
+Game #14697954930 starts.
+
+#Game No : 14697954930 
+***** Hand History for Game 14697954930 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 15:48:40 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 2: J0NNY_MAGIC ( $25 USD )
+Seat 4: TilliWilli ( $24.65 USD )
+Seat 5: UseingiPad ( $30.22 USD )
+Seat 3: bmw777_x ( $10 USD )
+Seat 1: mr_SINFUL_ ( $12.60 USD )
+Seat 6: stofl95 ( $9.30 USD )
+UseingiPad posts small blind [$0.10 USD].
+stofl95 posts big blind [$0.25 USD].
+bmw777_x posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  7h 7c ]
+mr_SINFUL_ folds
+J0NNY_MAGIC folds
+bmw777_x checks
+TilliWilli raises [$0.50 USD]
+UseingiPad folds
+stofl95 raises [$1.15 USD]
+bmw777_x calls [$1.15 USD]
+TilliWilli calls [$0.90 USD]
+** Dealing Flop ** [ Jh, 2c, As ]
+stofl95 is all-In  [$7.90 USD]
+bmw777_x folds
+TilliWilli folds
+stofl95 does not show cards.
+stofl95 wins $11.99 USD
+Game #14697956896 starts.
+
+#Game No : 14697956896 
+***** Hand History for Game 14697956896 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 15:49:23 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 2: J0NNY_MAGIC ( $25 USD )
+Seat 4: TilliWilli ( $23.25 USD )
+Seat 5: UseingiPad ( $30.12 USD )
+Seat 3: bmw777_x ( $8.60 USD )
+Seat 1: mr_SINFUL_ ( $12.60 USD )
+Seat 6: stofl95 ( $11.99 USD )
+stofl95 posts small blind [$0.10 USD].
+J0NNY_MAGIC posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2s 3c ]
+bmw777_x calls [$0.25 USD]
+TilliWilli calls [$0.25 USD]
+UseingiPad raises [$1 USD]
+stofl95 calls [$0.90 USD]
+J0NNY_MAGIC raises [$3.75 USD]
+bmw777_x folds
+TilliWilli folds
+UseingiPad will be using their time bank for this hand.
+UseingiPad folds
+stofl95 folds
+J0NNY_MAGIC does not show cards.
+J0NNY_MAGIC wins $6.50 USD
+Game #14697959107 starts.
+
+#Game No : 14697959107 
+***** Hand History for Game 14697959107 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 15:50:15 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 2: J0NNY_MAGIC ( $27.50 USD )
+Seat 4: TilliWilli ( $23 USD )
+Seat 5: UseingiPad ( $29.12 USD )
+Seat 3: bmw777_x ( $8.35 USD )
+Seat 1: mr_SINFUL_ ( $12.60 USD )
+Seat 6: stofl95 ( $10.99 USD )
+J0NNY_MAGIC posts small blind [$0.10 USD].
+bmw777_x posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qd 3h ]
+TilliWilli raises [$0.50 USD]
+UseingiPad folds
+stofl95 folds
+J0NNY_MAGIC folds
+bmw777_x folds
+TilliWilli does not show cards.
+TilliWilli wins $0.85 USD
+Game #14697959538 starts.
+
+#Game No : 14697959538 
+***** Hand History for Game 14697959538 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 15:50:27 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 2: J0NNY_MAGIC ( $27.40 USD )
+Seat 4: TilliWilli ( $23.35 USD )
+Seat 5: UseingiPad ( $29.12 USD )
+Seat 3: bmw777_x ( $8.10 USD )
+Seat 1: mr_SINFUL_ ( $12.60 USD )
+Seat 6: stofl95 ( $10.99 USD )
+bmw777_x posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9d Kc ]
+UseingiPad folds
+stofl95 folds
+J0NNY_MAGIC raises [$0.55 USD]
+bmw777_x folds
+TilliWilli calls [$0.30 USD]
+** Dealing Flop ** [ 2c, 7d, As ]
+TilliWilli bets [$0.50 USD]
+J0NNY_MAGIC raises [$1.50 USD]
+TilliWilli folds
+J0NNY_MAGIC does not show cards.
+J0NNY_MAGIC wins $3.09 USD
+Game #14697961239 starts.
+
+#Game No : 14697961239 
+***** Hand History for Game 14697961239 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 15:51:04 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 2: J0NNY_MAGIC ( $28.44 USD )
+Seat 4: TilliWilli ( $22.30 USD )
+Seat 5: UseingiPad ( $29.12 USD )
+Seat 3: bmw777_x ( $8 USD )
+Seat 1: mr_SINFUL_ ( $12.60 USD )
+Seat 6: stofl95 ( $10.99 USD )
+TilliWilli posts small blind [$0.10 USD].
+UseingiPad posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Th 7s ]
+stofl95 folds
+J0NNY_MAGIC folds
+bmw777_x calls [$0.25 USD]
+TilliWilli folds
+UseingiPad checks
+** Dealing Flop ** [ 5c, Tc, 2s ]
+UseingiPad checks
+bmw777_x bets [$0.75 USD]
+UseingiPad folds
+bmw777_x does not show cards.
+bmw777_x wins $1.32 USD
+Game #14697961981 starts.
+
+#Game No : 14697961981 
+***** Hand History for Game 14697961981 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 15:51:25 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 2: J0NNY_MAGIC ( $28.44 USD )
+Seat 4: TilliWilli ( $22.20 USD )
+Seat 5: UseingiPad ( $28.87 USD )
+Seat 3: bmw777_x ( $8.32 USD )
+Seat 1: mr_SINFUL_ ( $12.60 USD )
+Seat 6: stofl95 ( $10.99 USD )
+UseingiPad posts small blind [$0.10 USD].
+stofl95 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qh Th ]
+J0NNY_MAGIC folds
+bmw777_x folds
+TilliWilli raises [$1 USD]
+UseingiPad folds
+stofl95 folds
+TilliWilli does not show cards.
+TilliWilli wins $1.35 USD
+Game #14697962484 starts.
+
+#Game No : 14697962484 
+***** Hand History for Game 14697962484 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 15:51:40 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 2: J0NNY_MAGIC ( $28.44 USD )
+Seat 4: TilliWilli ( $22.55 USD )
+Seat 5: UseingiPad ( $28.77 USD )
+Seat 3: bmw777_x ( $8.32 USD )
+Seat 1: mr_SINFUL_ ( $12.60 USD )
+Seat 6: stofl95 ( $10.74 USD )
+stofl95 posts small blind [$0.10 USD].
+mr_SINFUL_ posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Th 8c ]
+J0NNY_MAGIC folds
+bmw777_x calls [$0.25 USD]
+TilliWilli calls [$0.25 USD]
+UseingiPad folds
+stofl95 folds
+mr_SINFUL_ checks
+** Dealing Flop ** [ 4c, 7h, 3s ]
+mr_SINFUL_ bets [$0.50 USD]
+bmw777_x folds
+TilliWilli folds
+mr_SINFUL_ does not show cards.
+mr_SINFUL_ wins $1.31 USD
+Game #14697963719 starts.
+
+#Game No : 14697963719 
+***** Hand History for Game 14697963719 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 15:52:18 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 2: J0NNY_MAGIC ( $28.44 USD )
+Seat 4: TilliWilli ( $22.30 USD )
+Seat 5: UseingiPad ( $28.77 USD )
+Seat 3: bmw777_x ( $8.07 USD )
+Seat 1: mr_SINFUL_ ( $13.16 USD )
+Seat 6: stofl95 ( $10.64 USD )
+mr_SINFUL_ posts small blind [$0.10 USD].
+J0NNY_MAGIC posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  6s 4c ]
+bmw777_x folds
+TilliWilli folds
+UseingiPad folds
+stofl95 raises [$1 USD]
+mr_SINFUL_ folds
+J0NNY_MAGIC raises [$2.25 USD]
+stofl95 calls [$1.50 USD]
+** Dealing Flop ** [ 7c, 2d, Kc ]
+J0NNY_MAGIC checks
+stofl95 is all-In  [$8.14 USD]
+J0NNY_MAGIC calls [$8.14 USD]
+** Dealing Turn ** [ Ad ]
+** Dealing River ** [ 5d ]
+J0NNY_MAGIC shows [ Qc, Qh ]a pair of Queens.
+stofl95 doesn't show [ 3d, 3s ]a pair of Threes.
+J0NNY_MAGIC wins $20.32 USD from the main pot with a pair of Queens.
+Game #14697965353 starts.
+
+#Game No : 14697965353 
+***** Hand History for Game 14697965353 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 15:53:06 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 2: J0NNY_MAGIC ( $38.12 USD )
+Seat 4: TilliWilli ( $22.30 USD )
+Seat 5: UseingiPad ( $28.77 USD )
+Seat 3: bmw777_x ( $8.07 USD )
+Seat 1: mr_SINFUL_ ( $13.06 USD )
+Seat 6: stofl95 ( $0 USD )
+J0NNY_MAGIC posts small blind [$0.10 USD].
+bmw777_x posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Th 5h ]
+TilliWilli raises [$0.50 USD]
+UseingiPad folds
+mr_SINFUL_ folds
+J0NNY_MAGIC folds
+stofl95 has left the table.
+bmw777_x raises [$1 USD]
+TilliWilli calls [$0.75 USD]
+** Dealing Flop ** [ 8s, 2c, 4d ]
+bmw777_x bets [$2 USD]
+tuxedokodoko has joined the table.
+TilliWilli folds
+bmw777_x does not show cards.
+bmw777_x wins $4.47 USD
+Game #14697966359 starts.
+
+#Game No : 14697966359 
+***** Hand History for Game 14697966359 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 15:53:38 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 2: J0NNY_MAGIC ( $38.02 USD )
+Seat 4: TilliWilli ( $21.05 USD )
+Seat 5: UseingiPad ( $28.77 USD )
+Seat 3: bmw777_x ( $9.29 USD )
+Seat 1: mr_SINFUL_ ( $13.06 USD )
+Seat 6: tuxedokodoko ( $27.16 USD )
+bmw777_x posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Kd Ks ]
+UseingiPad folds
+mr_SINFUL_ folds
+J0NNY_MAGIC folds
+bmw777_x calls [$0.15 USD]
+TilliWilli raises [$0.25 USD]
+bmw777_x calls [$0.25 USD]
+** Dealing Flop ** [ 2d, Td, 4s ]
+bmw777_x checks
+TilliWilli bets [$0.25 USD]
+bmw777_x calls [$0.25 USD]
+** Dealing Turn ** [ 5s ]
+bmw777_x checks
+TilliWilli bets [$0.25 USD]
+bmw777_x calls [$0.25 USD]
+** Dealing River ** [ 7h ]
+bmw777_x checks
+TilliWilli bets [$0.75 USD]
+bmw777_x calls [$0.75 USD]
+TilliWilli shows [ Kd, Ks ]a pair of Kings.
+bmw777_x doesn't show [ As, Qd ]high card Ace.
+TilliWilli wins $3.33 USD from the main pot with a pair of Kings.
+Game #14697967905 starts.
+
+#Game No : 14697967905 
+***** Hand History for Game 14697967905 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 15:54:25 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 2: J0NNY_MAGIC ( $38.02 USD )
+Seat 4: TilliWilli ( $22.63 USD )
+Seat 5: UseingiPad ( $28.77 USD )
+Seat 3: bmw777_x ( $7.54 USD )
+Seat 1: mr_SINFUL_ ( $13.06 USD )
+Seat 6: tuxedokodoko ( $27.16 USD )
+TilliWilli posts small blind [$0.10 USD].
+UseingiPad posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3s 3d ]
+mr_SINFUL_ folds
+J0NNY_MAGIC folds
+bmw777_x calls [$0.25 USD]
+TilliWilli raises [$0.40 USD]
+UseingiPad calls [$0.25 USD]
+bmw777_x calls [$0.25 USD]
+** Dealing Flop ** [ 9d, Kh, 9s ]
+TilliWilli bets [$1.10 USD]
+UseingiPad folds
+bmw777_x folds
+TilliWilli does not show cards.
+TilliWilli wins $2.53 USD
+Game #14697969821 starts.
+
+#Game No : 14697969821 
+***** Hand History for Game 14697969821 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 15:55:08 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 2: J0NNY_MAGIC ( $38.02 USD )
+Seat 4: TilliWilli ( $23.56 USD )
+Seat 5: UseingiPad ( $28.27 USD )
+Seat 3: bmw777_x ( $7.04 USD )
+Seat 1: mr_SINFUL_ ( $13.06 USD )
+Seat 6: tuxedokodoko ( $27.16 USD )
+UseingiPad posts small blind [$0.10 USD].
+tuxedokodoko posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3h Ad ]
+mr_SINFUL_ folds
+J0NNY_MAGIC folds
+bmw777_x calls [$0.25 USD]
+TilliWilli calls [$0.25 USD]
+UseingiPad folds
+tuxedokodoko checks
+** Dealing Flop ** [ 7s, 6d, 7d ]
+tuxedokodoko will be using their time bank for this hand.
+tuxedokodoko checks
+bmw777_x checks
+TilliWilli checks
+** Dealing Turn ** [ 6c ]
+tuxedokodoko will be using their time bank for this hand.
+tuxedokodoko checks
+bmw777_x checks
+TilliWilli bets [$0.50 USD]
+tuxedokodoko will be using their time bank for this hand.
+tuxedokodoko folds
+bmw777_x calls [$0.50 USD]
+** Dealing River ** [ 9d ]
+bmw777_x checks
+TilliWilli bets [$1.25 USD]
+bmw777_x calls [$1.25 USD]
+TilliWilli shows [ 3h, Ad ]two pairs, Sevens and Sixes.
+bmw777_x shows [ As, 2d ]two pairs, Sevens and Sixes.
+bmw777_x wins $2.07 USD from the main pot with two pairs, Sevens and Sixes.
+TilliWilli wins $2.07 USD from the main pot with two pairs, Sevens and Sixes.
+Game #14697972111 starts.
+
+#Game No : 14697972111 
+***** Hand History for Game 14697972111 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 15:56:10 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 2: J0NNY_MAGIC ( $38.02 USD )
+Seat 4: TilliWilli ( $23.63 USD )
+Seat 5: UseingiPad ( $28.17 USD )
+Seat 3: bmw777_x ( $7.11 USD )
+Seat 1: mr_SINFUL_ ( $13.06 USD )
+Seat 6: tuxedokodoko ( $26.91 USD )
+tuxedokodoko posts small blind [$0.10 USD].
+mr_SINFUL_ posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3d Kc ]
+J0NNY_MAGIC folds
+bmw777_x raises [$0.75 USD]
+TilliWilli folds
+UseingiPad folds
+tuxedokodoko will be using their time bank for this hand.
+tuxedokodoko folds
+mr_SINFUL_ folds
+bmw777_x does not show cards.
+bmw777_x wins $1.10 USD
+Game #14697972558 starts.
+
+#Game No : 14697972558 
+***** Hand History for Game 14697972558 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 15:56:29 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 2: J0NNY_MAGIC ( $38.02 USD )
+Seat 4: TilliWilli ( $23.63 USD )
+Seat 5: UseingiPad ( $28.17 USD )
+Seat 3: bmw777_x ( $7.46 USD )
+Seat 1: mr_SINFUL_ ( $12.81 USD )
+Seat 6: tuxedokodoko ( $26.81 USD )
+mr_SINFUL_ posts small blind [$0.10 USD].
+bmw777_x posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  7h Ad ]
+TilliWilli raises [$0.50 USD]
+J0NNY_MAGIC has left the table.
+UseingiPad folds
+tuxedokodoko will be using their time bank for this hand.
+tuxedokodoko folds
+mr_SINFUL_ raises [$1.40 USD]
+bmw777_x folds
+TilliWilli calls [$1 USD]
+** Dealing Flop ** [ Ts, Ac, 5d ]
+spagamada has joined the table.
+mr_SINFUL_ bets [$1.54 USD]
+Your time bank will be activated in 6 secs. If you do not want it to be used, please act now.
+TilliWilli raises [$3.08 USD]
+mr_SINFUL_ folds
+TilliWilli does not show cards.
+TilliWilli wins $7.56 USD
+Game #14697974045 starts.
+
+#Game No : 14697974045 
+***** Hand History for Game 14697974045 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 15:57:33 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 4: TilliWilli ( $26.61 USD )
+Seat 5: UseingiPad ( $28.17 USD )
+Seat 3: bmw777_x ( $7.21 USD )
+Seat 1: mr_SINFUL_ ( $9.77 USD )
+Seat 2: spagamada ( $25 USD )
+Seat 6: tuxedokodoko ( $26.81 USD )
+bmw777_x posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8c Qh ]
+UseingiPad folds
+tuxedokodoko will be using their time bank for this hand.
+tuxedokodoko folds
+mr_SINFUL_ raises [$0.50 USD]
+bmw777_x calls [$0.40 USD]
+TilliWilli calls [$0.25 USD]
+** Dealing Flop ** [ 3h, 8h, 3d ]
+bmw777_x bets [$0.50 USD]
+TilliWilli raises [$3 USD]
+mr_SINFUL_ folds
+bmw777_x calls [$2.50 USD]
+** Dealing Turn ** [ Kc ]
+bmw777_x is all-In  [$3.71 USD]
+TilliWilli calls [$3.71 USD]
+** Dealing River ** [ 3s ]
+bmw777_x shows [ 8d, Ac ]a full house, Threes full of Eights.
+TilliWilli shows [ 8c, Qh ]a full house, Threes full of Eights.
+bmw777_x wins $7.09 USD from the main pot with a full house, Threes full of Eights.
+TilliWilli wins $7.09 USD from the main pot with a full house, Threes full of Eights.
+Game #14697975989 starts.
+
+#Game No : 14697975989 
+***** Hand History for Game 14697975989 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 15:58:36 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 4: TilliWilli ( $26.49 USD )
+Seat 5: UseingiPad ( $28.17 USD )
+Seat 3: bmw777_x ( $7.09 USD )
+Seat 1: mr_SINFUL_ ( $10 USD )
+Seat 2: spagamada ( $25 USD )
+Seat 6: tuxedokodoko ( $26.81 USD )
+TilliWilli posts small blind [$0.10 USD].
+UseingiPad posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  6c Ah ]
+tuxedokodoko will be using their time bank for this hand.
+tuxedokodoko folds
+mr_SINFUL_ folds
+bmw777_x raises [$0.75 USD]
+TilliWilli folds
+UseingiPad folds
+bmw777_x does not show cards.
+bmw777_x wins $1.10 USD
+Game #14697976330 starts.
+
+#Game No : 14697976330 
+***** Hand History for Game 14697976330 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 15:58:51 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 4: TilliWilli ( $26.39 USD )
+Seat 5: UseingiPad ( $27.92 USD )
+Seat 3: bmw777_x ( $7.44 USD )
+Seat 1: mr_SINFUL_ ( $10 USD )
+Seat 2: spagamada ( $25 USD )
+Seat 6: tuxedokodoko ( $26.81 USD )
+UseingiPad posts small blind [$0.10 USD].
+tuxedokodoko posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5s 4c ]
+mr_SINFUL_ folds
+bmw777_x calls [$0.25 USD]
+TilliWilli folds
+UseingiPad raises [$0.90 USD]
+tuxedokodoko will be using their time bank for this hand.
+tuxedokodoko calls [$0.75 USD]
+bmw777_x calls [$0.75 USD]
+** Dealing Flop ** [ 4s, 6s, 9d ]
+UseingiPad checks
+tuxedokodoko will be using their time bank for this hand.
+tuxedokodoko bets [$1.90 USD]
+bmw777_x folds
+UseingiPad folds
+tuxedokodoko does not show cards.
+tuxedokodoko wins $4.75 USD
+Game #14697977254 starts.
+
+#Game No : 14697977254 
+***** Hand History for Game 14697977254 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 15:59:32 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 4: TilliWilli ( $26.39 USD )
+Seat 5: UseingiPad ( $26.92 USD )
+Seat 3: bmw777_x ( $6.44 USD )
+Seat 1: mr_SINFUL_ ( $10 USD )
+Seat 2: spagamada ( $25 USD )
+Seat 6: tuxedokodoko ( $28.66 USD )
+tuxedokodoko posts small blind [$0.10 USD].
+mr_SINFUL_ posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5s Jd ]
+bmw777_x folds
+TilliWilli folds
+UseingiPad raises [$0.75 USD]
+tuxedokodoko will be using their time bank for this hand.
+tuxedokodoko folds
+mr_SINFUL_ folds
+UseingiPad does not show cards.
+UseingiPad wins $1.10 USD
+Game #14697977764 starts.
+
+#Game No : 14697977764 
+***** Hand History for Game 14697977764 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 15:59:54 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 4: TilliWilli ( $26.39 USD )
+Seat 5: UseingiPad ( $27.27 USD )
+Seat 3: bmw777_x ( $6.44 USD )
+Seat 1: mr_SINFUL_ ( $9.75 USD )
+Seat 2: spagamada ( $25 USD )
+Seat 6: tuxedokodoko ( $28.56 USD )
+mr_SINFUL_ posts small blind [$0.10 USD].
+spagamada posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  7s Jh ]
+bmw777_x calls [$0.25 USD]
+TilliWilli folds
+UseingiPad folds
+tuxedokodoko will be using their time bank for this hand.
+tuxedokodoko folds
+mr_SINFUL_ raises [$0.90 USD]
+spagamada folds
+bmw777_x calls [$0.75 USD]
+** Dealing Flop ** [ 5d, 8d, As ]
+mr_SINFUL_ checks
+bmw777_x checks
+** Dealing Turn ** [ 3s ]
+mr_SINFUL_ bets [$1.07 USD]
+bmw777_x folds
+mr_SINFUL_ does not show cards.
+mr_SINFUL_ wins $3.21 USD
+Game #14697978609 starts.
+
+#Game No : 14697978609 
+***** Hand History for Game 14697978609 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:00:31 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 4: TilliWilli ( $26.39 USD )
+Seat 5: UseingiPad ( $27.27 USD )
+Seat 3: bmw777_x ( $5.44 USD )
+Seat 1: mr_SINFUL_ ( $10.89 USD )
+Seat 2: spagamada ( $25 USD )
+Seat 6: tuxedokodoko ( $28.56 USD )
+spagamada posts small blind [$0.10 USD].
+bmw777_x posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Jh 3c ]
+TilliWilli folds
+UseingiPad folds
+tuxedokodoko will be using their time bank for this hand.
+tuxedokodoko folds
+mr_SINFUL_ raises [$0.50 USD]
+spagamada folds
+bmw777_x calls [$0.25 USD]
+** Dealing Flop ** [ 5s, 7s, 6s ]
+bmw777_x checks
+mr_SINFUL_ bets [$0.52 USD]
+bmw777_x folds
+mr_SINFUL_ does not show cards.
+mr_SINFUL_ wins $1.57 USD
+Game #14697979516 starts.
+
+#Game No : 14697979516 
+***** Hand History for Game 14697979516 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:01:10 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 4: TilliWilli ( $26.39 USD )
+Seat 5: UseingiPad ( $27.27 USD )
+Seat 3: bmw777_x ( $4.94 USD )
+Seat 1: mr_SINFUL_ ( $11.44 USD )
+Seat 2: spagamada ( $25 USD )
+Seat 6: tuxedokodoko ( $28.56 USD )
+bmw777_x posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3s Ah ]
+UseingiPad raises [$0.75 USD]
+tuxedokodoko folds
+mr_SINFUL_ folds
+spagamada folds
+bmw777_x folds
+TilliWilli folds
+UseingiPad does not show cards.
+UseingiPad wins $1.10 USD
+Game #14697980633 starts.
+
+#Game No : 14697980633 
+***** Hand History for Game 14697980633 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:01:35 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 4: TilliWilli ( $26.14 USD )
+Seat 5: UseingiPad ( $27.62 USD )
+Seat 3: bmw777_x ( $4.84 USD )
+Seat 1: mr_SINFUL_ ( $11.44 USD )
+Seat 2: spagamada ( $25 USD )
+Seat 6: tuxedokodoko ( $28.56 USD )
+TilliWilli posts small blind [$0.10 USD].
+UseingiPad posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  6d 2d ]
+tuxedokodoko will be using their time bank for this hand.
+tuxedokodoko folds
+mr_SINFUL_ folds
+spagamada will be using their time bank for this hand.
+spagamada folds
+bmw777_x folds
+TilliWilli raises [$0.40 USD]
+UseingiPad calls [$0.25 USD]
+** Dealing Flop ** [ 2h, 2s, Ks ]
+TilliWilli checks
+UseingiPad bets [$0.50 USD]
+TilliWilli calls [$0.50 USD]
+** Dealing Turn ** [ 2c ]
+TilliWilli checks
+UseingiPad bets [$1 USD]
+TilliWilli calls [$1 USD]
+** Dealing River ** [ Jh ]
+TilliWilli bets [$4 USD]
+UseingiPad folds
+TilliWilli does not show cards.
+TilliWilli wins $7.80 USD
+Game #14697984402 starts.
+
+#Game No : 14697984402 
+***** Hand History for Game 14697984402 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:03:05 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 4: TilliWilli ( $27.94 USD )
+Seat 5: UseingiPad ( $25.62 USD )
+Seat 3: bmw777_x ( $4.84 USD )
+Seat 1: mr_SINFUL_ ( $11.44 USD )
+Seat 2: spagamada ( $25 USD )
+Seat 6: tuxedokodoko ( $28.56 USD )
+UseingiPad posts small blind [$0.10 USD].
+tuxedokodoko posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8d Kc ]
+mr_SINFUL_ folds
+spagamada folds
+bmw777_x folds
+TilliWilli raises [$0.50 USD]
+UseingiPad folds
+tuxedokodoko will be using their time bank for this hand.
+tuxedokodoko raises [$2.13 USD]
+TilliWilli calls [$1.88 USD]
+** Dealing Flop ** [ 2c, 7d, Ts ]
+tuxedokodoko will be using their time bank for this hand.
+tuxedokodoko checks
+TilliWilli checks
+** Dealing Turn ** [ 2d ]
+tuxedokodoko will be using their time bank for this hand.
+tuxedokodoko bets [$3.08 USD]
+TilliWilli folds
+tuxedokodoko does not show cards.
+tuxedokodoko wins $7.70 USD
+Game #14697986198 starts.
+
+#Game No : 14697986198 
+***** Hand History for Game 14697986198 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:03:58 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 4: TilliWilli ( $25.56 USD )
+Seat 5: UseingiPad ( $25.52 USD )
+Seat 3: bmw777_x ( $4.84 USD )
+Seat 1: mr_SINFUL_ ( $11.44 USD )
+Seat 2: spagamada ( $25 USD )
+Seat 6: tuxedokodoko ( $30.80 USD )
+tuxedokodoko posts small blind [$0.10 USD].
+mr_SINFUL_ posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Td Ac ]
+spagamada raises [$0.75 USD]
+bmw777_x calls [$0.75 USD]
+TilliWilli calls [$0.75 USD]
+UseingiPad calls [$0.75 USD]
+tuxedokodoko will be using their time bank for this hand.
+tuxedokodoko calls [$0.65 USD]
+mr_SINFUL_ calls [$0.50 USD]
+** Dealing Flop ** [ 7d, 8d, 8h ]
+tuxedokodoko will be using their time bank for this hand.
+tuxedokodoko checks
+mr_SINFUL_ checks
+spagamada checks
+bmw777_x checks
+TilliWilli bets [$0.25 USD]
+UseingiPad calls [$0.25 USD]
+tuxedokodoko will be using their time bank for this hand.
+tuxedokodoko calls [$0.25 USD]
+mr_SINFUL_ calls [$0.25 USD]
+spagamada folds
+bmw777_x calls [$0.25 USD]
+** Dealing Turn ** [ 6s ]
+tuxedokodoko will be using their time bank for this hand.
+tuxedokodoko bets [$3.64 USD]
+mr_SINFUL_ folds
+bmw777_x folds
+TilliWilli folds
+UseingiPad will be using their time bank for this hand.
+UseingiPad folds
+tuxedokodoko does not show cards.
+tuxedokodoko wins $9.11 USD
+Game #14697989809 starts.
+
+#Game No : 14697989809 
+***** Hand History for Game 14697989809 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:05:46 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 4: TilliWilli ( $24.56 USD )
+Seat 5: UseingiPad ( $25 USD )
+Seat 3: bmw777_x ( $3.84 USD )
+Seat 1: mr_SINFUL_ ( $10.44 USD )
+Seat 2: spagamada ( $25 USD )
+Seat 6: tuxedokodoko ( $35.27 USD )
+mr_SINFUL_ posts small blind [$0.10 USD].
+spagamada posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Th 2s ]
+bmw777_x calls [$0.25 USD]
+TilliWilli folds
+UseingiPad folds
+tuxedokodoko will be using their time bank for this hand.
+tuxedokodoko raises [$1.25 USD]
+mr_SINFUL_ folds
+spagamada folds
+bmw777_x calls [$1 USD]
+** Dealing Flop ** [ Qd, Qh, 6d ]
+bmw777_x checks
+tuxedokodoko will be using their time bank for this hand.
+tuxedokodoko bets [$2.67 USD]
+bmw777_x is all-In  [$2.59 USD]
+** Dealing Turn ** [ 3s ]
+** Dealing River ** [ Ts ]
+tuxedokodoko shows [ 9h, As ]a pair of Queens with Ace kicker.
+bmw777_x doesn't show [ Kc, 9c ]a pair of Queens.
+tuxedokodoko wins $0.08 USD from the side pot 1 with a pair of Queens with Ace kicker.
+tuxedokodoko wins $7.63 USD from the main pot with a pair of Queens with Ace kicker.
+Game #14697992062 starts.
+
+#Game No : 14697992062 
+***** Hand History for Game 14697992062 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:06:38 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 4: TilliWilli ( $24.56 USD )
+Seat 5: UseingiPad ( $25 USD )
+Seat 3: bmw777_x ( $0 USD )
+Seat 1: mr_SINFUL_ ( $10.34 USD )
+Seat 2: spagamada ( $25 USD )
+Seat 6: tuxedokodoko ( $39.06 USD )
+spagamada posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4h 7d ]
+UseingiPad folds
+tuxedokodoko folds
+bmw777_x has left the table.
+mr_SINFUL_ folds
+spagamada raises [$0.40 USD]
+TilliWilli calls [$0.25 USD]
+** Dealing Flop ** [ Qc, Ad, Td ]
+SudaSergio has joined the table.
+spagamada checks
+TilliWilli bets [$0.70 USD]
+spagamada folds
+TilliWilli does not show cards.
+TilliWilli wins $1.65 USD
+Game #14697993872 starts.
+
+#Game No : 14697993872 
+***** Hand History for Game 14697993872 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:07:16 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 3: SudaSergio ( $25 USD )
+Seat 4: TilliWilli ( $25.01 USD )
+Seat 5: UseingiPad ( $25 USD )
+Seat 1: mr_SINFUL_ ( $10.34 USD )
+Seat 2: spagamada ( $25 USD )
+Seat 6: tuxedokodoko ( $39.06 USD )
+TilliWilli posts small blind [$0.10 USD].
+UseingiPad posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2c 9c ]
+tuxedokodoko will be using their time bank for this hand.
+tuxedokodoko folds
+mr_SINFUL_ folds
+spagamada raises [$0.75 USD]
+TilliWilli folds
+UseingiPad raises [$2.50 USD]
+spagamada folds
+UseingiPad does not show cards.
+UseingiPad wins $3.60 USD
+Game #14697994976 starts.
+
+#Game No : 14697994976 
+***** Hand History for Game 14697994976 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:07:48 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 3: SudaSergio ( $25 USD )
+Seat 4: TilliWilli ( $24.91 USD )
+Seat 5: UseingiPad ( $25.85 USD )
+Seat 1: mr_SINFUL_ ( $10.34 USD )
+Seat 2: spagamada ( $25 USD )
+Seat 6: tuxedokodoko ( $39.06 USD )
+UseingiPad posts small blind [$0.10 USD].
+tuxedokodoko posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  6s Ks ]
+mr_SINFUL_ folds
+spagamada raises [$1 USD]
+TilliWilli folds
+UseingiPad folds
+tuxedokodoko will be using their time bank for this hand.
+tuxedokodoko raises [$3.89 USD]
+spagamada is all-In  [$24 USD]
+tuxedokodoko will be using their time bank for this hand.
+tuxedokodoko calls [$20.86 USD]
+** Dealing Flop ** [ 3c, 7c, 2h ]
+** Dealing Turn ** [ 6c ]
+** Dealing River ** [ 9d ]
+tuxedokodoko shows [ Qd, Qs ]a pair of Queens.
+spagamada doesn't show [ Jc, Jd ]a pair of Jacks.
+tuxedokodoko wins $47.60 USD from the main pot with a pair of Queens.
+Game #14697996158 starts.
+
+#Game No : 14697996158 
+***** Hand History for Game 14697996158 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:08:24 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 3: SudaSergio ( $25 USD )
+Seat 4: TilliWilli ( $24.91 USD )
+Seat 5: UseingiPad ( $25.75 USD )
+Seat 1: mr_SINFUL_ ( $10.34 USD )
+Seat 2: spagamada ( $25 USD )
+Seat 6: tuxedokodoko ( $61.66 USD )
+tuxedokodoko posts small blind [$0.10 USD].
+mr_SINFUL_ posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5d 5h ]
+spagamada raises [$0.50 USD]
+TilliWilli raises [$4 USD]
+UseingiPad will be using their time bank for this hand.
+UseingiPad is all-In  [$25.75 USD]
+tuxedokodoko will be using their time bank for this hand.
+tuxedokodoko folds
+mr_SINFUL_ folds
+spagamada folds
+Your time bank will be activated in 6 secs. If you do not want it to be used, please act now.
+TilliWilli will be using their time bank for this hand.
+TilliWilli folds
+UseingiPad does not show cards.
+UseingiPad wins $30.60 USD
+Game #14697998169 starts.
+
+#Game No : 14697998169 
+***** Hand History for Game 14697998169 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:09:24 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 3: SudaSergio ( $25 USD )
+Seat 4: TilliWilli ( $20.91 USD )
+Seat 5: UseingiPad ( $30.60 USD )
+Seat 1: mr_SINFUL_ ( $10.09 USD )
+Seat 2: spagamada ( $25 USD )
+Seat 6: tuxedokodoko ( $61.56 USD )
+mr_SINFUL_ posts small blind [$0.10 USD].
+SudaSergio posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ah Kh ]
+TilliWilli raises [$0.50 USD]
+UseingiPad calls [$0.50 USD]
+tuxedokodoko will be using their time bank for this hand.
+tuxedokodoko folds
+mr_SINFUL_ folds
+SudaSergio folds
+** Dealing Flop ** [ 4d, Qs, 9d ]
+TilliWilli bets [$0.25 USD]
+spagamada has left the table.
+UseingiPad raises [$1 USD]
+TilliWilli raises [$1.50 USD]
+UseingiPad calls [$0.75 USD]
+** Dealing Turn ** [ 4s ]
+TilliWilli bets [$1.50 USD]
+UseingiPad calls [$1.50 USD]
+** Dealing River ** [ Qh ]
+TilliWilli bets [$2 USD]
+UseingiPad will be using their time bank for this hand.
+UseingiPad calls [$2 USD]
+TilliWilli shows [ Ah, Kh ]two pairs, Queens and Fours.
+UseingiPad shows [ 9s, 7s ]two pairs, Queens and Nines.
+UseingiPad wins $11.26 USD from the main pot with two pairs, Queens and Nines.
+Game #14698000508 starts.
+
+#Game No : 14698000508 
+***** Hand History for Game 14698000508 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:10:18 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 1 is the button
+Total number of players : 5/6 
+Seat 3: SudaSergio ( $25 USD )
+Seat 4: TilliWilli ( $15.16 USD )
+Seat 5: UseingiPad ( $36.11 USD )
+Seat 1: mr_SINFUL_ ( $9.99 USD )
+Seat 6: tuxedokodoko ( $61.56 USD )
+SudaSergio posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2s Ks ]
+UseingiPad folds
+tuxedokodoko has left the table.
+mr_SINFUL_ raises [$0.50 USD]
+zeroacvity4you has joined the table.
+SudaSergio folds
+TilliWilli calls [$0.25 USD]
+** Dealing Flop ** [ 5c, 9h, Qh ]
+TilliWilli checks
+mr_SINFUL_ will be using their time bank for this hand.
+mr_SINFUL_ bets [$0.52 USD]
+TilliWilli folds
+mr_SINFUL_ does not show cards.
+mr_SINFUL_ wins $1.57 USD
+Game #14698002128 starts.
+
+#Game No : 14698002128 
+***** Hand History for Game 14698002128 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:11:05 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 3 is the button
+Total number of players : 5/6 
+Seat 3: SudaSergio ( $25 USD )
+Seat 4: TilliWilli ( $14.66 USD )
+Seat 5: UseingiPad ( $36.11 USD )
+Seat 1: mr_SINFUL_ ( $10.54 USD )
+Seat 2: zeroacvity4you ( $25 USD )
+TilliWilli posts small blind [$0.10 USD].
+UseingiPad posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8s 5s ]
+mr_SINFUL_ folds
+SudaSergio folds
+TilliWilli calls [$0.15 USD]
+UseingiPad checks
+** Dealing Flop ** [ Jh, Ah, 2c ]
+TilliWilli checks
+UseingiPad bets [$0.36 USD]
+TilliWilli raises [$0.72 USD]
+UseingiPad calls [$0.36 USD]
+** Dealing Turn ** [ 6s ]
+TilliWilli checks
+UseingiPad bets [$1 USD]
+TilliWilli folds
+UseingiPad does not show cards.
+UseingiPad wins $2.85 USD
+Game #14698003231 starts.
+
+#Game No : 14698003231 
+***** Hand History for Game 14698003231 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:11:38 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 4 is the button
+Total number of players : 5/6 
+Seat 3: SudaSergio ( $25 USD )
+Seat 4: TilliWilli ( $13.69 USD )
+Seat 5: UseingiPad ( $36.99 USD )
+Seat 1: mr_SINFUL_ ( $10.54 USD )
+Seat 2: zeroacvity4you ( $25 USD )
+UseingiPad posts small blind [$0.10 USD].
+mr_SINFUL_ posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  7d Qc ]
+SudaSergio folds
+TilliWilli calls [$0.25 USD]
+UseingiPad folds
+mr_SINFUL_ checks
+** Dealing Flop ** [ 3c, 9s, Kh ]
+mr_SINFUL_ checks
+NOAH14 has joined the table.
+TilliWilli bets [$0.25 USD]
+mr_SINFUL_ folds
+TilliWilli does not show cards.
+TilliWilli wins $0.82 USD
+Game #14698004225 starts.
+
+#Game No : 14698004225 
+***** Hand History for Game 14698004225 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:12:07 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 6: NOAH14 ( $25 USD )
+Seat 3: SudaSergio ( $25 USD )
+Seat 4: TilliWilli ( $14.01 USD )
+Seat 5: UseingiPad ( $36.89 USD )
+Seat 1: mr_SINFUL_ ( $10.29 USD )
+Seat 2: zeroacvity4you ( $25 USD )
+mr_SINFUL_ posts small blind [$0.10 USD].
+zeroacvity4you posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Th As ]
+SudaSergio folds
+TilliWilli raises [$0.65 USD]
+UseingiPad folds
+mr_SINFUL_ folds
+zeroacvity4you folds
+TilliWilli does not show cards.
+TilliWilli wins $1 USD
+Game #14698005426 starts.
+
+#Game No : 14698005426 
+***** Hand History for Game 14698005426 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:12:28 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 6: NOAH14 ( $25 USD )
+Seat 3: SudaSergio ( $25 USD )
+Seat 4: TilliWilli ( $14.36 USD )
+Seat 5: UseingiPad ( $36.89 USD )
+Seat 1: mr_SINFUL_ ( $10.19 USD )
+Seat 2: zeroacvity4you ( $25 USD )
+zeroacvity4you posts small blind [$0.10 USD].
+SudaSergio posts big blind [$0.25 USD].
+NOAH14 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Td 4s ]
+TilliWilli folds
+UseingiPad folds
+NOAH14 checks
+mr_SINFUL_ folds
+zeroacvity4you folds
+SudaSergio checks
+** Dealing Flop ** [ Ac, 7s, 3s ]
+SudaSergio checks
+NOAH14 checks
+** Dealing Turn ** [ 8s ]
+SudaSergio checks
+NOAH14 checks
+** Dealing River ** [ 5s ]
+SudaSergio checks
+NOAH14 checks
+SudaSergio shows [ Jc, Th ]high card Ace.
+NOAH14 shows [ 7c, 6s ]a flush, Eight high.
+NOAH14 wins $0.57 USD from the main pot with a flush, Eight high.
+Game #14698006785 starts.
+
+#Game No : 14698006785 
+***** Hand History for Game 14698006785 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:13:09 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 6: NOAH14 ( $25.32 USD )
+Seat 3: SudaSergio ( $25 USD )
+Seat 4: TilliWilli ( $14.36 USD )
+Seat 5: UseingiPad ( $36.89 USD )
+Seat 1: mr_SINFUL_ ( $10.19 USD )
+Seat 2: zeroacvity4you ( $25 USD )
+SudaSergio posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4s 3s ]
+UseingiPad raises [$0.75 USD]
+NOAH14 folds
+mr_SINFUL_ calls [$0.75 USD]
+zeroacvity4you folds
+SudaSergio folds
+TilliWilli calls [$0.50 USD]
+** Dealing Flop ** [ Qc, 3h, 4c ]
+TilliWilli bets [$0.50 USD]
+UseingiPad raises [$1.50 USD]
+mr_SINFUL_ folds
+TilliWilli is all-In  [$13.11 USD]
+UseingiPad calls [$12.11 USD]
+** Dealing Turn ** [ 7s ]
+** Dealing River ** [ 6d ]
+UseingiPad shows [ Jd, Qd ]a pair of Queens.
+TilliWilli shows [ 4s, 3s ]two pairs, Fours and Threes.
+TilliWilli wins $28.10 USD from the main pot with two pairs, Fours and Threes.
+Game #14698009770 starts.
+
+#Game No : 14698009770 
+***** Hand History for Game 14698009770 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:14:10 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 6: NOAH14 ( $25.32 USD )
+Seat 3: SudaSergio ( $25 USD )
+Seat 4: TilliWilli ( $28.10 USD )
+Seat 5: UseingiPad ( $25 USD )
+Seat 1: mr_SINFUL_ ( $10 USD )
+Seat 2: zeroacvity4you ( $25 USD )
+TilliWilli posts small blind [$0.10 USD].
+UseingiPad posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9s 8d ]
+NOAH14 folds
+mr_SINFUL_ folds
+zeroacvity4you raises [$0.75 USD]
+SudaSergio folds
+TilliWilli calls [$0.65 USD]
+UseingiPad folds
+** Dealing Flop ** [ 3s, Ah, Th ]
+TilliWilli bets [$0.25 USD]
+zeroacvity4you calls [$0.25 USD]
+** Dealing Turn ** [ Qh ]
+TilliWilli checks
+zeroacvity4you checks
+** Dealing River ** [ 9c ]
+TilliWilli bets [$0.25 USD]
+zeroacvity4you folds
+TilliWilli does not show cards.
+TilliWilli wins $2.39 USD
+Game #14698011550 starts.
+
+#Game No : 14698011550 
+***** Hand History for Game 14698011550 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:15:03 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 6: NOAH14 ( $25.32 USD )
+Seat 3: SudaSergio ( $25 USD )
+Seat 4: TilliWilli ( $29.24 USD )
+Seat 5: UseingiPad ( $25 USD )
+Seat 1: mr_SINFUL_ ( $10 USD )
+Seat 2: zeroacvity4you ( $25 USD )
+UseingiPad posts small blind [$0.10 USD].
+NOAH14 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ac Qh ]
+mr_SINFUL_ folds
+zeroacvity4you folds
+SudaSergio folds
+TilliWilli raises [$0.50 USD]
+UseingiPad raises [$1.40 USD]
+NOAH14 folds
+TilliWilli raises [$3.25 USD]
+UseingiPad folds
+TilliWilli does not show cards.
+TilliWilli wins $5.50 USD
+Game #14698012909 starts.
+
+#Game No : 14698012909 
+***** Hand History for Game 14698012909 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:15:44 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 6: NOAH14 ( $25.07 USD )
+Seat 3: SudaSergio ( $25 USD )
+Seat 4: TilliWilli ( $30.99 USD )
+Seat 5: UseingiPad ( $25 USD )
+Seat 1: mr_SINFUL_ ( $10 USD )
+Seat 2: zeroacvity4you ( $25 USD )
+NOAH14 posts small blind [$0.10 USD].
+mr_SINFUL_ posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3c 7d ]
+zeroacvity4you folds
+SudaSergio folds
+TilliWilli folds
+UseingiPad folds
+NOAH14 folds
+mr_SINFUL_ does not show cards.
+mr_SINFUL_ wins $0.35 USD
+Game #14698013166 starts.
+
+#Game No : 14698013166 
+***** Hand History for Game 14698013166 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:15:52 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 6: NOAH14 ( $24.97 USD )
+Seat 3: SudaSergio ( $25 USD )
+Seat 4: TilliWilli ( $30.99 USD )
+Seat 5: UseingiPad ( $25 USD )
+Seat 1: mr_SINFUL_ ( $10.10 USD )
+Seat 2: zeroacvity4you ( $25 USD )
+mr_SINFUL_ posts small blind [$0.10 USD].
+zeroacvity4you posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Jd 2c ]
+SudaSergio folds
+TilliWilli folds
+UseingiPad folds
+NOAH14 folds
+mr_SINFUL_ folds
+zeroacvity4you does not show cards.
+zeroacvity4you wins $0.35 USD
+Game #14698013923 starts.
+
+#Game No : 14698013923 
+***** Hand History for Game 14698013923 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:16:14 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 6: NOAH14 ( $24.97 USD )
+Seat 3: SudaSergio ( $25 USD )
+Seat 4: TilliWilli ( $30.99 USD )
+Seat 5: UseingiPad ( $25 USD )
+Seat 1: mr_SINFUL_ ( $10 USD )
+Seat 2: zeroacvity4you ( $25.10 USD )
+zeroacvity4you posts small blind [$0.10 USD].
+SudaSergio posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Js 7s ]
+TilliWilli calls [$0.25 USD]
+UseingiPad folds
+NOAH14 folds
+mr_SINFUL_ calls [$0.25 USD]
+zeroacvity4you raises [$0.90 USD]
+SudaSergio folds
+TilliWilli folds
+mr_SINFUL_ folds
+zeroacvity4you does not show cards.
+zeroacvity4you wins $1.75 USD
+Game #14698016103 starts.
+
+#Game No : 14698016103 
+***** Hand History for Game 14698016103 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:17:04 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 6: NOAH14 ( $24.97 USD )
+Seat 3: SudaSergio ( $25 USD )
+Seat 4: TilliWilli ( $30.74 USD )
+Seat 5: UseingiPad ( $25 USD )
+Seat 1: mr_SINFUL_ ( $9.75 USD )
+Seat 2: zeroacvity4you ( $25.85 USD )
+SudaSergio posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4s 9h ]
+UseingiPad folds
+NOAH14 folds
+mr_SINFUL_ raises [$0.50 USD]
+zeroacvity4you raises [$1.50 USD]
+SudaSergio raises [$3.65 USD]
+TilliWilli folds
+mr_SINFUL_ will be using their time bank for this hand.
+mr_SINFUL_ folds
+zeroacvity4you is all-In  [$24.35 USD]
+SudaSergio will be using their time bank for this hand.
+SudaSergio folds
+zeroacvity4you does not show cards.
+zeroacvity4you wins $30.35 USD
+Game #14698019396 starts.
+
+#Game No : 14698019396 
+***** Hand History for Game 14698019396 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:18:28 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 6: NOAH14 ( $24.97 USD )
+Seat 3: SudaSergio ( $25 USD )
+Seat 4: TilliWilli ( $30.49 USD )
+Seat 5: UseingiPad ( $25 USD )
+Seat 1: mr_SINFUL_ ( $10 USD )
+Seat 2: zeroacvity4you ( $30.35 USD )
+TilliWilli posts small blind [$0.10 USD].
+UseingiPad posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  9h Jd ]
+NOAH14 raises [$0.50 USD]
+mr_SINFUL_ folds
+zeroacvity4you folds
+SudaSergio folds
+TilliWilli folds
+UseingiPad folds
+NOAH14 does not show cards.
+NOAH14 wins $0.85 USD
+Game #14698019985 starts.
+
+#Game No : 14698019985 
+***** Hand History for Game 14698019985 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:18:47 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 6: NOAH14 ( $25.32 USD )
+Seat 3: SudaSergio ( $25 USD )
+Seat 4: TilliWilli ( $30.39 USD )
+Seat 5: UseingiPad ( $25 USD )
+Seat 1: mr_SINFUL_ ( $10 USD )
+Seat 2: zeroacvity4you ( $30.35 USD )
+UseingiPad posts small blind [$0.10 USD].
+NOAH14 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Qc 9c ]
+mr_SINFUL_ folds
+zeroacvity4you folds
+SudaSergio folds
+TilliWilli raises [$0.50 USD]
+UseingiPad folds
+NOAH14 folds
+TilliWilli does not show cards.
+TilliWilli wins $0.85 USD
+Game #14698020561 starts.
+
+#Game No : 14698020561 
+***** Hand History for Game 14698020561 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:19:04 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 6: NOAH14 ( $25.07 USD )
+Seat 3: SudaSergio ( $25 USD )
+Seat 4: TilliWilli ( $30.74 USD )
+Seat 5: UseingiPad ( $25 USD )
+Seat 1: mr_SINFUL_ ( $10 USD )
+Seat 2: zeroacvity4you ( $30.35 USD )
+NOAH14 posts small blind [$0.10 USD].
+mr_SINFUL_ posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8c Td ]
+zeroacvity4you raises [$0.75 USD]
+SudaSergio folds
+TilliWilli folds
+UseingiPad raises [$2.50 USD]
+NOAH14 folds
+mr_SINFUL_ folds
+zeroacvity4you raises [$4.75 USD]
+UseingiPad folds
+zeroacvity4you does not show cards.
+zeroacvity4you wins $8.35 USD
+Game #14698022284 starts.
+
+#Game No : 14698022284 
+***** Hand History for Game 14698022284 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:19:55 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 6: NOAH14 ( $24.97 USD )
+Seat 3: SudaSergio ( $25 USD )
+Seat 4: TilliWilli ( $30.74 USD )
+Seat 5: UseingiPad ( $25 USD )
+Seat 1: mr_SINFUL_ ( $9.75 USD )
+Seat 2: zeroacvity4you ( $33.20 USD )
+mr_SINFUL_ posts small blind [$0.10 USD].
+zeroacvity4you posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  6s 3c ]
+SudaSergio folds
+TilliWilli folds
+UseingiPad folds
+NOAH14 folds
+mr_SINFUL_ folds
+zeroacvity4you does not show cards.
+zeroacvity4you wins $0.35 USD
+Game #14698022746 starts.
+
+#Game No : 14698022746 
+***** Hand History for Game 14698022746 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:20:09 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 6: NOAH14 ( $24.97 USD )
+Seat 3: SudaSergio ( $25 USD )
+Seat 4: TilliWilli ( $30.74 USD )
+Seat 5: UseingiPad ( $25 USD )
+Seat 1: mr_SINFUL_ ( $9.65 USD )
+Seat 2: zeroacvity4you ( $33.30 USD )
+zeroacvity4you posts small blind [$0.10 USD].
+SudaSergio posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8d Qd ]
+TilliWilli raises [$0.50 USD]
+UseingiPad folds
+NOAH14 folds
+mr_SINFUL_ folds
+zeroacvity4you folds
+SudaSergio calls [$0.25 USD]
+** Dealing Flop ** [ Ah, 8h, Ts ]
+SudaSergio checks
+TilliWilli checks
+** Dealing Turn ** [ 9c ]
+SudaSergio bets [$0.52 USD]
+TilliWilli calls [$0.52 USD]
+** Dealing River ** [ 8c ]
+SudaSergio checks
+TilliWilli bets [$1 USD]
+SudaSergio calls [$1 USD]
+TilliWilli shows [ 8d, Qd ]three of a kind, Eights.
+SudaSergio doesn't show [ Ac, Js ]two pairs, Aces and Eights.
+TilliWilli wins $3.94 USD from the main pot with three of a kind, Eights.
+Game #14698024959 starts.
+
+#Game No : 14698024959 
+***** Hand History for Game 14698024959 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:21:01 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 6: NOAH14 ( $24.97 USD )
+Seat 3: SudaSergio ( $25 USD )
+Seat 4: TilliWilli ( $32.66 USD )
+Seat 5: UseingiPad ( $25 USD )
+Seat 1: mr_SINFUL_ ( $9.65 USD )
+Seat 2: zeroacvity4you ( $33.20 USD )
+SudaSergio posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Kd Td ]
+UseingiPad folds
+NOAH14 has been reconnected and has 14 seconds to act.
+NOAH14 folds
+mr_SINFUL_ raises [$0.75 USD]
+zeroacvity4you folds
+SudaSergio folds
+TilliWilli calls [$0.50 USD]
+** Dealing Flop ** [ Qd, 8s, Js ]
+TilliWilli bets [$0.25 USD]
+mr_SINFUL_ raises [$1.13 USD]
+TilliWilli calls [$0.88 USD]
+** Dealing Turn ** [ 3c ]
+TilliWilli checks
+mr_SINFUL_ checks
+** Dealing River ** [ 5s ]
+TilliWilli bets [$1.50 USD]
+mr_SINFUL_ folds
+TilliWilli does not show cards.
+TilliWilli wins $5.17 USD
+Game #14698028990 starts.
+
+#Game No : 14698028990 
+***** Hand History for Game 14698028990 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:22:32 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 6: NOAH14 ( $24.97 USD )
+Seat 3: SudaSergio ( $25 USD )
+Seat 4: TilliWilli ( $34.45 USD )
+Seat 5: UseingiPad ( $25 USD )
+Seat 1: mr_SINFUL_ ( $10 USD )
+Seat 2: zeroacvity4you ( $33.20 USD )
+TilliWilli posts small blind [$0.10 USD].
+UseingiPad posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4s As ]
+NOAH14 folds
+mr_SINFUL_ raises [$0.75 USD]
+zeroacvity4you calls [$0.75 USD]
+SudaSergio folds
+TilliWilli folds
+UseingiPad folds
+** Dealing Flop ** [ 8h, Jc, Qs ]
+mr_SINFUL_ bets [$1.25 USD]
+zeroacvity4you calls [$1.25 USD]
+** Dealing Turn ** [ Ah ]
+mr_SINFUL_ checks
+zeroacvity4you checks
+** Dealing River ** [ Tc ]
+mr_SINFUL_ checks
+zeroacvity4you bets [$3.10 USD]
+mr_SINFUL_ folds
+zeroacvity4you does not show cards.
+zeroacvity4you wins $7.24 USD
+Game #14698031234 starts.
+
+#Game No : 14698031234 
+***** Hand History for Game 14698031234 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:23:40 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 6: NOAH14 ( $24.97 USD )
+Seat 3: SudaSergio ( $25 USD )
+Seat 4: TilliWilli ( $34.35 USD )
+Seat 5: UseingiPad ( $25 USD )
+Seat 1: mr_SINFUL_ ( $10 USD )
+Seat 2: zeroacvity4you ( $35.34 USD )
+UseingiPad posts small blind [$0.10 USD].
+NOAH14 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  6h 7h ]
+mr_SINFUL_ raises [$0.75 USD]
+zeroacvity4you folds
+SudaSergio folds
+TilliWilli calls [$0.75 USD]
+UseingiPad folds
+NOAH14 folds
+** Dealing Flop ** [ 5s, 5d, 4s ]
+mr_SINFUL_ checks
+TilliWilli checks
+** Dealing Turn ** [ Ah ]
+mr_SINFUL_ bets [$1.25 USD]
+Your time bank will be activated in 6 secs. If you do not want it to be used, please act now.
+TilliWilli folds
+mr_SINFUL_ does not show cards.
+mr_SINFUL_ wins $3.01 USD
+Game #14698033333 starts.
+
+#Game No : 14698033333 
+***** Hand History for Game 14698033333 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:24:29 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 6: NOAH14 ( $24.72 USD )
+Seat 3: SudaSergio ( $25 USD )
+Seat 4: TilliWilli ( $33.60 USD )
+Seat 5: UseingiPad ( $25 USD )
+Seat 1: mr_SINFUL_ ( $11.01 USD )
+Seat 2: zeroacvity4you ( $35.34 USD )
+NOAH14 posts small blind [$0.10 USD].
+mr_SINFUL_ posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Tc 3s ]
+zeroacvity4you folds
+SudaSergio raises [$0.75 USD]
+TilliWilli folds
+UseingiPad folds
+NOAH14 folds
+mr_SINFUL_ folds
+SudaSergio does not show cards.
+SudaSergio wins $1.10 USD
+Game #14698033954 starts.
+
+#Game No : 14698033954 
+***** Hand History for Game 14698033954 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:24:47 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 6: NOAH14 ( $24.62 USD )
+Seat 3: SudaSergio ( $25.35 USD )
+Seat 4: TilliWilli ( $33.60 USD )
+Seat 5: UseingiPad ( $25 USD )
+Seat 1: mr_SINFUL_ ( $10.76 USD )
+Seat 2: zeroacvity4you ( $35.34 USD )
+mr_SINFUL_ posts small blind [$0.10 USD].
+zeroacvity4you posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  7c Ts ]
+SudaSergio folds
+TilliWilli folds
+UseingiPad folds
+NOAH14 folds
+mr_SINFUL_ raises [$0.40 USD]
+zeroacvity4you raises [$1.50 USD]
+mr_SINFUL_ will be using their time bank for this hand.
+mr_SINFUL_ folds
+zeroacvity4you does not show cards.
+zeroacvity4you wins $2.25 USD
+Game #14698035217 starts.
+
+#Game No : 14698035217 
+***** Hand History for Game 14698035217 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:25:25 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 6: NOAH14 ( $24.62 USD )
+Seat 3: SudaSergio ( $25.35 USD )
+Seat 4: TilliWilli ( $33.60 USD )
+Seat 5: UseingiPad ( $25 USD )
+Seat 1: mr_SINFUL_ ( $10.26 USD )
+Seat 2: zeroacvity4you ( $35.84 USD )
+zeroacvity4you posts small blind [$0.10 USD].
+SudaSergio posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4s Qs ]
+TilliWilli raises [$0.50 USD]
+UseingiPad folds
+NOAH14 folds
+mr_SINFUL_ folds
+zeroacvity4you folds
+SudaSergio folds
+TilliWilli does not show cards.
+TilliWilli wins $0.85 USD
+Game #14698035994 starts.
+
+#Game No : 14698035994 
+***** Hand History for Game 14698035994 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:25:48 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 6: NOAH14 ( $24.62 USD )
+Seat 3: SudaSergio ( $25.10 USD )
+Seat 4: TilliWilli ( $33.95 USD )
+Seat 5: UseingiPad ( $25 USD )
+Seat 1: mr_SINFUL_ ( $10.26 USD )
+Seat 2: zeroacvity4you ( $35.74 USD )
+SudaSergio posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5d 8s ]
+UseingiPad raises [$0.75 USD]
+NOAH14 folds
+mr_SINFUL_ folds
+zeroacvity4you folds
+SudaSergio will be using their time bank for this hand.
+SudaSergio folds
+TilliWilli folds
+UseingiPad does not show cards.
+UseingiPad wins $1.10 USD
+Game #14698037317 starts.
+
+#Game No : 14698037317 
+***** Hand History for Game 14698037317 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:26:27 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 6: NOAH14 ( $24.62 USD )
+Seat 3: SudaSergio ( $25 USD )
+Seat 4: TilliWilli ( $33.70 USD )
+Seat 5: UseingiPad ( $25.35 USD )
+Seat 1: mr_SINFUL_ ( $10.26 USD )
+Seat 2: zeroacvity4you ( $35.74 USD )
+TilliWilli posts small blind [$0.10 USD].
+UseingiPad posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Js 6d ]
+NOAH14 folds
+mr_SINFUL_ folds
+zeroacvity4you folds
+SudaSergio folds
+TilliWilli calls [$0.15 USD]
+UseingiPad checks
+** Dealing Flop ** [ Qs, Kh, 7h ]
+TilliWilli bets [$0.25 USD]
+UseingiPad folds
+TilliWilli does not show cards.
+TilliWilli wins $0.73 USD
+Game #14698038416 starts.
+
+#Game No : 14698038416 
+***** Hand History for Game 14698038416 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:27:00 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 6: NOAH14 ( $24.62 USD )
+Seat 3: SudaSergio ( $25 USD )
+Seat 4: TilliWilli ( $33.93 USD )
+Seat 5: UseingiPad ( $25.10 USD )
+Seat 1: mr_SINFUL_ ( $10.26 USD )
+Seat 2: zeroacvity4you ( $35.74 USD )
+UseingiPad posts small blind [$0.10 USD].
+NOAH14 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  3d Td ]
+mr_SINFUL_ folds
+zeroacvity4you raises [$0.75 USD]
+SudaSergio folds
+TilliWilli folds
+UseingiPad folds
+NOAH14 folds
+zeroacvity4you does not show cards.
+zeroacvity4you wins $1.10 USD
+Game #14698038935 starts.
+
+#Game No : 14698038935 
+***** Hand History for Game 14698038935 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:27:15 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 6: NOAH14 ( $24.37 USD )
+Seat 3: SudaSergio ( $25 USD )
+Seat 4: TilliWilli ( $33.93 USD )
+Seat 5: UseingiPad ( $25 USD )
+Seat 1: mr_SINFUL_ ( $10.26 USD )
+Seat 2: zeroacvity4you ( $36.09 USD )
+NOAH14 posts small blind [$0.10 USD].
+mr_SINFUL_ posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  7d Qc ]
+zeroacvity4you folds
+SudaSergio folds
+TilliWilli calls [$0.25 USD]
+UseingiPad folds
+NOAH14 folds
+mr_SINFUL_ checks
+** Dealing Flop ** [ Jd, 3s, Ks ]
+mr_SINFUL_ will be using their time bank for this hand.
+mr_SINFUL_ checks
+TilliWilli bets [$0.40 USD]
+mr_SINFUL_ calls [$0.40 USD]
+** Dealing Turn ** [ As ]
+mr_SINFUL_ checks
+TilliWilli checks
+** Dealing River ** [ Ad ]
+mr_SINFUL_ checks
+TilliWilli checks
+mr_SINFUL_ shows [ Kc, 4h ]two pairs, Aces and Kings.
+TilliWilli doesn't show [ 7d, Qc ]a pair of Aces.
+mr_SINFUL_ wins $1.33 USD from the main pot with two pairs, Aces and Kings.
+Game #14698042586 starts.
+
+#Game No : 14698042586 
+***** Hand History for Game 14698042586 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:28:35 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 6: NOAH14 ( $24.27 USD )
+Seat 3: SudaSergio ( $25 USD )
+Seat 4: TilliWilli ( $33.28 USD )
+Seat 5: UseingiPad ( $25 USD )
+Seat 1: mr_SINFUL_ ( $10.94 USD )
+Seat 2: zeroacvity4you ( $36.09 USD )
+mr_SINFUL_ posts small blind [$0.10 USD].
+zeroacvity4you posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4h 7d ]
+SudaSergio folds
+TilliWilli folds
+UseingiPad folds
+NOAH14 folds
+mr_SINFUL_ folds
+zeroacvity4you does not show cards.
+zeroacvity4you wins $0.35 USD
+Game #14698043057 starts.
+
+#Game No : 14698043057 
+***** Hand History for Game 14698043057 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:28:49 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 6: NOAH14 ( $24.27 USD )
+Seat 3: SudaSergio ( $25 USD )
+Seat 4: TilliWilli ( $33.28 USD )
+Seat 5: UseingiPad ( $25 USD )
+Seat 1: mr_SINFUL_ ( $10.84 USD )
+Seat 2: zeroacvity4you ( $36.19 USD )
+zeroacvity4you posts small blind [$0.10 USD].
+SudaSergio posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  7h 5s ]
+TilliWilli folds
+UseingiPad folds
+NOAH14 folds
+mr_SINFUL_ raises [$0.50 USD]
+zeroacvity4you folds
+SudaSergio folds
+mr_SINFUL_ does not show cards.
+mr_SINFUL_ wins $0.85 USD
+Game #14698043824 starts.
+
+#Game No : 14698043824 
+***** Hand History for Game 14698043824 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:29:13 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 6: NOAH14 ( $24.27 USD )
+Seat 3: SudaSergio ( $25 USD )
+Seat 4: TilliWilli ( $33.28 USD )
+Seat 5: UseingiPad ( $25 USD )
+Seat 1: mr_SINFUL_ ( $11.19 USD )
+Seat 2: zeroacvity4you ( $36.09 USD )
+SudaSergio posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ad As ]
+UseingiPad raises [$0.75 USD]
+NOAH14 folds
+mr_SINFUL_ folds
+zeroacvity4you folds
+SudaSergio folds
+TilliWilli calls [$0.50 USD]
+** Dealing Flop ** [ 3h, 6c, Qc ]
+TilliWilli checks
+UseingiPad bets [$1.14 USD]
+TilliWilli raises [$2.28 USD]
+UseingiPad calls [$1.14 USD]
+** Dealing Turn ** [ 9s ]
+TilliWilli checks
+UseingiPad checks
+** Dealing River ** [ 6d ]
+TilliWilli bets [$5 USD]
+UseingiPad folds
+TilliWilli does not show cards.
+TilliWilli wins $10.86 USD
+Game #14698045259 starts.
+
+#Game No : 14698045259 
+***** Hand History for Game 14698045259 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:29:57 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 6: NOAH14 ( $24.27 USD )
+Seat 3: SudaSergio ( $25 USD )
+Seat 4: TilliWilli ( $36.11 USD )
+Seat 5: UseingiPad ( $25 USD )
+Seat 1: mr_SINFUL_ ( $11.19 USD )
+Seat 2: zeroacvity4you ( $36.09 USD )
+TilliWilli posts small blind [$0.10 USD].
+UseingiPad posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8h 5s ]
+NOAH14 folds
+mr_SINFUL_ folds
+zeroacvity4you folds
+SudaSergio raises [$0.75 USD]
+TilliWilli folds
+UseingiPad folds
+SudaSergio does not show cards.
+SudaSergio wins $1.10 USD
+Game #14698046342 starts.
+
+#Game No : 14698046342 
+***** Hand History for Game 14698046342 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:30:27 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 6: NOAH14 ( $24.27 USD )
+Seat 3: SudaSergio ( $25.35 USD )
+Seat 4: TilliWilli ( $36.01 USD )
+Seat 5: UseingiPad ( $25 USD )
+Seat 1: mr_SINFUL_ ( $11.19 USD )
+Seat 2: zeroacvity4you ( $36.09 USD )
+UseingiPad posts small blind [$0.10 USD].
+NOAH14 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Kc Tc ]
+mr_SINFUL_ folds
+zeroacvity4you raises [$0.75 USD]
+SudaSergio folds
+TilliWilli raises [$1.25 USD]
+UseingiPad folds
+NOAH14 folds
+zeroacvity4you raises [$3.25 USD]
+TilliWilli calls [$2.75 USD]
+** Dealing Flop ** [ 7d, 2h, 4d ]
+zeroacvity4you checks
+TilliWilli bets [$6 USD]
+zeroacvity4you folds
+TilliWilli does not show cards.
+TilliWilli wins $13.94 USD
+Game #14698048191 starts.
+
+#Game No : 14698048191 
+***** Hand History for Game 14698048191 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:31:09 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 6: NOAH14 ( $24.02 USD )
+Seat 3: SudaSergio ( $25.35 USD )
+Seat 4: TilliWilli ( $39.95 USD )
+Seat 5: UseingiPad ( $25 USD )
+Seat 1: mr_SINFUL_ ( $11.19 USD )
+Seat 2: zeroacvity4you ( $32.09 USD )
+NOAH14 posts small blind [$0.10 USD].
+mr_SINFUL_ posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  7d Qs ]
+zeroacvity4you folds
+SudaSergio folds
+TilliWilli raises [$0.50 USD]
+UseingiPad folds
+NOAH14 folds
+mr_SINFUL_ folds
+TilliWilli does not show cards.
+TilliWilli wins $0.85 USD
+Game #14698048613 starts.
+
+#Game No : 14698048613 
+***** Hand History for Game 14698048613 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:31:21 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 6: NOAH14 ( $23.92 USD )
+Seat 3: SudaSergio ( $25.35 USD )
+Seat 4: TilliWilli ( $40.30 USD )
+Seat 5: UseingiPad ( $25 USD )
+Seat 1: mr_SINFUL_ ( $10.94 USD )
+Seat 2: zeroacvity4you ( $32.09 USD )
+mr_SINFUL_ posts small blind [$0.10 USD].
+zeroacvity4you posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  5s 8h ]
+SudaSergio folds
+TilliWilli folds
+UseingiPad folds
+NOAH14 folds
+mr_SINFUL_ raises [$0.40 USD]
+zeroacvity4you folds
+mr_SINFUL_ does not show cards.
+mr_SINFUL_ wins $0.75 USD
+Game #14698049207 starts.
+
+#Game No : 14698049207 
+***** Hand History for Game 14698049207 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:31:40 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 6: NOAH14 ( $23.92 USD )
+Seat 3: SudaSergio ( $25.35 USD )
+Seat 4: TilliWilli ( $40.30 USD )
+Seat 5: UseingiPad ( $25 USD )
+Seat 1: mr_SINFUL_ ( $11.19 USD )
+Seat 2: zeroacvity4you ( $31.84 USD )
+zeroacvity4you posts small blind [$0.10 USD].
+SudaSergio posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ks 7c ]
+TilliWilli folds
+UseingiPad folds
+NOAH14 folds
+mr_SINFUL_ raises [$0.50 USD]
+zeroacvity4you raises [$1.65 USD]
+SudaSergio folds
+mr_SINFUL_ folds
+zeroacvity4you does not show cards.
+zeroacvity4you wins $2.50 USD
+Game #14698050253 starts.
+
+#Game No : 14698050253 
+***** Hand History for Game 14698050253 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:32:11 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 6: NOAH14 ( $23.92 USD )
+Seat 3: SudaSergio ( $25.10 USD )
+Seat 4: TilliWilli ( $40.30 USD )
+Seat 5: UseingiPad ( $25 USD )
+Seat 1: mr_SINFUL_ ( $10.69 USD )
+Seat 2: zeroacvity4you ( $32.59 USD )
+SudaSergio posts small blind [$0.10 USD].
+TilliWilli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Ad Kh ]
+UseingiPad raises [$0.75 USD]
+NOAH14 folds
+mr_SINFUL_ folds
+zeroacvity4you folds
+SudaSergio folds
+TilliWilli calls [$0.50 USD]
+** Dealing Flop ** [ 6c, 2s, 3c ]
+TilliWilli checks
+UseingiPad checks
+** Dealing Turn ** [ Jc ]
+TilliWilli checks
+UseingiPad bets [$1 USD]
+TilliWilli folds
+UseingiPad does not show cards.
+UseingiPad wins $2.52 USD
+Game #14698051855 starts.
+
+#Game No : 14698051855 
+***** Hand History for Game 14698051855 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:32:43 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 6: NOAH14 ( $23.92 USD )
+Seat 3: SudaSergio ( $25 USD )
+Seat 4: TilliWilli ( $39.55 USD )
+Seat 5: UseingiPad ( $25.77 USD )
+Seat 1: mr_SINFUL_ ( $10.69 USD )
+Seat 2: zeroacvity4you ( $32.59 USD )
+TilliWilli posts small blind [$0.10 USD].
+UseingiPad posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  8s 3h ]
+NOAH14 folds
+mr_SINFUL_ raises [$0.75 USD]
+zeroacvity4you calls [$0.75 USD]
+SudaSergio raises [$3 USD]
+TilliWilli folds
+UseingiPad folds
+mr_SINFUL_ folds
+zeroacvity4you folds
+SudaSergio does not show cards.
+SudaSergio wins $4.85 USD
+Game #14698053434 starts.
+
+#Game No : 14698053434 
+***** Hand History for Game 14698053434 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:33:14 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 6: NOAH14 ( $23.92 USD )
+Seat 3: SudaSergio ( $26.85 USD )
+Seat 4: TilliWilli ( $39.45 USD )
+Seat 5: UseingiPad ( $25.52 USD )
+Seat 1: mr_SINFUL_ ( $9.94 USD )
+Seat 2: zeroacvity4you ( $31.84 USD )
+UseingiPad posts small blind [$0.10 USD].
+NOAH14 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  4d Th ]
+mr_SINFUL_ folds
+zeroacvity4you folds
+SudaSergio folds
+TilliWilli folds
+UseingiPad folds
+NOAH14 does not show cards.
+NOAH14 wins $0.35 USD
+Game #14698053941 starts.
+
+#Game No : 14698053941 
+***** Hand History for Game 14698053941 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:33:29 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 6: NOAH14 ( $24.02 USD )
+Seat 3: SudaSergio ( $26.85 USD )
+Seat 4: TilliWilli ( $39.45 USD )
+Seat 5: UseingiPad ( $25.42 USD )
+Seat 1: mr_SINFUL_ ( $9.94 USD )
+Seat 2: zeroacvity4you ( $31.84 USD )
+NOAH14 posts small blind [$0.10 USD].
+mr_SINFUL_ posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  2d Td ]
+zeroacvity4you folds
+SudaSergio raises [$0.75 USD]
+TilliWilli folds
+UseingiPad folds
+NOAH14 folds
+mr_SINFUL_ folds
+SudaSergio does not show cards.
+SudaSergio wins $1.10 USD
+Game #14698054629 starts.
+
+#Game No : 14698054629 
+***** Hand History for Game 14698054629 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:33:48 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 6: NOAH14 ( $23.92 USD )
+Seat 3: SudaSergio ( $27.20 USD )
+Seat 4: TilliWilli ( $39.45 USD )
+Seat 5: UseingiPad ( $25.42 USD )
+Seat 1: mr_SINFUL_ ( $9.69 USD )
+Seat 2: zeroacvity4you ( $31.84 USD )
+mr_SINFUL_ posts small blind [$0.10 USD].
+zeroacvity4you posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  7c Kc ]
+SudaSergio folds
+TilliWilli raises [$0.50 USD]
+UseingiPad folds
+NOAH14 folds
+mr_SINFUL_ folds
+zeroacvity4you folds
+TilliWilli does not show cards.
+TilliWilli wins $0.85 USD
+Game #14698055192 starts.
+
+#Game No : 14698055192 
+***** Hand History for Game 14698055192 *****
+$0.10/$0.25 USD NL Texas Hold'em - Wednesday, July 29, 16:34:04 EDT 2015
+Table Santo Domingo (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 6: NOAH14 ( $23.92 USD )
+Seat 3: SudaSergio ( $27.20 USD )
+Seat 4: TilliWilli ( $39.80 USD )
+Seat 5: UseingiPad ( $25.42 USD )
+Seat 1: mr_SINFUL_ ( $9.59 USD )
+Seat 2: zeroacvity4you ( $31.59 USD )
+zeroacvity4you posts small blind [$0.10 USD].
+SudaSergio posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to TilliWilli [  Td Qs ]
+TilliWilli raises [$0.50 USD]
+UseingiPad folds
+NOAH14 calls [$0.50 USD]
+mr_SINFUL_ folds
+zeroacvity4you raises [$2.40 USD]
+SudaSergio folds
+TilliWilli folds
+NOAH14 folds
+zeroacvity4you does not show cards.
+zeroacvity4you wins $3.75 USD
